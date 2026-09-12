@@ -1,0 +1,3194 @@
+[
+{
+"id": "NJ0003",
+"name": "Atlantic City Free Public Library",
+"city": "Atlantic City",
+"county": "Atlantic",
+"state": "NJ"
+},
+{
+"id": "NJ0001",
+"name": "Atlantic County Library",
+"city": "Mays Landing",
+"county": "Atlantic",
+"state": "NJ"
+},
+{
+"id": "NJ0146",
+"name": "Bayonne Free Public Library",
+"city": "Bayonne",
+"county": "Hudson",
+"state": "NJ"
+},
+{
+"id": "NJ0110",
+"name": "Belleville Public Library",
+"city": "Belleville",
+"county": "Essex",
+"state": "NJ"
+},
+{
+"id": "NJ0009",
+"name": "Bergenfield Free Public Library",
+"city": "Bergenfield",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0286",
+"name": "Berkeley Heights Free Public Library",
+"city": "Berkeley Heights",
+"county": "Union",
+"state": "NJ"
+},
+{
+"id": "NJ0277",
+"name": "Bernards Township Library",
+"city": "Basking Ridge",
+"county": "Somerset",
+"state": "NJ"
+},
+{
+"id": "NJ0111",
+"name": "Bloomfield Public Library",
+"city": "Bloomfield",
+"county": "Essex",
+"state": "NJ"
+},
+{
+"id": "NJ0105",
+"name": "Bridgeton Free Public Library",
+"city": "Bridgeton",
+"county": "Cumberland",
+"state": "NJ"
+},
+{
+"id": "NJ0070",
+"name": "Burlington County Library",
+"city": "Westampton",
+"county": "Burlington",
+"state": "NJ"
+},
+{
+"id": "NJ0083",
+"name": "Camden County Library",
+"city": "Voorhees",
+"county": "Camden",
+"state": "NJ"
+},
+{
+"id": "NJ0100",
+"name": "Cape May County Library",
+"city": "Cape May Court House",
+"county": "Cape May",
+"state": "NJ"
+},
+{
+"id": "NJ0171",
+"name": "Carteret Free Public Library",
+"city": "Carteret",
+"county": "Middlesex",
+"state": "NJ"
+},
+{
+"id": "NJ0113",
+"name": "Cedar Grove Free Public Library",
+"city": "Cedar Grove",
+"county": "Essex",
+"state": "NJ"
+},
+{
+"id": "NJ0224",
+"name": "Chathams Joint Free Public Library",
+"city": "Chatham",
+"county": "Morris",
+"state": "NJ"
+},
+{
+"id": "NJ0087",
+"name": "Cherry Hill Free Public Library",
+"city": "Cherry Hill",
+"county": "Camden",
+"state": "NJ"
+},
+{
+"id": "NJ0287",
+"name": "Clark Public Library",
+"city": "Clark",
+"county": "Union",
+"state": "NJ"
+},
+{
+"id": "NJ0012",
+"name": "Cliffside Park Free Public Library",
+"city": "Cliffside Park",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0256",
+"name": "Clifton Public Library",
+"city": "Clifton",
+"county": "Passaic",
+"state": "NJ"
+},
+{
+"id": "NJ0089",
+"name": "Collingswood Free Public Library",
+"city": "Collingswood",
+"county": "Camden",
+"state": "NJ"
+},
+{
+"id": "NJ0288",
+"name": "Cranford Public Library",
+"city": "Cranford",
+"county": "Union",
+"state": "NJ"
+},
+{
+"id": "NJ0104",
+"name": "Cumberland County Library",
+"city": "Bridgeton",
+"county": "Cumberland",
+"state": "NJ"
+},
+{
+"id": "NJ0226",
+"name": "Denville Free Public Library",
+"city": "Denville",
+"county": "Morris",
+"state": "NJ"
+},
+{
+"id": "NJ0016",
+"name": "Dixon Homestead Library",
+"city": "Dumont",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0227",
+"name": "Dover Free Public Library",
+"city": "Dover",
+"county": "Morris",
+"state": "NJ"
+},
+{
+"id": "NJ0265",
+"name": "Dwight D. Eisenhower Library",
+"city": "Totowa",
+"county": "Passaic",
+"state": "NJ"
+},
+{
+"id": "NJ0174",
+"name": "East Brunswick Public Library",
+"city": "East Brunswick",
+"county": "Middlesex",
+"state": "NJ"
+},
+{
+"id": "NJ0228",
+"name": "East Hanover Township Free Public Library",
+"city": "East Hanover",
+"county": "Morris",
+"state": "NJ"
+},
+{
+"id": "NJ0114",
+"name": "East Orange Public Library",
+"city": "East Orange",
+"county": "Essex",
+"state": "NJ"
+},
+{
+"id": "NJ0017",
+"name": "East Rutherford Memorial Library",
+"city": "East Rutherford",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0203",
+"name": "Eatontown Public Library",
+"city": "Eatontown",
+"county": "Monmouth",
+"state": "NJ"
+},
+{
+"id": "NJ0018",
+"name": "Edgewater Free Public Library",
+"city": "Edgewater",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0175",
+"name": "Edison Township Free Public Library",
+"city": "Edison",
+"county": "Middlesex",
+"state": "NJ"
+},
+{
+"id": "NJ0289",
+"name": "Elizabeth Free Public Library",
+"city": "Elizabeth",
+"county": "Union",
+"state": "NJ"
+},
+{
+"id": "NJ0019",
+"name": "Elmwood Park Free Public Library",
+"city": "Elmwood Park",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0021",
+"name": "Englewood Free Public Library",
+"city": "Englewood",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0023",
+"name": "Fairview Free Public Library",
+"city": "Fairview",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0075",
+"name": "Florence Township Library",
+"city": "Roebling",
+"county": "Burlington",
+"state": "NJ"
+},
+{
+"id": "NJ0229",
+"name": "Florham Park Free Public Library",
+"city": "Florham Park",
+"county": "Morris",
+"state": "NJ"
+},
+{
+"id": "NJ0024",
+"name": "Fort Lee Free Public Library",
+"city": "Fort Lee",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0025",
+"name": "Franklin Lakes Free Public Library",
+"city": "Franklin Lakes",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0133",
+"name": "Franklin Twp Public Library/Gloucester",
+"city": "Franklinville",
+"county": "Gloucester",
+"state": "NJ"
+},
+{
+"id": "NJ0280",
+"name": "Franklin Twp Public Library/Somerset",
+"city": "Somerset",
+"county": "Somerset",
+"state": "NJ"
+},
+{
+"id": "NJ0205",
+"name": "Freehold Public Library",
+"city": "Freehold",
+"county": "Monmouth",
+"state": "NJ"
+},
+{
+"id": "NJ0026",
+"name": "Garfield Free Public Library",
+"city": "Garfield",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0027",
+"name": "Glen Rock Public Library",
+"city": "Glen Rock",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0091",
+"name": "Gloucester City Library",
+"city": "Gloucester City",
+"county": "Camden",
+"state": "NJ"
+},
+{
+"id": "NJ0130",
+"name": "Gloucester County Library",
+"city": "Mullica Hill",
+"county": "Gloucester",
+"state": "NJ"
+},
+{
+"id": "NJ0310",
+"name": "Hackettstown Free Public Library",
+"city": "Hackettstown",
+"county": "Warren",
+"state": "NJ"
+},
+{
+"id": "NJ0092",
+"name": "Haddonfield Public Library",
+"city": "Haddonfield",
+"county": "Camden",
+"state": "NJ"
+},
+{
+"id": "NJ0166",
+"name": "Hamilton Township Free Public Library",
+"city": "Hamilton",
+"county": "Mercer",
+"state": "NJ"
+},
+{
+"id": "NJ0147",
+"name": "Harrison Public Library",
+"city": "Harrison",
+"county": "Hudson",
+"state": "NJ"
+},
+{
+"id": "NJ0030",
+"name": "Hasbrouck Heights Free Public Library",
+"city": "Hasbrouck Heights",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0176",
+"name": "Highland Park Public Library",
+"city": "Highland Park",
+"county": "Middlesex",
+"state": "NJ"
+},
+{
+"id": "NJ0032",
+"name": "Hillsdale Free Public Library",
+"city": "Hillsdale",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0292",
+"name": "Hillside Free Public Library",
+"city": "Hillside",
+"county": "Union",
+"state": "NJ"
+},
+{
+"id": "NJ0148",
+"name": "Hoboken Public Library",
+"city": "Hoboken",
+"county": "Hudson",
+"state": "NJ"
+},
+{
+"id": "NJ0156",
+"name": "Hunterdon County Library",
+"city": "Flemington",
+"county": "Hunterdon",
+"state": "NJ"
+},
+{
+"id": "NJ0117",
+"name": "Irvington Public Library",
+"city": "Irvington",
+"county": "Essex",
+"state": "NJ"
+},
+{
+"id": "NJ0131",
+"name": "James H. Johnson Memorial Library",
+"city": "Deptford",
+"county": "Gloucester",
+"state": "NJ"
+},
+{
+"id": "NJ0231",
+"name": "Jefferson Township Public Library",
+"city": "Oak Ridge",
+"county": "Morris",
+"state": "NJ"
+},
+{
+"id": "NJ0149",
+"name": "Jersey City Free Public Library",
+"city": "Jersey City",
+"county": "Hudson",
+"state": "NJ"
+},
+{
+"id": "NJ0065",
+"name": "John F. Kennedy Memorial Library",
+"city": "Wallington",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0028",
+"name": "Johnson Free Public Library",
+"city": "Hackensack",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0150",
+"name": "Kearny Public Library",
+"city": "Kearny",
+"county": "Hudson",
+"state": "NJ"
+},
+{
+"id": "NJ0233",
+"name": "Lincoln Park Public Library",
+"city": "Lincoln Park",
+"county": "Morris",
+"state": "NJ"
+},
+{
+"id": "NJ0294",
+"name": "Linden Free Public Library",
+"city": "Linden",
+"county": "Union",
+"state": "NJ"
+},
+{
+"id": "NJ0259",
+"name": "Little Falls Public Library",
+"city": "Little Falls",
+"county": "Passaic",
+"state": "NJ"
+},
+{
+"id": "NJ0035",
+"name": "Little Ferry Free Public Library",
+"city": "Little Ferry",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0036",
+"name": "Lodi Memorial Library",
+"city": "Lodi",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0209",
+"name": "Long Branch Free Public Library",
+"city": "Long Branch",
+"county": "Monmouth",
+"state": "NJ"
+},
+{
+"id": "NJ0258",
+"name": "Louis Bay 2Nd Library",
+"city": "Hawthorne",
+"county": "Passaic",
+"state": "NJ"
+},
+{
+"id": "NJ0037",
+"name": "Lyndhurst Free Public Library",
+"city": "Lyndhurst",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0234",
+"name": "Madison Public Library",
+"city": "Madison",
+"county": "Morris",
+"state": "NJ"
+},
+{
+"id": "NJ0038",
+"name": "Mahwah Free Public Library",
+"city": "Mahwah Township",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0119",
+"name": "Maplewood Memorial Library",
+"city": "Maplewood",
+"county": "Essex",
+"state": "NJ"
+},
+{
+"id": "NJ0141",
+"name": "Margaret E. Heggan Free Public Library",
+"city": "Sewell",
+"county": "Gloucester",
+"state": "NJ"
+},
+{
+"id": "NJ0196",
+"name": "Matawan-Aberdeen Public Library",
+"city": "Matawan",
+"county": "Monmouth",
+"state": "NJ"
+},
+{
+"id": "NJ0022",
+"name": "Maurice M. Pine Free Public Library",
+"city": "Fair Lawn",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0039",
+"name": "Maywood Public Library",
+"city": "Maywood",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0165",
+"name": "Mercer County Library",
+"city": "Lawrenceville",
+"county": "Mercer",
+"state": "NJ"
+},
+{
+"id": "NJ0178",
+"name": "Metuchen Public Library",
+"city": "Metuchen",
+"county": "Middlesex",
+"state": "NJ"
+},
+{
+"id": "NJ0179",
+"name": "Middlesex Public Library",
+"city": "Middlesex",
+"county": "Middlesex",
+"state": "NJ"
+},
+{
+"id": "NJ0211",
+"name": "Middletown Township Public Library",
+"city": "Middletown",
+"county": "Monmouth",
+"state": "NJ"
+},
+{
+"id": "NJ0120",
+"name": "Millburn Free Public Library",
+"city": "Millburn",
+"county": "Essex",
+"state": "NJ"
+},
+{
+"id": "NJ0108",
+"name": "Millville Public Library",
+"city": "Millville",
+"county": "Cumberland",
+"state": "NJ"
+},
+{
+"id": "NJ0195",
+"name": "Monmouth County Library",
+"city": "Manalapan",
+"county": "Monmouth",
+"state": "NJ"
+},
+{
+"id": "NJ0136",
+"name": "Monroe Twp Public Library/Gloucester",
+"city": "Williamstown",
+"county": "Gloucester",
+"state": "NJ"
+},
+{
+"id": "NJ0181",
+"name": "Monroe Twp Public Library/Middlesex",
+"city": "Monroe Township",
+"county": "Middlesex",
+"state": "NJ"
+},
+{
+"id": "NJ0121",
+"name": "Montclair Public Library",
+"city": "Montclair",
+"county": "Essex",
+"state": "NJ"
+},
+{
+"id": "NJ0237",
+"name": "Montville Township Public Library",
+"city": "Montville",
+"county": "Morris",
+"state": "NJ"
+},
+{
+"id": "NJ0076",
+"name": "Moorestown Library",
+"city": "Moorestown",
+"county": "Burlington",
+"state": "NJ"
+},
+{
+"id": "NJ0221",
+"name": "Morris County Library",
+"city": "Whippany",
+"county": "Morris",
+"state": "NJ"
+},
+{
+"id": "NJ0238",
+"name": "Morristown-Morris Twp Joint Public Library",
+"city": "Morristown",
+"county": "Morris",
+"state": "NJ"
+},
+{
+"id": "NJ0078",
+"name": "Mount Laurel Library",
+"city": "Mount Laurel",
+"county": "Burlington",
+"state": "NJ"
+},
+{
+"id": "NJ0242",
+"name": "Mount Olive Public Library",
+"city": "Flanders",
+"county": "Morris",
+"state": "NJ"
+},
+{
+"id": "NJ0213",
+"name": "Neptune Township Public Library",
+"city": "Neptune",
+"county": "Monmouth",
+"state": "NJ"
+},
+{
+"id": "NJ0182",
+"name": "New Brunswick Free Public Library",
+"city": "New Brunswick",
+"county": "Middlesex",
+"state": "NJ"
+},
+{
+"id": "NJ0042",
+"name": "New Milford Public Library",
+"city": "New Milford",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0296",
+"name": "New Providence Memorial Library",
+"city": "New Providence",
+"county": "Union",
+"state": "NJ"
+},
+{
+"id": "NJ0122",
+"name": "Newark Public Library",
+"city": "Newark",
+"county": "Essex",
+"state": "NJ"
+},
+{
+"id": "NJ0043",
+"name": "North Arlington Public Library",
+"city": "North Arlington",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0151",
+"name": "North Bergen Free Public Library",
+"city": "North Bergen",
+"county": "Hudson",
+"state": "NJ"
+},
+{
+"id": "NJ0183",
+"name": "North Brunswick Free Public Library",
+"city": "North Brunswick",
+"county": "Middlesex",
+"state": "NJ"
+},
+{
+"id": "NJ0123",
+"name": "Nutley Free Public Library",
+"city": "Nutley",
+"county": "Essex",
+"state": "NJ"
+},
+{
+"id": "NJ0046",
+"name": "Oakland Public Library",
+"city": "Oakland",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0102",
+"name": "Ocean City Free Public Library",
+"city": "Ocean City",
+"county": "Cape May",
+"state": "NJ"
+},
+{
+"id": "NJ0252",
+"name": "Ocean County Library",
+"city": "Toms River",
+"county": "Ocean",
+"state": "NJ"
+},
+{
+"id": "NJ0184",
+"name": "Old Bridge Public Library",
+"city": "Old Bridge",
+"county": "Middlesex",
+"state": "NJ"
+},
+{
+"id": "NJ0049",
+"name": "Palisades Park Free Public Library",
+"city": "Palisades Park",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0050",
+"name": "Paramus Public Library",
+"city": "Paramus",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0243",
+"name": "Parsippany-Troy Hills Public Library",
+"city": "Parsippany",
+"county": "Morris",
+"state": "NJ"
+},
+{
+"id": "NJ0261",
+"name": "Passaic Public Library",
+"city": "Passaic",
+"county": "Passaic",
+"state": "NJ"
+},
+{
+"id": "NJ0262",
+"name": "Paterson Free Public Library",
+"city": "Paterson",
+"county": "Passaic",
+"state": "NJ"
+},
+{
+"id": "NJ0095",
+"name": "Pennsauken Free Public Library",
+"city": "Pennsauken",
+"county": "Camden",
+"state": "NJ"
+},
+{
+"id": "NJ0272",
+"name": "Pennsville Public Library",
+"city": "Pennsville",
+"county": "Salem",
+"state": "NJ"
+},
+{
+"id": "NJ0245",
+"name": "Pequannock Township Public Library",
+"city": "Pompton Plains",
+"county": "Morris",
+"state": "NJ"
+},
+{
+"id": "NJ0185",
+"name": "Perth Amboy Free Public Library",
+"city": "Perth Amboy",
+"county": "Middlesex",
+"state": "NJ"
+},
+{
+"id": "NJ0312",
+"name": "Phillipsburg Free Public Library",
+"city": "Phillipsburg",
+"county": "Warren",
+"state": "NJ"
+},
+{
+"id": "NJ0186",
+"name": "Piscataway Public Library",
+"city": "Piscataway",
+"county": "Middlesex",
+"state": "NJ"
+},
+{
+"id": "NJ0297",
+"name": "Plainfield Free Public Library",
+"city": "Plainfield",
+"county": "Union",
+"state": "NJ"
+},
+{
+"id": "NJ0187",
+"name": "Plainsboro Free Public Library",
+"city": "Plainsboro",
+"county": "Middlesex",
+"state": "NJ"
+},
+{
+"id": "NJ0263",
+"name": "Pompton Lakes Borough Free Public Library",
+"city": "Pompton Lakes",
+"county": "Passaic",
+"state": "NJ"
+},
+{
+"id": "NJ0169",
+"name": "Princeton Public Library",
+"city": "Princeton",
+"county": "Mercer",
+"state": "NJ"
+},
+{
+"id": "NJ0298",
+"name": "Rahway Public Library",
+"city": "Rahway",
+"county": "Union",
+"state": "NJ"
+},
+{
+"id": "NJ0052",
+"name": "Ramsey Free Public Library",
+"city": "Ramsey",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0246",
+"name": "Randolph Township Free Public Library",
+"city": "Randolph",
+"county": "Morris",
+"state": "NJ"
+},
+{
+"id": "NJ0215",
+"name": "Red Bank Public Library",
+"city": "Red Bank",
+"county": "Monmouth",
+"state": "NJ"
+},
+{
+"id": "NJ0053",
+"name": "Ridgefield Free Public Library",
+"city": "Ridgefield",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0054",
+"name": "Ridgefield Park Public Library",
+"city": "Ridgefield Park",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0055",
+"name": "Ridgewood Public Library",
+"city": "Ridgewood",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0264",
+"name": "Ringwood Public Library",
+"city": "Ringwood",
+"county": "Passaic",
+"state": "NJ"
+},
+{
+"id": "NJ0056",
+"name": "River Edge Free Public Library",
+"city": "River Edge",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0248",
+"name": "Rockaway Township Free Public Library",
+"city": "Rockaway",
+"county": "Morris",
+"state": "NJ"
+},
+{
+"id": "NJ0299",
+"name": "Roselle Free Public Library",
+"city": "Roselle",
+"county": "Union",
+"state": "NJ"
+},
+{
+"id": "NJ0300",
+"name": "Roselle Park Veteran`S Memorial Library",
+"city": "Roselle Park",
+"county": "Union",
+"state": "NJ"
+},
+{
+"id": "NJ0249",
+"name": "Roxbury Public Library",
+"city": "Succasunna",
+"county": "Morris",
+"state": "NJ"
+},
+{
+"id": "NJ0118",
+"name": "Ruth L. Rockwood Memorial Library",
+"city": "Livingston",
+"county": "Essex",
+"state": "NJ"
+},
+{
+"id": "NJ0059",
+"name": "Rutherford Free Public Library",
+"city": "Rutherford",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0060",
+"name": "Saddle Brook Free Public Library",
+"city": "Saddle Brook",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0081",
+"name": "Sally Stretch Keen Memorial Library",
+"city": "Vincentown",
+"county": "Burlington",
+"state": "NJ"
+},
+{
+"id": "NJ0188",
+"name": "Sayreville Free Public Library",
+"city": "Parlin",
+"county": "Middlesex",
+"state": "NJ"
+},
+{
+"id": "NJ0301",
+"name": "Scotch Plains Public Library",
+"city": "Scotch Plains",
+"county": "Union",
+"state": "NJ"
+},
+{
+"id": "NJ0152",
+"name": "Secaucus Free Public Library",
+"city": "Secaucus",
+"county": "Hudson",
+"state": "NJ"
+},
+{
+"id": "NJ0275",
+"name": "Somerset County Library",
+"city": "Bridgewater",
+"county": "Somerset",
+"state": "NJ"
+},
+{
+"id": "NJ0190",
+"name": "South Brunswick Public Library",
+"city": "Monmouth Junction",
+"county": "Middlesex",
+"state": "NJ"
+},
+{
+"id": "NJ0126",
+"name": "South Orange Public Library",
+"city": "South Orange",
+"county": "Essex",
+"state": "NJ"
+},
+{
+"id": "NJ0191",
+"name": "South Plainfield Free Public Library",
+"city": "South Plainfield",
+"county": "Middlesex",
+"state": "NJ"
+},
+{
+"id": "NJ0192",
+"name": "South River Public Library",
+"city": "South River",
+"county": "Middlesex",
+"state": "NJ"
+},
+{
+"id": "NJ0285",
+"name": "Sparta Public Library",
+"city": "Sparta",
+"county": "Sussex",
+"state": "NJ"
+},
+{
+"id": "NJ0302",
+"name": "Springfield Free Public Library",
+"city": "Springfield",
+"county": "Union",
+"state": "NJ"
+},
+{
+"id": "NJ0303",
+"name": "Summit Free Public Library",
+"city": "Summit",
+"county": "Union",
+"state": "NJ"
+},
+{
+"id": "NJ0284",
+"name": "Sussex County Library",
+"city": "Newton",
+"county": "Sussex",
+"state": "NJ"
+},
+{
+"id": "NJ0061",
+"name": "Teaneck Public Library",
+"city": "Teaneck",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0062",
+"name": "Tenafly Free Public Library",
+"city": "Tenafly",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0124",
+"name": "The Orange Public Library",
+"city": "Orange",
+"county": "Essex",
+"state": "NJ"
+},
+{
+"id": "NJ0218",
+"name": "Tinton Falls Public Library",
+"city": "Tinton Falls",
+"county": "Monmouth",
+"state": "NJ"
+},
+{
+"id": "NJ0170",
+"name": "Trenton Free Public Library",
+"city": "Trenton",
+"county": "Mercer",
+"state": "NJ"
+},
+{
+"id": "NJ0153",
+"name": "Union City Public Library",
+"city": "Union City",
+"county": "Hudson",
+"state": "NJ"
+},
+{
+"id": "NJ0304",
+"name": "Union Free Public Library",
+"city": "Union",
+"county": "Union",
+"state": "NJ"
+},
+{
+"id": "NJ0127",
+"name": "Verona Free Public Library",
+"city": "Verona",
+"county": "Essex",
+"state": "NJ"
+},
+{
+"id": "NJ0109",
+"name": "Vineland Public Library",
+"city": "Vineland",
+"county": "Cumberland",
+"state": "NJ"
+},
+{
+"id": "NJ0064",
+"name": "Waldwick Public Library",
+"city": "Waldwick",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0266",
+"name": "Wanaque Borough Free Public Library",
+"city": "Wanaque",
+"county": "Passaic",
+"state": "NJ"
+},
+{
+"id": "NJ0306",
+"name": "Warren County Library",
+"city": "Belvidere",
+"county": "Warren",
+"state": "NJ"
+},
+{
+"id": "NJ0250",
+"name": "Washington Twp Public Library/Morris",
+"city": "Long Valley",
+"county": "Morris",
+"state": "NJ"
+},
+{
+"id": "NJ0099",
+"name": "Waterford Township Public Library",
+"city": "Atco",
+"county": "Camden",
+"state": "NJ"
+},
+{
+"id": "NJ0267",
+"name": "Wayne Public Library",
+"city": "Wayne",
+"county": "Passaic",
+"state": "NJ"
+},
+{
+"id": "NJ0154",
+"name": "Weehawken Free Public Library",
+"city": "Weehawken",
+"county": "Hudson",
+"state": "NJ"
+},
+{
+"id": "NJ0128",
+"name": "West Caldwell Public Library",
+"city": "West Caldwell",
+"county": "Essex",
+"state": "NJ"
+},
+{
+"id": "NJ0143",
+"name": "West Deptford Free Public Library",
+"city": "West Deptford",
+"county": "Gloucester",
+"state": "NJ"
+},
+{
+"id": "NJ0268",
+"name": "West Milford Township Library",
+"city": "West Milford",
+"county": "Passaic",
+"state": "NJ"
+},
+{
+"id": "NJ0155",
+"name": "West New York Free Public Library",
+"city": "West New York",
+"county": "Hudson",
+"state": "NJ"
+},
+{
+"id": "NJ0129",
+"name": "West Orange Free Public Library",
+"city": "West Orange",
+"county": "Essex",
+"state": "NJ"
+},
+{
+"id": "NJ0305",
+"name": "Westfield Memorial Library",
+"city": "Westfield",
+"county": "Union",
+"state": "NJ"
+},
+{
+"id": "NJ0067",
+"name": "Westwood Free Public Library",
+"city": "Westwood",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0230",
+"name": "Whippanong Library/Hanover Township",
+"city": "Whippany",
+"county": "Morris",
+"state": "NJ"
+},
+{
+"id": "NJ0082",
+"name": "Willingboro Public Library",
+"city": "Willingboro",
+"county": "Burlington",
+"state": "NJ"
+},
+{
+"id": "NJ0068",
+"name": "Wood-Ridge Memorial Library",
+"city": "Wood-Ridge",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0194",
+"name": "Woodbridge Public Library",
+"city": "Woodbridge",
+"county": "Middlesex",
+"state": "NJ"
+},
+{
+"id": "NJ0069",
+"name": "Wyckoff Free Public Library",
+"city": "Wyckoff",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NM0001",
+"name": "Alamogordo Public Library",
+"city": "Alamogordo",
+"county": "Otero",
+"state": "NM"
+},
+{
+"id": "NM0002",
+"name": "Albuquerque/Bernalillo County Library System",
+"city": "Albuquerque",
+"county": "Bernalillo",
+"state": "NM"
+},
+{
+"id": "NM0003",
+"name": "Artesia Public Library",
+"city": "Artesia",
+"county": "Eddy",
+"state": "NM"
+},
+{
+"id": "NM0007",
+"name": "Carlsbad Public Library",
+"city": "Carlsbad",
+"county": "Eddy",
+"state": "NM"
+},
+{
+"id": "NM0023",
+"name": "Carnegie Public Library",
+"city": "Las Vegas",
+"county": "San Miguel",
+"state": "NM"
+},
+{
+"id": "NM0010",
+"name": "Clovis Carver Public Library",
+"city": "Clovis",
+"county": "Curry",
+"state": "NM"
+},
+{
+"id": "NM0012",
+"name": "Espanola Public Library",
+"city": "Espanola",
+"county": "Rio Arriba",
+"state": "NM"
+},
+{
+"id": "NM0014",
+"name": "Farmington Public Library",
+"city": "Farmington",
+"county": "San Juan",
+"state": "NM"
+},
+{
+"id": "NM0019",
+"name": "Hobbs Public Library",
+"city": "Hobbs",
+"county": "Lea",
+"state": "NM"
+},
+{
+"id": "NM0025",
+"name": "Los Alamos County Library System",
+"city": "Los Alamos",
+"county": "Los Alamos",
+"state": "NM"
+},
+{
+"id": "NM0026",
+"name": "Los Lunas Public Library",
+"city": "Los Lunas",
+"county": "Valencia",
+"state": "NM"
+},
+{
+"id": "NM0027",
+"name": "Lovington Public Library",
+"city": "Lovington",
+"county": "Lea",
+"state": "NM"
+},
+{
+"id": "NM0011",
+"name": "Marshall Memorial Library",
+"city": "Deming",
+"county": "Luna",
+"state": "NM"
+},
+{
+"id": "NM0016",
+"name": "Octavia Fellin Public Library",
+"city": "Gallup",
+"county": "Mckinley",
+"state": "NM"
+},
+{
+"id": "NM0028",
+"name": "Portales Public Library",
+"city": "Portales",
+"county": "Roosevelt",
+"state": "NM"
+},
+{
+"id": "NM0030",
+"name": "Rio Rancho Public Library",
+"city": "Rio Rancho",
+"county": "Sandoval",
+"state": "NM"
+},
+{
+"id": "NM0031",
+"name": "Roswell Public Library",
+"city": "Roswell",
+"county": "Chaves",
+"state": "NM"
+},
+{
+"id": "NM0033",
+"name": "Santa Fe Public Library",
+"city": "Santa Fe",
+"county": "Santa Fe",
+"state": "NM"
+},
+{
+"id": "NM0035",
+"name": "Silver City Public Library",
+"city": "Silver City",
+"county": "Grant",
+"state": "NM"
+},
+{
+"id": "NM0116",
+"name": "Sunland Park Community Library",
+"city": "Sunland Park",
+"county": "Dona Ana",
+"state": "NM"
+},
+{
+"id": "NM0022",
+"name": "Thomas Branigan Memorial Library",
+"city": "Las Cruces",
+"county": "Dona Ana",
+"state": "NM"
+},
+{
+"id": "NV0003",
+"name": "Boulder City Library District",
+"city": "Boulder City",
+"county": "Clark",
+"state": "NV"
+},
+{
+"id": "NV0019",
+"name": "Carson City Library",
+"city": "Carson City",
+"county": "Carson City",
+"state": "NV"
+},
+{
+"id": "NV0004",
+"name": "Churchill County Library",
+"city": "Fallon",
+"county": "Churchill",
+"state": "NV"
+},
+{
+"id": "NV0006",
+"name": "Douglas County Public Library",
+"city": "Minden",
+"county": "Douglas",
+"state": "NV"
+},
+{
+"id": "NV0007",
+"name": "Elko-Lander-Eureka County Library System",
+"city": "Elko",
+"county": "Elko",
+"state": "NV"
+},
+{
+"id": "NV0012",
+"name": "Henderson District Public Libraries",
+"city": "Henderson",
+"county": "Clark",
+"state": "NV"
+},
+{
+"id": "NV0013",
+"name": "Humboldt County Library",
+"city": "Winnemucca",
+"county": "Humboldt",
+"state": "NV"
+},
+{
+"id": "NV0008",
+"name": "Las Vegas-Clark County Library District",
+"city": "Las Vegas",
+"county": "Clark",
+"state": "NV"
+},
+{
+"id": "NV0015",
+"name": "Lyon County Library System",
+"city": "Yerington",
+"county": "Lyon",
+"state": "NV"
+},
+{
+"id": "NV0018",
+"name": "North Las Vegas Library District",
+"city": "North Las Vegas",
+"county": "Clark",
+"state": "NV"
+},
+{
+"id": "NV0005",
+"name": "Pahrump Community Library",
+"city": "Pahrump",
+"county": "Nye",
+"state": "NV"
+},
+{
+"id": "NV0025",
+"name": "Washoe County Library System",
+"city": "Reno",
+"county": "Washoe",
+"state": "NV"
+},
+{
+"id": "NV0026",
+"name": "White Pine County Library",
+"city": "Ely",
+"county": "White Pine",
+"state": "NV"
+},
+{
+"id": "NY0697",
+"name": "Albany Public Library",
+"city": "Albany",
+"county": "Albany",
+"state": "NY"
+},
+{
+"id": "NY0580",
+"name": "Albert Wisner Public Library",
+"city": "Warwick",
+"county": "Orange",
+"state": "NY"
+},
+{
+"id": "NY0027",
+"name": "Amherst Public Library",
+"city": "Amherst",
+"county": "Erie",
+"state": "NY"
+},
+{
+"id": "NY0643",
+"name": "Amityville Public Library",
+"city": "Amityville",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0321",
+"name": "Amsterdam Free Library",
+"city": "Amsterdam",
+"county": "Montgomery",
+"state": "NY"
+},
+{
+"id": "NY0013",
+"name": "Aurora Town Public Library",
+"city": "East Aurora",
+"county": "Erie",
+"state": "NY"
+},
+{
+"id": "NY0644",
+"name": "Babylon School District Public Library",
+"city": "Babylon",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0334",
+"name": "Baldwin Public Library",
+"city": "Baldwin",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0477",
+"name": "Baldwinsville Public Library",
+"city": "Baldwinsville",
+"county": "Onondaga",
+"state": "NY"
+},
+{
+"id": "NY0615",
+"name": "Ballston Community Public Library",
+"city": "Burnt Hills",
+"county": "Saratoga",
+"state": "NY"
+},
+{
+"id": "NY0650",
+"name": "Bay Shore-Brightwaters Public Library",
+"city": "Brightwaters",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0646",
+"name": "Bayport-Blue Point Public Library",
+"city": "Blue Point",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0232",
+"name": "Beekman Library",
+"city": "Hopewell Junction",
+"county": "Dutchess",
+"state": "NY"
+},
+{
+"id": "NY0336",
+"name": "Bellmore Memorial Library",
+"city": "Bellmore",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0702",
+"name": "Bethlehem Public Library",
+"city": "Delmar",
+"county": "Albany",
+"state": "NY"
+},
+{
+"id": "NY0337",
+"name": "Bethpage Public Library",
+"city": "Bethpage",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0223",
+"name": "Blodgett Memorial Library District Of Fishkill",
+"city": "Fishkill",
+"county": "Dutchess",
+"state": "NY"
+},
+{
+"id": "NY0009",
+"name": "Boston Free Library",
+"city": "Boston",
+"county": "Erie",
+"state": "NY"
+},
+{
+"id": "NY0648",
+"name": "Brentwood Public Library",
+"city": "Brentwood",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0248",
+"name": "Brewster Public Library",
+"city": "Brewster",
+"county": "Putnam",
+"state": "NY"
+},
+{
+"id": "NY0507",
+"name": "Brighton Memorial Library",
+"city": "Rochester",
+"county": "Monroe",
+"state": "NY"
+},
+{
+"id": "NY0651",
+"name": "Brookhaven Free Library",
+"city": "Brookhaven",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0004",
+"name": "Brooklyn Public Library",
+"city": "Brooklyn",
+"county": "Kings",
+"state": "NY"
+},
+{
+"id": "NY0164",
+"name": "Broome County Public Library",
+"city": "Binghamton",
+"county": "Broome",
+"state": "NY"
+},
+{
+"id": "NY0775",
+"name": "Brunswick Community Library",
+"city": "Troy",
+"county": "Rensselaer",
+"state": "NY"
+},
+{
+"id": "NY0377",
+"name": "Bryant Library",
+"city": "Roslyn",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0005",
+"name": "Buffalo And Erie County Public Library",
+"city": "Buffalo",
+"county": "Erie",
+"state": "NY"
+},
+{
+"id": "NY0457",
+"name": "Canton Free Library",
+"city": "Canton",
+"county": "St. Lawrence",
+"state": "NY"
+},
+{
+"id": "NY0242",
+"name": "Catskill Public Library",
+"city": "Catskill",
+"county": "Greene",
+"state": "NY"
+},
+{
+"id": "NY0655",
+"name": "Central Islip Public Library",
+"city": "Central Islip",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0731",
+"name": "Chappaqua Central Sch Dist P L",
+"city": "Chappaqua",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0010",
+"name": "Cheektowaga Public Library",
+"city": "Cheektowaga",
+"county": "Erie",
+"state": "NY"
+},
+{
+"id": "NY0794",
+"name": "Chemung County Library District",
+"city": "Elmira",
+"county": "Chemung",
+"state": "NY"
+},
+{
+"id": "NY0565",
+"name": "Chester Public Library",
+"city": "Chester",
+"county": "Orange",
+"state": "NY"
+},
+{
+"id": "NY0509",
+"name": "Chili Public Library",
+"city": "Rochester",
+"county": "Monroe",
+"state": "NY"
+},
+{
+"id": "NY0026",
+"name": "City Of Tonawanda Public Library",
+"city": "Tonawanda",
+"county": "Erie",
+"state": "NY"
+},
+{
+"id": "NY0011",
+"name": "Clarence Public Library",
+"city": "Clarence",
+"county": "Erie",
+"state": "NY"
+},
+{
+"id": "NY0616",
+"name": "Clifton Park-Halfmoon Public Library",
+"city": "Clifton Park",
+"county": "Saratoga",
+"state": "NY"
+},
+{
+"id": "NY0700",
+"name": "Cohoes Public Library",
+"city": "Cohoes",
+"county": "Albany",
+"state": "NY"
+},
+{
+"id": "NY0657",
+"name": "Commack Public Library District",
+"city": "Commack",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0481",
+"name": "Community Library Of Dewitt & Jamesville",
+"city": "Jamesville",
+"county": "Onondaga",
+"state": "NY"
+},
+{
+"id": "NY0680",
+"name": "Comsewogue Public Library",
+"city": "Port Jefferson Stati",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0647",
+"name": "Connetquot Public Library",
+"city": "Bohemia",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0658",
+"name": "Copiague Memorial Public Library",
+"city": "Copiague",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0566",
+"name": "Cornwall Public Library",
+"city": "Cornwall",
+"county": "Orange",
+"state": "NY"
+},
+{
+"id": "NY0143",
+"name": "Cortland Free Library",
+"city": "Cortland",
+"county": "Cortland",
+"state": "NY"
+},
+{
+"id": "NY0626",
+"name": "Crandall Public Library",
+"city": "Glens Falls",
+"county": "Warren",
+"state": "NY"
+},
+{
+"id": "NY0660",
+"name": "Deer Park Public Library",
+"city": "Deer Park",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0733",
+"name": "Dobbs Ferry Public Library",
+"city": "Dobbs Ferry",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0086",
+"name": "Dormann Library",
+"city": "Bath",
+"county": "Steuben",
+"state": "NY"
+},
+{
+"id": "NY0315",
+"name": "Dunham Public Library",
+"city": "Whitesboro",
+"county": "Oneida",
+"state": "NY"
+},
+{
+"id": "NY0048",
+"name": "Dunkirk Public Library",
+"city": "Dunkirk",
+"county": "Chautauqua",
+"state": "NY"
+},
+{
+"id": "NY0222",
+"name": "East Fishkill Public Library District",
+"city": "Hopewell Junction",
+"county": "Dutchess",
+"state": "NY"
+},
+{
+"id": "NY0712",
+"name": "East Greenbush Community Library",
+"city": "East Greenbush",
+"county": "Rensselaer",
+"state": "NY"
+},
+{
+"id": "NY0662",
+"name": "East Hampton Library",
+"city": "East Hampton",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0663",
+"name": "East Islip Public Library",
+"city": "East Islip",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0338",
+"name": "East Meadow Public Library",
+"city": "East Meadow",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0339",
+"name": "East Rockaway Public Library",
+"city": "East Rockaway",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0734",
+"name": "Eastchester Public Library",
+"city": "Eastchester",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0609",
+"name": "Ellenville Public Library And Museum",
+"city": "Ellenville",
+"county": "Ulster",
+"state": "NY"
+},
+{
+"id": "NY0015",
+"name": "Elma Public Library",
+"city": "Elma",
+"county": "Erie",
+"state": "NY"
+},
+{
+"id": "NY0341",
+"name": "Elmont Public Library",
+"city": "Elmont",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0263",
+"name": "Elting Memorial Library",
+"city": "New Paltz",
+"county": "Ulster",
+"state": "NY"
+},
+{
+"id": "NY0791",
+"name": "Elwood Public Library",
+"city": "Elwood",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0685",
+"name": "Emma S. Clark Memorial Library",
+"city": "Setauket",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0606",
+"name": "Ethelbert B. Crawford Public Library",
+"city": "Monticello",
+"county": "Sullivan",
+"state": "NY"
+},
+{
+"id": "NY0512",
+"name": "Fairport Public Library",
+"city": "Fairport",
+"county": "Monroe",
+"state": "NY"
+},
+{
+"id": "NY9014",
+"name": "Fallsburg Library",
+"city": "South Fallsburg",
+"county": "Sullivan",
+"state": "NY"
+},
+{
+"id": "NY0342",
+"name": "Farmingdale Public Library",
+"city": "Farmingdale",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0485",
+"name": "Fayetteville Free Library",
+"city": "Fayetteville",
+"county": "Onondaga",
+"state": "NY"
+},
+{
+"id": "NY0592",
+"name": "Finkelstein Memorial Library",
+"city": "Spring Valley",
+"county": "Rockland",
+"state": "NY"
+},
+{
+"id": "NY0343",
+"name": "Floral Park Public Library",
+"city": "Floral Park",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0344",
+"name": "Franklin Square Public Library",
+"city": "Franklin Square",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0345",
+"name": "Freeport Memorial Library",
+"city": "Freeport",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0448",
+"name": "Fulton Public Library",
+"city": "Fulton",
+"county": "Oswego",
+"state": "NY"
+},
+{
+"id": "NY0346",
+"name": "Garden City Public Library",
+"city": "Garden City",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0513",
+"name": "Gates Public Library",
+"city": "Rochester",
+"county": "Monroe",
+"state": "NY"
+},
+{
+"id": "NY0532",
+"name": "Geneva Public Library",
+"city": "Geneva",
+"county": "Ontario",
+"state": "NY"
+},
+{
+"id": "NY0166",
+"name": "George F. Johnson Memorial Library",
+"city": "Endicott",
+"county": "Broome",
+"state": "NY"
+},
+{
+"id": "NY0347",
+"name": "Glen Cove Public Library",
+"city": "Glen Cove",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0318",
+"name": "Gloversville Public Library",
+"city": "Gloversville",
+"county": "Fulton",
+"state": "NY"
+},
+{
+"id": "NY0792",
+"name": "Gold Coast Public Library District",
+"city": "Glen Head",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0568",
+"name": "Goshen Public Library And Historical Society",
+"city": "Goshen",
+"county": "Orange",
+"state": "NY"
+},
+{
+"id": "NY0017",
+"name": "Grand Island Memorial Library",
+"city": "Grand Island",
+"county": "Erie",
+"state": "NY"
+},
+{
+"id": "NY0348",
+"name": "Great Neck Library",
+"city": "Great Neck",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0230",
+"name": "Greater Poughkeepsie Library District",
+"city": "Poughkeepsie",
+"county": "Dutchess",
+"state": "NY"
+},
+{
+"id": "NY0514",
+"name": "Greece Public Library",
+"city": "Greece",
+"county": "Monroe",
+"state": "NY"
+},
+{
+"id": "NY0735",
+"name": "Greenburgh Public Library",
+"city": "Elmsford",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0239",
+"name": "Grinnell Public Library District",
+"city": "Wappingers Falls",
+"county": "Dutchess",
+"state": "NY"
+},
+{
+"id": "NY0177",
+"name": "Guernsey Memorial Library Of Norwich",
+"city": "Norwich",
+"county": "Chenango",
+"state": "NY"
+},
+{
+"id": "NY0703",
+"name": "Guilderland Public Library",
+"city": "Guilderland",
+"county": "Albany",
+"state": "NY"
+},
+{
+"id": "NY0661",
+"name": "Half Hollow Hills Community Public Library",
+"city": "Dix Hills",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0018",
+"name": "Hamburg Public Library",
+"city": "Hamburg",
+"county": "Erie",
+"state": "NY"
+},
+{
+"id": "NY0667",
+"name": "Hampton Bays Public Library",
+"city": "Hampton Bays",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0665",
+"name": "Harborfields Public Library",
+"city": "Greenlawn",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0736",
+"name": "Harrison Public Library",
+"city": "Harrison",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY9016",
+"name": "Hauppauge Public Library",
+"city": "Hauppauge",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0583",
+"name": "Haverstraw Kings Daughters Public Library",
+"city": "Garnerville",
+"county": "Rockland",
+"state": "NY"
+},
+{
+"id": "NY0349",
+"name": "Hempstead Public Library",
+"city": "Hempstead",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0742",
+"name": "Hendrick Hudson Free Library",
+"city": "Montrose",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0515",
+"name": "Henrietta Public Library",
+"city": "Rochester",
+"county": "Monroe",
+"state": "NY"
+},
+{
+"id": "NY0382",
+"name": "Henry Waldinger Memorial Library",
+"city": "Valley Stream",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0350",
+"name": "Hewlett-Woodmere Public Library",
+"city": "Hewlett",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0351",
+"name": "Hicksville Free Public Library",
+"city": "Hicksville",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0256",
+"name": "Highland Public Library",
+"city": "Highland",
+"county": "Ulster",
+"state": "NY"
+},
+{
+"id": "NY0367",
+"name": "Hillside Public Library Of New Hyde Park",
+"city": "New Hyde Park",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0407",
+"name": "Hoag Library Of The Swan Library Association",
+"city": "Albion",
+"county": "Orleans",
+"state": "NY"
+},
+{
+"id": "NY0220",
+"name": "Howland Public Library",
+"city": "Beacon",
+"county": "Dutchess",
+"state": "NY"
+},
+{
+"id": "NY0212",
+"name": "Hudson Area Association Library",
+"city": "Hudson",
+"county": "Columbia",
+"state": "NY"
+},
+{
+"id": "NY0638",
+"name": "Hudson Falls Free Library Association",
+"city": "Hudson Falls",
+"county": "Washington",
+"state": "NY"
+},
+{
+"id": "NY0201",
+"name": "Huntington Memorial Library",
+"city": "Oneonta",
+"county": "Otsego",
+"state": "NY"
+},
+{
+"id": "NY0669",
+"name": "Huntington Public Library",
+"city": "Huntington",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0224",
+"name": "Hyde Park Library District",
+"city": "Hyde Park",
+"county": "Dutchess",
+"state": "NY"
+},
+{
+"id": "NY0518",
+"name": "Irondequoit Public Library",
+"city": "Rochester",
+"county": "Monroe",
+"state": "NY"
+},
+{
+"id": "NY0353",
+"name": "Island Trees Public Library",
+"city": "Levittown",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0671",
+"name": "Islip Public Library",
+"city": "Islip",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0054",
+"name": "James Prendergast Library Association",
+"city": "Jamestown",
+"county": "Chautauqua",
+"state": "NY"
+},
+{
+"id": "NY0354",
+"name": "Jericho Public Library",
+"city": "Jericho",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0762",
+"name": "John C. Hart Memorial Library",
+"city": "Shrub Oak",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0319",
+"name": "Johnstown Public Library",
+"city": "Johnstown",
+"county": "Fulton",
+"state": "NY"
+},
+{
+"id": "NY0252",
+"name": "Kent Public Library",
+"city": "Kent Lakes",
+"county": "Putnam",
+"state": "NY"
+},
+{
+"id": "NY0258",
+"name": "Kingston Library",
+"city": "Kingston",
+"county": "Ulster",
+"state": "NY"
+},
+{
+"id": "NY0301",
+"name": "Kirkland Town Library",
+"city": "Clinton",
+"county": "Oneida",
+"state": "NY"
+},
+{
+"id": "NY0020",
+"name": "Lackawanna Public Library",
+"city": "Lackawanna",
+"county": "Erie",
+"state": "NY"
+},
+{
+"id": "NY0231",
+"name": "Lagrange Association Library",
+"city": "Lagrangeville",
+"county": "Dutchess",
+"state": "NY"
+},
+{
+"id": "NY0021",
+"name": "Lancaster Public Library",
+"city": "Lancaster",
+"county": "Erie",
+"state": "NY"
+},
+{
+"id": "NY0740",
+"name": "Larchmont Public Library",
+"city": "Larchmont",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0410",
+"name": "Lee-Whedon Memorial Library",
+"city": "Medina",
+"county": "Orleans",
+"state": "NY"
+},
+{
+"id": "NY0357",
+"name": "Levittown Public Library",
+"city": "Levittown",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0757",
+"name": "Lewisboro Library",
+"city": "South Salem",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0397",
+"name": "Lewiston Public Library",
+"city": "Lewiston",
+"county": "Niagara",
+"state": "NY"
+},
+{
+"id": "NY0604",
+"name": "Liberty Public Library",
+"city": "Liberty",
+"county": "Sullivan",
+"state": "NY"
+},
+{
+"id": "NY0672",
+"name": "Lindenhurst Memorial Library",
+"city": "Lindenhurst",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0488",
+"name": "Liverpool Public Library",
+"city": "Liverpool",
+"county": "Onondaga",
+"state": "NY"
+},
+{
+"id": "NY0398",
+"name": "Lockport Public Library",
+"city": "Lockport",
+"county": "Niagara",
+"state": "NY"
+},
+{
+"id": "NY0359",
+"name": "Long Beach Public Library",
+"city": "Long Beach",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0674",
+"name": "Longwood Public Library",
+"city": "Middle Island",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0360",
+"name": "Lynbrook Public Library",
+"city": "Lynbrook",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0781",
+"name": "Mahopac Public Library",
+"city": "Mahopac",
+"county": "Putnam",
+"state": "NY"
+},
+{
+"id": "NY0599",
+"name": "Mamakating Library",
+"city": "Wurtsboro",
+"county": "Sullivan",
+"state": "NY"
+},
+{
+"id": "NY0741",
+"name": "Mamaroneck Public Library District",
+"city": "Mamaroneck",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0362",
+"name": "Manhasset Public Library",
+"city": "Manhasset",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0489",
+"name": "Manlius Library",
+"city": "Manlius",
+"county": "Onondaga",
+"state": "NY"
+},
+{
+"id": "NY0260",
+"name": "Marlboro Free Library",
+"city": "Marlboro",
+"county": "Ulster",
+"state": "NY"
+},
+{
+"id": "NY0363",
+"name": "Massapequa Public Library",
+"city": "Massapequa Park",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0467",
+"name": "Massena Public Library",
+"city": "Massena",
+"county": "St. Lawrence",
+"state": "NY"
+},
+{
+"id": "NY0687",
+"name": "Mastics-Moriches-Shirley Community Lib",
+"city": "Shirley",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0479",
+"name": "Maxwell Memorial Library",
+"city": "Camillus",
+"county": "Onondaga",
+"state": "NY"
+},
+{
+"id": "NY0618",
+"name": "Mechanicville District Public Library",
+"city": "Mechanicville",
+"county": "Saratoga",
+"state": "NY"
+},
+{
+"id": "NY0364",
+"name": "Merrick Library",
+"city": "Merrick",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0654",
+"name": "Middle Country Public Library",
+"city": "Centereach",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0365",
+"name": "Mineola Memorial Library",
+"city": "Mineola",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0581",
+"name": "Moffat Library Of Washingtonville",
+"city": "Washingtonville",
+"county": "Orange",
+"state": "NY"
+},
+{
+"id": "NY0573",
+"name": "Monroe Free Library",
+"city": "Monroe",
+"county": "Orange",
+"state": "NY"
+},
+{
+"id": "NY0743",
+"name": "Mount Kisco Public Library",
+"city": "Mount Kisco",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0750",
+"name": "Mount Pleasant Public Library",
+"city": "Pleasantville",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0584",
+"name": "Nanuet Public Library",
+"city": "Nanuet",
+"county": "Rockland",
+"state": "NY"
+},
+{
+"id": "NY0585",
+"name": "New City Free Library",
+"city": "New City",
+"county": "Rockland",
+"state": "NY"
+},
+{
+"id": "NY0303",
+"name": "New Hartford Public Library",
+"city": "New Hartford",
+"county": "Oneida",
+"state": "NY"
+},
+{
+"id": "NY0745",
+"name": "New Rochelle Public Library",
+"city": "New Rochelle",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0778",
+"name": "New York Public Library, The Branch Libraries",
+"city": "New York",
+"county": "New York",
+"state": "NY"
+},
+{
+"id": "NY0543",
+"name": "Newark Public Library",
+"city": "Newark",
+"county": "Wayne",
+"state": "NY"
+},
+{
+"id": "NY0575",
+"name": "Newburgh Free Library",
+"city": "Newburgh",
+"county": "Orange",
+"state": "NY"
+},
+{
+"id": "NY0400",
+"name": "Newfane Public Library",
+"city": "Newfane",
+"county": "Niagara",
+"state": "NY"
+},
+{
+"id": "NY0401",
+"name": "Niagara Falls Public Library",
+"city": "Niagara Falls",
+"county": "Niagara",
+"state": "NY"
+},
+{
+"id": "NY0676",
+"name": "North Babylon Public Library",
+"city": "North Babylon",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0368",
+"name": "North Bellmore Public Library",
+"city": "North Bellmore",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0726",
+"name": "North Castle Public Library",
+"city": "Armonk",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0723",
+"name": "North Greenbush Public Library",
+"city": "Wynantskill",
+"county": "Rensselaer",
+"state": "NY"
+},
+{
+"id": "NY0369",
+"name": "North Merrick Public Library",
+"city": "North Merrick",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0688",
+"name": "North Shore Public Library District",
+"city": "Shoreham",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0402",
+"name": "North Tonawanda Public Library",
+"city": "North Tonawanda",
+"county": "Niagara",
+"state": "NY"
+},
+{
+"id": "NY0784",
+"name": "Northern Onondaga Public Library",
+"city": "Cicero",
+"county": "Onondaga",
+"state": "NY"
+},
+{
+"id": "NY0677",
+"name": "Northport Public Library",
+"city": "Northport",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0586",
+"name": "Nyack Library",
+"city": "Nyack",
+"county": "Rockland",
+"state": "NY"
+},
+{
+"id": "NY0370",
+"name": "Oceanside Library",
+"city": "Oceanside",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0524",
+"name": "Ogden Farmers` Library",
+"city": "Spencerport",
+"county": "Monroe",
+"state": "NY"
+},
+{
+"id": "NY0471",
+"name": "Ogdensburg Public Library",
+"city": "Ogdensburg",
+"county": "St. Lawrence",
+"state": "NY"
+},
+{
+"id": "NY0037",
+"name": "Olean Public Library",
+"city": "Olean",
+"county": "Cattaraugus",
+"state": "NY"
+},
+{
+"id": "NY0295",
+"name": "Oneida Public Library",
+"city": "Oneida",
+"county": "Madison",
+"state": "NY"
+},
+{
+"id": "NY0476",
+"name": "Onondaga County Public Library",
+"city": "Syracuse",
+"county": "Onondaga",
+"state": "NY"
+},
+{
+"id": "NY0494",
+"name": "Onondaga Free Library",
+"city": "Syracuse",
+"county": "Onondaga",
+"state": "NY"
+},
+{
+"id": "NY0544",
+"name": "Ontario Public Library",
+"city": "Ontario",
+"county": "Wayne",
+"state": "NY"
+},
+{
+"id": "NY0024",
+"name": "Orchard Park Public Library",
+"city": "Orchard Park",
+"county": "Erie",
+"state": "NY"
+},
+{
+"id": "NY0747",
+"name": "Ossining Public Library",
+"city": "Ossining",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0452",
+"name": "Oswego School District Public Library",
+"city": "Oswego",
+"county": "Oswego",
+"state": "NY"
+},
+{
+"id": "NY0371",
+"name": "Oyster Bay-East Norwich Public Library",
+"city": "Oyster Bay",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0516",
+"name": "Parma Public Library",
+"city": "Hilton",
+"county": "Monroe",
+"state": "NY"
+},
+{
+"id": "NY0678",
+"name": "Patchogue-Medford Library",
+"city": "Patchogue",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0254",
+"name": "Patterson Library",
+"city": "Patterson",
+"county": "Putnam",
+"state": "NY"
+},
+{
+"id": "NY0589",
+"name": "Pearl River Public Library",
+"city": "Pearl River",
+"county": "Rockland",
+"state": "NY"
+},
+{
+"id": "NY0519",
+"name": "Penfield Public Library",
+"city": "Penfield",
+"county": "Monroe",
+"state": "NY"
+},
+{
+"id": "NY0356",
+"name": "Peninsula Public Library",
+"city": "Lawrence",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0099",
+"name": "Penn Yan Public Library",
+"city": "Penn Yan",
+"county": "Yates",
+"state": "NY"
+},
+{
+"id": "NY0144",
+"name": "Phillips Free Library",
+"city": "Homer",
+"county": "Cortland",
+"state": "NY"
+},
+{
+"id": "NY0576",
+"name": "Pine Bush Area Public Library District",
+"city": "Pine Bush",
+"county": "Orange",
+"state": "NY"
+},
+{
+"id": "NY0520",
+"name": "Pittsford Community Library",
+"city": "Pittsford",
+"county": "Monroe",
+"state": "NY"
+},
+{
+"id": "NY0372",
+"name": "Plainedge Public Library",
+"city": "North Massapequa",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0373",
+"name": "Plainview-Old Bethpage Public Library",
+"city": "Plainview",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0109",
+"name": "Plattsburgh Public Library",
+"city": "Plattsburgh",
+"county": "Clinton",
+"state": "NY"
+},
+{
+"id": "NY0751",
+"name": "Port Chester-Rye Brook Public Library",
+"city": "Port Chester",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0577",
+"name": "Port Jervis Free Library",
+"city": "Port Jervis",
+"county": "Orange",
+"state": "NY"
+},
+{
+"id": "NY0374",
+"name": "Port Washington Public Library",
+"city": "Port Washington",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0472",
+"name": "Potsdam Public Library",
+"city": "Potsdam",
+"county": "St. Lawrence",
+"state": "NY"
+},
+{
+"id": "NY0255",
+"name": "Putnam Valley Free Library",
+"city": "Putnam Valley",
+"county": "Putnam",
+"state": "NY"
+},
+{
+"id": "NY0562",
+"name": "Queens Borough Public Library",
+"city": "Jamaica",
+"county": "Queens",
+"state": "NY"
+},
+{
+"id": "NY0705",
+"name": "Rcs Community Library",
+"city": "Ravena",
+"county": "Albany",
+"state": "NY"
+},
+{
+"id": "NY0390",
+"name": "Richmond Memorial Library",
+"city": "Batavia",
+"county": "Genesee",
+"state": "NY"
+},
+{
+"id": "NY0682",
+"name": "Riverhead Free Library",
+"city": "Riverhead",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0521",
+"name": "Rochester Public Library",
+"city": "Rochester",
+"county": "Monroe",
+"state": "NY"
+},
+{
+"id": "NY0375",
+"name": "Rockville Centre Public Library",
+"city": "Rockville Centre",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0690",
+"name": "Rogers Memorial Library",
+"city": "Southampton",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0376",
+"name": "Roosevelt Public Library",
+"city": "Roosevelt",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0593",
+"name": "Rose Memorial Library Association",
+"city": "Stony Point",
+"county": "Rockland",
+"state": "NY"
+},
+{
+"id": "NY0436",
+"name": "Roswell P. Flower Memorial Library",
+"city": "Watertown",
+"county": "Jefferson",
+"state": "NY"
+},
+{
+"id": "NY0754",
+"name": "Rye Free Reading Room",
+"city": "Rye",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0668",
+"name": "Sachem Public Library",
+"city": "Holbrook",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0491",
+"name": "Salina Free Library",
+"city": "Mattydale",
+"county": "Onondaga",
+"state": "NY"
+},
+{
+"id": "NY0131",
+"name": "Saranac Lake Free Library",
+"city": "Saranac Lake",
+"county": "Franklin",
+"state": "NY"
+},
+{
+"id": "NY0620",
+"name": "Saratoga Springs Public Library",
+"city": "Saratoga Springs",
+"county": "Saratoga",
+"state": "NY"
+},
+{
+"id": "NY0268",
+"name": "Saugerties Public Library",
+"city": "Saugerties",
+"county": "Ulster",
+"state": "NY"
+},
+{
+"id": "NY0684",
+"name": "Sayville Library",
+"city": "Sayville",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0755",
+"name": "Scarsdale Public Library",
+"city": "Scarsdale",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0327",
+"name": "Schenectady County Public Library",
+"city": "Schenectady",
+"county": "Schenectady",
+"state": "NY"
+},
+{
+"id": "NY0621",
+"name": "Schuylerville Public Library",
+"city": "Schuylerville",
+"county": "Saratoga",
+"state": "NY"
+},
+{
+"id": "NY0379",
+"name": "Seaford Public Library",
+"city": "Seaford",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0508",
+"name": "Seymour Library",
+"city": "Brockport",
+"county": "Monroe",
+"state": "NY"
+},
+{
+"id": "NY0134",
+"name": "Seymour Public Library District",
+"city": "Auburn",
+"county": "Cayuga",
+"state": "NY"
+},
+{
+"id": "NY0333",
+"name": "Shelter Rock Public Library",
+"city": "Albertson",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0689",
+"name": "Smithtown Special Library District",
+"city": "Nesconset",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0645",
+"name": "South Country Library",
+"city": "Bellport",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0670",
+"name": "South Huntington Public Library",
+"city": "Huntington Statio",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0088",
+"name": "Southeast Steuben County Library",
+"city": "Corning",
+"county": "Steuben",
+"state": "NY"
+},
+{
+"id": "NY0554",
+"name": "Stevens Memorial Community Library",
+"city": "Attica",
+"county": "Wyoming",
+"state": "NY"
+},
+{
+"id": "NY0594",
+"name": "Suffern Free Library",
+"city": "Suffern",
+"county": "Rockland",
+"state": "NY"
+},
+{
+"id": "NY0289",
+"name": "Sullivan Free Library",
+"city": "Chittenango",
+"county": "Madison",
+"state": "NY"
+},
+{
+"id": "NY0380",
+"name": "Syosset Public Library",
+"city": "Syosset",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0328",
+"name": "The Community Library",
+"city": "Cobleskill",
+"county": "Schoharie",
+"state": "NY"
+},
+{
+"id": "NY0748",
+"name": "The Field Library",
+"city": "Peekskill",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0309",
+"name": "The Jervis Public Library Association, Inc.",
+"city": "Rome",
+"county": "Oneida",
+"state": "NY"
+},
+{
+"id": "NY0756",
+"name": "The Somers Library",
+"city": "Somers",
+"county": "Westchester",
+"state": "NY"
+}
+]

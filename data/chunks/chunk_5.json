@@ -1,0 +1,3194 @@
+[
+{
+"id": "NY0130",
+"name": "The Wead Library",
+"city": "Malone",
+"county": "Franklin",
+"state": "NY"
+},
+{
+"id": "NY0572",
+"name": "Thrall Public Library District Of Middletown And Wallkill",
+"city": "Middletown",
+"county": "Orange",
+"state": "NY"
+},
+{
+"id": "NY0160",
+"name": "Tompkins County Public Library",
+"city": "Ithaca",
+"county": "Tompkins",
+"state": "NY"
+},
+{
+"id": "NY0749",
+"name": "Town Of Pelham Public Library",
+"city": "Pelham",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0019",
+"name": "Town Of Tonawanda Public Library",
+"city": "Kenmore",
+"county": "Erie",
+"state": "NY"
+},
+{
+"id": "NY0259",
+"name": "Town Of Ulster Public Library",
+"city": "Kingston",
+"county": "Ulster",
+"state": "NY"
+},
+{
+"id": "NY0720",
+"name": "Troy Public Library",
+"city": "Troy",
+"county": "Rensselaer",
+"state": "NY"
+},
+{
+"id": "NY0381",
+"name": "Uniondale Public Library",
+"city": "Uniondale",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0311",
+"name": "Utica Public Library",
+"city": "Utica",
+"county": "Oneida",
+"state": "NY"
+},
+{
+"id": "NY0171",
+"name": "Vestal Public Library",
+"city": "Vestal",
+"county": "Broome",
+"state": "NY"
+},
+{
+"id": "NY0537",
+"name": "Victor Farmington Library",
+"city": "Victor",
+"county": "Ontario",
+"state": "NY"
+},
+{
+"id": "NY0501",
+"name": "Wadsworth Library",
+"city": "Geneseo",
+"county": "Livingston",
+"state": "NY"
+},
+{
+"id": "NY0383",
+"name": "Wantagh Public Library",
+"city": "Wantagh",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0758",
+"name": "Warner Library",
+"city": "Tarrytown",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0708",
+"name": "Watervliet Public Library",
+"city": "Watervliet",
+"county": "Albany",
+"state": "NY"
+},
+{
+"id": "NY0525",
+"name": "Webster Public Library",
+"city": "Webster",
+"county": "Monroe",
+"state": "NY"
+},
+{
+"id": "NY0692",
+"name": "West Babylon Public Library",
+"city": "West Babylon",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0384",
+"name": "West Hempstead Public Library",
+"city": "West Hempstead",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0693",
+"name": "West Islip Public Library",
+"city": "West Islip",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0028",
+"name": "West Seneca Public Library",
+"city": "West Seneca",
+"county": "Erie",
+"state": "NY"
+},
+{
+"id": "NY0385",
+"name": "Westbury Memorial Public Library",
+"city": "Westbury",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0760",
+"name": "White Plains Public Library",
+"city": "White Plains",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0701",
+"name": "William K Sanford Town Library",
+"city": "Loudonville",
+"county": "Albany",
+"state": "NY"
+},
+{
+"id": "NY0619",
+"name": "Woman'S Round Lake Improvement Society",
+"city": "Round Lake",
+"county": "Saratoga",
+"state": "NY"
+},
+{
+"id": "NY0529",
+"name": "Wood Library Association",
+"city": "Canandaigua",
+"county": "Ontario",
+"state": "NY"
+},
+{
+"id": "NY0777",
+"name": "Woodbury Public Library",
+"city": "Highland Mills",
+"county": "Orange",
+"state": "NY"
+},
+{
+"id": "NY0695",
+"name": "Wyandanch Public Library",
+"city": "Wyandanch",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0761",
+"name": "Yonkers Public Library",
+"city": "Yonkers",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0168",
+"name": "Your Home Public Library",
+"city": "Johnson City",
+"county": "Broome",
+"state": "NY"
+},
+{
+"id": "OH0129",
+"name": "Adams County Public Library",
+"city": "Peebles",
+"county": "Adams",
+"state": "OH"
+},
+{
+"id": "OH0002",
+"name": "Akron-Summit Cnty Public Library",
+"city": "Akron",
+"county": "Summit",
+"state": "OH"
+},
+{
+"id": "OH0006",
+"name": "Amherst Public Library",
+"city": "Amherst",
+"county": "Lorain",
+"state": "OH"
+},
+{
+"id": "OH0010",
+"name": "Ashland Public Library",
+"city": "Ashland",
+"county": "Ashland",
+"state": "OH"
+},
+{
+"id": "OH0012",
+"name": "Ashtabula County District Library",
+"city": "Ashtabula",
+"county": "Ashtabula",
+"state": "OH"
+},
+{
+"id": "OH0156",
+"name": "Athens County Public Libraries",
+"city": "Nelsonville",
+"county": "Athens",
+"state": "OH"
+},
+{
+"id": "OH0225",
+"name": "Auglaize County Public District Library",
+"city": "Wapakoneta",
+"county": "Auglaize",
+"state": "OH"
+},
+{
+"id": "OH0015",
+"name": "Avon Lake Public Library",
+"city": "Avon Lake",
+"county": "Lorain",
+"state": "OH"
+},
+{
+"id": "OH0016",
+"name": "Barberton Public Library",
+"city": "Barberton",
+"county": "Summit",
+"state": "OH"
+},
+{
+"id": "OH0020",
+"name": "Belle Center Free Public Library",
+"city": "Belle Center",
+"county": "Logan",
+"state": "OH"
+},
+{
+"id": "OH0022",
+"name": "Bellevue Public Library",
+"city": "Bellevue",
+"county": "Huron",
+"state": "OH"
+},
+{
+"id": "OH0133",
+"name": "Belmont County District Library",
+"city": "Martins Ferry",
+"county": "Belmont",
+"state": "OH"
+},
+{
+"id": "OH0024",
+"name": "Bexley Public Library",
+"city": "Bexley",
+"county": "Franklin",
+"state": "OH"
+},
+{
+"id": "OH0086",
+"name": "Birchard Public Library Of Sandusky County",
+"city": "Fremont",
+"county": "Sandusky",
+"state": "OH"
+},
+{
+"id": "OH0107",
+"name": "Briggs Lawrence County Public Library",
+"city": "Ironton",
+"county": "Lawrence",
+"state": "OH"
+},
+{
+"id": "OH0090",
+"name": "Brown County Public Library",
+"city": "Georgetown",
+"county": "Brown",
+"state": "OH"
+},
+{
+"id": "OH0221",
+"name": "Brumback Library",
+"city": "Van Wert",
+"county": "Van Wert",
+"state": "OH"
+},
+{
+"id": "OH0033",
+"name": "Bucyrus Public Library",
+"city": "Bucyrus",
+"county": "Crawford",
+"state": "OH"
+},
+{
+"id": "OH0038",
+"name": "Canal Fulton Public Library",
+"city": "Canal Fulton",
+"county": "Stark",
+"state": "OH"
+},
+{
+"id": "OH0227",
+"name": "Carnegie Public Library",
+"city": "Washington Ch",
+"county": "Fayette",
+"state": "OH"
+},
+{
+"id": "OH0042",
+"name": "Carroll County District Library",
+"city": "Carrollton",
+"county": "Carroll",
+"state": "OH"
+},
+{
+"id": "OH0220",
+"name": "Champaign County Library",
+"city": "Urbana",
+"county": "Champaign",
+"state": "OH"
+},
+{
+"id": "OH0048",
+"name": "Chillicothe And Ross County Public Library",
+"city": "Chillicothe",
+"county": "Ross",
+"state": "OH"
+},
+{
+"id": "OH0049",
+"name": "Cincinnati And Hamilton County Public Library",
+"city": "Cincinnati",
+"county": "Hamilton",
+"state": "OH"
+},
+{
+"id": "OH0204",
+"name": "Clark County Public Library",
+"city": "Springfield",
+"county": "Clark",
+"state": "OH"
+},
+{
+"id": "OH0068",
+"name": "Claymont School District Public Library",
+"city": "Uhrichsville",
+"county": "Tuscarawas",
+"state": "OH"
+},
+{
+"id": "OH0018",
+"name": "Clermont County Public Library",
+"city": "Milford",
+"county": "Clermont",
+"state": "OH"
+},
+{
+"id": "OH0053",
+"name": "Cleveland Heights-University Heights Pl",
+"city": "Cleveland Hts.",
+"county": "Cuyahoga",
+"state": "OH"
+},
+{
+"id": "OH0051",
+"name": "Cleveland Public Library",
+"city": "Cleveland",
+"county": "Cuyahoga",
+"state": "OH"
+},
+{
+"id": "OH0054",
+"name": "Clyde Public Library",
+"city": "Clyde",
+"county": "Sandusky",
+"state": "OH"
+},
+{
+"id": "OH0057",
+"name": "Columbus Metropolitan Library",
+"city": "Columbus",
+"county": "Franklin",
+"state": "OH"
+},
+{
+"id": "OH0210",
+"name": "Community Library",
+"city": "Sunbury",
+"county": "Delaware",
+"state": "OH"
+},
+{
+"id": "OH0058",
+"name": "Conneaut Public Library",
+"city": "Conneaut",
+"county": "Ashtabula",
+"state": "OH"
+},
+{
+"id": "OH0059",
+"name": "Coshocton County District Library",
+"city": "Coshocton",
+"county": "Coshocton",
+"state": "OH"
+},
+{
+"id": "OH0052",
+"name": "Cuyahoga County Public Library",
+"city": "Parma",
+"county": "Cuyahoga",
+"state": "OH"
+},
+{
+"id": "OH0062",
+"name": "Cuyahoga Falls Library",
+"city": "Cuyahoga Falls",
+"county": "Summit",
+"state": "OH"
+},
+{
+"id": "OH0063",
+"name": "Dayton Metro Library",
+"city": "Dayton",
+"county": "Montgomery",
+"state": "OH"
+},
+{
+"id": "OH0064",
+"name": "Defiance Public Library",
+"city": "Defiance",
+"county": "Defiance",
+"state": "OH"
+},
+{
+"id": "OH0065",
+"name": "Delaware County District Library",
+"city": "Delaware",
+"county": "Delaware",
+"state": "OH"
+},
+{
+"id": "OH0070",
+"name": "Dover Public Library",
+"city": "Dover",
+"county": "Tuscarawas",
+"state": "OH"
+},
+{
+"id": "OH0088",
+"name": "Dr. Samuel L. Bossard Memorial Library",
+"city": "Gallipolis",
+"county": "Gallia",
+"state": "OH"
+},
+{
+"id": "OH0072",
+"name": "East Cleveland Public Library",
+"city": "East Cleveland",
+"county": "Cuyahoga",
+"state": "OH"
+},
+{
+"id": "OH0224",
+"name": "Ella M. Everhard Public Library",
+"city": "Wadsworth",
+"county": "Medina",
+"state": "OH"
+},
+{
+"id": "OH0077",
+"name": "Elyria Public Library",
+"city": "Elyria",
+"county": "Lorain",
+"state": "OH"
+},
+{
+"id": "OH0078",
+"name": "Euclid Public Library",
+"city": "Euclid",
+"county": "Cuyahoga",
+"state": "OH"
+},
+{
+"id": "OH0116",
+"name": "Fairfield County District Library",
+"city": "Lancaster",
+"county": "Fairfield",
+"state": "OH"
+},
+{
+"id": "OH0081",
+"name": "Findlay Hancock Cnty Dist Public Library",
+"city": "Findlay",
+"county": "Hancock",
+"state": "OH"
+},
+{
+"id": "OH0085",
+"name": "Franklin Public Library",
+"city": "Franklin",
+"county": "Warren",
+"state": "OH"
+},
+{
+"id": "OH0087",
+"name": "Galion Public Library Association",
+"city": "Galion",
+"county": "Crawford",
+"state": "OH"
+},
+{
+"id": "OH0229",
+"name": "Garnet A. Wilson Pl Of Pike Co",
+"city": "Waverly",
+"county": "Pike",
+"state": "OH"
+},
+{
+"id": "OH0046",
+"name": "Geauga County Public Library",
+"city": "Chardon",
+"county": "Geauga",
+"state": "OH"
+},
+{
+"id": "OH0091",
+"name": "Germantown Public Library",
+"city": "Germantown",
+"county": "Montgomery",
+"state": "OH"
+},
+{
+"id": "OH0092",
+"name": "Girard Free Library",
+"city": "Girard",
+"county": "Trumbull",
+"state": "OH"
+},
+{
+"id": "OH0094",
+"name": "Grafton/Midview Public Library",
+"city": "Grafton",
+"county": "Lorain",
+"state": "OH"
+},
+{
+"id": "OH0175",
+"name": "Grand Valley Public Library",
+"city": "Orwell",
+"county": "Ashtabula",
+"state": "OH"
+},
+{
+"id": "OH0096",
+"name": "Granville Public Library",
+"city": "Granville",
+"county": "Licking",
+"state": "OH"
+},
+{
+"id": "OH0247",
+"name": "Greene County Public Library",
+"city": "Xenia",
+"county": "Greene",
+"state": "OH"
+},
+{
+"id": "OH0098",
+"name": "Greenville Public Library",
+"city": "Greenville",
+"county": "Darke",
+"state": "OH"
+},
+{
+"id": "OH0037",
+"name": "Guernsey County District Public Library",
+"city": "Cambridge",
+"county": "Guernsey",
+"state": "OH"
+},
+{
+"id": "OH0076",
+"name": "Harris-Elmore Public Library",
+"city": "Elmore",
+"county": "Ottawa",
+"state": "OH"
+},
+{
+"id": "OH0137",
+"name": "Herbert Wescoat Memorial Library",
+"city": "Mcarthur",
+"county": "Vinton",
+"state": "OH"
+},
+{
+"id": "OH0101",
+"name": "Highland County District Library",
+"city": "Hillsboro",
+"county": "Highland",
+"state": "OH"
+},
+{
+"id": "OH0146",
+"name": "Holmes County District Public Library",
+"city": "Millersburg",
+"county": "Holmes",
+"state": "OH"
+},
+{
+"id": "OH0104",
+"name": "Hubbard Public Library",
+"city": "Hubbard",
+"county": "Trumbull",
+"state": "OH"
+},
+{
+"id": "OH0105",
+"name": "Hudson Library And Historical Society",
+"city": "Hudson",
+"county": "Summit",
+"state": "OH"
+},
+{
+"id": "OH0241",
+"name": "Huron County Community Library",
+"city": "Willard",
+"county": "Huron",
+"state": "OH"
+},
+{
+"id": "OH0106",
+"name": "Huron Public Library",
+"city": "Huron",
+"county": "Erie",
+"state": "OH"
+},
+{
+"id": "OH0188",
+"name": "Ida Rupp Public Library",
+"city": "Port Clinton",
+"county": "Ottawa",
+"state": "OH"
+},
+{
+"id": "OH0108",
+"name": "Jackson City Library",
+"city": "Jackson",
+"county": "Jackson",
+"state": "OH"
+},
+{
+"id": "OH0139",
+"name": "Kate Love Simpson-Morgan County Library",
+"city": "Mcconnelsville",
+"county": "Morgan",
+"state": "OH"
+},
+{
+"id": "OH0084",
+"name": "Kaubisch Memorial Public Library",
+"city": "Fostoria",
+"county": "Seneca",
+"state": "OH"
+},
+{
+"id": "OH0110",
+"name": "Kent Free Library",
+"city": "Kent",
+"county": "Portage",
+"state": "OH"
+},
+{
+"id": "OH0115",
+"name": "Lakewood Public Library",
+"city": "Lakewood",
+"county": "Cuyahoga",
+"state": "OH"
+},
+{
+"id": "OH0100",
+"name": "Lane Public Library",
+"city": "Hamilton",
+"county": "Butler",
+"state": "OH"
+},
+{
+"id": "OH0117",
+"name": "Lebanon Public Library",
+"city": "Lebanon",
+"county": "Warren",
+"state": "OH"
+},
+{
+"id": "OH0122",
+"name": "Lepper Library",
+"city": "Lisbon",
+"county": "Columbiana",
+"state": "OH"
+},
+{
+"id": "OH0163",
+"name": "Licking County Library",
+"city": "Newark",
+"county": "Licking",
+"state": "OH"
+},
+{
+"id": "OH0121",
+"name": "Lima Public Library",
+"city": "Lima",
+"county": "Allen",
+"state": "OH"
+},
+{
+"id": "OH0021",
+"name": "Logan County District Library",
+"city": "Bellefontaine",
+"county": "Logan",
+"state": "OH"
+},
+{
+"id": "OH0123",
+"name": "Logan-Hocking County District Library",
+"city": "Logan",
+"county": "Hocking",
+"state": "OH"
+},
+{
+"id": "OH0124",
+"name": "London Public Library",
+"city": "London",
+"county": "Madison",
+"state": "OH"
+},
+{
+"id": "OH0125",
+"name": "Lorain Public Library",
+"city": "Lorain",
+"county": "Lorain",
+"state": "OH"
+},
+{
+"id": "OH0127",
+"name": "Louisville Public Library",
+"city": "Louisville",
+"county": "Stark",
+"state": "OH"
+},
+{
+"id": "OH0128",
+"name": "Madison Public Library",
+"city": "Madison",
+"county": "Lake",
+"state": "OH"
+},
+{
+"id": "OH0130",
+"name": "Mansfield-Richland County Public Library",
+"city": "Mansfield",
+"county": "Richland",
+"state": "OH"
+},
+{
+"id": "OH0132",
+"name": "Marion Public Library",
+"city": "Marion",
+"county": "Marion",
+"state": "OH"
+},
+{
+"id": "OH0202",
+"name": "Marvin Memorial Library",
+"city": "Shelby",
+"county": "Richland",
+"state": "OH"
+},
+{
+"id": "OH0231",
+"name": "Mary L. Cook Public Library",
+"city": "Waynesville",
+"county": "Warren",
+"state": "OH"
+},
+{
+"id": "OH0111",
+"name": "Mary Lou Johnson-Hardin Cnty Pl",
+"city": "Kenton",
+"county": "Hardin",
+"state": "OH"
+},
+{
+"id": "OH0134",
+"name": "Marysville Public Library",
+"city": "Marysville",
+"county": "Union",
+"state": "OH"
+},
+{
+"id": "OH0135",
+"name": "Mason Public Library",
+"city": "Mason",
+"county": "Warren",
+"state": "OH"
+},
+{
+"id": "OH0136",
+"name": "Massillon Public Library",
+"city": "Massillon",
+"county": "Stark",
+"state": "OH"
+},
+{
+"id": "OH0166",
+"name": "Mckinley Memorial Library",
+"city": "Niles",
+"county": "Trumbull",
+"state": "OH"
+},
+{
+"id": "OH0141",
+"name": "Medina County District Library",
+"city": "Medina",
+"county": "Medina",
+"state": "OH"
+},
+{
+"id": "OH0187",
+"name": "Meigs County District Public Library",
+"city": "Pomeroy",
+"county": "Meigs",
+"state": "OH"
+},
+{
+"id": "OH0142",
+"name": "Mentor Public Library",
+"city": "Mentor",
+"county": "Lake",
+"state": "OH"
+},
+{
+"id": "OH0043",
+"name": "Mercer County District Public Library",
+"city": "Celina",
+"county": "Mercer",
+"state": "OH"
+},
+{
+"id": "OH0144",
+"name": "Midpointe Library System",
+"city": "Middletown",
+"county": "Butler",
+"state": "OH"
+},
+{
+"id": "OH0147",
+"name": "Minerva Public Library",
+"city": "Minerva",
+"county": "Stark",
+"state": "OH"
+},
+{
+"id": "OH0244",
+"name": "Monroe County District Library",
+"city": "Woodsfield",
+"county": "Monroe",
+"state": "OH"
+},
+{
+"id": "OH0177",
+"name": "Morley Library",
+"city": "Painesville",
+"county": "Lake",
+"state": "OH"
+},
+{
+"id": "OH0152",
+"name": "Mt Sterling Public Library",
+"city": "Mt. Sterling",
+"county": "Madison",
+"state": "OH"
+},
+{
+"id": "OH0153",
+"name": "Mt Vernon & Knox County, Public Library Of",
+"city": "Mt. Vernon",
+"county": "Knox",
+"state": "OH"
+},
+{
+"id": "OH0250",
+"name": "Muskingum County Library System",
+"city": "Zanesville",
+"county": "Muskingum",
+"state": "OH"
+},
+{
+"id": "OH0155",
+"name": "Napoleon Public Library",
+"city": "Napoleon",
+"county": "Henry",
+"state": "OH"
+},
+{
+"id": "OH0168",
+"name": "North Canton Public Library",
+"city": "North Canton",
+"county": "Stark",
+"state": "OH"
+},
+{
+"id": "OH0169",
+"name": "Norwalk Public Library",
+"city": "Norwalk",
+"county": "Huron",
+"state": "OH"
+},
+{
+"id": "OH0173",
+"name": "Oberlin Public Library",
+"city": "Oberlin",
+"county": "Lorain",
+"state": "OH"
+},
+{
+"id": "OH0174",
+"name": "Orrville Public Library",
+"city": "Orrville",
+"county": "Wayne",
+"state": "OH"
+},
+{
+"id": "OH0178",
+"name": "Pataskala Public Library",
+"city": "Pataskala",
+"county": "Licking",
+"state": "OH"
+},
+{
+"id": "OH0179",
+"name": "Paulding County Carnegie Library",
+"city": "Paulding",
+"county": "Paulding",
+"state": "OH"
+},
+{
+"id": "OH0158",
+"name": "Perry County District Library",
+"city": "New Lexington",
+"county": "Perry",
+"state": "OH"
+},
+{
+"id": "OH0050",
+"name": "Pickaway Cnty District Public Library",
+"city": "Circleville",
+"county": "Pickaway",
+"state": "OH"
+},
+{
+"id": "OH0184",
+"name": "Pickerington Public Library",
+"city": "Pickerington",
+"county": "Fairfield",
+"state": "OH"
+},
+{
+"id": "OH0185",
+"name": "Piqua Public Library",
+"city": "Piqua",
+"county": "Miami",
+"state": "OH"
+},
+{
+"id": "OH0186",
+"name": "Plain City Public Library",
+"city": "Plain City",
+"county": "Madison",
+"state": "OH"
+},
+{
+"id": "OH0089",
+"name": "Portage County District Library",
+"city": "Garrettsville",
+"county": "Portage",
+"state": "OH"
+},
+{
+"id": "OH0238",
+"name": "Porter Public Library",
+"city": "Westlake",
+"county": "Cuyahoga",
+"state": "OH"
+},
+{
+"id": "OH0189",
+"name": "Portsmouth Public Library",
+"city": "Portsmouth",
+"county": "Scioto",
+"state": "OH"
+},
+{
+"id": "OH0075",
+"name": "Preble County District Library",
+"city": "Eaton",
+"county": "Preble",
+"state": "OH"
+},
+{
+"id": "OH0035",
+"name": "Puskarich Public Library",
+"city": "Cadiz",
+"county": "Harrison",
+"state": "OH"
+},
+{
+"id": "OH0176",
+"name": "Putnam County District Library",
+"city": "Ottawa",
+"county": "Putnam",
+"state": "OH"
+},
+{
+"id": "OH0190",
+"name": "Reed Memorial Library",
+"city": "Ravenna",
+"county": "Portage",
+"state": "OH"
+},
+{
+"id": "OH0222",
+"name": "Ritter Public Library",
+"city": "Vermilion",
+"county": "Erie",
+"state": "OH"
+},
+{
+"id": "OH0195",
+"name": "Rocky River Public Library",
+"city": "Rocky River",
+"county": "Cuyahoga",
+"state": "OH"
+},
+{
+"id": "OH0005",
+"name": "Rodman Public Library",
+"city": "Alliance",
+"county": "Stark",
+"state": "OH"
+},
+{
+"id": "OH0196",
+"name": "Rossford Public Library",
+"city": "Rossford",
+"county": "Wood",
+"state": "OH"
+},
+{
+"id": "OH0198",
+"name": "Salem Public Library",
+"city": "Salem",
+"county": "Columbiana",
+"state": "OH"
+},
+{
+"id": "OH0150",
+"name": "Salem Township Public Library",
+"city": "Morrow",
+"county": "Warren",
+"state": "OH"
+},
+{
+"id": "OH0199",
+"name": "Sandusky Library",
+"city": "Sandusky",
+"county": "Erie",
+"state": "OH"
+},
+{
+"id": "OH0047",
+"name": "Selover Public Library",
+"city": "Chesterville",
+"county": "Morrow",
+"state": "OH"
+},
+{
+"id": "OH0200",
+"name": "Shaker Heights Public Library",
+"city": "Shaker Heights",
+"county": "Cuyahoga",
+"state": "OH"
+},
+{
+"id": "OH0203",
+"name": "Shelby County Libraries - Amos Memorial",
+"city": "Sidney",
+"county": "Shelby",
+"state": "OH"
+},
+{
+"id": "OH0099",
+"name": "Southwest Public Libraries",
+"city": "Grove City",
+"county": "Franklin",
+"state": "OH"
+},
+{
+"id": "OH0205",
+"name": "St. Clairsville Public Library",
+"city": "St. Clairsville",
+"county": "Belmont",
+"state": "OH"
+},
+{
+"id": "OH0206",
+"name": "St. Marys Community Public Library",
+"city": "St. Marys",
+"county": "Auglaize",
+"state": "OH"
+},
+{
+"id": "OH0039",
+"name": "Stark County District Library",
+"city": "Canton",
+"county": "Stark",
+"state": "OH"
+},
+{
+"id": "OH0208",
+"name": "Steubenville & Jefferson County, Pl Of",
+"city": "Steubenville",
+"county": "Jefferson",
+"state": "OH"
+},
+{
+"id": "OH0209",
+"name": "Stow-Munroe Falls Public Library",
+"city": "Stow",
+"county": "Summit",
+"state": "OH"
+},
+{
+"id": "OH0213",
+"name": "Tiffin-Seneca Public Library",
+"city": "Tiffin",
+"county": "Seneca",
+"state": "OH"
+},
+{
+"id": "OH0214",
+"name": "Tipp City Public Library",
+"city": "Tipp City",
+"county": "Miami",
+"state": "OH"
+},
+{
+"id": "OH0215",
+"name": "Toledo-Lucas County Public Library",
+"city": "Toledo",
+"county": "Lucas",
+"state": "OH"
+},
+{
+"id": "OH0216",
+"name": "Troy-Miami County Public Library",
+"city": "Troy",
+"county": "Miami",
+"state": "OH"
+},
+{
+"id": "OH0161",
+"name": "Tuscarawas County Public Library",
+"city": "New Philadelphia",
+"county": "Tuscarawas",
+"state": "OH"
+},
+{
+"id": "OH0217",
+"name": "Twinsburg Public Library",
+"city": "Twinsburg",
+"county": "Summit",
+"state": "OH"
+},
+{
+"id": "OH0192",
+"name": "Union Township Public Library",
+"city": "Ripley",
+"county": "Brown",
+"state": "OH"
+},
+{
+"id": "OH0218",
+"name": "Upper Arlington Public Library",
+"city": "Upper Arlington",
+"county": "Franklin",
+"state": "OH"
+},
+{
+"id": "OH0219",
+"name": "Upper Sandusky Community Library",
+"city": "Upper Sandusky",
+"county": "Wyandot",
+"state": "OH"
+},
+{
+"id": "OH0226",
+"name": "Warren-Trumbull County Public Library",
+"city": "Warren",
+"county": "Trumbull",
+"state": "OH"
+},
+{
+"id": "OH0131",
+"name": "Washington County Public Library",
+"city": "Marietta",
+"county": "Washington",
+"state": "OH"
+},
+{
+"id": "OH0045",
+"name": "Washington-Centerville Public Library",
+"city": "Centerville",
+"county": "Montgomery",
+"state": "OH"
+},
+{
+"id": "OH0228",
+"name": "Wauseon Public Library",
+"city": "Wauseon",
+"county": "Fulton",
+"state": "OH"
+},
+{
+"id": "OH0183",
+"name": "Way Public Library",
+"city": "Perrysburg",
+"county": "Wood",
+"state": "OH"
+},
+{
+"id": "OH0245",
+"name": "Wayne County Public Library",
+"city": "Wooster",
+"county": "Wayne",
+"state": "OH"
+},
+{
+"id": "OH0237",
+"name": "Westerville Public Library",
+"city": "Westerville",
+"county": "Franklin",
+"state": "OH"
+},
+{
+"id": "OH0240",
+"name": "Wickliffe Public Library",
+"city": "Wickliffe",
+"county": "Lake",
+"state": "OH"
+},
+{
+"id": "OH0032",
+"name": "Williams Co Public Library",
+"city": "Bryan",
+"county": "Williams",
+"state": "OH"
+},
+{
+"id": "OH0242",
+"name": "Willoughby-Eastlake Public Library",
+"city": "Willowick",
+"county": "Lake",
+"state": "OH"
+},
+{
+"id": "OH0243",
+"name": "Wilmington Public Library Of Clinton County",
+"city": "Wilmington",
+"county": "Clinton",
+"state": "OH"
+},
+{
+"id": "OH0029",
+"name": "Wood County District Public Library",
+"city": "Bowling Green",
+"county": "Wood",
+"state": "OH"
+},
+{
+"id": "OH0246",
+"name": "Worthington Public Library",
+"city": "Worthington",
+"county": "Franklin",
+"state": "OH"
+},
+{
+"id": "OH0248",
+"name": "Youngstown And Mahoning County, Pl Of",
+"city": "Youngstown",
+"county": "Mahoning",
+"state": "OH"
+},
+{
+"id": "OK0001",
+"name": "Ada Public Library",
+"city": "Ada",
+"county": "Pontotoc",
+"state": "OK"
+},
+{
+"id": "OK0006",
+"name": "Ardmore Public Library",
+"city": "Ardmore",
+"county": "Carter",
+"state": "OK"
+},
+{
+"id": "OK0009",
+"name": "Bartlesville Public Library",
+"city": "Bartlesville",
+"county": "Washington",
+"state": "OK"
+},
+{
+"id": "OK0021",
+"name": "Chickasha Public Library",
+"city": "Chickasha",
+"county": "Grady",
+"state": "OK"
+},
+{
+"id": "OK0112",
+"name": "Claremore - Will Rogers Library",
+"city": "Claremore",
+"county": "Rogers",
+"state": "OK"
+},
+{
+"id": "OK0025",
+"name": "Coweta Public Library",
+"city": "Coweta",
+"county": "Wagoner",
+"state": "OK"
+},
+{
+"id": "OK0031",
+"name": "Duncan Public Library",
+"city": "Duncan",
+"county": "Stephens",
+"state": "OK"
+},
+{
+"id": "OK0032",
+"name": "Durant-Donald Reynolds Community Ct & Library",
+"city": "Durant",
+"county": "Bryan",
+"state": "OK"
+},
+{
+"id": "OK0066",
+"name": "Eastern Oklahoma Library System",
+"city": "Muskogee",
+"county": "Muskogee",
+"state": "OK"
+},
+{
+"id": "OK0033",
+"name": "El Reno Carnegie Library",
+"city": "El Reno",
+"county": "Canadian",
+"state": "OK"
+},
+{
+"id": "OK0034",
+"name": "Elk City Carnegie Library",
+"city": "Elk City",
+"county": "Beckham",
+"state": "OK"
+},
+{
+"id": "OK0035",
+"name": "Enid-Public Library Of Enid And Garfield Co",
+"city": "Enid",
+"county": "Garfield",
+"state": "OK"
+},
+{
+"id": "OK0041",
+"name": "Guthrie Public Library",
+"city": "Guthrie",
+"county": "Logan",
+"state": "OK"
+},
+{
+"id": "OK0042",
+"name": "Guymon Public Library & Arts Center",
+"city": "Guymon",
+"county": "Texas",
+"state": "OK"
+},
+{
+"id": "OK0054",
+"name": "Lawton Public Library",
+"city": "Lawton",
+"county": "Comanche",
+"state": "OK"
+},
+{
+"id": "OK0057",
+"name": "Madill City-County Library",
+"city": "Madill",
+"county": "Marshall",
+"state": "OK"
+},
+{
+"id": "OK0074",
+"name": "Metropolitan Library System",
+"city": "Oklahoma City",
+"county": "Oklahoma",
+"state": "OK"
+},
+{
+"id": "OK0064",
+"name": "Miami Public Library",
+"city": "Miami",
+"county": "Ottawa",
+"state": "OK"
+},
+{
+"id": "OK0067",
+"name": "Mustang Public Library",
+"city": "Mustang",
+"county": "Canadian",
+"state": "OK"
+},
+{
+"id": "OK0075",
+"name": "Okmulgee Public Library",
+"city": "Okmulgee",
+"county": "Okmulgee",
+"state": "OK"
+},
+{
+"id": "OK0070",
+"name": "Pioneer Library System",
+"city": "Norman",
+"county": "Cleveland",
+"state": "OK"
+},
+{
+"id": "OK0081",
+"name": "Ponca City Library",
+"city": "Ponca City",
+"county": "Kay",
+"state": "OK"
+},
+{
+"id": "OK0085",
+"name": "Sapulpa - Bartlett Carnegie Public Library",
+"city": "Sapulpa",
+"county": "Creek",
+"state": "OK"
+},
+{
+"id": "OK0062",
+"name": "Southeast Oklahoma Library System",
+"city": "Mcalester",
+"county": "Pittsburg",
+"state": "OK"
+},
+{
+"id": "OK0007",
+"name": "Southern Oklahoma Library System",
+"city": "Ardmore",
+"county": "Carter",
+"state": "OK"
+},
+{
+"id": "OK0002",
+"name": "Southern Prairie Library System",
+"city": "Altus",
+"county": "Jackson",
+"state": "OK"
+},
+{
+"id": "OK0113",
+"name": "Stillwater Public Library",
+"city": "Stillwater",
+"county": "Payne",
+"state": "OK"
+},
+{
+"id": "OK0093",
+"name": "Tulsa City-County Library System",
+"city": "Tulsa",
+"county": "Tulsa",
+"state": "OK"
+},
+{
+"id": "OK0024",
+"name": "Western Plains Library System",
+"city": "Clinton",
+"county": "Custer",
+"state": "OK"
+},
+{
+"id": "OK0102",
+"name": "Woodward Public Library",
+"city": "Woodward",
+"county": "Woodward",
+"state": "OK"
+},
+{
+"id": "OK0105",
+"name": "Yukon - Mabel C. Fry Public Library",
+"city": "Yukon",
+"county": "Canadian",
+"state": "OK"
+},
+{
+"id": "OR0106",
+"name": "Albany Public Library",
+"city": "Albany",
+"county": "Linn",
+"state": "OR"
+},
+{
+"id": "OR9010",
+"name": "Aloha Community Library",
+"city": "Aloha",
+"county": "Washington",
+"state": "OR"
+},
+{
+"id": "OR0023",
+"name": "Astoria Public Library",
+"city": "Astoria",
+"county": "Clatsop",
+"state": "OR"
+},
+{
+"id": "OR0046",
+"name": "Baker County Library District",
+"city": "Baker City",
+"county": "Baker",
+"state": "OR"
+},
+{
+"id": "OR0080",
+"name": "Beaverton City Library",
+"city": "Beaverton",
+"county": "Washington",
+"state": "OR"
+},
+{
+"id": "OR0110",
+"name": "Canby Public Library",
+"city": "Canby",
+"county": "Clackamas",
+"state": "OR"
+},
+{
+"id": "OR0128",
+"name": "Cedar Mill Community Library",
+"city": "Portland",
+"county": "Washington",
+"state": "OR"
+},
+{
+"id": "OR0107",
+"name": "Chetco Community Public Library",
+"city": "Brookings",
+"county": "Curry",
+"state": "OR"
+},
+{
+"id": "OR0129",
+"name": "Clackamas County - Oak Lodge Public Library",
+"city": "Oak Grove",
+"county": "Clackamas",
+"state": "OR"
+},
+{
+"id": "OR0114",
+"name": "Coos Bay Public Library",
+"city": "Coos Bay",
+"county": "Coos",
+"state": "OR"
+},
+{
+"id": "OR0118",
+"name": "Cornelius Public Library",
+"city": "Cornelius",
+"county": "Washington",
+"state": "OR"
+},
+{
+"id": "OR0119",
+"name": "Corvallis-Benton County Public Library",
+"city": "Corvallis",
+"county": "Benton",
+"state": "OR"
+},
+{
+"id": "OR0120",
+"name": "Cottage Grove Public Library",
+"city": "Cottage Grove",
+"county": "Lane",
+"state": "OR"
+},
+{
+"id": "OR0065",
+"name": "Crook County Library",
+"city": "Prineville",
+"county": "Crook",
+"state": "OR"
+},
+{
+"id": "OR0121",
+"name": "Dallas Public Library",
+"city": "Dallas",
+"county": "Polk",
+"state": "OR"
+},
+{
+"id": "OR0091",
+"name": "Deschutes Public Library District",
+"city": "Bend",
+"county": "Deschutes",
+"state": "OR"
+},
+{
+"id": "OR0034",
+"name": "Driftwood Public Library",
+"city": "Lincoln City",
+"county": "Lincoln",
+"state": "OR"
+},
+{
+"id": "OR0004",
+"name": "Estacada Public Library",
+"city": "Estacada",
+"county": "Clackamas",
+"state": "OR"
+},
+{
+"id": "OR0005",
+"name": "Eugene Public Library",
+"city": "Eugene",
+"county": "Lane",
+"state": "OR"
+},
+{
+"id": "OR0028",
+"name": "F. Maxine And Thomas W. Cook Memorial Library",
+"city": "La Grande",
+"county": "Union",
+"state": "OR"
+},
+{
+"id": "OR0095",
+"name": "Fern Ridge Library District",
+"city": "Veneta",
+"county": "Lane",
+"state": "OR"
+},
+{
+"id": "OR0009",
+"name": "Forest Grove City Library",
+"city": "Forest Grove",
+"county": "Washington",
+"state": "OR"
+},
+{
+"id": "OR0011",
+"name": "Gladstone Public Library",
+"city": "Gladstone",
+"county": "Clackamas",
+"state": "OR"
+},
+{
+"id": "OR9008",
+"name": "Happy Valley Public Library",
+"city": "Happy Valley",
+"county": "Clackamas",
+"state": "OR"
+},
+{
+"id": "OR0018",
+"name": "Hermiston Public Library",
+"city": "Hermiston",
+"county": "Umatilla",
+"state": "OR"
+},
+{
+"id": "OR0019",
+"name": "Hillsboro Public Library",
+"city": "Hillsboro",
+"county": "Washington",
+"state": "OR"
+},
+{
+"id": "OR0144",
+"name": "Hood River County Library District",
+"city": "Hood River",
+"county": "Hood River",
+"state": "OR"
+},
+{
+"id": "OR0021",
+"name": "Independence Public Library",
+"city": "Independence",
+"county": "Polk",
+"state": "OR"
+},
+{
+"id": "OR0041",
+"name": "Jackson County Library Services",
+"city": "Medford",
+"county": "Jackson",
+"state": "OR"
+},
+{
+"id": "OR0037",
+"name": "Jefferson County Library District",
+"city": "Madras",
+"county": "Jefferson",
+"state": "OR"
+},
+{
+"id": "OR0014",
+"name": "Josephine Community Library District",
+"city": "Grants Pass",
+"county": "Josephine",
+"state": "OR"
+},
+{
+"id": "OR0027",
+"name": "Klamath County Library Service District",
+"city": "Klamath Falls",
+"county": "Klamath",
+"state": "OR"
+},
+{
+"id": "OR0029",
+"name": "Lake Oswego Public Library",
+"city": "Lake Oswego",
+"county": "Clackamas",
+"state": "OR"
+},
+{
+"id": "OR0140",
+"name": "Lane Library District",
+"city": "Creswell",
+"county": "Lane",
+"state": "OR"
+},
+{
+"id": "OR0033",
+"name": "Lebanon Public Library",
+"city": "Lebanon",
+"county": "Linn",
+"state": "OR"
+},
+{
+"id": "OR0043",
+"name": "Ledding Library",
+"city": "Milwaukie",
+"county": "Clackamas",
+"state": "OR"
+},
+{
+"id": "OR0039",
+"name": "Mcminnville Public Library",
+"city": "Mcminnville",
+"county": "Yamhill",
+"state": "OR"
+},
+{
+"id": "OR0044",
+"name": "Molalla Public Library",
+"city": "Molalla",
+"county": "Clackamas",
+"state": "OR"
+},
+{
+"id": "OR0045",
+"name": "Monmouth Public Library",
+"city": "Monmouth",
+"county": "Polk",
+"state": "OR"
+},
+{
+"id": "OR0063",
+"name": "Multnomah County Library",
+"city": "Portland",
+"county": "Multnomah",
+"state": "OR"
+},
+{
+"id": "OR0050",
+"name": "Newberg Public Library",
+"city": "Newberg",
+"county": "Yamhill",
+"state": "OR"
+},
+{
+"id": "OR0051",
+"name": "Newport Public Library",
+"city": "Newport",
+"county": "Lincoln",
+"state": "OR"
+},
+{
+"id": "OR0052",
+"name": "North Bend Public Library",
+"city": "North Bend",
+"county": "Coos",
+"state": "OR"
+},
+{
+"id": "OR0055",
+"name": "Ontario Library District",
+"city": "Ontario",
+"county": "Malheur",
+"state": "OR"
+},
+{
+"id": "OR0056",
+"name": "Oregon City Public Library",
+"city": "Oregon City",
+"county": "Clackamas",
+"state": "OR"
+},
+{
+"id": "OR0135",
+"name": "Oregon Trail Library District",
+"city": "Boardman",
+"county": "Morrow",
+"state": "OR"
+},
+{
+"id": "OR0059",
+"name": "Pendleton Public Library",
+"city": "Pendleton",
+"county": "Umatilla",
+"state": "OR"
+},
+{
+"id": "OR9014",
+"name": "Roseburg Public Library",
+"city": "Roseburg",
+"county": "Douglas",
+"state": "OR"
+},
+{
+"id": "OR0069",
+"name": "Salem Public Library",
+"city": "Salem",
+"county": "Marion",
+"state": "OR"
+},
+{
+"id": "OR0071",
+"name": "Sandy Public Library",
+"city": "Sandy",
+"county": "Clackamas",
+"state": "OR"
+},
+{
+"id": "OR0072",
+"name": "Scappoose Public Library District",
+"city": "Scappoose",
+"county": "Columbia",
+"state": "OR"
+},
+{
+"id": "OR0133",
+"name": "Sherwood Public Library",
+"city": "Sherwood",
+"county": "Washington",
+"state": "OR"
+},
+{
+"id": "OR0078",
+"name": "Silver Falls Library District",
+"city": "Silverton",
+"county": "Marion",
+"state": "OR"
+},
+{
+"id": "OR0008",
+"name": "Siuslaw Public Library District",
+"city": "Florence",
+"county": "Lane",
+"state": "OR"
+},
+{
+"id": "OR0079",
+"name": "Springfield Public Library",
+"city": "Springfield",
+"county": "Lane",
+"state": "OR"
+},
+{
+"id": "OR0081",
+"name": "St. Helens Public Library",
+"city": "St. Helens",
+"county": "Columbia",
+"state": "OR"
+},
+{
+"id": "OR0085",
+"name": "The Dalles-Wasco County Library",
+"city": "The Dalles",
+"county": "Wasco",
+"state": "OR"
+},
+{
+"id": "OR0086",
+"name": "Tigard Public Library",
+"city": "Tigard",
+"county": "Washington",
+"state": "OR"
+},
+{
+"id": "OR0087",
+"name": "Tillamook County Library",
+"city": "Tillamook",
+"county": "Tillamook",
+"state": "OR"
+},
+{
+"id": "OR0090",
+"name": "Tualatin Public Library",
+"city": "Tualatin",
+"county": "Washington",
+"state": "OR"
+},
+{
+"id": "OR0092",
+"name": "Umatilla Public Library",
+"city": "Umatilla",
+"county": "Umatilla",
+"state": "OR"
+},
+{
+"id": "OR0099",
+"name": "West Linn Public Library",
+"city": "West Linn",
+"county": "Clackamas",
+"state": "OR"
+},
+{
+"id": "OR9018",
+"name": "West Slope Community Library",
+"city": "Portland",
+"county": "Washington",
+"state": "OR"
+},
+{
+"id": "OR0103",
+"name": "Wilsonville Public Library",
+"city": "Wilsonville",
+"county": "Clackamas",
+"state": "OR"
+},
+{
+"id": "OR0104",
+"name": "Woodburn Public Library",
+"city": "Woodburn",
+"county": "Marion",
+"state": "OR"
+},
+{
+"id": "PA0272",
+"name": "Abington Community Library",
+"city": "Clarks Summit",
+"county": "Lackawanna",
+"state": "PA"
+},
+{
+"id": "PA0318",
+"name": "Abington Twp Public Library",
+"city": "Abington",
+"county": "Montgomery",
+"state": "PA"
+},
+{
+"id": "PA0108",
+"name": "Adams Memorial Library",
+"city": "Latrobe",
+"county": "Westmoreland",
+"state": "PA"
+},
+{
+"id": "PA0176",
+"name": "Adams Sys Admin Unit",
+"city": "Gettysburg",
+"county": "Adams",
+"state": "PA"
+},
+{
+"id": "PA0524",
+"name": "Adamstown Area Library",
+"city": "Adamstown",
+"county": "Lancaster",
+"state": "PA"
+},
+{
+"id": "PA0178",
+"name": "Alexander Hamilton Memorial Free Library",
+"city": "Waynesboro",
+"county": "Franklin",
+"state": "PA"
+},
+{
+"id": "PA0301",
+"name": "Allentown Public Library",
+"city": "Allentown",
+"county": "Lehigh",
+"state": "PA"
+},
+{
+"id": "PA0518",
+"name": "Altoona Area Public Library",
+"city": "Altoona",
+"county": "Blair",
+"state": "PA"
+},
+{
+"id": "PA0217",
+"name": "Amelia S Givin Library",
+"city": "Mt Holly Springs",
+"county": "Cumberland",
+"state": "PA"
+},
+{
+"id": "PA0169",
+"name": "Annie Halenbake Ross Library",
+"city": "Lock Haven",
+"county": "Clinton",
+"state": "PA"
+},
+{
+"id": "PA0196",
+"name": "Annville Free Library",
+"city": "Annville",
+"county": "Lebanon",
+"state": "PA"
+},
+{
+"id": "PA0359",
+"name": "Aston Public Library",
+"city": "Aston",
+"county": "Delaware",
+"state": "PA"
+},
+{
+"id": "PA0357",
+"name": "Avon Grove Library",
+"city": "West Grove",
+"county": "Chester",
+"state": "PA"
+},
+{
+"id": "PA0453",
+"name": "B F Jones Memorial Library",
+"city": "Aliquippa",
+"county": "Beaver",
+"state": "PA"
+},
+{
+"id": "PA0261",
+"name": "Back Mountain Memorial Library",
+"city": "Dallas",
+"county": "Luzerne",
+"state": "PA"
+},
+{
+"id": "PA0022",
+"name": "Baldwin Borough Public Library",
+"city": "Pittsburgh",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA0290",
+"name": "Bangor Public Library",
+"city": "Bangor",
+"county": "Northampton",
+"state": "PA"
+},
+{
+"id": "PA0387",
+"name": "Beaver Area Memorial Library",
+"city": "Beaver",
+"county": "Beaver",
+"state": "PA"
+},
+{
+"id": "PA9005",
+"name": "Beaver Sys Admin Unit",
+"city": "Aliqiuipa",
+"county": "Beaver",
+"state": "PA"
+},
+{
+"id": "PA0120",
+"name": "Bedford Sys Admin Unit",
+"city": "Bedford",
+"county": "Bedford",
+"state": "PA"
+},
+{
+"id": "PA0074",
+"name": "Benson Memorial Library, Inc.",
+"city": "Titusville",
+"county": "Crawford",
+"state": "PA"
+},
+{
+"id": "PA0024",
+"name": "Bethel Park Public Library",
+"city": "Bethel Park",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA0291",
+"name": "Bethlehem Area Public Library",
+"city": "Bethlehem",
+"county": "Northampton",
+"state": "PA"
+},
+{
+"id": "PA0226",
+"name": "Bloomsburg Public Library",
+"city": "Bloomsburg",
+"county": "Columbia",
+"state": "PA"
+},
+{
+"id": "PA0202",
+"name": "Boone Area Library",
+"city": "Birdsboro",
+"county": "Berks",
+"state": "PA"
+},
+{
+"id": "PA0215",
+"name": "Bosler Free Library",
+"city": "Carlisle",
+"county": "Cumberland",
+"state": "PA"
+},
+{
+"id": "PA0474",
+"name": "Boyertown Community Library",
+"city": "Boyertown",
+"county": "Berks",
+"state": "PA"
+},
+{
+"id": "PA0471",
+"name": "Braddock Carnegie Library",
+"city": "Braddock",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA0153",
+"name": "Bradford Area Public Library",
+"city": "Bradford",
+"county": "Mckean",
+"state": "PA"
+},
+{
+"id": "PA0246",
+"name": "Bradford County Library",
+"city": "Troy",
+"county": "Bradford",
+"state": "PA"
+},
+{
+"id": "PA0476",
+"name": "Brandywine Community Library",
+"city": "Topton",
+"county": "Berks",
+"state": "PA"
+},
+{
+"id": "PA0415",
+"name": "Brentwood Library",
+"city": "Pittsburgh",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA0001",
+"name": "Brownsville Free Public Library",
+"city": "Brownsville",
+"county": "Fayette",
+"state": "PA"
+},
+{
+"id": "PA0309",
+"name": "Bucks County Free Library",
+"city": "Doylestown",
+"county": "Bucks",
+"state": "PA"
+},
+{
+"id": "PA0055",
+"name": "Butler Area Public Library",
+"city": "Butler",
+"county": "Butler",
+"state": "PA"
+},
+{
+"id": "PA0529",
+"name": "Butler Sys Admin Unit",
+"city": "Butler",
+"county": "Butler",
+"state": "PA"
+},
+{
+"id": "PA0031",
+"name": "C.C. Mellor Memorial Library",
+"city": "Pittsburgh",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA0136",
+"name": "Cambria Sys Admin Unit",
+"city": "Johnstown",
+"county": "Cambria",
+"state": "PA"
+},
+{
+"id": "PA0271",
+"name": "Carbondale Public Library",
+"city": "Carbondale",
+"county": "Lackawanna",
+"state": "PA"
+},
+{
+"id": "PA0002",
+"name": "Carnegie Free Library",
+"city": "Connellsville",
+"county": "Fayette",
+"state": "PA"
+},
+{
+"id": "PA0455",
+"name": "Carnegie Free Library - Beaver Falls",
+"city": "Beaver Falls",
+"county": "Beaver",
+"state": "PA"
+},
+{
+"id": "PA0048",
+"name": "Carnegie Free Library Of Swissvale",
+"city": "Swissvale",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA0472",
+"name": "Carnegie Library Of Homestead",
+"city": "Munhall",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA0034",
+"name": "Carnegie Library Of Mckeesport",
+"city": "Mckeesport",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA0042",
+"name": "Carnegie Library Of Pittsburgh",
+"city": "Pittsburgh",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA0164",
+"name": "Centre Co Lib & Hist Museum",
+"city": "Bellefonte",
+"county": "Centre",
+"state": "PA"
+},
+{
+"id": "PA0447",
+"name": "Cheltenham Twnshp Lib System",
+"city": "Glenside",
+"county": "Montgomery",
+"state": "PA"
+},
+{
+"id": "PA0344",
+"name": "Chester County Library",
+"city": "Exton",
+"county": "Chester",
+"state": "PA"
+},
+{
+"id": "PA0013",
+"name": "Citizens Library",
+"city": "Washington",
+"county": "Washington",
+"state": "PA"
+},
+{
+"id": "PA0088",
+"name": "Clarion Free Library",
+"city": "Clarion",
+"county": "Clarion",
+"state": "PA"
+},
+{
+"id": "PA0168",
+"name": "Clearfield County Public Library",
+"city": "Curwensville",
+"county": "Clearfield",
+"state": "PA"
+},
+{
+"id": "PA0214",
+"name": "Cleve J. Fredricksen Library",
+"city": "Camp Hill",
+"county": "Cumberland",
+"state": "PA"
+},
+{
+"id": "PA0289",
+"name": "Clymer Library Association",
+"city": "Pocono Pines",
+"county": "Monroe",
+"state": "PA"
+},
+{
+"id": "PA0345",
+"name": "Coatesville Public Library Association",
+"city": "Coatesville",
+"county": "Chester",
+"state": "PA"
+},
+{
+"id": "PA0227",
+"name": "Columbia County Traveling Library Authority",
+"city": "Bloomsburg",
+"county": "Columbia",
+"state": "PA"
+},
+{
+"id": "PA0439",
+"name": "Columbia Public Library",
+"city": "Columbia",
+"county": "Lancaster",
+"state": "PA"
+},
+{
+"id": "PA9036",
+"name": "Community Library Of Allegheny Valley",
+"city": "Natrona Heights",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA0068",
+"name": "Community Library Of The Shenango Valley",
+"city": "Sharon",
+"county": "Mercer",
+"state": "PA"
+},
+{
+"id": "PA0040",
+"name": "Cooper-Siegel Community Library",
+"city": "Pittsburgh",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA0077",
+"name": "Corry Public Library",
+"city": "Corry",
+"county": "Erie",
+"state": "PA"
+},
+{
+"id": "PA0159",
+"name": "Coudersport Public Library",
+"city": "Coudersport",
+"county": "Potter",
+"state": "PA"
+},
+{
+"id": "PA0418",
+"name": "Cranberry Public Library",
+"city": "Cranberry Twp",
+"county": "Butler",
+"state": "PA"
+},
+{
+"id": "PA0363",
+"name": "Darby Library",
+"city": "Darby",
+"county": "Delaware",
+"state": "PA"
+},
+{
+"id": "PA0222",
+"name": "Dauphin County Library System",
+"city": "Harrisburg",
+"county": "Dauphin",
+"state": "PA"
+},
+{
+"id": "PA0235",
+"name": "Degenstein Community Library",
+"city": "Sunbury",
+"county": "Northumberland",
+"state": "PA"
+},
+{
+"id": "PA0179",
+"name": "Dillsburg Area Public Library",
+"city": "Dillsburg",
+"county": "York",
+"state": "PA"
+},
+{
+"id": "PA0298",
+"name": "Dimmick Memorial Library",
+"city": "Jim Thorpe",
+"county": "Carbon",
+"state": "PA"
+},
+{
+"id": "PA0346",
+"name": "Downingtown Library Company",
+"city": "Downingtown",
+"county": "Chester",
+"state": "PA"
+},
+{
+"id": "PA0093",
+"name": "Dubois Public Library",
+"city": "Dubois",
+"county": "Clearfield",
+"state": "PA"
+},
+{
+"id": "PA0195",
+"name": "Eastern Lancaster County Lib",
+"city": "New Holland",
+"county": "Lancaster",
+"state": "PA"
+},
+{
+"id": "PA0288",
+"name": "Eastern Monroe Public Library",
+"city": "Stroudsburg",
+"county": "Monroe",
+"state": "PA"
+},
+{
+"id": "PA0292",
+"name": "Easton Area Public Library",
+"city": "Easton",
+"county": "Northampton",
+"state": "PA"
+},
+{
+"id": "PA0347",
+"name": "Easttown Library",
+"city": "Berwyn",
+"county": "Chester",
+"state": "PA"
+},
+{
+"id": "PA0190",
+"name": "Elizabethtown Public Library",
+"city": "Elizabethtown",
+"county": "Lancaster",
+"state": "PA"
+},
+{
+"id": "PA0062",
+"name": "Ellwood City Area Pub Library",
+"city": "Ellwood City",
+"county": "Lawrence",
+"state": "PA"
+},
+{
+"id": "PA0304",
+"name": "Emmaus Public Library",
+"city": "Emmaus",
+"county": "Lehigh",
+"state": "PA"
+},
+{
+"id": "PA0191",
+"name": "Ephrata Public Library",
+"city": "Ephrata",
+"county": "Lancaster",
+"state": "PA"
+},
+{
+"id": "PA0423",
+"name": "Erie County Public Library",
+"city": "Erie",
+"county": "Erie",
+"state": "PA"
+},
+{
+"id": "PA0007",
+"name": "Eva K Bowlby Public Library",
+"city": "Waynesburg",
+"county": "Greene",
+"state": "PA"
+},
+{
+"id": "PA0121",
+"name": "Everett Free Library",
+"city": "Everett",
+"county": "Bedford",
+"state": "PA"
+},
+{
+"id": "PA9031",
+"name": "Exeter Community Library",
+"city": "Reading",
+"county": "Berks",
+"state": "PA"
+},
+{
+"id": "PA0513",
+"name": "F.O.R. Sto-Rox Library",
+"city": "Mckees Rocks",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA0475",
+"name": "Fleetwood Area Public Library",
+"city": "Fleetwood",
+"county": "Berks",
+"state": "PA"
+},
+{
+"id": "PA0006",
+"name": "Flenniken Public Library",
+"city": "Carmichaels",
+"county": "Greene",
+"state": "PA"
+},
+{
+"id": "PA0010",
+"name": "Frank Sarris Public Library",
+"city": "Canonsburg",
+"county": "Washington",
+"state": "PA"
+},
+{
+"id": "PA9037",
+"name": "Franklin Sys Admin Unit",
+"city": "Chambersburg",
+"county": "Franklin",
+"state": "PA"
+},
+{
+"id": "PA0313",
+"name": "Free Lib Of Northampton Twp",
+"city": "Richboro",
+"county": "Bucks",
+"state": "PA"
+},
+{
+"id": "PA0312",
+"name": "Free Library Of New Hope & Solebury",
+"city": "New Hope",
+"county": "Bucks",
+"state": "PA"
+},
+{
+"id": "PA0385",
+"name": "Free Library Of Philadelphia",
+"city": "Philadelphia",
+"county": "Philadelphia",
+"state": "PA"
+},
+{
+"id": "PA0450",
+"name": "Free Library Of Springfield Township",
+"city": "Wyndmoor",
+"county": "Montgomery",
+"state": "PA"
+},
+{
+"id": "PA0170",
+"name": "Fulton County Library",
+"city": "Mcconnellsburg",
+"county": "Fulton",
+"state": "PA"
+},
+{
+"id": "PA0259",
+"name": "Green Free Library Wellsboro",
+"city": "Wellsboro",
+"county": "Tioga",
+"state": "PA"
+},
+{
+"id": "PA0104",
+"name": "Greensburg Hempfield Area Lib",
+"city": "Greensburg",
+"county": "Westmoreland",
+"state": "PA"
+},
+{
+"id": "PA0065",
+"name": "Greenville Area Public Library",
+"city": "Greenville",
+"county": "Mercer",
+"state": "PA"
+},
+{
+"id": "PA0066",
+"name": "Grove City Community Library",
+"city": "Grove City",
+"county": "Mercer",
+"state": "PA"
+},
+{
+"id": "PA0181",
+"name": "Guthrie Memorial Library - Hanover'S Public Library",
+"city": "Hanover",
+"county": "York",
+"state": "PA"
+},
+{
+"id": "PA0204",
+"name": "Hamburg Public Library",
+"city": "Hamburg",
+"county": "Berks",
+"state": "PA"
+},
+{
+"id": "PA0482",
+"name": "Hampton Community Library",
+"city": "Allison Park",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA0367",
+"name": "Haverford Township Free Library Association",
+"city": "Havertown",
+"county": "Delaware",
+"state": "PA"
+},
+{
+"id": "PA0262",
+"name": "Hazleton Area Public Library",
+"city": "Hazleton",
+"county": "Luzerne",
+"state": "PA"
+},
+{
+"id": "PA0372",
+"name": "Helen Kate Furness Fr Library",
+"city": "Wallingford",
+"county": "Delaware",
+"state": "PA"
+},
+{
+"id": "PA0486",
+"name": "Hellertown Area Library",
+"city": "Hellertown",
+"county": "Northampton",
+"state": "PA"
+},
+{
+"id": "PA0221",
+"name": "Hershey Public Library",
+"city": "Hershey",
+"county": "Dauphin",
+"state": "PA"
+},
+{
+"id": "PA0141",
+"name": "Highland Community Library",
+"city": "Johnstown",
+"county": "Cambria",
+"state": "PA"
+},
+{
+"id": "PA0433",
+"name": "Hollidaysburg Area Public Library",
+"city": "Hollidaysburg",
+"county": "Blair",
+"state": "PA"
+},
+{
+"id": "PA0348",
+"name": "Honey Brook Community Library",
+"city": "Honey Brook",
+"county": "Chester",
+"state": "PA"
+},
+{
+"id": "PA0530",
+"name": "Horsham Township Library",
+"city": "Horsham",
+"county": "Montgomery",
+"state": "PA"
+},
+{
+"id": "PA0263",
+"name": "Hoyt Library",
+"city": "Kingston",
+"county": "Luzerne",
+"state": "PA"
+},
+{
+"id": "PA0172",
+"name": "Huntingdon County Library",
+"city": "Huntingdon",
+"county": "Huntingdon",
+"state": "PA"
+},
+{
+"id": "PA0332",
+"name": "Huntingdon Valley Library",
+"city": "Huntingdon Valley",
+"county": "Montgomery",
+"state": "PA"
+},
+{
+"id": "PA0339",
+"name": "Indian Valley Public Library",
+"city": "Telford",
+"county": "Montgomery",
+"state": "PA"
+},
+{
+"id": "PA0397",
+"name": "Indiana Free Library Inc",
+"city": "Indiana",
+"county": "Indiana",
+"state": "PA"
+},
+{
+"id": "PA0525",
+"name": "Intercourse Library",
+"city": "Intercourse",
+"county": "Lancaster",
+"state": "PA"
+},
+{
+"id": "PA0360",
+"name": "J. Lewis Crozer Library",
+"city": "Chester",
+"county": "Delaware",
+"state": "PA"
+},
+{
+"id": "PA0251",
+"name": "James V Brown Library",
+"city": "Williamsport",
+"county": "Lycoming",
+"state": "PA"
+},
+{
+"id": "PA0107",
+"name": "Jeannette Public Library",
+"city": "Jeannette",
+"county": "Westmoreland",
+"state": "PA"
+},
+{
+"id": "PA0033",
+"name": "Jefferson Hills Public Library",
+"city": "Jefferson Hills",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA0219",
+"name": "John Graham Public Library",
+"city": "Newville",
+"county": "Cumberland",
+"state": "PA"
+},
+{
+"id": "PA0011",
+"name": "John K Tener Library",
+"city": "Charleroi",
+"county": "Washington",
+"state": "PA"
+},
+{
+"id": "PA0167",
+"name": "Joseph & Elizabeth Shaw Public Library",
+"city": "Clearfield",
+"county": "Clearfield",
+"state": "PA"
+},
+{
+"id": "PA0216",
+"name": "Joseph T. Simpson Public Library",
+"city": "Mechanicsburg",
+"county": "Cumberland",
+"state": "PA"
+},
+{
+"id": "PA0173",
+"name": "Juniata County Library",
+"city": "Mifflintown",
+"county": "Juniata",
+"state": "PA"
+},
+{
+"id": "PA0183",
+"name": "Kaltreider-Benfer Library",
+"city": "Red Lion",
+"county": "York",
+"state": "PA"
+},
+{
+"id": "PA0349",
+"name": "Kennett Library",
+"city": "Kennett Square",
+"county": "Chester",
+"state": "PA"
+},
+{
+"id": "PA0440",
+"name": "Kutztown Community Library",
+"city": "Kutztown",
+"county": "Berks",
+"state": "PA"
+},
+{
+"id": "PA0192",
+"name": "Lancaster Public Library",
+"city": "Lancaster",
+"county": "Lancaster",
+"state": "PA"
+},
+{
+"id": "PA0368",
+"name": "Lansdowne Public Library",
+"city": "Lansdowne",
+"county": "Delaware",
+"state": "PA"
+},
+{
+"id": "PA0454",
+"name": "Laughlin Memorial Free Library",
+"city": "Ambridge",
+"county": "Beaver",
+"state": "PA"
+},
+{
+"id": "PA0502",
+"name": "Lebanon Community Library",
+"city": "Lebanon",
+"county": "Lebanon",
+"state": "PA"
+},
+{
+"id": "PA0299",
+"name": "Lehighton Area Memorial Library",
+"city": "Lehighton",
+"county": "Carbon",
+"state": "PA"
+},
+{
+"id": "PA0109",
+"name": "Ligonier Valley Library",
+"city": "Ligonier",
+"county": "Westmoreland",
+"state": "PA"
+},
+{
+"id": "PA0193",
+"name": "Lititz Public Library",
+"city": "Lititz",
+"county": "Lancaster",
+"state": "PA"
+},
+{
+"id": "PA9040",
+"name": "Lower Macungie Library",
+"city": "Macungie",
+"county": "Lehigh",
+"state": "PA"
+},
+{
+"id": "PA0448",
+"name": "Lower Merion Library System",
+"city": "Ardmore",
+"county": "Montgomery",
+"state": "PA"
+},
+{
+"id": "PA0334",
+"name": "Lower Providence Com Library",
+"city": "Eagleville",
+"county": "Montgomery",
+"state": "PA"
+},
+{
+"id": "PA0402",
+"name": "Mahanoy City Public Library",
+"city": "Mahanoy City",
+"county": "Schuylkill",
+"state": "PA"
+},
+{
+"id": "PA0350",
+"name": "Malvern Public Library",
+"city": "Malvern",
+"county": "Chester",
+"state": "PA"
+},
+{
+"id": "PA0526",
+"name": "Manheim Community Library",
+"city": "Manheim",
+"county": "Lancaster",
+"state": "PA"
+},
+{
+"id": "PA0535",
+"name": "Manheim Township Public Library",
+"city": "Lancaster",
+"county": "Lancaster",
+"state": "PA"
+},
+{
+"id": "PA0264",
+"name": "Marian Sutherland Kirby Lib",
+"city": "Mountaintop",
+"county": "Luzerne",
+"state": "PA"
+},
+{
+"id": "PA0452",
+"name": "Marple Public Library",
+"city": "Broomall",
+"county": "Delaware",
+"state": "PA"
+},
+{
+"id": "PA0058",
+"name": "Mars Area Public Library",
+"city": "Mars",
+"county": "Butler",
+"state": "PA"
+},
+{
+"id": "PA0295",
+"name": "Mary Meuser Memorial Library",
+"city": "Easton",
+"county": "Northampton",
+"state": "PA"
+},
+{
+"id": "PA0186",
+"name": "Mason Dixon Public Library",
+"city": "Stewartstown",
+"county": "York",
+"state": "PA"
+},
+{
+"id": "PA0520",
+"name": "Matthews Public Library",
+"city": "Fredericksburg",
+"county": "Lebanon",
+"state": "PA"
+},
+{
+"id": "PA0225",
+"name": "Mcbride Memorial Library",
+"city": "Berwick",
+"county": "Columbia",
+"state": "PA"
+},
+{
+"id": "PA0080",
+"name": "Mccord Memorial Library",
+"city": "North East",
+"county": "Erie",
+"state": "PA"
+},
+{
+"id": "PA0421",
+"name": "Meadville Public Library",
+"city": "Meadville",
+"county": "Crawford",
+"state": "PA"
+},
+{
+"id": "PA0370",
+"name": "Media Upper Providence Free Library",
+"city": "Media",
+"county": "Delaware",
+"state": "PA"
+},
+{
+"id": "PA0293",
+"name": "Mem Lib Of Nazareth & Vicinity",
+"city": "Nazareth",
+"county": "Northampton",
+"state": "PA"
+},
+{
+"id": "PA0376",
+"name": "Mem Library Of Radnor Twnshp",
+"city": "Wayne",
+"county": "Delaware",
+"state": "PA"
+},
+{
+"id": "PA0067",
+"name": "Mercer Area Library",
+"city": "Mercer",
+"county": "Mercer",
+"state": "PA"
+},
+{
+"id": "PA0145",
+"name": "Meyersdale Public Library",
+"city": "Meyersdale",
+"county": "Somerset",
+"state": "PA"
+},
+{
+"id": "PA0371",
+"name": "Middletown Free Library",
+"city": "Media",
+"county": "Delaware",
+"state": "PA"
+},
+{
+"id": "PA9033",
+"name": "Mifflin Community Library",
+"city": "Shillington",
+"county": "Berks",
+"state": "PA"
+},
+{
+"id": "PA0174",
+"name": "Mifflin County Library",
+"city": "Lewistown",
+"county": "Mifflin",
+"state": "PA"
+},
+{
+"id": "PA0194",
+"name": "Milanof-Schock Library",
+"city": "Mount Joy",
+"county": "Lancaster",
+"state": "PA"
+},
+{
+"id": "PA0265",
+"name": "Mill Memorial Library",
+"city": "Nanticoke",
+"county": "Luzerne",
+"state": "PA"
+},
+{
+"id": "PA0230",
+"name": "Milton Public Library",
+"city": "Milton",
+"county": "Northumberland",
+"state": "PA"
+},
+{
+"id": "PA0018",
+"name": "Monongahela Area Library",
+"city": "Monongahela",
+"county": "Washington",
+"state": "PA"
+},
+{
+"id": "PA0035",
+"name": "Monroeville Public Library",
+"city": "Monroeville",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA0336",
+"name": "Mont Co-Norristown Pub Lib",
+"city": "Norristown",
+"county": "Montgomery",
+"state": "PA"
+},
+{
+"id": "PA0036",
+"name": "Moon Township Public Library",
+"city": "Moon Township",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA0231",
+"name": "Mount Carmel Public Library",
+"city": "Mount Carmel",
+"county": "Northumberland",
+"state": "PA"
+},
+{
+"id": "PA0111",
+"name": "Mt Pleasant Fr Pub Lib Assoc",
+"city": "Mount Pleasant",
+"county": "Westmoreland",
+"state": "PA"
+},
+{
+"id": "PA0037",
+"name": "Mt. Lebanon Public Library",
+"city": "Pittsburgh",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA0209",
+"name": "Muhlenberg Community Library",
+"city": "Laureldale",
+"county": "Berks",
+"state": "PA"
+},
+{
+"id": "PA0103",
+"name": "Murrysville Community Library",
+"city": "Murrysville",
+"county": "Westmoreland",
+"state": "PA"
+},
+{
+"id": "PA0198",
+"name": "Myerstown Community Library",
+"city": "Myerstown",
+"county": "Lebanon",
+"state": "PA"
+}
+]

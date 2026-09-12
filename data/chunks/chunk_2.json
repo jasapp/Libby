@@ -1,0 +1,3194 @@
+[
+{
+"id": "KS0226",
+"name": "Wichita Public Library",
+"city": "Wichita",
+"county": "Sedgwick",
+"state": "KS"
+},
+{
+"id": "KS0220",
+"name": "Winfield Public Library",
+"city": "Winfield",
+"county": "Cowley",
+"state": "KS"
+},
+{
+"id": "KY0001",
+"name": "Adair County Public Library",
+"city": "Columbia",
+"county": "Adair",
+"state": "KY"
+},
+{
+"id": "KY0002",
+"name": "Allen County Public Library",
+"city": "Scottsville",
+"county": "Allen",
+"state": "KY"
+},
+{
+"id": "KY0003",
+"name": "Anderson County Public Library",
+"city": "Lawrenceburg",
+"county": "Anderson",
+"state": "KY"
+},
+{
+"id": "KY0117",
+"name": "Ballard/Carlisle Public Library",
+"city": "Wickliffe",
+"county": "Ballard",
+"state": "KY"
+},
+{
+"id": "KY0006",
+"name": "Bath County Memorial Library",
+"city": "Owingsville",
+"county": "Bath",
+"state": "KY"
+},
+{
+"id": "KY0007",
+"name": "Bell County Public Library System",
+"city": "Middlesboro",
+"county": "Bell",
+"state": "KY"
+},
+{
+"id": "KY0008",
+"name": "Boone County Public Library District",
+"city": "Burlington",
+"county": "Boone",
+"state": "KY"
+},
+{
+"id": "KY0010",
+"name": "Boyd County Public Library",
+"city": "Ashland",
+"county": "Boyd",
+"state": "KY"
+},
+{
+"id": "KY0011",
+"name": "Boyle County Public Library",
+"city": "Danville",
+"county": "Boyle",
+"state": "KY"
+},
+{
+"id": "KY0012",
+"name": "Breathitt County Public Library",
+"city": "Jackson",
+"county": "Breathitt",
+"state": "KY"
+},
+{
+"id": "KY0013",
+"name": "Breckinridge County Public Library",
+"city": "Hardinsburg",
+"county": "Breckinridge",
+"state": "KY"
+},
+{
+"id": "KY0014",
+"name": "Bullitt County Library District",
+"city": "Shepherdsville",
+"county": "Bullitt",
+"state": "KY"
+},
+{
+"id": "KY0015",
+"name": "Butler County Public Library",
+"city": "Morgantown",
+"county": "Butler",
+"state": "KY"
+},
+{
+"id": "KY0017",
+"name": "Calloway County Public Library",
+"city": "Murray",
+"county": "Calloway",
+"state": "KY"
+},
+{
+"id": "KY0018",
+"name": "Campbell County Public Library District",
+"city": "Cold Spring",
+"county": "Campbell",
+"state": "KY"
+},
+{
+"id": "KY0019",
+"name": "Carroll County Public Library District",
+"city": "Carrollton",
+"county": "Carroll",
+"state": "KY"
+},
+{
+"id": "KY0803",
+"name": "Carter County Public Library",
+"city": "Olive Hill",
+"county": "Carter",
+"state": "KY"
+},
+{
+"id": "KY0020",
+"name": "Casey County Public Library",
+"city": "Liberty",
+"county": "Casey",
+"state": "KY"
+},
+{
+"id": "KY0022",
+"name": "Clark County Public Library",
+"city": "Winchester",
+"county": "Clark",
+"state": "KY"
+},
+{
+"id": "KY0023",
+"name": "Clay County Public Library",
+"city": "Manchester",
+"county": "Clay",
+"state": "KY"
+},
+{
+"id": "KY0024",
+"name": "Clinton County Public Library",
+"city": "Albany",
+"county": "Clinton",
+"state": "KY"
+},
+{
+"id": "KY0046",
+"name": "Cynthiana-Harrison County Public Library",
+"city": "Cynthiana",
+"county": "Harrison",
+"state": "KY"
+},
+{
+"id": "KY0027",
+"name": "Daviess County Public Library District",
+"city": "Owensboro",
+"county": "Daviess",
+"state": "KY"
+},
+{
+"id": "KY0028",
+"name": "Edmonson County Public Library",
+"city": "Brownsville",
+"county": "Edmonson",
+"state": "KY"
+},
+{
+"id": "KY0030",
+"name": "Estill County Public Library",
+"city": "Irvine",
+"county": "Estill",
+"state": "KY"
+},
+{
+"id": "KY0032",
+"name": "Fleming County Public Library",
+"city": "Flemingsburg",
+"county": "Fleming",
+"state": "KY"
+},
+{
+"id": "KY0033",
+"name": "Floyd County Library",
+"city": "Prestonsburg",
+"county": "Floyd",
+"state": "KY"
+},
+{
+"id": "KY0034",
+"name": "Franklin County District Public Library",
+"city": "Frankfort",
+"county": "Franklin",
+"state": "KY"
+},
+{
+"id": "KY0037",
+"name": "Garrard County Public Library",
+"city": "Lancaster",
+"county": "Garrard",
+"state": "KY"
+},
+{
+"id": "KY0016",
+"name": "George Coon Public Library",
+"city": "Princeton",
+"county": "Caldwell",
+"state": "KY"
+},
+{
+"id": "KY0102",
+"name": "Goodnight Memorial Library",
+"city": "Franklin",
+"county": "Simpson",
+"state": "KY"
+},
+{
+"id": "KY0038",
+"name": "Grant County Public Library District",
+"city": "Williamstown",
+"county": "Grant",
+"state": "KY"
+},
+{
+"id": "KY0039",
+"name": "Graves County Public Library",
+"city": "Mayfield",
+"county": "Graves",
+"state": "KY"
+},
+{
+"id": "KY0040",
+"name": "Grayson County Public Library",
+"city": "Leitchfield",
+"county": "Grayson",
+"state": "KY"
+},
+{
+"id": "KY0041",
+"name": "Green County Public Library",
+"city": "Greensburg",
+"county": "Green",
+"state": "KY"
+},
+{
+"id": "KY0042",
+"name": "Greenup County Public Library",
+"city": "Greenup",
+"county": "Greenup",
+"state": "KY"
+},
+{
+"id": "KY0044",
+"name": "Hardin County Public Library",
+"city": "Elizabethtown",
+"county": "Hardin",
+"state": "KY"
+},
+{
+"id": "KY0045",
+"name": "Harlan County Public Library",
+"city": "Harlan",
+"county": "Harlan",
+"state": "KY"
+},
+{
+"id": "KY0047",
+"name": "Hart County Public Library",
+"city": "Munfordville",
+"county": "Hart",
+"state": "KY"
+},
+{
+"id": "KY0048",
+"name": "Henderson County Public Library",
+"city": "Henderson",
+"county": "Henderson",
+"state": "KY"
+},
+{
+"id": "KY0049",
+"name": "Henry County Public Library",
+"city": "Eminence",
+"county": "Henry",
+"state": "KY"
+},
+{
+"id": "KY0051",
+"name": "Hopkins County-Madisonville Public Library",
+"city": "Madisonville",
+"county": "Hopkins",
+"state": "KY"
+},
+{
+"id": "KY0021",
+"name": "Hopkinsville-Christian County Public Library",
+"city": "Hopkinsville",
+"county": "Christian",
+"state": "KY"
+},
+{
+"id": "KY0052",
+"name": "Jackson County Public Library",
+"city": "Mckee",
+"county": "Jackson",
+"state": "KY"
+},
+{
+"id": "KY0054",
+"name": "Jessamine County Public Library",
+"city": "Nicholasville",
+"county": "Jessamine",
+"state": "KY"
+},
+{
+"id": "KY0106",
+"name": "John L. Street Public Library",
+"city": "Cadiz",
+"county": "Trigg",
+"state": "KY"
+},
+{
+"id": "KY0055",
+"name": "Johnson County Public Library",
+"city": "Paintsville",
+"county": "Johnson",
+"state": "KY"
+},
+{
+"id": "KY0056",
+"name": "Kenton County Public Library",
+"city": "Erlanger",
+"county": "Kenton",
+"state": "KY"
+},
+{
+"id": "KY0057",
+"name": "Knott County Public Library",
+"city": "Hindman",
+"county": "Knott",
+"state": "KY"
+},
+{
+"id": "KY0058",
+"name": "Knox County Public Library",
+"city": "Barbourville",
+"county": "Knox",
+"state": "KY"
+},
+{
+"id": "KY0059",
+"name": "Larue County Public Library",
+"city": "Hodgenville",
+"county": "Larue",
+"state": "KY"
+},
+{
+"id": "KY0060",
+"name": "Laurel County Public Library",
+"city": "London",
+"county": "Laurel",
+"state": "KY"
+},
+{
+"id": "KY0061",
+"name": "Lawrence County Public Library",
+"city": "Louisa",
+"county": "Lawrence",
+"state": "KY"
+},
+{
+"id": "KY0064",
+"name": "Letcher County Public Library District",
+"city": "Whitesburg",
+"county": "Letcher",
+"state": "KY"
+},
+{
+"id": "KY0065",
+"name": "Lewis County Public Library",
+"city": "Vanceburg",
+"county": "Lewis",
+"state": "KY"
+},
+{
+"id": "KY0031",
+"name": "Lexington Public Library",
+"city": "Lexington",
+"county": "Fayette",
+"state": "KY"
+},
+{
+"id": "KY0066",
+"name": "Lincoln County Public Library",
+"city": "Stanford",
+"county": "Lincoln",
+"state": "KY"
+},
+{
+"id": "KY0067",
+"name": "Logan County Public Library",
+"city": "Russellville",
+"county": "Logan",
+"state": "KY"
+},
+{
+"id": "KY0053",
+"name": "Louisville Free Public Library",
+"city": "Louisville",
+"county": "Jefferson",
+"state": "KY"
+},
+{
+"id": "KY0069",
+"name": "Madison County Public Library",
+"city": "Richmond",
+"county": "Madison",
+"state": "KY"
+},
+{
+"id": "KY0070",
+"name": "Magoffin County Public Library",
+"city": "Salyersville",
+"county": "Magoffin",
+"state": "KY"
+},
+{
+"id": "KY0071",
+"name": "Marion County Public Library",
+"city": "Lebanon",
+"county": "Marion",
+"state": "KY"
+},
+{
+"id": "KY0072",
+"name": "Marshall County Public Library",
+"city": "Benton",
+"county": "Marshall",
+"state": "KY"
+},
+{
+"id": "KY0073",
+"name": "Martin County Public Library System",
+"city": "Inez",
+"county": "Martin",
+"state": "KY"
+},
+{
+"id": "KY0005",
+"name": "Mary Wood Weldon Memorial Public Library",
+"city": "Glasgow",
+"county": "Barren",
+"state": "KY"
+},
+{
+"id": "KY0074",
+"name": "Mason County Public Library",
+"city": "Maysville",
+"county": "Mason",
+"state": "KY"
+},
+{
+"id": "KY0075",
+"name": "Mccracken County Public Library",
+"city": "Paducah",
+"county": "Mccracken",
+"state": "KY"
+},
+{
+"id": "KY0120",
+"name": "Mccreary County Public Library",
+"city": "Whitley City",
+"county": "Mccreary",
+"state": "KY"
+},
+{
+"id": "KY0077",
+"name": "Meade County Public Library",
+"city": "Brandenburg",
+"county": "Meade",
+"state": "KY"
+},
+{
+"id": "KY0079",
+"name": "Mercer County Public Library",
+"city": "Harrodsburg",
+"county": "Mercer",
+"state": "KY"
+},
+{
+"id": "KY0080",
+"name": "Metcalfe County Public Library",
+"city": "Edmonton",
+"county": "Metcalfe",
+"state": "KY"
+},
+{
+"id": "KY0083",
+"name": "Morgan County Public Library",
+"city": "West Liberty",
+"county": "Morgan",
+"state": "KY"
+},
+{
+"id": "KY0082",
+"name": "Mt. Sterling-Montgomery County Library",
+"city": "Mount Sterling",
+"county": "Montgomery",
+"state": "KY"
+},
+{
+"id": "KY0119",
+"name": "Muhlenberg County Public Libraries",
+"city": "Greenville",
+"county": "Muhlenberg",
+"state": "KY"
+},
+{
+"id": "KY0085",
+"name": "Nelson County Public Library",
+"city": "Bardstown",
+"county": "Nelson",
+"state": "KY"
+},
+{
+"id": "KY0087",
+"name": "Ohio County Public Library",
+"city": "Hartford",
+"county": "Ohio",
+"state": "KY"
+},
+{
+"id": "KY0088",
+"name": "Oldham County Public Library",
+"city": "Lagrange",
+"county": "Oldham",
+"state": "KY"
+},
+{
+"id": "KY0089",
+"name": "Owen County Public Library",
+"city": "Owenton",
+"county": "Owen",
+"state": "KY"
+},
+{
+"id": "KY0009",
+"name": "Paris-Bourbon County Library",
+"city": "Paris",
+"county": "Bourbon",
+"state": "KY"
+},
+{
+"id": "KY0091",
+"name": "Pendleton County Public Library",
+"city": "Falmouth",
+"county": "Pendleton",
+"state": "KY"
+},
+{
+"id": "KY0092",
+"name": "Perry County Public Library",
+"city": "Hazard",
+"county": "Perry",
+"state": "KY"
+},
+{
+"id": "KY0093",
+"name": "Pike County Public Library District",
+"city": "Pikeville",
+"county": "Pike",
+"state": "KY"
+},
+{
+"id": "KY0094",
+"name": "Powell County Public Library",
+"city": "Stanton",
+"county": "Powell",
+"state": "KY"
+},
+{
+"id": "KY0095",
+"name": "Pulaski County Public Library",
+"city": "Somerset",
+"county": "Pulaski",
+"state": "KY"
+},
+{
+"id": "KY0097",
+"name": "Rockcastle County Public Library",
+"city": "Mount Vernon",
+"county": "Rockcastle",
+"state": "KY"
+},
+{
+"id": "KY0098",
+"name": "Rowan County Public Library",
+"city": "Morehead",
+"county": "Rowan",
+"state": "KY"
+},
+{
+"id": "KY0099",
+"name": "Russell County Public Library",
+"city": "Jamestown",
+"county": "Russell",
+"state": "KY"
+},
+{
+"id": "KY0100",
+"name": "Scott County Public Library",
+"city": "Georgetown",
+"county": "Scott",
+"state": "KY"
+},
+{
+"id": "KY0101",
+"name": "Shelby County Library District",
+"city": "Shelbyville",
+"county": "Shelby",
+"state": "KY"
+},
+{
+"id": "KY0103",
+"name": "Spencer County Public Library",
+"city": "Taylorsville",
+"county": "Spencer",
+"state": "KY"
+},
+{
+"id": "KY0104",
+"name": "Taylor County Public Library",
+"city": "Campbellsville",
+"county": "Taylor",
+"state": "KY"
+},
+{
+"id": "KY0105",
+"name": "Todd County Public Library",
+"city": "Elkton",
+"county": "Todd",
+"state": "KY"
+},
+{
+"id": "KY0108",
+"name": "Union County Public Library District",
+"city": "Morganfield",
+"county": "Union",
+"state": "KY"
+},
+{
+"id": "KY0109",
+"name": "Warren County Public Library",
+"city": "Bowling Green",
+"county": "Warren",
+"state": "KY"
+},
+{
+"id": "KY0110",
+"name": "Washington County Public Library",
+"city": "Springfield",
+"county": "Washington",
+"state": "KY"
+},
+{
+"id": "KY0111",
+"name": "Wayne County Public Library",
+"city": "Monticello",
+"county": "Wayne",
+"state": "KY"
+},
+{
+"id": "KY0112",
+"name": "Webster County Public Library",
+"city": "Dixon",
+"county": "Webster",
+"state": "KY"
+},
+{
+"id": "KY0113",
+"name": "Whitley County Public Library",
+"city": "Williamsburg",
+"county": "Whitley",
+"state": "KY"
+},
+{
+"id": "KY0081",
+"name": "William B. Harlan Memorial Library",
+"city": "Tompkinsville",
+"county": "Monroe",
+"state": "KY"
+},
+{
+"id": "KY0115",
+"name": "Woodford County Library District",
+"city": "Versailles",
+"county": "Woodford",
+"state": "KY"
+},
+{
+"id": "LA0039",
+"name": "Acadia Parish Library",
+"city": "Crowley",
+"county": "Acadia",
+"state": "LA"
+},
+{
+"id": "LA0009",
+"name": "Allen Parish Libraries",
+"city": "Oberlin",
+"county": "Allen",
+"state": "LA"
+},
+{
+"id": "LA0037",
+"name": "Ascension Parish Library",
+"city": "Donaldsonville",
+"county": "Ascension",
+"state": "LA"
+},
+{
+"id": "LA0011",
+"name": "Assumption Parish Library",
+"city": "Napoleonville",
+"county": "Assumption",
+"state": "LA"
+},
+{
+"id": "LA0031",
+"name": "Audubon Regional Library",
+"city": "Clinton",
+"county": "East Feliciana",
+"state": "LA"
+},
+{
+"id": "LA0032",
+"name": "Avoyelles Parish Library",
+"city": "Marksville",
+"county": "Avoyelles",
+"state": "LA"
+},
+{
+"id": "LA0020",
+"name": "Beauregard Parish Library",
+"city": "Deridder",
+"county": "Beauregard",
+"state": "LA"
+},
+{
+"id": "LA0064",
+"name": "Bienville Parish Library",
+"city": "Arcadia",
+"county": "Bienville",
+"state": "LA"
+},
+{
+"id": "LA0046",
+"name": "Bossier Parish Library",
+"city": "Bossier City",
+"county": "Bossier",
+"state": "LA"
+},
+{
+"id": "LA0053",
+"name": "Calcasieu Parish Public Library",
+"city": "Lake Charles",
+"county": "Calcasieu",
+"state": "LA"
+},
+{
+"id": "LA0004",
+"name": "Claiborne Parish Library",
+"city": "Homer",
+"county": "Claiborne",
+"state": "LA"
+},
+{
+"id": "LA0014",
+"name": "Concordia Parish Library",
+"city": "Ferriday",
+"county": "Concordia",
+"state": "LA"
+},
+{
+"id": "LA0018",
+"name": "Desoto Parish Library",
+"city": "Mansfield",
+"county": "Desoto",
+"state": "LA"
+},
+{
+"id": "LA0055",
+"name": "East Baton Rouge Parish Library",
+"city": "Baton Rouge",
+"county": "East Baton Rouge",
+"state": "LA"
+},
+{
+"id": "LA0025",
+"name": "Evangeline Parish Library",
+"city": "Ville Platte",
+"county": "Evangeline",
+"state": "LA"
+},
+{
+"id": "LA0016",
+"name": "Franklin Parish Library",
+"city": "Winnsboro",
+"county": "Franklin",
+"state": "LA"
+},
+{
+"id": "LA0002",
+"name": "Grant Parish Library",
+"city": "Colfax",
+"county": "Grant",
+"state": "LA"
+},
+{
+"id": "LA0041",
+"name": "Iberia Parish Library",
+"city": "New Iberia",
+"county": "Iberia",
+"state": "LA"
+},
+{
+"id": "LA0022",
+"name": "Iberville Parish Library",
+"city": "Plaquemine",
+"county": "Iberville",
+"state": "LA"
+},
+{
+"id": "LA0006",
+"name": "Jackson Parish Library",
+"city": "Jonesboro",
+"county": "Jackson",
+"state": "LA"
+},
+{
+"id": "LA0024",
+"name": "Jefferson Davis Parish Library",
+"city": "Jennings",
+"county": "Jefferson Davis",
+"state": "LA"
+},
+{
+"id": "LA0057",
+"name": "Jefferson Parish Library",
+"city": "Metairie",
+"county": "Jefferson",
+"state": "LA"
+},
+{
+"id": "LA0052",
+"name": "Lafayette Public Library",
+"city": "Lafayette",
+"county": "Lafayette",
+"state": "LA"
+},
+{
+"id": "LA0047",
+"name": "Lafourche Parish Public Library",
+"city": "Thibodaux",
+"county": "Lafourche",
+"state": "LA"
+},
+{
+"id": "LA0003",
+"name": "Lasalle Parish Library",
+"city": "Jena",
+"county": "Lasalle",
+"state": "LA"
+},
+{
+"id": "LA0028",
+"name": "Lincoln Parish Library",
+"city": "Ruston",
+"county": "Lincoln",
+"state": "LA"
+},
+{
+"id": "LA0040",
+"name": "Livingston Parish Library",
+"city": "Livingston",
+"county": "Livingston",
+"state": "LA"
+},
+{
+"id": "LA0026",
+"name": "Morehouse Parish Library",
+"city": "Bastrop",
+"county": "Morehouse",
+"state": "LA"
+},
+{
+"id": "LA0060",
+"name": "Morgan City Public Library",
+"city": "Morgan City",
+"county": "St. Mary",
+"state": "LA"
+},
+{
+"id": "LA0029",
+"name": "Natchitoches Parish Library",
+"city": "Natchitoches",
+"county": "Natchitoches",
+"state": "LA"
+},
+{
+"id": "LA0058",
+"name": "New Orleans Public Library",
+"city": "New Orleans",
+"county": "Orleans",
+"state": "LA"
+},
+{
+"id": "LA0061",
+"name": "Opelousas Public Library",
+"city": "Opelousas",
+"county": "St. Landry",
+"state": "LA"
+},
+{
+"id": "LA0051",
+"name": "Ouachita Parish Public Library",
+"city": "Monroe",
+"county": "Ouachita",
+"state": "LA"
+},
+{
+"id": "LA0019",
+"name": "Plaquemines Parish Library",
+"city": "Belle Chasse",
+"county": "Plaquemines",
+"state": "LA"
+},
+{
+"id": "LA0015",
+"name": "Pointe Coupee Parish Library",
+"city": "New Roads",
+"county": "Pointe Coupee",
+"state": "LA"
+},
+{
+"id": "LA0050",
+"name": "Rapides Parish Library",
+"city": "Alexandria",
+"county": "Rapides",
+"state": "LA"
+},
+{
+"id": "LA0013",
+"name": "Richland Parish Library",
+"city": "Rayville",
+"county": "Richland",
+"state": "LA"
+},
+{
+"id": "LA0017",
+"name": "Sabine Parish Library",
+"city": "Many",
+"county": "Sabine",
+"state": "LA"
+},
+{
+"id": "LA0054",
+"name": "Shreve Memorial Library",
+"city": "Shreveport",
+"county": "Caddo",
+"state": "LA"
+},
+{
+"id": "LA0042",
+"name": "St. Bernard Parish Library",
+"city": "Chalmette",
+"county": "St. Bernard",
+"state": "LA"
+},
+{
+"id": "LA0027",
+"name": "St. Charles Parish Library",
+"city": "Destrehan",
+"county": "St. Charles",
+"state": "LA"
+},
+{
+"id": "LA0010",
+"name": "St. James Parish Library",
+"city": "Lutcher",
+"county": "St. James",
+"state": "LA"
+},
+{
+"id": "LA0021",
+"name": "St. John The Baptist Parish Library",
+"city": "Laplace",
+"county": "St. John The Baptist",
+"state": "LA"
+},
+{
+"id": "LA0030",
+"name": "St. Martin Parish Library",
+"city": "St. Martinville",
+"county": "St. Martin",
+"state": "LA"
+},
+{
+"id": "LA0043",
+"name": "St. Mary Parish Library",
+"city": "Franklin",
+"county": "St. Mary",
+"state": "LA"
+},
+{
+"id": "LA0049",
+"name": "St. Tammany Parish Library",
+"city": "Covington",
+"county": "St. Tammany",
+"state": "LA"
+},
+{
+"id": "LA0044",
+"name": "Tangipahoa Parish Library",
+"city": "Amite",
+"county": "Tangipahoa",
+"state": "LA"
+},
+{
+"id": "LA0048",
+"name": "Terrebonne Parish Library",
+"city": "Houma",
+"county": "Terrebonne",
+"state": "LA"
+},
+{
+"id": "LA0008",
+"name": "Union Parish Library",
+"city": "Farmerville",
+"county": "Union",
+"state": "LA"
+},
+{
+"id": "LA0036",
+"name": "Vermilion Parish Library",
+"city": "Abbeville",
+"county": "Vermilion",
+"state": "LA"
+},
+{
+"id": "LA0038",
+"name": "Vernon Parish Library",
+"city": "Leesville",
+"county": "Vernon",
+"state": "LA"
+},
+{
+"id": "LA0035",
+"name": "Washington Parish Library",
+"city": "Franklinton",
+"county": "Washington",
+"state": "LA"
+},
+{
+"id": "LA0033",
+"name": "Webster Parish Library",
+"city": "Minden",
+"county": "Webster",
+"state": "LA"
+},
+{
+"id": "LA0007",
+"name": "West Baton Rouge Parish Library",
+"city": "Port Allen",
+"county": "West Baton Rouge",
+"state": "LA"
+},
+{
+"id": "LA0067",
+"name": "West Feliciana Parish Library",
+"city": "St. Francisville",
+"county": "West Feliciana",
+"state": "LA"
+},
+{
+"id": "LA0005",
+"name": "Winn Parish Library",
+"city": "Winnfield",
+"county": "Winn",
+"state": "LA"
+},
+{
+"id": "MA0167",
+"name": "Abbot Public Library",
+"city": "Marblehead",
+"county": "Essex",
+"state": "MA"
+},
+{
+"id": "MA0001",
+"name": "Abington Public Library",
+"city": "Abington",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0002",
+"name": "Acton Memorial Library",
+"city": "Acton",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0003",
+"name": "Acushnet Public Library",
+"city": "Acushnet",
+"county": "Bristol",
+"state": "MA"
+},
+{
+"id": "MA0005",
+"name": "Agawam Public Library",
+"city": "Agawam",
+"county": "Hampden",
+"state": "MA"
+},
+{
+"id": "MA0088",
+"name": "Ames Free Library Of Easton, Inc.",
+"city": "North Easton",
+"county": "Bristol",
+"state": "MA"
+},
+{
+"id": "MA0007",
+"name": "Amesbury Public Library",
+"city": "Amesbury",
+"county": "Essex",
+"state": "MA"
+},
+{
+"id": "MA0014",
+"name": "Ashland Public Library",
+"city": "Ashland",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0015",
+"name": "Athol Public Library",
+"city": "Athol",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0016",
+"name": "Attleboro Public Library",
+"city": "Attleboro",
+"county": "Bristol",
+"state": "MA"
+},
+{
+"id": "MA0017",
+"name": "Auburn Free Public Library",
+"city": "Auburn",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0339",
+"name": "Beals Memorial Library",
+"city": "Winchendon",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0023",
+"name": "Bedford Free Public Library",
+"city": "Bedford",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0025",
+"name": "Bellingham Public Library",
+"city": "Bellingham",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0026",
+"name": "Belmont Public Library",
+"city": "Belmont",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0233",
+"name": "Berkshire Athenaeum",
+"city": "Pittsfield",
+"county": "Berkshire",
+"state": "MA"
+},
+{
+"id": "MA0030",
+"name": "Beverly Public Library",
+"city": "Beverly",
+"county": "Essex",
+"state": "MA"
+},
+{
+"id": "MA0064",
+"name": "Bigelow Free Public Library",
+"city": "Clinton",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0031",
+"name": "Billerica Public Library",
+"city": "Billerica",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0244",
+"name": "Blanding Free Public Library",
+"city": "Rehoboth",
+"county": "Bristol",
+"state": "MA"
+},
+{
+"id": "MA0035",
+"name": "Boston Public Library",
+"city": "Boston",
+"county": "Suffolk",
+"state": "MA"
+},
+{
+"id": "MA0099",
+"name": "Boyden Library",
+"city": "Foxborough",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0041",
+"name": "Brewster Ladies' Library",
+"city": "Brewster",
+"county": "Barnstable",
+"state": "MA"
+},
+{
+"id": "MA0042",
+"name": "Bridgewater Public Library",
+"city": "Bridgewater",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0044",
+"name": "Brockton Public Library",
+"city": "Brockton",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0046",
+"name": "Brookline Public Library",
+"city": "Brookline",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0126",
+"name": "Brooks Free Library",
+"city": "Harwich",
+"county": "Barnstable",
+"state": "MA"
+},
+{
+"id": "MA0048",
+"name": "Burlington Public Library",
+"city": "Burlington",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0049",
+"name": "Cambridge Public Library",
+"city": "Cambridge",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0050",
+"name": "Canton Public Library",
+"city": "Canton",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0052",
+"name": "Carver Public Library",
+"city": "Carver",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0154",
+"name": "Cary Memorial Library",
+"city": "Lexington",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0054",
+"name": "Charlton Public Library",
+"city": "Charlton",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0056",
+"name": "Chelmsford Public Library",
+"city": "Chelmsford",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0057",
+"name": "Chelsea Public Library",
+"city": "Chelsea",
+"county": "Suffolk",
+"state": "MA"
+},
+{
+"id": "MA0061",
+"name": "Chicopee Public Library",
+"city": "Chicopee",
+"county": "Hampden",
+"state": "MA"
+},
+{
+"id": "MA0024",
+"name": "Clapp Memorial Library",
+"city": "Belchertown",
+"county": "Hampshire",
+"state": "MA"
+},
+{
+"id": "MA0067",
+"name": "Concord Free Public Library",
+"city": "Concord",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0072",
+"name": "Dartmouth Public Libraries",
+"city": "Dartmouth",
+"county": "Bristol",
+"state": "MA"
+},
+{
+"id": "MA0073",
+"name": "Dedham Public Library",
+"city": "Dedham",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0082",
+"name": "Duxbury Free Library",
+"city": "Duxbury",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0083",
+"name": "East Bridgewater Public Library",
+"city": "East Bridgewater",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0085",
+"name": "East Longmeadow Public Library",
+"city": "East Longmeadow",
+"county": "Hampden",
+"state": "MA"
+},
+{
+"id": "MA0087",
+"name": "Emily Williston Memorial Library",
+"city": "Easthampton",
+"county": "Hampshire",
+"state": "MA"
+},
+{
+"id": "MA0093",
+"name": "Everett Public Libraries",
+"city": "Everett",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0095",
+"name": "Fall River Public Library",
+"city": "Fall River",
+"county": "Bristol",
+"state": "MA"
+},
+{
+"id": "MA0096",
+"name": "Falmouth Public Library",
+"city": "Falmouth",
+"county": "Barnstable",
+"state": "MA"
+},
+{
+"id": "MA0346",
+"name": "Fiske Public Library",
+"city": "Wrentham",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0097",
+"name": "Fitchburg Public Library",
+"city": "Fitchburg",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0210",
+"name": "Flint Memorial Library",
+"city": "North Reading",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0211",
+"name": "Forbes Library",
+"city": "Northampton",
+"county": "Hampshire",
+"state": "MA"
+},
+{
+"id": "MA0100",
+"name": "Framingham Public Library",
+"city": "Framingham",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0101",
+"name": "Franklin Public Library",
+"city": "Franklin",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0133",
+"name": "Gale Free Library",
+"city": "Holden",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0312",
+"name": "Gladys E. Kelly Public Library",
+"city": "Webster",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0107",
+"name": "Gloucester Lyceum & Sawyer Free Lib",
+"city": "Gloucester",
+"county": "Essex",
+"state": "MA"
+},
+{
+"id": "MA0285",
+"name": "Goodnow Library",
+"city": "Sudbury",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0110",
+"name": "Grafton Public Library",
+"city": "Grafton",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0114",
+"name": "Greenfield Public Library",
+"city": "Greenfield",
+"county": "Franklin",
+"state": "MA"
+},
+{
+"id": "MA0115",
+"name": "Groton Public Library",
+"city": "Groton",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA9024",
+"name": "Hamilton-Wenham Public Library",
+"city": "South Hamilton",
+"county": "Essex",
+"state": "MA"
+},
+{
+"id": "MA0123",
+"name": "Hanson Public Library",
+"city": "Hanson",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0128",
+"name": "Haverhill Public Library",
+"city": "Haverhill",
+"county": "Essex",
+"state": "MA"
+},
+{
+"id": "MA0130",
+"name": "Hingham Public Library",
+"city": "Hingham",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0132",
+"name": "Holbrook Public Library",
+"city": "Holbrook",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0135",
+"name": "Holliston Public Library",
+"city": "Holliston",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0136",
+"name": "Holyoke Public Library",
+"city": "Holyoke",
+"county": "Hampden",
+"state": "MA"
+},
+{
+"id": "MA0138",
+"name": "Hopkinton Public Library",
+"city": "Hopkinton",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0160",
+"name": "Hubbard Memorial Library",
+"city": "Ludlow",
+"county": "Hampden",
+"state": "MA"
+},
+{
+"id": "MA0140",
+"name": "Hudson Public Library",
+"city": "Hudson",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0141",
+"name": "Hull Public Library",
+"city": "Hull",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0352",
+"name": "Hyannis Public Library Assoc.",
+"city": "Hyannis",
+"county": "Barnstable",
+"state": "MA"
+},
+{
+"id": "MA0143",
+"name": "Ipswich Public Library",
+"city": "Ipswich",
+"county": "Essex",
+"state": "MA"
+},
+{
+"id": "MA0326",
+"name": "J. V. Fletcher Library",
+"city": "Westford",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0275",
+"name": "Jacob Edwards Library",
+"city": "Southbridge",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0122",
+"name": "John Curtis Free Library",
+"city": "Hanover",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0036",
+"name": "Jonathan Bourne Public Library",
+"city": "Bourne",
+"county": "Barnstable",
+"state": "MA"
+},
+{
+"id": "MA0008",
+"name": "Jones Library, Inc.",
+"city": "Amherst",
+"county": "Hampshire",
+"state": "MA"
+},
+{
+"id": "MA0144",
+"name": "Kingston Public Library",
+"city": "Kingston",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0145",
+"name": "Lakeville Free Public Library",
+"city": "Lakeville",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0229",
+"name": "Lawrence Library",
+"city": "Pepperell",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0148",
+"name": "Lawrence Public Library",
+"city": "Lawrence",
+"county": "Essex",
+"state": "MA"
+},
+{
+"id": "MA0150",
+"name": "Leicester Public Library",
+"city": "Leicester",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0152",
+"name": "Leominster Public Library",
+"city": "Leominster",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0103",
+"name": "Levi Heywood Memorial Library",
+"city": "Gardner",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0302",
+"name": "Lucius Beebe Memorial Library",
+"city": "Wakefield",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0161",
+"name": "Lunenburg Public Library",
+"city": "Lunenburg",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0162",
+"name": "Lynn Public Library",
+"city": "Lynn",
+"county": "Essex",
+"state": "MA"
+},
+{
+"id": "MA0163",
+"name": "Lynnfield Public Library",
+"city": "Lynnfield",
+"county": "Essex",
+"state": "MA"
+},
+{
+"id": "MA0164",
+"name": "Malden Public Library",
+"city": "Malden",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0166",
+"name": "Mansfield Public Library",
+"city": "Mansfield",
+"county": "Bristol",
+"state": "MA"
+},
+{
+"id": "MA0169",
+"name": "Marlborough Public Library",
+"city": "Marlborough",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0171",
+"name": "Mashpee Public Library",
+"city": "Mashpee",
+"county": "Barnstable",
+"state": "MA"
+},
+{
+"id": "MA0173",
+"name": "Maynard Public Library",
+"city": "Maynard",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0174",
+"name": "Medfield Memorial Library",
+"city": "Medfield",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0175",
+"name": "Medford Public Library",
+"city": "Medford",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0176",
+"name": "Medway Public Library",
+"city": "Medway",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0177",
+"name": "Melrose Public Library",
+"city": "Melrose",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0009",
+"name": "Memorial Hall Library",
+"city": "Andover",
+"county": "Essex",
+"state": "MA"
+},
+{
+"id": "MA0181",
+"name": "Middleborough Public Library",
+"city": "Middleborough",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0184",
+"name": "Milford Town Library",
+"city": "Milford",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0185",
+"name": "Millbury Public Library",
+"city": "Millbury",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0094",
+"name": "Millicent Library",
+"city": "Fairhaven",
+"county": "Bristol",
+"state": "MA"
+},
+{
+"id": "MA0188",
+"name": "Milton Public Library",
+"city": "Milton",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0217",
+"name": "Morrill Memorial Library",
+"city": "Norwood",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0196",
+"name": "Morse Institute Library",
+"city": "Natick",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0079",
+"name": "Moses Greeley Parker Memorial Lib.",
+"city": "Dracut",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0195",
+"name": "Nantucket Atheneum",
+"city": "Nantucket",
+"county": "Nantucket",
+"state": "MA"
+},
+{
+"id": "MA0197",
+"name": "Needham Free Public Library",
+"city": "Needham",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0180",
+"name": "Nevins Memorial Library",
+"city": "Methuen",
+"county": "Essex",
+"state": "MA"
+},
+{
+"id": "MA0198",
+"name": "New Bedford Free Public Library",
+"city": "New Bedford",
+"county": "Bristol",
+"state": "MA"
+},
+{
+"id": "MA0203",
+"name": "Newburyport Public Library",
+"city": "Newburyport",
+"county": "Essex",
+"state": "MA"
+},
+{
+"id": "MA0204",
+"name": "Newton Free Library",
+"city": "Newton",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0205",
+"name": "Norfolk Public Library",
+"city": "Norfolk",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0206",
+"name": "North Adams Public Library",
+"city": "North Adams",
+"county": "Berkshire",
+"state": "MA"
+},
+{
+"id": "MA0212",
+"name": "Northborough Free Library",
+"city": "Northborough",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0215",
+"name": "Norton Public Library",
+"city": "Norton",
+"county": "Bristol",
+"state": "MA"
+},
+{
+"id": "MA0216",
+"name": "Norwell Public Library",
+"city": "Norwell",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0223",
+"name": "Oxford Free Public Library",
+"city": "Oxford",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0224",
+"name": "Palmer Public Library",
+"city": "Palmer",
+"county": "Hampden",
+"state": "MA"
+},
+{
+"id": "MA0071",
+"name": "Peabody Institute Library",
+"city": "Danvers",
+"county": "Essex",
+"state": "MA"
+},
+{
+"id": "MA0226",
+"name": "Peabody Institute Library",
+"city": "Peabody",
+"county": "Essex",
+"state": "MA"
+},
+{
+"id": "MA0080",
+"name": "Pearle L. Crawford Memorial Library",
+"city": "Dudley",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0228",
+"name": "Pembroke Public Library",
+"city": "Pembroke",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0236",
+"name": "Plymouth Public Library",
+"city": "Plymouth",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0242",
+"name": "Raynham Public Library",
+"city": "Raynham",
+"county": "Bristol",
+"state": "MA"
+},
+{
+"id": "MA0243",
+"name": "Reading Public Library",
+"city": "Reading",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0157",
+"name": "Reuben Hoar Library",
+"city": "Littleton",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0245",
+"name": "Revere Public Library",
+"city": "Revere",
+"county": "Suffolk",
+"state": "MA"
+},
+{
+"id": "MA0158",
+"name": "Richard Salter Storrs Library",
+"city": "Longmeadow",
+"county": "Hampden",
+"state": "MA"
+},
+{
+"id": "MA0277",
+"name": "Richard Sugden Public Library",
+"city": "Spencer",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0208",
+"name": "Richards Memorial Library",
+"city": "North Attleborough",
+"county": "Bristol",
+"state": "MA"
+},
+{
+"id": "MA0010",
+"name": "Robbins Library",
+"city": "Arlington",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0248",
+"name": "Rockland Memorial Library",
+"city": "Rockland",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0255",
+"name": "Salem Public Library",
+"city": "Salem",
+"county": "Essex",
+"state": "MA"
+},
+{
+"id": "MA0159",
+"name": "Samuel S. Pollard Memorial Library",
+"city": "Lowell",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0258",
+"name": "Sandwich Free Public Library",
+"city": "Sandwich",
+"county": "Barnstable",
+"state": "MA"
+},
+{
+"id": "MA0259",
+"name": "Saugus Public Library",
+"city": "Saugus",
+"county": "Essex",
+"state": "MA"
+},
+{
+"id": "MA0261",
+"name": "Scituate Town Library",
+"city": "Scituate",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0262",
+"name": "Seekonk Public Library",
+"city": "Seekonk",
+"county": "Bristol",
+"state": "MA"
+},
+{
+"id": "MA0263",
+"name": "Sharon Public Library",
+"city": "Sharon",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0268",
+"name": "Shrewsbury Free Public Library",
+"city": "Shrewsbury",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0270",
+"name": "Somerset Public Library",
+"city": "Somerset",
+"county": "Bristol",
+"state": "MA"
+},
+{
+"id": "MA0271",
+"name": "Somerville Public Library",
+"city": "Somerville",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0272",
+"name": "South Hadley Public Library",
+"city": "South Hadley",
+"county": "Hampshire",
+"state": "MA"
+},
+{
+"id": "MA0274",
+"name": "Southborough Public Library",
+"city": "Southborough",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0278",
+"name": "Springfield City Library",
+"city": "Springfield",
+"county": "Hampden",
+"state": "MA"
+},
+{
+"id": "MA0207",
+"name": "Stevens Memorial Library",
+"city": "North Andover",
+"county": "Essex",
+"state": "MA"
+},
+{
+"id": "MA0281",
+"name": "Stoneham Public Library",
+"city": "Stoneham",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0282",
+"name": "Stoughton Public Library",
+"city": "Stoughton",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0288",
+"name": "Swampscott Public Library",
+"city": "Swampscott",
+"county": "Essex",
+"state": "MA"
+},
+{
+"id": "MA0289",
+"name": "Swansea Free Public Library",
+"city": "Swansea",
+"county": "Bristol",
+"state": "MA"
+},
+{
+"id": "MA0290",
+"name": "Taunton Public Library",
+"city": "Taunton",
+"county": "Bristol",
+"state": "MA"
+},
+{
+"id": "MA0292",
+"name": "Tewksbury Public Library",
+"city": "Tewksbury",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0040",
+"name": "Thayer Public Library",
+"city": "Braintree",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0240",
+"name": "Thomas Crane Public Library",
+"city": "Quincy",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0241",
+"name": "Turner Free Library",
+"city": "Randolph",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0298",
+"name": "Tyngsborough Public Library",
+"city": "Tyngsborough",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0301",
+"name": "Uxbridge Free Public Library",
+"city": "Uxbridge",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0170",
+"name": "Ventress Memorial Library",
+"city": "Marshfield",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0304",
+"name": "Walpole Public Library",
+"city": "Walpole",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0305",
+"name": "Waltham Public Library",
+"city": "Waltham",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0307",
+"name": "Wareham Free Library",
+"city": "Wareham",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0310",
+"name": "Watertown Free Public Library",
+"city": "Watertown",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0311",
+"name": "Wayland Free Public Library",
+"city": "Wayland",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0313",
+"name": "Wellesley Free Library",
+"city": "Wellesley",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0321",
+"name": "West Springfield Public Library",
+"city": "West Springfield",
+"county": "Hampden",
+"state": "MA"
+},
+{
+"id": "MA0324",
+"name": "Westborough Public Library",
+"city": "Westborough",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0325",
+"name": "Westfield Athenaeum",
+"city": "Westfield",
+"county": "Hampden",
+"state": "MA"
+},
+{
+"id": "MA0329",
+"name": "Weston Public Library",
+"city": "Weston",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0330",
+"name": "Westport Free Public Library",
+"city": "Westport",
+"county": "Bristol",
+"state": "MA"
+},
+{
+"id": "MA0331",
+"name": "Westwood Public Library",
+"city": "Westwood",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0332",
+"name": "Weymouth Public Libraries",
+"city": "Weymouth",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0213",
+"name": "Whitinsville Social Library",
+"city": "Whitinsville",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0334",
+"name": "Whitman Public Library",
+"city": "Whitman",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0335",
+"name": "Wilbraham Public Library",
+"city": "Wilbraham",
+"county": "Hampden",
+"state": "MA"
+},
+{
+"id": "MA0338",
+"name": "Wilmington Memorial Library",
+"city": "Wilmington",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0340",
+"name": "Winchester Public Library",
+"city": "Winchester",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0342",
+"name": "Winthrop Public Library & Museum",
+"city": "Winthrop",
+"county": "Suffolk",
+"state": "MA"
+},
+{
+"id": "MA0343",
+"name": "Woburn Public Library",
+"city": "Woburn",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0344",
+"name": "Worcester Public Library",
+"city": "Worcester",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0377",
+"name": "Yarmouth Town Libraries",
+"city": "South Yarmouth",
+"county": "Barnstable",
+"state": "MA"
+},
+{
+"id": "MA0306",
+"name": "Young Men'S Library Association",
+"city": "Ware",
+"county": "Hampshire",
+"state": "MA"
+},
+{
+"id": "MD0001",
+"name": "Allegany County Library System",
+"city": "Cumberland",
+"county": "Allegany",
+"state": "MD"
+},
+{
+"id": "MD0002",
+"name": "Anne Arundel County Public Library",
+"city": "Annapolis",
+"county": "Anne Arundel Coun",
+"state": "MD"
+},
+{
+"id": "MD0004",
+"name": "Baltimore County Public Library",
+"city": "Towson",
+"county": "Baltimore",
+"state": "MD"
+},
+{
+"id": "MD0005",
+"name": "Calvert Library",
+"city": "Prince Frederick",
+"county": "Calvert",
+"state": "MD"
+},
+{
+"id": "MD0006",
+"name": "Caroline County Public Library",
+"city": "Denton",
+"county": "Caroline",
+"state": "MD"
+},
+{
+"id": "MD0007",
+"name": "Carroll County Public Library",
+"city": "New Windsor",
+"county": "Carroll",
+"state": "MD"
+},
+{
+"id": "MD0008",
+"name": "Cecil County Public Library",
+"city": "North East",
+"county": "Cecil",
+"state": "MD"
+},
+{
+"id": "MD0009",
+"name": "Charles County Public Library",
+"city": "La Plata",
+"county": "Charles",
+"state": "MD"
+},
+{
+"id": "MD0010",
+"name": "Dorchester County Public Library",
+"city": "Cambridge",
+"county": "Dorchester",
+"state": "MD"
+},
+{
+"id": "MD0003",
+"name": "Enoch Pratt Free Library",
+"city": "Baltimore",
+"county": "Baltimore City",
+"state": "MD"
+},
+{
+"id": "MD0011",
+"name": "Frederick County Public Libraries",
+"city": "Frederick",
+"county": "Frederick",
+"state": "MD"
+},
+{
+"id": "MD0013",
+"name": "Harford County Public Library",
+"city": "Belcamp",
+"county": "Harford",
+"state": "MD"
+},
+{
+"id": "MD0014",
+"name": "Howard County Library System",
+"city": "Ellicott City",
+"county": "Howard",
+"state": "MD"
+},
+{
+"id": "MD0015",
+"name": "Kent County Public Library",
+"city": "Chestertown",
+"county": "Kent",
+"state": "MD"
+},
+{
+"id": "MD0016",
+"name": "Montgomery County Public Libraries",
+"city": "Rockville",
+"county": "Montgomery",
+"state": "MD"
+},
+{
+"id": "MD0017",
+"name": "Prince George`S County Memorial Library Syste",
+"city": "Largo",
+"county": "Prince George`S",
+"state": "MD"
+},
+{
+"id": "MD0018",
+"name": "Queen Anne`S County Free Library",
+"city": "Centreville",
+"county": "Queen Anne`S",
+"state": "MD"
+},
+{
+"id": "MD0012",
+"name": "Ruth Enlow Library Of Garrett County",
+"city": "Oakland",
+"county": "Garrett",
+"state": "MD"
+},
+{
+"id": "MD0020",
+"name": "Somerset County Library",
+"city": "Princess Anne",
+"county": "Somerset",
+"state": "MD"
+},
+{
+"id": "MD0019",
+"name": "St. Mary`S County Library",
+"city": "Leonardtown",
+"county": "St. Mary`S",
+"state": "MD"
+},
+{
+"id": "MD9004",
+"name": "Takoma Park Maryland Library",
+"city": "Takoma Park",
+"county": "Montgomery",
+"state": "MD"
+},
+{
+"id": "MD0021",
+"name": "Talbot County Free Library",
+"city": "Easton",
+"county": "Talbot",
+"state": "MD"
+},
+{
+"id": "MD0022",
+"name": "Washington County Free Library",
+"city": "Hagerstown",
+"county": "Washington",
+"state": "MD"
+},
+{
+"id": "MD0023",
+"name": "Wicomico County Free Library",
+"city": "Salisbury",
+"county": "Wicomico",
+"state": "MD"
+},
+{
+"id": "MD0024",
+"name": "Worcester County Library",
+"city": "Snow Hill",
+"county": "Worcester",
+"state": "MD"
+},
+{
+"id": "ME0009",
+"name": "Auburn Public Library",
+"city": "Auburn",
+"county": "Androscoggin",
+"state": "ME"
+},
+{
+"id": "ME0013",
+"name": "Bangor Public Library",
+"city": "Bangor",
+"county": "Penobscot",
+"state": "ME"
+},
+{
+"id": "ME0088",
+"name": "Baxter Memorial Library",
+"city": "Gorham",
+"county": "Cumberland",
+"state": "ME"
+},
+{
+"id": "ME0104",
+"name": "Cary Library-Houlton",
+"city": "Houlton",
+"county": "Aroostook",
+"state": "ME"
+},
+{
+"id": "ME0033",
+"name": "Curtis Memorial Library",
+"city": "Brunswick",
+"county": "Cumberland",
+"state": "ME"
+},
+{
+"id": "ME0184",
+"name": "Dyer Library",
+"city": "Saco",
+"county": "York",
+"state": "ME"
+},
+{
+"id": "ME0071",
+"name": "Ellsworth Public Library",
+"city": "Ellsworth",
+"county": "Hancock",
+"state": "ME"
+},
+{
+"id": "ME0075",
+"name": "Falmouth Memorial Library",
+"city": "Falmouth",
+"county": "Cumberland",
+"state": "ME"
+},
+{
+"id": "ME0084",
+"name": "Gardiner Public Library",
+"city": "Gardiner",
+"county": "Kennebec",
+"state": "ME"
+},
+{
+"id": "ME0186",
+"name": "Goodall Memorial Library",
+"city": "Sanford",
+"county": "York",
+"state": "ME"
+},
+{
+"id": "ME0114",
+"name": "Kennebunk Free Library",
+"city": "Kennebunk",
+"county": "York",
+"state": "ME"
+},
+{
+"id": "ME0119",
+"name": "Lewiston Public Library",
+"city": "Lewiston",
+"county": "Androscoggin",
+"state": "ME"
+},
+{
+"id": "ME0010",
+"name": "Lithgow Public Library",
+"city": "Augusta",
+"county": "Kennebec",
+"state": "ME"
+},
+{
+"id": "ME0018",
+"name": "Mcarthur Public Library",
+"city": "Biddeford",
+"county": "York",
+"state": "ME"
+},
+{
+"id": "ME0247",
+"name": "North Gorham Public Library",
+"city": "Gorham",
+"county": "Cumberland",
+"state": "ME"
+},
+{
+"id": "ME0159",
+"name": "Old Town Public Library",
+"city": "Old Town",
+"county": "Penobscot",
+"state": "ME"
+},
+{
+"id": "ME0160",
+"name": "Orono Public Library",
+"city": "Orono",
+"county": "Penobscot",
+"state": "ME"
+},
+{
+"id": "ME0015",
+"name": "Patten Free Library",
+"city": "Bath",
+"county": "Sagadahoc",
+"state": "ME"
+},
+{
+"id": "ME0174",
+"name": "Portland Public Library",
+"city": "Portland",
+"county": "Cumberland",
+"state": "ME"
+},
+{
+"id": "ME0058",
+"name": "Prince Memorial Library",
+"city": "Cumberland",
+"county": "Cumberland",
+"state": "ME"
+},
+{
+"id": "ME0189",
+"name": "Scarborough Public Library",
+"city": "Scarborough",
+"county": "Cumberland",
+"state": "ME"
+},
+{
+"id": "ME0199",
+"name": "South Portland Public Library",
+"city": "South Portland",
+"county": "Cumberland",
+"state": "ME"
+},
+{
+"id": "ME0187",
+"name": "Springvale Public Library",
+"city": "Springvale",
+"county": "York",
+"state": "ME"
+},
+{
+"id": "ME0226",
+"name": "Walker Memorial Library",
+"city": "Westbrook",
+"county": "Cumberland",
+"state": "ME"
+},
+{
+"id": "ME0221",
+"name": "Waterville Public Library",
+"city": "Waterville",
+"county": "Kennebec",
+"state": "ME"
+},
+{
+"id": "ME0224",
+"name": "Wells Public Library",
+"city": "Wells",
+"county": "York",
+"state": "ME"
+},
+{
+"id": "ME0230",
+"name": "Windham Public Library",
+"city": "Windham",
+"county": "Cumberland",
+"state": "ME"
+},
+{
+"id": "ME0238",
+"name": "York Public Library",
+"city": "York",
+"county": "York",
+"state": "ME"
+},
+{
+"id": "MI0406",
+"name": "Adrian District Library",
+"city": "Adrian",
+"county": "Lenawee",
+"state": "MI"
+},
+{
+"id": "MI0407",
+"name": "Alanson Area Public Library",
+"city": "Alanson",
+"county": "Emmet",
+"state": "MI"
+},
+{
+"id": "MI0408",
+"name": "Albion District Library",
+"city": "Albion",
+"county": "Calhoun",
+"state": "MI"
+},
+{
+"id": "MI0410",
+"name": "Allegan District Library",
+"city": "Allegan",
+"county": "Allegan",
+"state": "MI"
+},
+{
+"id": "MI9017",
+"name": "Allen Park Public Library",
+"city": "Allen Park",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0411",
+"name": "Allendale Township Library",
+"city": "Allendale",
+"county": "Ottawa",
+"state": "MI"
+},
+{
+"id": "MI0412",
+"name": "Alma Public Library",
+"city": "Alma",
+"county": "Gratiot",
+"state": "MI"
+},
+{
+"id": "MI0414",
+"name": "Alpena County Library",
+"city": "Alpena",
+"county": "Alpena",
+"state": "MI"
+},
+{
+"id": "MI0010",
+"name": "Alvah N. Belding Memorial Library",
+"city": "Belding",
+"county": "Ionia",
+"state": "MI"
+},
+{
+"id": "MI0012",
+"name": "Ann Arbor District Library",
+"city": "Ann Arbor",
+"county": "Washtenaw",
+"state": "MI"
+},
+{
+"id": "MI0015",
+"name": "Auburn Hills Public Library",
+"city": "Auburn Hills",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0017",
+"name": "Bacon Memorial District Library",
+"city": "Wyandotte",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0019",
+"name": "Baldwin Public Library",
+"city": "Birmingham",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI9026",
+"name": "Bath Township Public Library",
+"city": "Bath",
+"county": "Clinton",
+"state": "MI"
+},
+{
+"id": "MI0021",
+"name": "Bay County Library System",
+"city": "Bay City",
+"county": "Bay",
+"state": "MI"
+},
+{
+"id": "MI0430",
+"name": "Belleville Area District Library",
+"city": "Belleville",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0027",
+"name": "Benton Harbor Public Library",
+"city": "Benton Harbor",
+"county": "Berrien",
+"state": "MI"
+},
+{
+"id": "MI0030",
+"name": "Berkley Public Library",
+"city": "Berkley",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0035",
+"name": "Big Rapids Community Library",
+"city": "Big Rapids",
+"county": "Mecosta",
+"state": "MI"
+},
+{
+"id": "MI0036",
+"name": "Blair Memorial Library",
+"city": "Clawson",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0037",
+"name": "Bloomfield Township Public Library",
+"city": "Bloomfield Township",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0039",
+"name": "Branch District Library",
+"city": "Coldwater",
+"county": "Branch",
+"state": "MI"
+},
+{
+"id": "MI0040",
+"name": "Brandon Township Public Library",
+"city": "Ortonville",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0041",
+"name": "Bridgeport Public Library",
+"city": "Saginaw",
+"county": "Saginaw",
+"state": "MI"
+},
+{
+"id": "MI0026",
+"name": "Briggs District Library",
+"city": "Saint Johns",
+"county": "Clinton",
+"state": "MI"
+},
+{
+"id": "MI0043",
+"name": "Brighton District Library",
+"city": "Brighton",
+"county": "Livingston",
+"state": "MI"
+},
+{
+"id": "MI0045",
+"name": "Buchanan District Library",
+"city": "Buchanan",
+"county": "Berrien",
+"state": "MI"
+},
+{
+"id": "MI0049",
+"name": "Cadillac Wexford Public Library",
+"city": "Cadillac",
+"county": "Wexford",
+"state": "MI"
+},
+{
+"id": "MI0052",
+"name": "Canton Public Library",
+"city": "Canton",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0424",
+"name": "Capital Area District Library",
+"city": "Lansing",
+"county": "Ingham",
+"state": "MI"
+},
+{
+"id": "MI0168",
+"name": "Caro Area District Library",
+"city": "Caro",
+"county": "Tuscola",
+"state": "MI"
+},
+{
+"id": "MI0054",
+"name": "Carson City Public Library",
+"city": "Carson City",
+"county": "Montcalm",
+"state": "MI"
+},
+{
+"id": "MI0055",
+"name": "Cass District Library",
+"city": "Cassopolis",
+"county": "Cass",
+"state": "MI"
+},
+{
+"id": "MI0056",
+"name": "Cedar Springs Public Library",
+"city": "Cedar Springs",
+"county": "Kent",
+"state": "MI"
+},
+{
+"id": "MI0059",
+"name": "Charles A. Ransom District Library",
+"city": "Plainwell",
+"county": "Allegan",
+"state": "MI"
+},
+{
+"id": "MI0061",
+"name": "Charlotte Community Library",
+"city": "Charlotte",
+"county": "Eaton",
+"state": "MI"
+},
+{
+"id": "MI0063",
+"name": "Cheboygan Area Public Library",
+"city": "Cheboygan",
+"county": "Cheboygan",
+"state": "MI"
+},
+{
+"id": "MI0223",
+"name": "Chelsea District Library",
+"city": "Chelsea",
+"county": "Washtenaw",
+"state": "MI"
+},
+{
+"id": "MI0416",
+"name": "Chesterfield Township Library",
+"city": "Chesterfield",
+"county": "Macomb",
+"state": "MI"
+},
+{
+"id": "MI0348",
+"name": "Chippewa River District Library System",
+"city": "Mount Pleasant",
+"county": "Isabella",
+"state": "MI"
+},
+{
+"id": "MI0166",
+"name": "Clarkston Independence District Library",
+"city": "Clarkston",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0397",
+"name": "Clinton-Macomb Public Library",
+"city": "Clinton Township",
+"county": "Macomb",
+"state": "MI"
+},
+{
+"id": "MI0067",
+"name": "Coloma Public Library",
+"city": "Coloma",
+"county": "Berrien",
+"state": "MI"
+},
+{
+"id": "MI0426",
+"name": "Commerce Township Community Library",
+"city": "Commerce Township",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0310",
+"name": "Community District Library",
+"city": "Corunna",
+"county": "Shiawassee",
+"state": "MI"
+},
+{
+"id": "MI0070",
+"name": "Comstock Township Library",
+"city": "Comstock",
+"county": "Kalamazoo",
+"state": "MI"
+},
+{
+"id": "MI0072",
+"name": "Coopersville Area District Library",
+"city": "Coopersville",
+"county": "Ottawa",
+"state": "MI"
+},
+{
+"id": "MI0074",
+"name": "Crawford County Library",
+"city": "Grayling",
+"county": "Crawford",
+"state": "MI"
+},
+{
+"id": "MI0075",
+"name": "Cromaine District Library",
+"city": "Hartland",
+"county": "Livingston",
+"state": "MI"
+},
+{
+"id": "MI0425",
+"name": "Dearborn Heights City Libraries",
+"city": "Dearborn Heights",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0078",
+"name": "Dearborn Public Library",
+"city": "Dearborn",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI9009",
+"name": "Delta Township District Library",
+"city": "Lansing",
+"county": "Eaton",
+"state": "MI"
+},
+{
+"id": "MI0083",
+"name": "Detroit Public Library",
+"city": "Detroit",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0106",
+"name": "Dewitt District Library",
+"city": "Dewitt",
+"county": "Clinton",
+"state": "MI"
+},
+{
+"id": "MI0084",
+"name": "Dexter District Library",
+"city": "Dexter",
+"county": "Washtenaw",
+"state": "MI"
+},
+{
+"id": "MI0085",
+"name": "Dickinson County Library",
+"city": "Iron Mountain",
+"county": "Dickinson",
+"state": "MI"
+},
+{
+"id": "MI0087",
+"name": "Dowagiac District Library",
+"city": "Dowagiac",
+"county": "Cass",
+"state": "MI"
+},
+{
+"id": "MI0093",
+"name": "East Lansing Public Library",
+"city": "East Lansing",
+"county": "Ingham",
+"state": "MI"
+},
+{
+"id": "MI0092",
+"name": "Eastpointe Memorial Library",
+"city": "Eastpointe",
+"county": "Macomb",
+"state": "MI"
+},
+{
+"id": "MI0094",
+"name": "Eaton Rapids Area District Library",
+"city": "Eaton Rapids",
+"county": "Eaton",
+"state": "MI"
+},
+{
+"id": "MI0101",
+"name": "Escanaba Public Library",
+"city": "Escanaba",
+"county": "Delta",
+"state": "MI"
+},
+{
+"id": "MI0105",
+"name": "Farmington Community Library",
+"city": "Farmington Hills",
+"county": "Oakland",
+"state": "MI"
+}
+]

@@ -1,0 +1,3194 @@
+[
+{
+"id": "IA0474",
+"name": "Dewitt Community Library",
+"city": "Dewitt",
+"county": "Clinton",
+"state": "IA"
+},
+{
+"id": "IA0061",
+"name": "Drake Community Library",
+"city": "Grinnell",
+"county": "Poweshiek",
+"state": "IA"
+},
+{
+"id": "IA0148",
+"name": "Dubuque County Library",
+"city": "Asbury",
+"county": "Dubuque",
+"state": "IA"
+},
+{
+"id": "IA0193",
+"name": "Ericson Public Library",
+"city": "Boone",
+"county": "Boone",
+"state": "IA"
+},
+{
+"id": "IA0012",
+"name": "Fairfield Public Library",
+"city": "Fairfield",
+"county": "Jefferson",
+"state": "IA"
+},
+{
+"id": "IA0262",
+"name": "Fort Dodge Public Library",
+"city": "Fort Dodge",
+"county": "Webster",
+"state": "IA"
+},
+{
+"id": "IA0211",
+"name": "Fort Madison Public Library",
+"city": "Fort Madison",
+"county": "Lee",
+"state": "IA"
+},
+{
+"id": "IA0438",
+"name": "Glenwood Public Library",
+"city": "Glenwood",
+"county": "Mills",
+"state": "IA"
+},
+{
+"id": "IA0155",
+"name": "Grimes Public Library",
+"city": "Grimes",
+"county": "Polk",
+"state": "IA"
+},
+{
+"id": "IA0498",
+"name": "Harlan Community Library",
+"city": "Harlan",
+"county": "Shelby",
+"state": "IA"
+},
+{
+"id": "IA0458",
+"name": "Hiawatha Public Library",
+"city": "Hiawatha",
+"county": "Linn",
+"state": "IA"
+},
+{
+"id": "IA0340",
+"name": "Independence Public Library",
+"city": "Independence",
+"county": "Buchanan",
+"state": "IA"
+},
+{
+"id": "IA0378",
+"name": "Indianola Public Library",
+"city": "Indianola",
+"county": "Warren",
+"state": "IA"
+},
+{
+"id": "IA0052",
+"name": "Iowa City Public Library",
+"city": "Iowa City",
+"county": "Johnson",
+"state": "IA"
+},
+{
+"id": "IA0547",
+"name": "Johnston Public Library",
+"city": "Johnston",
+"county": "Polk",
+"state": "IA"
+},
+{
+"id": "IA0091",
+"name": "Kendall Young Library",
+"city": "Webster City",
+"county": "Hamilton",
+"state": "IA"
+},
+{
+"id": "IA0202",
+"name": "Keokuk Public Library",
+"city": "Keokuk",
+"county": "Lee",
+"state": "IA"
+},
+{
+"id": "IA0166",
+"name": "Knoxville Public Library",
+"city": "Knoxville",
+"county": "Marion",
+"state": "IA"
+},
+{
+"id": "IA0126",
+"name": "Le Mars Public Library",
+"city": "Le Mars",
+"county": "Plymouth",
+"state": "IA"
+},
+{
+"id": "IA0146",
+"name": "Manchester Public Library",
+"city": "Manchester",
+"county": "Delaware",
+"state": "IA"
+},
+{
+"id": "IA0359",
+"name": "Maquoketa Public Library",
+"city": "Maquoketa",
+"county": "Jackson",
+"state": "IA"
+},
+{
+"id": "IA0460",
+"name": "Marion Public Library",
+"city": "Marion",
+"county": "Linn",
+"state": "IA"
+},
+{
+"id": "IA0160",
+"name": "Marshalltown Public Library",
+"city": "Marshalltown",
+"county": "Marshall",
+"state": "IA"
+},
+{
+"id": "IA0076",
+"name": "Mason City Public Library",
+"city": "Mason City",
+"county": "Cerro Gordo",
+"state": "IA"
+},
+{
+"id": "IA0010",
+"name": "Matilda J. Gibson Memorial Library",
+"city": "Creston",
+"county": "Union",
+"state": "IA"
+},
+{
+"id": "IA0221",
+"name": "Mount Pleasant Public Library",
+"city": "Mount Pleasant",
+"county": "Henry",
+"state": "IA"
+},
+{
+"id": "IA0071",
+"name": "Musser Public Library",
+"city": "Muscatine",
+"county": "Muscatine",
+"state": "IA"
+},
+{
+"id": "IA0165",
+"name": "Newton Public Library",
+"city": "Newton",
+"county": "Jasper",
+"state": "IA"
+},
+{
+"id": "IA0481",
+"name": "Norelius Community Library",
+"city": "Denison",
+"county": "Crawford",
+"state": "IA"
+},
+{
+"id": "IA0075",
+"name": "North Liberty Community Library",
+"city": "North Liberty",
+"county": "Johnson",
+"state": "IA"
+},
+{
+"id": "IA0380",
+"name": "Norwalk Easter Public Library",
+"city": "Norwalk",
+"county": "Warren",
+"state": "IA"
+},
+{
+"id": "IA0024",
+"name": "Oskaloosa Public Library",
+"city": "Oskaloosa",
+"county": "Mahaska",
+"state": "IA"
+},
+{
+"id": "IA0002",
+"name": "Ottumwa Public Library",
+"city": "Ottumwa",
+"county": "Wapello",
+"state": "IA"
+},
+{
+"id": "IA0167",
+"name": "Pella Public Library",
+"city": "Pella",
+"county": "Marion",
+"state": "IA"
+},
+{
+"id": "IA0158",
+"name": "Pleasant Hill Public Library",
+"city": "Pleasant Hill",
+"county": "Polk",
+"state": "IA"
+},
+{
+"id": "IA0356",
+"name": "Scott County Library System",
+"city": "Eldridge",
+"county": "Scott",
+"state": "IA"
+},
+{
+"id": "IA0184",
+"name": "Sioux Center Public Library",
+"city": "Sioux Center",
+"county": "Sioux",
+"state": "IA"
+},
+{
+"id": "IA0225",
+"name": "Sioux City Public Library",
+"city": "Sioux City",
+"county": "Woodbury",
+"state": "IA"
+},
+{
+"id": "IA0423",
+"name": "Spencer Public Library",
+"city": "Spencer",
+"county": "Clay",
+"state": "IA"
+},
+{
+"id": "IA0428",
+"name": "Spirit Lake Public Library",
+"city": "Spirit Lake",
+"county": "Dickinson",
+"state": "IA"
+},
+{
+"id": "IA0414",
+"name": "Storm Lake Public Library",
+"city": "Storm Lake",
+"county": "Buena Vista",
+"state": "IA"
+},
+{
+"id": "IA0152",
+"name": "Urbandale Public Library",
+"city": "Urbandale",
+"county": "Polk",
+"state": "IA"
+},
+{
+"id": "IA0065",
+"name": "Washington Free Public Library",
+"city": "Washington",
+"county": "Washington",
+"state": "IA"
+},
+{
+"id": "IA0331",
+"name": "Waterloo Public Library",
+"city": "Waterloo",
+"county": "Black Hawk",
+"state": "IA"
+},
+{
+"id": "IA0036",
+"name": "Waukee Public Library",
+"city": "Waukee",
+"county": "Dallas",
+"state": "IA"
+},
+{
+"id": "IA0338",
+"name": "Waverly Public Library",
+"city": "Waverly",
+"county": "Bremer",
+"state": "IA"
+},
+{
+"id": "IA0153",
+"name": "West Des Moines Public Library",
+"city": "West Des Moines",
+"county": "Polk",
+"state": "IA"
+},
+{
+"id": "IA0040",
+"name": "Winterset Public Library",
+"city": "Winterset",
+"county": "Madison",
+"state": "IA"
+},
+{
+"id": "IA0229",
+"name": "Woodbury County Library",
+"city": "Moville",
+"county": "Woodbury",
+"state": "IA"
+},
+{
+"id": "ID0006",
+"name": "Ada County District",
+"city": "Boise",
+"county": "Ada",
+"state": "ID"
+},
+{
+"id": "ID0008",
+"name": "Blackfoot Public",
+"city": "Blackfoot",
+"county": "Bingham",
+"state": "ID"
+},
+{
+"id": "ID0005",
+"name": "Boise Public",
+"city": "Boise",
+"county": "Ada",
+"state": "ID"
+},
+{
+"id": "ID0010",
+"name": "Boundary County District",
+"city": "Bonners Ferry",
+"county": "Boundary",
+"state": "ID"
+},
+{
+"id": "ID0013",
+"name": "Burley Public",
+"city": "Burley",
+"county": "Cassia",
+"state": "ID"
+},
+{
+"id": "ID0015",
+"name": "Caldwell Public",
+"city": "Caldwell",
+"county": "Canyon",
+"state": "ID"
+},
+{
+"id": "ID0014",
+"name": "Coeur D`Alene Public",
+"city": "Coeur D`Alene",
+"county": "Kootenai",
+"state": "ID"
+},
+{
+"id": "ID0120",
+"name": "Community Library Network",
+"city": "Post Falls",
+"county": "Kootenai",
+"state": "ID"
+},
+{
+"id": "ID0026",
+"name": "Eagle Public",
+"city": "Eagle",
+"county": "Ada",
+"state": "ID"
+},
+{
+"id": "ID0098",
+"name": "East Bonner County District",
+"city": "Sandpoint",
+"county": "Bonner",
+"state": "ID"
+},
+{
+"id": "ID0123",
+"name": "Fremont County District",
+"city": "Ashton",
+"county": "Fremont",
+"state": "ID"
+},
+{
+"id": "ID0033",
+"name": "Garden City Public",
+"city": "Garden City",
+"county": "Ada",
+"state": "ID"
+},
+{
+"id": "ID0046",
+"name": "Idaho Falls Public",
+"city": "Idaho Falls",
+"county": "Bonneville",
+"state": "ID"
+},
+{
+"id": "ID0048",
+"name": "Jerome Public",
+"city": "Jerome",
+"county": "Jerome",
+"state": "ID"
+},
+{
+"id": "ID0050",
+"name": "Kuna District",
+"city": "Kuna",
+"county": "Ada",
+"state": "ID"
+},
+{
+"id": "ID0085",
+"name": "Larsen-Sant/Franklin District",
+"city": "Preston",
+"county": "Franklin",
+"state": "ID"
+},
+{
+"id": "ID0060",
+"name": "Latah County District",
+"city": "Moscow",
+"county": "Latah",
+"state": "ID"
+},
+{
+"id": "ID0051",
+"name": "Lewiston City Public",
+"city": "Lewiston",
+"county": "Nez Perce",
+"state": "ID"
+},
+{
+"id": "ID0086",
+"name": "Madison Library District",
+"city": "Rexburg",
+"county": "Madison",
+"state": "ID"
+},
+{
+"id": "ID0080",
+"name": "Marshall Public",
+"city": "Pocatello",
+"county": "Bannock",
+"state": "ID"
+},
+{
+"id": "ID0061",
+"name": "Meridian District",
+"city": "Meridian",
+"county": "Ada",
+"state": "ID"
+},
+{
+"id": "ID0065",
+"name": "Middleton Public",
+"city": "Middleton",
+"county": "Canyon",
+"state": "ID"
+},
+{
+"id": "ID0063",
+"name": "Mountain Home Public",
+"city": "Mountain Home",
+"county": "Elmore",
+"state": "ID"
+},
+{
+"id": "ID0069",
+"name": "Nampa Public",
+"city": "Nampa",
+"county": "Canyon",
+"state": "ID"
+},
+{
+"id": "ID0094",
+"name": "North Bingham County District",
+"city": "Shelley",
+"county": "Bingham",
+"state": "ID"
+},
+{
+"id": "ID0019",
+"name": "Portneuf District",
+"city": "Chubbuck",
+"county": "Bannock",
+"state": "ID"
+},
+{
+"id": "ID0055",
+"name": "Prairie-River District",
+"city": "Lapwai",
+"county": "Nez Perce",
+"state": "ID"
+},
+{
+"id": "ID0105",
+"name": "Twin Falls Public",
+"city": "Twin Falls",
+"county": "Twin Falls",
+"state": "ID"
+},
+{
+"id": "ID0106",
+"name": "Valley Of The Tetons District",
+"city": "Victor",
+"county": "Teton",
+"state": "ID"
+},
+{
+"id": "IL0002",
+"name": "Acorn Public Library District",
+"city": "Oak Forest",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0003",
+"name": "Addison Public Library",
+"city": "Addison",
+"county": "Dupage",
+"state": "IL"
+},
+{
+"id": "IL0006",
+"name": "Algonquin Area Public Library District",
+"city": "Algonquin",
+"county": "Mchenry",
+"state": "IL"
+},
+{
+"id": "IL0007",
+"name": "Alpha Park Public Library District",
+"city": "Bartonville",
+"county": "Peoria",
+"state": "IL"
+},
+{
+"id": "IL0008",
+"name": "Alsip-Merrionette Park Public Library District",
+"city": "Alsip",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0081",
+"name": "Anne West Lindsey District Library",
+"city": "Carterville",
+"county": "Williamson",
+"state": "IL"
+},
+{
+"id": "IL0015",
+"name": "Antioch Public Library District",
+"city": "Antioch",
+"county": "Lake",
+"state": "IL"
+},
+{
+"id": "IL0018",
+"name": "Arlington Heights Memorial Library",
+"city": "Arlington Heights",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0029",
+"name": "Aurora Public Library District",
+"city": "Aurora",
+"county": "Kane",
+"state": "IL"
+},
+{
+"id": "IL0032",
+"name": "Barrington Public Library District",
+"city": "Barrington",
+"county": "Lake",
+"state": "IL"
+},
+{
+"id": "IL0034",
+"name": "Bartlett Public Library District",
+"city": "Bartlett",
+"county": "Dupage",
+"state": "IL"
+},
+{
+"id": "IL0035",
+"name": "Batavia Public Library District",
+"city": "Batavia",
+"county": "Kane",
+"state": "IL"
+},
+{
+"id": "IL0038",
+"name": "Belleville Public Library",
+"city": "Belleville",
+"county": "St. Clair",
+"state": "IL"
+},
+{
+"id": "IL0039",
+"name": "Bellwood Public Library",
+"city": "Bellwood",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0042",
+"name": "Bensenville Community Public Library District",
+"city": "Bensenville",
+"county": "Dupage",
+"state": "IL"
+},
+{
+"id": "IL0043",
+"name": "Benton Public Library District",
+"city": "Benton",
+"county": "Franklin",
+"state": "IL"
+},
+{
+"id": "IL0046",
+"name": "Berwyn Public Library",
+"city": "Berwyn",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0047",
+"name": "Bethalto Public Library District",
+"city": "Bethalto",
+"county": "Madison",
+"state": "IL"
+},
+{
+"id": "IL0049",
+"name": "Bloomingdale Public Library",
+"city": "Bloomingdale",
+"county": "Dupage",
+"state": "IL"
+},
+{
+"id": "IL0050",
+"name": "Bloomington Public Library",
+"city": "Bloomington",
+"county": "Mclean",
+"state": "IL"
+},
+{
+"id": "IL0051",
+"name": "Blue Island Public Library",
+"city": "Blue Island",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0054",
+"name": "Bourbonnais Public Library District",
+"city": "Bourbonnais",
+"county": "Kankakee",
+"state": "IL"
+},
+{
+"id": "IL0056",
+"name": "Bradley Public Library District",
+"city": "Bradley",
+"county": "Kankakee",
+"state": "IL"
+},
+{
+"id": "IL0058",
+"name": "Bridgeview Public Library",
+"city": "Bridgeview",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0363",
+"name": "C.E. Brehm Memorial Public Library District",
+"city": "Mount Vernon",
+"county": "Jefferson",
+"state": "IL"
+},
+{
+"id": "IL0067",
+"name": "Cahokia Public Library District",
+"city": "Cahokia Heights",
+"county": "St. Clair",
+"state": "IL"
+},
+{
+"id": "IL0069",
+"name": "Calumet City Public Library",
+"city": "Calumet City",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0074",
+"name": "Carbondale Public Library",
+"city": "Carbondale",
+"county": "Jackson",
+"state": "IL"
+},
+{
+"id": "IL0078",
+"name": "Carol Stream Public Library",
+"city": "Carol Stream",
+"county": "Dupage",
+"state": "IL"
+},
+{
+"id": "IL0083",
+"name": "Cary Area Public Library District",
+"city": "Cary",
+"county": "Mchenry",
+"state": "IL"
+},
+{
+"id": "IL0088",
+"name": "Centralia Regional Library District",
+"city": "Centralia",
+"county": "Marion",
+"state": "IL"
+},
+{
+"id": "IL0091",
+"name": "Champaign Public Library",
+"city": "Champaign",
+"county": "Champaign",
+"state": "IL"
+},
+{
+"id": "IL0092",
+"name": "Charleston Carnegie Public Library",
+"city": "Charleston",
+"county": "Coles",
+"state": "IL"
+},
+{
+"id": "IL0093",
+"name": "Chatham Area Public Library District",
+"city": "Chatham",
+"county": "Sangamon",
+"state": "IL"
+},
+{
+"id": "IL0096",
+"name": "Cherry Valley Public Library District",
+"city": "Cherry Valley",
+"county": "Winnebago",
+"state": "IL"
+},
+{
+"id": "IL0099",
+"name": "Chicago Heights Public Library",
+"city": "Chicago Heights",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0098",
+"name": "Chicago Public Library",
+"city": "Chicago",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0100",
+"name": "Chicago Ridge Public Library",
+"city": "Chicago Ridge",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0102",
+"name": "Chillicothe Public Library District",
+"city": "Chillicothe",
+"county": "Peoria",
+"state": "IL"
+},
+{
+"id": "IL0105",
+"name": "Cicero Public Library",
+"city": "Cicero",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0111",
+"name": "Coal City Public Library District",
+"city": "Coal City",
+"county": "Grundy",
+"state": "IL"
+},
+{
+"id": "IL0115",
+"name": "Columbia Public Library",
+"city": "Columbia",
+"county": "Monroe",
+"state": "IL"
+},
+{
+"id": "IL0116",
+"name": "Cook Memorial Public Library District",
+"city": "Libertyville",
+"county": "Lake",
+"state": "IL"
+},
+{
+"id": "IL0123",
+"name": "Crete Public Library District",
+"city": "Crete",
+"county": "Will",
+"state": "IL"
+},
+{
+"id": "IL0125",
+"name": "Crystal Lake Public Library",
+"city": "Crystal Lake",
+"county": "Mchenry",
+"state": "IL"
+},
+{
+"id": "IL0129",
+"name": "Danville Public Library",
+"city": "Danville",
+"county": "Vermilion",
+"state": "IL"
+},
+{
+"id": "IL0132",
+"name": "Decatur Public Library",
+"city": "Decatur",
+"county": "Macon",
+"state": "IL"
+},
+{
+"id": "IL0134",
+"name": "Deerfield Public Library",
+"city": "Deerfield",
+"county": "Lake",
+"state": "IL"
+},
+{
+"id": "IL0135",
+"name": "Dekalb Public Library",
+"city": "Dekalb",
+"county": "Dekalb",
+"state": "IL"
+},
+{
+"id": "IL0138",
+"name": "Des Plaines Public Library",
+"city": "Des Plaines",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0141",
+"name": "Dixon Public Library",
+"city": "Dixon",
+"county": "Lee",
+"state": "IL"
+},
+{
+"id": "IL0143",
+"name": "Dolton Public Library District",
+"city": "Dolton",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0145",
+"name": "Downers Grove Public Library",
+"city": "Downers Grove",
+"county": "Dupage",
+"state": "IL"
+},
+{
+"id": "IL0153",
+"name": "East Moline Public Library",
+"city": "East Moline",
+"county": "Rock Island",
+"state": "IL"
+},
+{
+"id": "IL0154",
+"name": "East Saint Louis Public Library",
+"city": "East Saint Louis",
+"county": "St. Clair",
+"state": "IL"
+},
+{
+"id": "IL0155",
+"name": "Edwardsville Public Library",
+"city": "Edwardsville",
+"county": "Madison",
+"state": "IL"
+},
+{
+"id": "IL0156",
+"name": "Effingham Public Library",
+"city": "Effingham",
+"county": "Effingham",
+"state": "IL"
+},
+{
+"id": "IL0157",
+"name": "Eisenhower Public Library District",
+"city": "Harwood Heights",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0158",
+"name": "Ela Area Public Library District",
+"city": "Lake Zurich",
+"county": "Lake",
+"state": "IL"
+},
+{
+"id": "IL0162",
+"name": "Elk Grove Village Public Library",
+"city": "Elk Grove Village",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0165",
+"name": "Ella Johnson Memorial Public Library District",
+"city": "Hampshire",
+"county": "Kane",
+"state": "IL"
+},
+{
+"id": "IL0166",
+"name": "Elmhurst Public Library",
+"city": "Elmhurst",
+"county": "Dupage",
+"state": "IL"
+},
+{
+"id": "IL0168",
+"name": "Elmwood Park Public Library",
+"city": "Elmwood Park",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0542",
+"name": "Evans Public Library District",
+"city": "Vandalia",
+"county": "Fayette",
+"state": "IL"
+},
+{
+"id": "IL0172",
+"name": "Evanston Public Library",
+"city": "Evanston",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0174",
+"name": "Evergreen Park Public Library",
+"city": "Evergreen Park",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0178",
+"name": "Fairview Heights Public Library",
+"city": "Fairview Heights",
+"county": "St. Clair",
+"state": "IL"
+},
+{
+"id": "IL0458",
+"name": "Flagg-Rochelle Public Library District",
+"city": "Rochelle",
+"county": "Ogle",
+"state": "IL"
+},
+{
+"id": "IL0183",
+"name": "Fondulac Public Library District",
+"city": "East Peoria",
+"county": "Tazewell",
+"state": "IL"
+},
+{
+"id": "IL0184",
+"name": "Forest Park Public Library",
+"city": "Forest Park",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0188",
+"name": "Fossil Ridge Public Library District",
+"city": "Braidwood",
+"county": "Will",
+"state": "IL"
+},
+{
+"id": "IL0189",
+"name": "Fountaindale Public Library District",
+"city": "Bolingbrook",
+"county": "Will",
+"state": "IL"
+},
+{
+"id": "IL0190",
+"name": "Fox Lake Public Library District",
+"city": "Fox Lake",
+"county": "Lake",
+"state": "IL"
+},
+{
+"id": "IL0146",
+"name": "Fox River Valley Public Library District",
+"city": "East Dundee",
+"county": "Kane",
+"state": "IL"
+},
+{
+"id": "IL0192",
+"name": "Frankfort Public Library District",
+"city": "Frankfort",
+"county": "Will",
+"state": "IL"
+},
+{
+"id": "IL0194",
+"name": "Franklin Park Public Library District",
+"city": "Franklin Park",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0195",
+"name": "Freeport Public Library",
+"city": "Freeport",
+"county": "Stephenson",
+"state": "IL"
+},
+{
+"id": "IL0196",
+"name": "Fremont Public Library District",
+"city": "Mundelein",
+"county": "Lake",
+"state": "IL"
+},
+{
+"id": "IL0197",
+"name": "Gail Borden Public Library District",
+"city": "Elgin",
+"county": "Kane",
+"state": "IL"
+},
+{
+"id": "IL0199",
+"name": "Galesburg Public Library",
+"city": "Galesburg",
+"county": "Knox",
+"state": "IL"
+},
+{
+"id": "IL0201",
+"name": "Geneseo Public Library District",
+"city": "Geneseo",
+"county": "Henry",
+"state": "IL"
+},
+{
+"id": "IL0202",
+"name": "Geneva Public Library District",
+"city": "Geneva",
+"county": "Kane",
+"state": "IL"
+},
+{
+"id": "IL0638",
+"name": "Glen Carbon Centennial Library District",
+"city": "Glen Carbon",
+"county": "Madison",
+"state": "IL"
+},
+{
+"id": "IL0209",
+"name": "Glen Ellyn Public Library",
+"city": "Glen Ellyn",
+"county": "Dupage",
+"state": "IL"
+},
+{
+"id": "IL0211",
+"name": "Glenside Public Library District",
+"city": "Glendale Heights",
+"county": "Dupage",
+"state": "IL"
+},
+{
+"id": "IL0212",
+"name": "Glenview Public Library",
+"city": "Glenview",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0213",
+"name": "Glenwood-Lynwood Public Library District",
+"city": "Lynwood",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0216",
+"name": "Grande Prairie Public Library District",
+"city": "Hazel Crest",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0219",
+"name": "Grayslake Area Public Library District",
+"city": "Grayslake",
+"county": "Lake",
+"state": "IL"
+},
+{
+"id": "IL0221",
+"name": "Green Hills Public Library District",
+"city": "Palos Hills",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0229",
+"name": "Harrisburg Public Library District",
+"city": "Harrisburg",
+"county": "Saline",
+"state": "IL"
+},
+{
+"id": "IL0232",
+"name": "Harvey Public Library District",
+"city": "Harvey",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0234",
+"name": "Hayner Public Library District",
+"city": "Alton",
+"county": "Madison",
+"state": "IL"
+},
+{
+"id": "IL0295",
+"name": "Helen M. Plum Memorial Public Library District",
+"city": "Lombard",
+"county": "Dupage",
+"state": "IL"
+},
+{
+"id": "IL0239",
+"name": "Herrin City Library",
+"city": "Herrin",
+"county": "Williamson",
+"state": "IL"
+},
+{
+"id": "IL0242",
+"name": "Highland Park Public Library",
+"city": "Highland Park",
+"county": "Lake",
+"state": "IL"
+},
+{
+"id": "IL0244",
+"name": "Hillsboro Area Public Library District",
+"city": "Hillsboro",
+"county": "Montgomery",
+"state": "IL"
+},
+{
+"id": "IL0246",
+"name": "Hinsdale Public Library",
+"city": "Hinsdale",
+"county": "Dupage",
+"state": "IL"
+},
+{
+"id": "IL0249",
+"name": "Homer Township Public Library District",
+"city": "Homer Glen",
+"county": "Will",
+"state": "IL"
+},
+{
+"id": "IL0251",
+"name": "Homewood Public Library District",
+"city": "Homewood",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0636",
+"name": "Huntley Area Public Library District",
+"city": "Huntley",
+"county": "Mchenry",
+"state": "IL"
+},
+{
+"id": "IL0040",
+"name": "Ida Public Library",
+"city": "Belvidere",
+"county": "Boone",
+"state": "IL"
+},
+{
+"id": "IL0253",
+"name": "Illinois Prairie District Public Library",
+"city": "Metamora",
+"county": "Woodford",
+"state": "IL"
+},
+{
+"id": "IL0130",
+"name": "Indian Prairie Public Library District",
+"city": "Darien",
+"county": "Dupage",
+"state": "IL"
+},
+{
+"id": "IL0255",
+"name": "Indian Trails Public Library District",
+"city": "Wheeling",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0257",
+"name": "Jacksonville Public Library",
+"city": "Jacksonville",
+"county": "Morgan",
+"state": "IL"
+},
+{
+"id": "IL0259",
+"name": "Johnsburg Public Library District",
+"city": "Johnsburg",
+"county": "Mchenry",
+"state": "IL"
+},
+{
+"id": "IL0261",
+"name": "Joliet Public Library",
+"city": "Joliet",
+"county": "Will",
+"state": "IL"
+},
+{
+"id": "IL0263",
+"name": "Justice Public Library District",
+"city": "Justice",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0265",
+"name": "Kankakee Public Library",
+"city": "Kankakee",
+"county": "Kankakee",
+"state": "IL"
+},
+{
+"id": "IL0267",
+"name": "Kewanee Public Library District",
+"city": "Kewanee",
+"county": "Henry",
+"state": "IL"
+},
+{
+"id": "IL0274",
+"name": "Lagrange Park Public Library District",
+"city": "La Grange Park",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0273",
+"name": "Lagrange Public Library",
+"city": "La Grange",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0277",
+"name": "Lake Forest Library",
+"city": "Lake Forest",
+"county": "Lake",
+"state": "IL"
+},
+{
+"id": "IL0278",
+"name": "Lake Villa Public Library District",
+"city": "Lindenhurst",
+"county": "Lake",
+"state": "IL"
+},
+{
+"id": "IL0282",
+"name": "Lansing Public Library",
+"city": "Lansing",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0284",
+"name": "Lawrence Public Library District",
+"city": "Lawrenceville",
+"county": "Lawrence",
+"state": "IL"
+},
+{
+"id": "IL0286",
+"name": "Lemont Public Library District",
+"city": "Lemont",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0504",
+"name": "Lincoln Library",
+"city": "Springfield",
+"county": "Sangamon",
+"state": "IL"
+},
+{
+"id": "IL0290",
+"name": "Lincoln Public Library District",
+"city": "Lincoln",
+"county": "Logan",
+"state": "IL"
+},
+{
+"id": "IL0608",
+"name": "Lincolnwood Public Library District",
+"city": "Lincolnwood",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0061",
+"name": "Linda Sokol Francis Brookfield Library",
+"city": "Brookfield",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0292",
+"name": "Lisle Library District",
+"city": "Lisle",
+"county": "Dupage",
+"state": "IL"
+},
+{
+"id": "IL0298",
+"name": "Lyons Public Library",
+"city": "Lyons",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0306",
+"name": "Macomb Public Library District",
+"city": "Macomb",
+"county": "Mcdonough",
+"state": "IL"
+},
+{
+"id": "IL0309",
+"name": "Mahomet Public Library District",
+"city": "Mahomet",
+"county": "Champaign",
+"state": "IL"
+},
+{
+"id": "IL0311",
+"name": "Manhattan-Elwood Public Library District",
+"city": "Manhattan",
+"county": "Will",
+"state": "IL"
+},
+{
+"id": "IL0314",
+"name": "Manteno Public Library District",
+"city": "Manteno",
+"county": "Kankakee",
+"state": "IL"
+},
+{
+"id": "IL0317",
+"name": "Marengo-Union Public Library District",
+"city": "Marengo",
+"county": "Mchenry",
+"state": "IL"
+},
+{
+"id": "IL0318",
+"name": "Marion Carnegie Library",
+"city": "Marion",
+"county": "Williamson",
+"state": "IL"
+},
+{
+"id": "IL0320",
+"name": "Markham Public Library",
+"city": "Markham",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0693",
+"name": "Maryville Community Library District",
+"city": "Maryville",
+"county": "Madison",
+"state": "IL"
+},
+{
+"id": "IL0329",
+"name": "Matteson Area Public Library District",
+"city": "Matteson",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0330",
+"name": "Mattoon Public Library",
+"city": "Mattoon",
+"county": "Coles",
+"state": "IL"
+},
+{
+"id": "IL0331",
+"name": "Maywood Public Library District",
+"city": "Maywood",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0301",
+"name": "Mchenry Public Library District",
+"city": "Mchenry",
+"county": "Mchenry",
+"state": "IL"
+},
+{
+"id": "IL0609",
+"name": "Melrose Park Public Library",
+"city": "Melrose Park",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0384",
+"name": "Messenger Public Library Of North Aurora",
+"city": "North Aurora",
+"county": "Kane",
+"state": "IL"
+},
+{
+"id": "IL0337",
+"name": "Midlothian Public Library",
+"city": "Midlothian",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0114",
+"name": "Mississippi Valley Library District",
+"city": "Collinsville",
+"county": "Madison",
+"state": "IL"
+},
+{
+"id": "IL0344",
+"name": "Mokena Community Public Library District",
+"city": "Mokena",
+"county": "Will",
+"state": "IL"
+},
+{
+"id": "IL0345",
+"name": "Moline Public Library",
+"city": "Moline",
+"county": "Rock Island",
+"state": "IL"
+},
+{
+"id": "IL0349",
+"name": "Morris Area Public Library District",
+"city": "Morris",
+"county": "Grundy",
+"state": "IL"
+},
+{
+"id": "IL0560",
+"name": "Morrison-Talbott Library",
+"city": "Waterloo",
+"county": "Monroe",
+"state": "IL"
+},
+{
+"id": "IL0353",
+"name": "Morton Grove Public Library",
+"city": "Morton Grove",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0352",
+"name": "Morton Public Library District",
+"city": "Morton",
+"county": "Tazewell",
+"state": "IL"
+},
+{
+"id": "IL0360",
+"name": "Mount Prospect Public Library",
+"city": "Mount Prospect",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0364",
+"name": "Mount Zion District Library",
+"city": "Mount Zion",
+"county": "Macon",
+"state": "IL"
+},
+{
+"id": "IL0368",
+"name": "Naperville Public Library",
+"city": "Naperville",
+"county": "Dupage",
+"state": "IL"
+},
+{
+"id": "IL0375",
+"name": "New Lenox Public Library District",
+"city": "New Lenox",
+"county": "Will",
+"state": "IL"
+},
+{
+"id": "IL0379",
+"name": "Niles-Maine District Library",
+"city": "Niles",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0380",
+"name": "Nippersink Public Library District",
+"city": "Richmond",
+"county": "Mchenry",
+"state": "IL"
+},
+{
+"id": "IL0382",
+"name": "Normal Public Library",
+"city": "Normal",
+"county": "Mclean",
+"state": "IL"
+},
+{
+"id": "IL0385",
+"name": "North Chicago Public Library",
+"city": "North Chicago",
+"county": "Lake",
+"state": "IL"
+},
+{
+"id": "IL0387",
+"name": "North Suburban Public Library District",
+"city": "Loves Park",
+"county": "Winnebago",
+"state": "IL"
+},
+{
+"id": "IL0388",
+"name": "Northbrook Public Library",
+"city": "Northbrook",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0389",
+"name": "Northlake Public Library District",
+"city": "Northlake",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0395",
+"name": "O'Fallon Public Library",
+"city": "O'Fallon",
+"county": "St. Clair",
+"state": "IL"
+},
+{
+"id": "IL0391",
+"name": "Oak Lawn Public Library",
+"city": "Oak Lawn",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0392",
+"name": "Oak Park Public Library",
+"city": "Oak Park",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0405",
+"name": "Orland Park Public Library",
+"city": "Orland Park",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0406",
+"name": "Oswego Public Library District",
+"city": "Oswego",
+"county": "Kendall",
+"state": "IL"
+},
+{
+"id": "IL0408",
+"name": "Palatine Public Library District",
+"city": "Palatine",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0410",
+"name": "Palos Heights Public Library",
+"city": "Palos Heights",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0414",
+"name": "Park Forest Public Library",
+"city": "Park Forest",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0415",
+"name": "Park Ridge Public Library",
+"city": "Park Ridge",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0073",
+"name": "Parlin-Ingersoll Public Library",
+"city": "Canton",
+"county": "Fulton",
+"state": "IL"
+},
+{
+"id": "IL0422",
+"name": "Pekin Public Library",
+"city": "Pekin",
+"county": "Tazewell",
+"state": "IL"
+},
+{
+"id": "IL0423",
+"name": "Peoria Public Library",
+"city": "Peoria",
+"county": "Peoria",
+"state": "IL"
+},
+{
+"id": "IL0425",
+"name": "Peotone Public Library District",
+"city": "Peotone",
+"county": "Will",
+"state": "IL"
+},
+{
+"id": "IL0432",
+"name": "Plainfield Public Library District",
+"city": "Plainfield",
+"county": "Will",
+"state": "IL"
+},
+{
+"id": "IL0434",
+"name": "Plano Community Library District",
+"city": "Plano",
+"county": "Kendall",
+"state": "IL"
+},
+{
+"id": "IL0436",
+"name": "Pontiac Public Library",
+"city": "Pontiac",
+"county": "Livingston",
+"state": "IL"
+},
+{
+"id": "IL0437",
+"name": "Poplar Creek Public Library District",
+"city": "Streamwood",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0439",
+"name": "Prairie Trails Public Library District",
+"city": "Burbank",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0443",
+"name": "Prospect Heights Public Library District",
+"city": "Prospect Heights",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0445",
+"name": "Quincy Public Library",
+"city": "Quincy",
+"county": "Adams",
+"state": "IL"
+},
+{
+"id": "IL0446",
+"name": "Rantoul Public Library",
+"city": "Rantoul",
+"county": "Champaign",
+"state": "IL"
+},
+{
+"id": "IL0407",
+"name": "Reddick Public Library District",
+"city": "Ottawa",
+"county": "La Salle",
+"state": "IL"
+},
+{
+"id": "IL0448",
+"name": "Richton Park Public Library District",
+"city": "Richton Park",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0451",
+"name": "River Forest Public Library",
+"city": "River Forest",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0452",
+"name": "River Grove Public Library District",
+"city": "River Grove",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0454",
+"name": "Riverdale Public Library District",
+"city": "Riverdale",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0457",
+"name": "Robinson Public Library District",
+"city": "Robinson",
+"county": "Crawford",
+"state": "IL"
+},
+{
+"id": "IL0460",
+"name": "Rock Falls Public Library District",
+"city": "Rock Falls",
+"county": "Whiteside",
+"state": "IL"
+},
+{
+"id": "IL0461",
+"name": "Rock Island Public Library",
+"city": "Rock Island",
+"county": "Rock Island",
+"state": "IL"
+},
+{
+"id": "IL0462",
+"name": "Rockford Public Library",
+"city": "Rockford",
+"county": "Winnebago",
+"state": "IL"
+},
+{
+"id": "IL0463",
+"name": "Rolling Meadows Library",
+"city": "Rolling Meadows",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0465",
+"name": "Roselle Public Library District",
+"city": "Roselle",
+"county": "Dupage",
+"state": "IL"
+},
+{
+"id": "IL0467",
+"name": "Round Lake Area Public Library District",
+"city": "Round Lake",
+"county": "Lake",
+"state": "IL"
+},
+{
+"id": "IL0471",
+"name": "Saint Charles Public Library District",
+"city": "Saint Charles",
+"county": "Kane",
+"state": "IL"
+},
+{
+"id": "IL0479",
+"name": "Schaumburg Township District Library",
+"city": "Schaumburg",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0480",
+"name": "Schiller Park Public Library",
+"city": "Schiller Park",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0491",
+"name": "Shorewood-Troy Public Library District",
+"city": "Shorewood",
+"county": "Will",
+"state": "IL"
+},
+{
+"id": "IL0217",
+"name": "Six Mile Regional Library District",
+"city": "Granite City",
+"county": "Madison",
+"state": "IL"
+},
+{
+"id": "IL0495",
+"name": "Skokie Public Library",
+"city": "Skokie",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0499",
+"name": "South Holland Public Library",
+"city": "South Holland",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0509",
+"name": "Steger-South Chicago Heights Public Library District",
+"city": "Steger",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0510",
+"name": "Sterling Public Library",
+"city": "Sterling",
+"county": "Whiteside",
+"state": "IL"
+},
+{
+"id": "IL0511",
+"name": "Stickney-Forest View Public Library District",
+"city": "Stickney",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0013",
+"name": "Stinson Memorial Public Library District",
+"city": "Anna",
+"county": "Union",
+"state": "IL"
+},
+{
+"id": "IL0515",
+"name": "Streator Public Library",
+"city": "Streator",
+"county": "La Salle",
+"state": "IL"
+},
+{
+"id": "IL0516",
+"name": "Sugar Grove Public Library District",
+"city": "Sugar Grove",
+"county": "Kane",
+"state": "IL"
+},
+{
+"id": "IL0696",
+"name": "Summit Public Library District",
+"city": "Summit",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0519",
+"name": "Sycamore Public Library",
+"city": "Sycamore",
+"county": "Dekalb",
+"state": "IL"
+},
+{
+"id": "IL0520",
+"name": "Talcott Free Library District",
+"city": "Rockton",
+"county": "Winnebago",
+"state": "IL"
+},
+{
+"id": "IL0521",
+"name": "Taylorville Public Library",
+"city": "Taylorville",
+"county": "Christian",
+"state": "IL"
+},
+{
+"id": "IL0575",
+"name": "Thomas Ford Memorial Library",
+"city": "Western Springs",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0524",
+"name": "Three Rivers Public Library District",
+"city": "Channahon",
+"county": "Will",
+"state": "IL"
+},
+{
+"id": "IL0525",
+"name": "Tinley Park Public Library",
+"city": "Tinley Park",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0528",
+"name": "Tolono Public Library District",
+"city": "Tolono",
+"county": "Champaign",
+"state": "IL"
+},
+{
+"id": "IL0159",
+"name": "Town And Country Public Library District",
+"city": "Elburn",
+"county": "Kane",
+"state": "IL"
+},
+{
+"id": "IL0534",
+"name": "Tri-Township Public Library District",
+"city": "Troy",
+"county": "Madison",
+"state": "IL"
+},
+{
+"id": "IL0538",
+"name": "Urbana Free Library",
+"city": "Urbana",
+"county": "Champaign",
+"state": "IL"
+},
+{
+"id": "IL0545",
+"name": "Vernon Area Public Library District",
+"city": "Lincolnshire",
+"county": "Lake",
+"state": "IL"
+},
+{
+"id": "IL0603",
+"name": "Vespasian Warner Public Library District",
+"city": "Clinton",
+"county": "De Witt",
+"state": "IL"
+},
+{
+"id": "IL0549",
+"name": "Villa Park Public Library",
+"city": "Villa Park",
+"county": "Dupage",
+"state": "IL"
+},
+{
+"id": "IL0555",
+"name": "Warren County Public Library District",
+"city": "Monmouth",
+"county": "Warren",
+"state": "IL"
+},
+{
+"id": "IL0556",
+"name": "Warren-Newport Public Library District",
+"city": "Gurnee",
+"county": "Lake",
+"state": "IL"
+},
+{
+"id": "IL0557",
+"name": "Warrenville Public Library District",
+"city": "Warrenville",
+"county": "Dupage",
+"state": "IL"
+},
+{
+"id": "IL0559",
+"name": "Washington District Library",
+"city": "Washington",
+"county": "Tazewell",
+"state": "IL"
+},
+{
+"id": "IL0563",
+"name": "Wauconda Area Public Library District",
+"city": "Wauconda",
+"county": "Lake",
+"state": "IL"
+},
+{
+"id": "IL0564",
+"name": "Waukegan Public Library",
+"city": "Waukegan",
+"county": "Lake",
+"state": "IL"
+},
+{
+"id": "IL0570",
+"name": "West Chicago Public Library District",
+"city": "West Chicago",
+"county": "Dupage",
+"state": "IL"
+},
+{
+"id": "IL0573",
+"name": "Westchester Public Library",
+"city": "Westchester",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0576",
+"name": "Westmont Public Library",
+"city": "Westmont",
+"county": "Dupage",
+"state": "IL"
+},
+{
+"id": "IL0577",
+"name": "Westville Public Library District",
+"city": "Westville",
+"county": "Vermilion",
+"state": "IL"
+},
+{
+"id": "IL0578",
+"name": "Wheaton Public Library",
+"city": "Wheaton",
+"county": "Dupage",
+"state": "IL"
+},
+{
+"id": "IL0139",
+"name": "White Oak Library District",
+"city": "Romeoville",
+"county": "Will",
+"state": "IL"
+},
+{
+"id": "IL0584",
+"name": "Wilmette Public Library District",
+"city": "Wilmette",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0590",
+"name": "Winnetka-Northfield Public Library District",
+"city": "Winnetka",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0592",
+"name": "Wood Dale Public Library District",
+"city": "Wood Dale",
+"county": "Dupage",
+"state": "IL"
+},
+{
+"id": "IL0593",
+"name": "Wood River Public Library",
+"city": "Wood River",
+"county": "Madison",
+"state": "IL"
+},
+{
+"id": "IL0594",
+"name": "Woodridge Public Library",
+"city": "Woodridge",
+"county": "Dupage",
+"state": "IL"
+},
+{
+"id": "IL0595",
+"name": "Woodstock Public Library",
+"city": "Woodstock",
+"county": "Mchenry",
+"state": "IL"
+},
+{
+"id": "IL0597",
+"name": "Worth Public Library District",
+"city": "Worth",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0600",
+"name": "Yorkville Public Library",
+"city": "Yorkville",
+"county": "Kendall",
+"state": "IL"
+},
+{
+"id": "IL0602",
+"name": "Zion-Benton Public Library District",
+"city": "Zion",
+"county": "Lake",
+"state": "IL"
+},
+{
+"id": "IN0248",
+"name": "Adams Public Library System",
+"city": "Decatur",
+"county": "Adams",
+"state": "IN"
+},
+{
+"id": "IN0018",
+"name": "Alexandrian Public Library",
+"city": "Mount Vernon",
+"county": "Posey",
+"state": "IN"
+},
+{
+"id": "IN0073",
+"name": "Allen County Public Library",
+"city": "Fort Wayne",
+"county": "Allen",
+"state": "IN"
+},
+{
+"id": "IN0158",
+"name": "Anderson Public Library",
+"city": "Anderson",
+"county": "Madison",
+"state": "IN"
+},
+{
+"id": "IN0221",
+"name": "Aurora Public Library District",
+"city": "Aurora",
+"county": "Dearborn",
+"state": "IN"
+},
+{
+"id": "IN0204",
+"name": "Avon-Washington Township Public Library",
+"city": "Avon",
+"county": "Hendricks",
+"state": "IN"
+},
+{
+"id": "IN0215",
+"name": "Bartholomew County Public Library",
+"city": "Columbus",
+"county": "Bartholomew",
+"state": "IN"
+},
+{
+"id": "IN0233",
+"name": "Batesville Memorial Public Library",
+"city": "Batesville",
+"county": "Ripley",
+"state": "IN"
+},
+{
+"id": "IN0178",
+"name": "Bedford Public Library",
+"city": "Bedford",
+"county": "Lawrence",
+"state": "IN"
+},
+{
+"id": "IN0177",
+"name": "Bloomfield-Eastern Greene County Public Library",
+"city": "Bloomfield",
+"county": "Greene",
+"state": "IN"
+},
+{
+"id": "IN0023",
+"name": "Boonville-Warrick County Public Library",
+"city": "Boonville",
+"county": "Warrick",
+"state": "IN"
+},
+{
+"id": "IN0216",
+"name": "Brown County Public Library",
+"city": "Nashville",
+"county": "Brown",
+"state": "IN"
+},
+{
+"id": "IN0201",
+"name": "Brownsburg Public Library",
+"city": "Brownsburg",
+"county": "Hendricks",
+"state": "IN"
+},
+{
+"id": "IN0195",
+"name": "Carmel Clay Public Library",
+"city": "Carmel",
+"county": "Hamilton",
+"state": "IN"
+},
+{
+"id": "IN0088",
+"name": "Carnegie Public Library Of Steuben County",
+"city": "Angola",
+"county": "Steuben",
+"state": "IN"
+},
+{
+"id": "IN0217",
+"name": "Charlestown-Clark County Public Library",
+"city": "Charlestown",
+"county": "Clark",
+"state": "IN"
+},
+{
+"id": "IN0219",
+"name": "Crawford County Public Library",
+"city": "English",
+"county": "Crawford",
+"state": "IN"
+},
+{
+"id": "IN0109",
+"name": "Crawfordsville District Public Library",
+"city": "Crawforsdsville",
+"county": "Montgomery",
+"state": "IN"
+},
+{
+"id": "IN0031",
+"name": "Crown Point Community Public Library",
+"city": "Crown Point",
+"county": "Lake",
+"state": "IN"
+},
+{
+"id": "IN0202",
+"name": "Danville-Center Township Public Library",
+"city": "Danville",
+"county": "Hendricks",
+"state": "IN"
+},
+{
+"id": "IN0027",
+"name": "East Chicago Public Library",
+"city": "East Chicago",
+"county": "Lake",
+"state": "IN"
+},
+{
+"id": "IN0075",
+"name": "Eckhart Public Library",
+"city": "Auburn",
+"county": "Dekalb",
+"state": "IN"
+},
+{
+"id": "IN0050",
+"name": "Elkhart Public Library",
+"city": "Elkhart",
+"county": "Elkhart",
+"state": "IN"
+},
+{
+"id": "IN0020",
+"name": "Evansville-Vanderburgh Public Library",
+"city": "Evansville",
+"county": "Vanderburgh",
+"state": "IN"
+},
+{
+"id": "IN0139",
+"name": "Fayette County Public Library",
+"city": "Connersville",
+"county": "Fayette",
+"state": "IN"
+},
+{
+"id": "IN0198",
+"name": "Fortville-Vernon Township Public Library",
+"city": "Fortville",
+"county": "Hancock",
+"state": "IN"
+},
+{
+"id": "IN0104",
+"name": "Frankfort Community Public Library-Clinton County Contractua",
+"city": "Frankfort",
+"county": "Clinton",
+"state": "IN"
+},
+{
+"id": "IN0140",
+"name": "Franklin County Public Library District",
+"city": "Brookville",
+"county": "Franklin",
+"state": "IN"
+},
+{
+"id": "IN0126",
+"name": "Fulton County Public Library",
+"city": "Rochester",
+"county": "Fulton",
+"state": "IN"
+},
+{
+"id": "IN0028",
+"name": "Gary Public Library",
+"city": "Gary",
+"county": "Lake",
+"state": "IN"
+},
+{
+"id": "IN0054",
+"name": "Goshen Public Library",
+"city": "Goshen",
+"county": "Elkhart",
+"state": "IN"
+},
+{
+"id": "IN0244",
+"name": "Greensburg-Decatur County Contractual Public Library",
+"city": "Greensburg",
+"county": "Decatur",
+"state": "IN"
+},
+{
+"id": "IN0206",
+"name": "Greenwood Public Library",
+"city": "Greenwood",
+"county": "Johnson",
+"state": "IN"
+},
+{
+"id": "IN0197",
+"name": "Hamilton East Public Library",
+"city": "Noblesville",
+"county": "Hamilton",
+"state": "IN"
+},
+{
+"id": "IN0196",
+"name": "Hamilton North Public Library",
+"city": "Cicero",
+"county": "Hamilton",
+"state": "IN"
+},
+{
+"id": "IN0029",
+"name": "Hammond Public Library",
+"city": "Hammond",
+"county": "Lake",
+"state": "IN"
+},
+{
+"id": "IN0199",
+"name": "Hancock County Public Library",
+"city": "Greenfield",
+"county": "Hancock",
+"state": "IN"
+},
+{
+"id": "IN0224",
+"name": "Harrison County Public Library",
+"city": "Corydon",
+"county": "Harrison",
+"state": "IN"
+},
+{
+"id": "IN0080",
+"name": "Huntington City-Township Public Library",
+"city": "Huntington",
+"county": "Huntington",
+"state": "IN"
+},
+{
+"id": "IN0243",
+"name": "Hussey-Mayfield Memorial Public Library",
+"city": "Zionsville",
+"county": "Boone",
+"state": "IN"
+},
+{
+"id": "IN0210",
+"name": "Indianapolis Public Library",
+"city": "Indianapolis",
+"county": "Marion",
+"state": "IN"
+},
+{
+"id": "IN0226",
+"name": "Jackson County Public Library",
+"city": "Seymour",
+"county": "Jackson",
+"state": "IN"
+},
+{
+"id": "IN0025",
+"name": "Jasper County Public Library",
+"city": "Rensselaer",
+"county": "Jasper",
+"state": "IN"
+},
+{
+"id": "IN0003",
+"name": "Jasper-Dubois County Contractual Public Library",
+"city": "Jasper",
+"county": "Dubois",
+"state": "IN"
+},
+{
+"id": "IN0155",
+"name": "Jay County Public Library",
+"city": "Portland",
+"county": "Jay",
+"state": "IN"
+},
+{
+"id": "IN0227",
+"name": "Jefferson County Public Library",
+"city": "Madison",
+"county": "Jefferson",
+"state": "IN"
+},
+{
+"id": "IN0218",
+"name": "Jeffersonville Township Public Library",
+"city": "Jeffersonville",
+"county": "Clark",
+"state": "IN"
+},
+{
+"id": "IN0228",
+"name": "Jennings County Public Library",
+"city": "North Vernon",
+"county": "Jennings",
+"state": "IN"
+},
+{
+"id": "IN0207",
+"name": "Johnson County Public Library",
+"city": "Franklin",
+"county": "Johnson",
+"state": "IN"
+},
+{
+"id": "IN0086",
+"name": "Kendallville Public Library",
+"city": "Kendallville",
+"county": "Noble",
+"state": "IN"
+},
+{
+"id": "IN0010",
+"name": "Knox County Public Library",
+"city": "Vincennes",
+"county": "Knox",
+"state": "IN"
+},
+{
+"id": "IN0128",
+"name": "Kokomo-Howard County Public Library",
+"city": "Kokomo",
+"county": "Howard",
+"state": "IN"
+},
+{
+"id": "IN0083",
+"name": "La Grange County Public Library",
+"city": "Lagrange",
+"county": "Lagrange",
+"state": "IN"
+},
+{
+"id": "IN0037",
+"name": "La Porte County Public Library",
+"city": "La Porte",
+"county": "La Porte",
+"state": "IN"
+},
+{
+"id": "IN0030",
+"name": "Lake County Public Library",
+"city": "Merrillville",
+"county": "Lake",
+"state": "IN"
+},
+{
+"id": "IN0220",
+"name": "Lawrenceburg Public Library District",
+"city": "Lawrenceburg",
+"county": "Dearborn",
+"state": "IN"
+},
+{
+"id": "IN0191",
+"name": "Lebanon Public Library",
+"city": "Lebanon",
+"county": "Boone",
+"state": "IN"
+},
+{
+"id": "IN0239",
+"name": "Lincoln Heritage Public Library",
+"city": "Dale",
+"county": "Spencer",
+"state": "IN"
+},
+{
+"id": "IN0123",
+"name": "Logansport-Cass County Public Library",
+"city": "Logansport",
+"county": "Cass",
+"state": "IN"
+},
+{
+"id": "IN0241",
+"name": "Lowell Public Library",
+"city": "Lowell",
+"county": "Lake",
+"state": "IN"
+},
+{
+"id": "IN0142",
+"name": "Marion Public Library",
+"city": "Marion",
+"county": "Grant",
+"state": "IN"
+},
+{
+"id": "IN0033",
+"name": "Michigan City Public Library",
+"city": "Michigan City",
+"county": "Laporte",
+"state": "IN"
+},
+{
+"id": "IN0055",
+"name": "Middlebury Community Public Library",
+"city": "Middlebury",
+"county": "Elkhart",
+"state": "IN"
+},
+{
+"id": "IN0069",
+"name": "Mishawaka-Penn-Harris Public Library",
+"city": "Mishawaka",
+"county": "St Joseph",
+"state": "IN"
+},
+{
+"id": "IN0179",
+"name": "Mitchell Community Public Library",
+"city": "Mitchell",
+"county": "Lawrence",
+"state": "IN"
+},
+{
+"id": "IN0180",
+"name": "Monroe County Public Library",
+"city": "Bloomington",
+"county": "Monroe",
+"state": "IN"
+},
+{
+"id": "IN0121",
+"name": "Monticello-Union Township Public Library",
+"city": "Monticello",
+"county": "White",
+"state": "IN"
+},
+{
+"id": "IN0213",
+"name": "Mooresville Public Library",
+"city": "Mooresville",
+"county": "Morgan",
+"state": "IN"
+},
+{
+"id": "IN0212",
+"name": "Morgan County Public Library",
+"city": "Martinsville",
+"county": "Morgan",
+"state": "IN"
+},
+{
+"id": "IN0171",
+"name": "Morrisson-Reeves Library",
+"city": "Richmond",
+"county": "Wayne",
+"state": "IN"
+},
+{
+"id": "IN0138",
+"name": "Muncie-Center Township Public Library",
+"city": "Muncie",
+"county": "Delaware",
+"state": "IN"
+},
+{
+"id": "IN0052",
+"name": "Nappanee Public Library",
+"city": "Nappanee",
+"county": "Elkhart",
+"state": "IN"
+},
+{
+"id": "IN0223",
+"name": "New Albany-Floyd County Public Library",
+"city": "New Albany",
+"county": "Floyd",
+"state": "IN"
+},
+{
+"id": "IN0150",
+"name": "New Castle-Henry County Public Library",
+"city": "New Castle",
+"county": "Henry",
+"state": "IN"
+},
+{
+"id": "IN0022",
+"name": "Newburgh Chandler Public Library",
+"city": "Newburgh",
+"county": "Warrick",
+"state": "IN"
+},
+{
+"id": "IN0085",
+"name": "Noble County Public Library",
+"city": "Albion",
+"county": "Noble",
+"state": "IN"
+},
+{
+"id": "IN0156",
+"name": "North Madison County Public Library System",
+"city": "Elwood",
+"county": "Madison",
+"state": "IN"
+},
+{
+"id": "IN0234",
+"name": "Osgood Public Library",
+"city": "Osgood",
+"county": "Ripley",
+"state": "IN"
+},
+{
+"id": "IN0181",
+"name": "Owen County Public Library",
+"city": "Spencer",
+"county": "Owen",
+"state": "IN"
+},
+{
+"id": "IN0183",
+"name": "Parke County Public Library",
+"city": "Rockville",
+"county": "Parke",
+"state": "IN"
+},
+{
+"id": "IN0092",
+"name": "Peabody Public Library",
+"city": "Columbia City",
+"county": "Whitley",
+"state": "IN"
+},
+{
+"id": "IN0159",
+"name": "Pendleton Community Public Library",
+"city": "Pendleton",
+"county": "Madison",
+"state": "IN"
+},
+{
+"id": "IN0013",
+"name": "Perry County Public Library",
+"city": "Tell City",
+"county": "Perry",
+"state": "IN"
+},
+{
+"id": "IN0130",
+"name": "Peru Public Library",
+"city": "Peru",
+"county": "Miami",
+"state": "IN"
+},
+{
+"id": "IN0015",
+"name": "Pike County Public Library",
+"city": "Petersburg",
+"county": "Pike",
+"state": "IN"
+},
+{
+"id": "IN0205",
+"name": "Plainfield-Guilford Township Public Library",
+"city": "Plainfield",
+"county": "Hendricks",
+"state": "IN"
+},
+{
+"id": "IN0062",
+"name": "Plymouth Public Library",
+"city": "Plymouth",
+"county": "Marshall",
+"state": "IN"
+},
+{
+"id": "IN0043",
+"name": "Porter County Public Library System",
+"city": "Valparaiso",
+"county": "Porter",
+"state": "IN"
+},
+{
+"id": "IN0006",
+"name": "Princeton Public Library",
+"city": "Princeton",
+"county": "Gibson",
+"state": "IN"
+},
+{
+"id": "IN0184",
+"name": "Putnam County Public Library",
+"city": "Greencastle",
+"county": "Putnam",
+"state": "IN"
+},
+{
+"id": "IN0166",
+"name": "Rushville Public Library",
+"city": "Rushville",
+"county": "Rush",
+"state": "IN"
+},
+{
+"id": "IN0238",
+"name": "Salem-Washington Township Public Library",
+"city": "Salem",
+"county": "Washington",
+"state": "IN"
+},
+{
+"id": "IN0236",
+"name": "Scott County Public Library",
+"city": "Scottsburg",
+"county": "Scott",
+"state": "IN"
+},
+{
+"id": "IN0214",
+"name": "Shelby County Public Library",
+"city": "Shelbyville",
+"county": "Shelby",
+"state": "IN"
+},
+{
+"id": "IN0209",
+"name": "Speedway Public Library",
+"city": "Speedway",
+"county": "Marion",
+"state": "IN"
+},
+{
+"id": "IN0068",
+"name": "St Joseph County Public Library",
+"city": "South Bend",
+"county": "St Joseph",
+"state": "IN"
+},
+{
+"id": "IN0049",
+"name": "Starke County Public Library System",
+"city": "Knox",
+"county": "Starke",
+"state": "IN"
+},
+{
+"id": "IN0186",
+"name": "Sullivan County Public Library",
+"city": "Sullivan",
+"county": "Sullivan",
+"state": "IN"
+},
+{
+"id": "IN0115",
+"name": "Tippecanoe County Public Library",
+"city": "Lafayette",
+"county": "Tippecanoe",
+"state": "IN"
+},
+{
+"id": "IN0132",
+"name": "Tipton County Public Library",
+"city": "Tipton",
+"county": "Tipton",
+"state": "IN"
+},
+{
+"id": "IN0189",
+"name": "Vigo County Public Library",
+"city": "Terre Haute",
+"county": "Vigo",
+"state": "IN"
+},
+{
+"id": "IN0135",
+"name": "Wabash Carnegie Public Library",
+"city": "Wabash",
+"county": "Wabash",
+"state": "IN"
+},
+{
+"id": "IN0057",
+"name": "Warsaw Community Public Library",
+"city": "Warsaw",
+"county": "Kosciusko",
+"state": "IN"
+},
+{
+"id": "IN0001",
+"name": "Washington Carnegie Public Library",
+"city": "Washington",
+"county": "Daviess",
+"state": "IN"
+},
+{
+"id": "IN0090",
+"name": "Wells County Public Library",
+"city": "Bluffton",
+"county": "Wells",
+"state": "IN"
+},
+{
+"id": "IN0114",
+"name": "West Lafayette Public Library",
+"city": "West Lafayette",
+"county": "Tippecanoe",
+"state": "IN"
+},
+{
+"id": "IN0044",
+"name": "Westchester Public Library",
+"city": "Chesterton",
+"county": "Porter",
+"state": "IN"
+},
+{
+"id": "IN0194",
+"name": "Westfield-Washington Public Library",
+"city": "Westfield",
+"county": "Hamilton",
+"state": "IN"
+},
+{
+"id": "IN0021",
+"name": "Willard Library Of Evansville",
+"city": "Evansville",
+"county": "Vanderburgh",
+"state": "IN"
+},
+{
+"id": "IN8007",
+"name": "Yorktown Public Library",
+"city": "Yorktown",
+"county": "Delaware",
+"state": "IN"
+},
+{
+"id": "KS0210",
+"name": "Andover Public Library",
+"city": "Andover",
+"county": "Butler",
+"state": "KS"
+},
+{
+"id": "KS0223",
+"name": "Arkansas City Public Library",
+"city": "Arkansas City",
+"county": "Cowley",
+"state": "KS"
+},
+{
+"id": "KS0128",
+"name": "Atchison Library",
+"city": "Atchison",
+"county": "Atchison",
+"state": "KS"
+},
+{
+"id": "KS0119",
+"name": "Basehor Community Library, Dist #2, Lv. Co.",
+"city": "Basehor",
+"county": "Leavenworth",
+"state": "KS"
+},
+{
+"id": "KS0219",
+"name": "Bradford Memorial Library",
+"city": "El Dorado",
+"county": "Butler",
+"state": "KS"
+},
+{
+"id": "KS0222",
+"name": "Derby Public Library",
+"city": "Derby",
+"county": "Sedgwick",
+"state": "KS"
+},
+{
+"id": "KS0316",
+"name": "Dodge City Public Library",
+"city": "Dodge City",
+"county": "Ford",
+"state": "KS"
+},
+{
+"id": "KS0089",
+"name": "Dorothy Bramlage Public Library",
+"city": "Junction City",
+"county": "Geary",
+"state": "KS"
+},
+{
+"id": "KS0090",
+"name": "Emporia Public Library",
+"city": "Emporia",
+"county": "Lyon",
+"state": "KS"
+},
+{
+"id": "KS0317",
+"name": "Finney County Public Library",
+"city": "Garden City",
+"county": "Finney",
+"state": "KS"
+},
+{
+"id": "KS0052",
+"name": "Great Bend Public Library",
+"city": "Great Bend",
+"county": "Barton",
+"state": "KS"
+},
+{
+"id": "KS0053",
+"name": "Hays Public Library",
+"city": "Hays",
+"county": "Ellis",
+"state": "KS"
+},
+{
+"id": "KS0217",
+"name": "Haysville Community Library",
+"city": "Haysville",
+"county": "Sedgwick",
+"state": "KS"
+},
+{
+"id": "KS0225",
+"name": "Hutchinson Public Library",
+"city": "Hutchinson",
+"county": "Reno",
+"state": "KS"
+},
+{
+"id": "KS0276",
+"name": "Independence Public Library",
+"city": "Independence",
+"county": "Montgomery",
+"state": "KS"
+},
+{
+"id": "KS0134",
+"name": "Johnson County Library",
+"city": "Overland Park",
+"county": "Johnson",
+"state": "KS"
+},
+{
+"id": "KS0133",
+"name": "Kansas City, Kansas Public Library",
+"city": "Kansas City",
+"county": "Wyandotte",
+"state": "KS"
+},
+{
+"id": "KS8008",
+"name": "Lansing Community Library",
+"city": "Lansing",
+"county": "Leavenworth",
+"state": "KS"
+},
+{
+"id": "KS0131",
+"name": "Lawrence Public Library",
+"city": "Lawrence",
+"county": "Douglas",
+"state": "KS"
+},
+{
+"id": "KS0129",
+"name": "Leavenworth Public Library",
+"city": "Leavenworth",
+"county": "Leavenworth",
+"state": "KS"
+},
+{
+"id": "KS0315",
+"name": "Liberal Memorial Library",
+"city": "Liberal",
+"county": "Seward",
+"state": "KS"
+},
+{
+"id": "KS0091",
+"name": "Manhattan Public Library",
+"city": "Manhattan",
+"county": "Riley",
+"state": "KS"
+},
+{
+"id": "KS0221",
+"name": "Mcpherson Public Library",
+"city": "Mcpherson",
+"county": "Mcpherson",
+"state": "KS"
+},
+{
+"id": "KS0224",
+"name": "Newton Public Library",
+"city": "Newton",
+"county": "Harvey",
+"state": "KS"
+},
+{
+"id": "KS0130",
+"name": "Olathe Public Library",
+"city": "Olathe",
+"county": "Johnson",
+"state": "KS"
+},
+{
+"id": "KS0127",
+"name": "Ottawa Library",
+"city": "Ottawa",
+"county": "Franklin",
+"state": "KS"
+},
+{
+"id": "KS0279",
+"name": "Pittsburg Public Library",
+"city": "Pittsburg",
+"county": "Crawford",
+"state": "KS"
+},
+{
+"id": "KS0088",
+"name": "Pottawatomie Wabaunsee Regional Library",
+"city": "St. Marys",
+"county": "Pottawatomie",
+"state": "KS"
+},
+{
+"id": "KS0054",
+"name": "Salina Public Library",
+"city": "Salina",
+"county": "Saline",
+"state": "KS"
+},
+{
+"id": "KS0132",
+"name": "Topeka And Shawnee County Public Library",
+"city": "Topeka",
+"county": "Shawnee",
+"state": "KS"
+}
+]

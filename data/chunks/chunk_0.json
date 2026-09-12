@@ -1,0 +1,3194 @@
+[
+{
+"id": "AL0163",
+"name": "Choctaw County Public Library",
+"city": "Butler",
+"county": "Choctaw",
+"state": "AL"
+},
+{
+"id": "AL0123",
+"name": "Marshall County Cooperative Library",
+"city": "Guntersville",
+"county": "Marshall",
+"state": "AL"
+},
+{
+"id": "AL0198",
+"name": "Monroe County Public Library",
+"city": "Monroeville",
+"county": "Monroe",
+"state": "AL"
+},
+{
+"id": "AL0187",
+"name": "Montgomery City-County Public Library",
+"city": "Montgomery",
+"county": "Montgomery",
+"state": "AL"
+},
+{
+"id": "AL0092",
+"name": "Mountain Brook - Emmet O`Neal Library",
+"city": "Mountain Brook",
+"county": "Jefferson",
+"state": "AL"
+},
+{
+"id": "AL0062",
+"name": "Muscle Shoals Public Library",
+"city": "Muscle Shoals",
+"county": "Colbert",
+"state": "AL"
+},
+{
+"id": "AL0019",
+"name": "Oxford Public Library",
+"city": "Oxford",
+"county": "Calhoun",
+"state": "AL"
+},
+{
+"id": "AL0026",
+"name": "Ozark - Dale County Public Library",
+"city": "Ozark",
+"county": "Dale",
+"state": "AL"
+},
+{
+"id": "AL0135",
+"name": "Pelham Public Library",
+"city": "Pelham",
+"county": "Shelby",
+"state": "AL"
+},
+{
+"id": "AL0148",
+"name": "Pell City Public Library",
+"city": "Pell City",
+"county": "St. Clair",
+"state": "AL"
+},
+{
+"id": "AL0194",
+"name": "Phenix City - Russell County Public Library",
+"city": "Phenix City",
+"county": "Russell",
+"state": "AL"
+},
+{
+"id": "AL0256",
+"name": "Pickens County Cooperative Library",
+"city": "Carrollton",
+"county": "Pickens",
+"state": "AL"
+},
+{
+"id": "AL0181",
+"name": "Prichard Public Library",
+"city": "Prichard",
+"county": "Mobile",
+"state": "AL"
+},
+{
+"id": "AL0070",
+"name": "Russellville Public Library",
+"city": "Russellville",
+"county": "Franklin",
+"state": "AL"
+},
+{
+"id": "AL0175",
+"name": "Scottsboro Public Library",
+"city": "Scottsboro",
+"county": "Jackson",
+"state": "AL"
+},
+{
+"id": "AL0195",
+"name": "Selma - Dallas County Public Library",
+"city": "Selma",
+"county": "Dallas",
+"state": "AL"
+},
+{
+"id": "AL0064",
+"name": "Sheffield Public Library",
+"city": "Sheffield",
+"county": "Colbert",
+"state": "AL"
+},
+{
+"id": "AL0226",
+"name": "Springville Public Library",
+"city": "Springville",
+"county": "St. Clair",
+"state": "AL"
+},
+{
+"id": "AL0013",
+"name": "Sylacauga - B. B. Comer Memorial Library",
+"city": "Sylacauga",
+"county": "Talladega",
+"state": "AL"
+},
+{
+"id": "AL0020",
+"name": "Talladega - Armstrong-Osborne Public Library",
+"city": "Talladega",
+"county": "Talladega",
+"state": "AL"
+},
+{
+"id": "AL0034",
+"name": "Troy Public Library",
+"city": "Troy",
+"county": "Pike",
+"state": "AL"
+},
+{
+"id": "AL0105",
+"name": "Trussville Public Library",
+"city": "Trussville",
+"county": "Jefferson",
+"state": "AL"
+},
+{
+"id": "AL0196",
+"name": "Tuscaloosa Public Library",
+"city": "Tuscaloosa",
+"county": "Tuscaloosa",
+"state": "AL"
+},
+{
+"id": "AL0060",
+"name": "Tuscumbia - Helen Keller Public Library",
+"city": "Tuscumbia",
+"county": "Colbert",
+"state": "AL"
+},
+{
+"id": "AL0200",
+"name": "Valley - H. Grady Bradshaw / Chambers County Library",
+"city": "Valley",
+"county": "Chambers",
+"state": "AL"
+},
+{
+"id": "AL0106",
+"name": "Vestavia Hills Library In The Forest",
+"city": "Vestavia Hills",
+"county": "Jefferson",
+"state": "AL"
+},
+{
+"id": "AL0182",
+"name": "Washington County Public Library",
+"city": "Chatom",
+"county": "Washington",
+"state": "AL"
+},
+{
+"id": "AL0197",
+"name": "Wilcox County Library",
+"city": "Camden",
+"county": "Wilcox",
+"state": "AL"
+},
+{
+"id": "AR0042",
+"name": "Arkansas County Library",
+"city": "Stuttgart",
+"county": "Arkansas",
+"state": "AR"
+},
+{
+"id": "AR0012",
+"name": "Arkansas River Valley Regional Library",
+"city": "Dardanelle",
+"county": "Yell",
+"state": "AR"
+},
+{
+"id": "AR0026",
+"name": "Ashley County Library",
+"city": "Hamburg",
+"county": "Ashley",
+"state": "AR"
+},
+{
+"id": "AR0041",
+"name": "Lonoke County Library System",
+"city": "Lonoke",
+"county": "Lonoke",
+"state": "AR"
+},
+{
+"id": "AR0003",
+"name": "Marion County Library",
+"city": "Yellville",
+"county": "Marion",
+"state": "AR"
+},
+{
+"id": "AR0005",
+"name": "Mid Arkansas Regional Library System",
+"city": "Malvern",
+"county": "Hot Spring",
+"state": "AR"
+},
+{
+"id": "AR0040",
+"name": "Mississippi/Crittenden Regional Library",
+"city": "Blytheville",
+"county": "Mississippi",
+"state": "AR"
+},
+{
+"id": "AR0016",
+"name": "North Little Rock Public Library System",
+"city": "North Little Rock",
+"county": "Pulaski",
+"state": "AR"
+},
+{
+"id": "AR0013",
+"name": "Northeast Arkansas Regional Library",
+"city": "Paragould",
+"county": "Greene",
+"state": "AR"
+},
+{
+"id": "AR0062",
+"name": "Ouachita Mountains Regional Library",
+"city": "Mt. Ida",
+"county": "Montgomery",
+"state": "AR"
+},
+{
+"id": "AR0015",
+"name": "Phillips Lee Monroe Regional Library System",
+"city": "Helena",
+"county": "Phillips",
+"state": "AR"
+},
+{
+"id": "AR0008",
+"name": "Pine Bluff/Jefferson County Library System",
+"city": "Pine Bluff",
+"county": "Jefferson",
+"state": "AR"
+},
+{
+"id": "AR0021",
+"name": "Pope County Library System",
+"city": "Russellville",
+"county": "Pope",
+"state": "AR"
+},
+{
+"id": "AR0063",
+"name": "Public Library Of Camden & Ouachita County",
+"city": "Camden",
+"county": "Ouachita",
+"state": "AR"
+},
+{
+"id": "AR0047",
+"name": "Rogers Public Library",
+"city": "Rogers",
+"county": "Benton",
+"state": "AR"
+},
+{
+"id": "AR0023",
+"name": "Scott Sebastian Regional Library",
+"city": "Greenwood",
+"county": "Sebastian",
+"state": "AR"
+},
+{
+"id": "AR0079",
+"name": "Siloam Springs Public Library",
+"city": "Siloam Springs",
+"county": "Benton",
+"state": "AR"
+},
+{
+"id": "AR0014",
+"name": "Southeast Arkansas Regional Library",
+"city": "Monticello",
+"county": "Drew",
+"state": "AR"
+},
+{
+"id": "AR0004",
+"name": "Southwest Arkansas Regional Library",
+"city": "Prescott",
+"county": "Nevada",
+"state": "AR"
+},
+{
+"id": "AR0028",
+"name": "Texarkana Public Library",
+"city": "Texarkana",
+"county": "Bowie",
+"state": "AR"
+},
+{
+"id": "AR0081",
+"name": "Tri-County Regional Library System",
+"city": "De Queen",
+"county": "Sevier",
+"state": "AR"
+},
+{
+"id": "AR0027",
+"name": "W.A. Billingsley/Jackson County Library",
+"city": "Newport",
+"county": "Jackson",
+"state": "AR"
+},
+{
+"id": "AR0002",
+"name": "Washington County Library System",
+"city": "Fayetteville",
+"county": "Washington",
+"state": "AR"
+},
+{
+"id": "AR0025",
+"name": "West Memphis Public Library",
+"city": "West Memphis",
+"county": "Crittenden",
+"state": "AR"
+},
+{
+"id": "AR0019",
+"name": "White County Regional Library System",
+"city": "Searcy",
+"county": "White",
+"state": "AR"
+},
+{
+"id": "AR0007",
+"name": "White River Regional Library",
+"city": "Mountain View",
+"county": "Stone",
+"state": "AR"
+},
+{
+"id": "AZ0001",
+"name": "Apache County Library District Office",
+"city": "St. Johns",
+"county": "Apache",
+"state": "AZ"
+},
+{
+"id": "AZ0117",
+"name": "Apache Junction Public Library",
+"city": "Apache Junction",
+"county": "Pinal",
+"state": "AZ"
+},
+{
+"id": "AZ0029",
+"name": "Avondale Public Library",
+"city": "Avondale",
+"county": "Maricopa",
+"state": "AZ"
+},
+{
+"id": "AZ0030",
+"name": "Buckeye Public Library",
+"city": "Buckeye",
+"county": "Maricopa",
+"state": "AZ"
+},
+{
+"id": "AZ0145",
+"name": "Camp Verde Community Library",
+"city": "Camp Verde",
+"county": "Yavapai",
+"state": "AZ"
+},
+{
+"id": "AZ0118",
+"name": "Casa Grande Public Library",
+"city": "Casa Grande",
+"county": "Pinal",
+"state": "AZ"
+},
+{
+"id": "AZ0100",
+"name": "Navajo Nation Library",
+"city": "Window Rock",
+"county": "Apache",
+"state": "AZ"
+},
+{
+"id": "AZ0065",
+"name": "Nogales/Santa Cruz County Public Library",
+"city": "Nogales",
+"county": "Santa Cruz",
+"state": "AZ"
+},
+{
+"id": "AZ0127",
+"name": "Payson Public Library",
+"city": "Payson",
+"county": "Gila",
+"state": "AZ"
+},
+{
+"id": "AZ0088",
+"name": "Peoria Public Library System",
+"city": "Peoria",
+"county": "Maricopa",
+"state": "AZ"
+},
+{
+"id": "AZ0035",
+"name": "Phoenix Public Library",
+"city": "Phoenix",
+"county": "Maricopa",
+"state": "AZ"
+},
+{
+"id": "AZ0064",
+"name": "Pima County Public Library",
+"city": "Tucson",
+"county": "Pima",
+"state": "AZ"
+},
+{
+"id": "AZ0050",
+"name": "Pinal County Library District",
+"city": "Florence",
+"county": "Pinal",
+"state": "AZ"
+},
+{
+"id": "AZ0158",
+"name": "Prescott Public Library",
+"city": "Prescott",
+"county": "Yavapai",
+"state": "AZ"
+},
+{
+"id": "AZ0154",
+"name": "Prescott Valley Public Library",
+"city": "Prescott Valley",
+"county": "Yavapai",
+"state": "AZ"
+},
+{
+"id": "AZ0026",
+"name": "Safford City-Graham County Library",
+"city": "Safford",
+"county": "Graham",
+"state": "AZ"
+},
+{
+"id": "AZ0129",
+"name": "San Carlos Public Library",
+"city": "San Carlos",
+"county": "Gila",
+"state": "AZ"
+},
+{
+"id": "AZ0036",
+"name": "Scottsdale Public Library",
+"city": "Scottsdale",
+"county": "Maricopa",
+"state": "AZ"
+},
+{
+"id": "AZ0162",
+"name": "Show Low Public Library",
+"city": "Show Low",
+"county": "Navajo",
+"state": "AZ"
+},
+{
+"id": "AZ0114",
+"name": "Sierra Vista Public Library",
+"city": "Sierra Vista",
+"county": "Cochise",
+"state": "AZ"
+},
+{
+"id": "AZ0163",
+"name": "Snowflake-Taylor Public Library",
+"city": "Snowflake",
+"county": "Navajo",
+"state": "AZ"
+},
+{
+"id": "AZ0038",
+"name": "Tempe Public Library",
+"city": "Tempe",
+"county": "Maricopa",
+"state": "AZ"
+},
+{
+"id": "AZ0048",
+"name": "Whiteriver Public Library",
+"city": "Whiteriver",
+"county": "Navajo",
+"state": "AZ"
+},
+{
+"id": "AZ0067",
+"name": "Yavapai County Free Library District",
+"city": "Prescott",
+"county": "Yavapai",
+"state": "AZ"
+},
+{
+"id": "AZ0082",
+"name": "Yuma County Library District",
+"city": "Yuma",
+"county": "Yuma",
+"state": "AZ"
+},
+{
+"id": "CA0165",
+"name": "A. K. Smiley Public Library",
+"city": "Redlands",
+"county": "San Bernardino",
+"state": "CA"
+},
+{
+"id": "CA0001",
+"name": "Alameda County Library",
+"city": "Fremont",
+"county": "Alameda",
+"state": "CA"
+},
+{
+"id": "CA0002",
+"name": "Alameda Free Library",
+"city": "Alameda",
+"county": "Alameda",
+"state": "CA"
+},
+{
+"id": "CA0003",
+"name": "Alhambra Civic Center Library",
+"city": "Alhambra",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0005",
+"name": "Altadena Library District",
+"city": "Altadena",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0006",
+"name": "Amador County Library",
+"city": "Jackson",
+"county": "Amador",
+"state": "CA"
+},
+{
+"id": "CA0007",
+"name": "Anaheim Public Library",
+"city": "Anaheim",
+"county": "Orange",
+"state": "CA"
+},
+{
+"id": "CA0008",
+"name": "Arcadia Public Library",
+"city": "Arcadia",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0010",
+"name": "Azusa City Library",
+"city": "Azusa",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0167",
+"name": "Banning Library District",
+"city": "Banning",
+"county": "Riverside",
+"state": "CA"
+},
+{
+"id": "CA0168",
+"name": "Beaumont Library District",
+"city": "Beaumont",
+"county": "Riverside",
+"state": "CA"
+},
+{
+"id": "CA0035",
+"name": "El Centro Public Library",
+"city": "El Centro",
+"county": "Imperial",
+"state": "CA"
+},
+{
+"id": "CA0036",
+"name": "El Dorado County Library",
+"city": "Placerville",
+"county": "El Dorado",
+"state": "CA"
+},
+{
+"id": "CA0037",
+"name": "El Segundo Public Library",
+"city": "El Segundo",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0038",
+"name": "Escondido Public Library",
+"city": "Escondido",
+"county": "San Diego",
+"state": "CA"
+},
+{
+"id": "CA0193",
+"name": "Folsom Public Library",
+"city": "Folsom",
+"county": "Sacramento",
+"state": "CA"
+},
+{
+"id": "CA0040",
+"name": "Fresno County Public Library",
+"city": "Fresno",
+"county": "Fresno",
+"state": "CA"
+},
+{
+"id": "CA0041",
+"name": "Fullerton Public Library",
+"city": "Fullerton",
+"county": "Orange",
+"state": "CA"
+},
+{
+"id": "CA0042",
+"name": "Glendale Library, Arts & Culture",
+"city": "Glendale",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0043",
+"name": "Glendora Library & Cultural Center",
+"city": "Glendora",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0271",
+"name": "Goleta Valley Library",
+"city": "Goleta",
+"county": "Santa Barbara",
+"state": "CA"
+},
+{
+"id": "CA0044",
+"name": "Hayward Public Library",
+"city": "Hayward",
+"county": "Alameda",
+"state": "CA"
+},
+{
+"id": "CA0045",
+"name": "Hemet Public Library",
+"city": "Hemet",
+"county": "Riverside",
+"state": "CA"
+},
+{
+"id": "CA0039",
+"name": "Humboldt County Library",
+"city": "Eureka",
+"county": "Humboldt",
+"state": "CA"
+},
+{
+"id": "CA0046",
+"name": "Huntington Beach Public Library",
+"city": "Huntington Beach",
+"county": "Orange",
+"state": "CA"
+},
+{
+"id": "CA0047",
+"name": "Imperial County Library",
+"city": "El Centro",
+"county": "Imperial",
+"state": "CA"
+},
+{
+"id": "CA0048",
+"name": "Imperial Public Library",
+"city": "Imperial",
+"county": "Imperial",
+"state": "CA"
+},
+{
+"id": "CA0049",
+"name": "Inglewood Public Library",
+"city": "Inglewood",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0050",
+"name": "Inyo County Free Library",
+"city": "Independence",
+"county": "Inyo",
+"state": "CA"
+},
+{
+"id": "CA0051",
+"name": "Kern County Library",
+"city": "Bakersfield",
+"county": "Kern",
+"state": "CA"
+},
+{
+"id": "CA0053",
+"name": "Kings County Library",
+"city": "Hanford",
+"county": "Kings",
+"state": "CA"
+},
+{
+"id": "CA0062",
+"name": "La County Library",
+"city": "Downey",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0071",
+"name": "Mono County Free Library",
+"city": "Mammoth Lakes",
+"county": "Mono",
+"state": "CA"
+},
+{
+"id": "CA0072",
+"name": "Monrovia Public Library",
+"city": "Monrovia",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0073",
+"name": "Monterey County Free Libraries",
+"city": "Marina",
+"county": "Monterey",
+"state": "CA"
+},
+{
+"id": "CA0075",
+"name": "Monterey Park Bruggemeyer Library",
+"city": "Monterey Park",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0074",
+"name": "Monterey Public Library",
+"city": "Monterey",
+"county": "Monterey",
+"state": "CA"
+},
+{
+"id": "CA0208",
+"name": "Moorpark City Library",
+"city": "Moorpark",
+"county": "Ventura",
+"state": "CA"
+},
+{
+"id": "CA0200",
+"name": "Moreno Valley Public Library",
+"city": "Moreno Valley",
+"county": "Riverside",
+"state": "CA"
+},
+{
+"id": "CA0076",
+"name": "Mountain View Public Library",
+"city": "Mountain View",
+"county": "Santa Clara",
+"state": "CA"
+},
+{
+"id": "CA0202",
+"name": "Murrieta Public Library",
+"city": "Murrieta",
+"county": "Riverside",
+"state": "CA"
+},
+{
+"id": "CA0077",
+"name": "Napa County Library",
+"city": "Napa",
+"county": "Napa",
+"state": "CA"
+},
+{
+"id": "CA0078",
+"name": "National City Public Library",
+"city": "National City",
+"county": "San Diego",
+"state": "CA"
+},
+{
+"id": "CA0079",
+"name": "Nevada County Library",
+"city": "Nevada City",
+"county": "Nevada",
+"state": "CA"
+},
+{
+"id": "CA0080",
+"name": "Newport Beach Public Library",
+"city": "Newport Beach",
+"county": "Orange",
+"state": "CA"
+},
+{
+"id": "CA0081",
+"name": "Oakland Public Library",
+"city": "Oakland",
+"county": "Alameda",
+"state": "CA"
+},
+{
+"id": "CA0082",
+"name": "Oceanside Public Library",
+"city": "Oceanside",
+"county": "San Diego",
+"state": "CA"
+},
+{
+"id": "CA0083",
+"name": "Ontario City Library",
+"city": "Ontario",
+"county": "San Bernardino",
+"state": "CA"
+},
+{
+"id": "CA0084",
+"name": "Orange County Public Libraries",
+"city": "Santa Ana",
+"county": "Orange",
+"state": "CA"
+},
+{
+"id": "CA0085",
+"name": "Orange Public Library",
+"city": "Orange",
+"county": "Orange",
+"state": "CA"
+},
+{
+"id": "CA0086",
+"name": "Orland Free Library",
+"city": "Orland",
+"county": "Glenn",
+"state": "CA"
+},
+{
+"id": "CA0087",
+"name": "Oxnard Public Library",
+"city": "Oxnard",
+"county": "Ventura",
+"state": "CA"
+},
+{
+"id": "CA0088",
+"name": "Pacific Grove Public Library",
+"city": "Pacific Grove",
+"county": "Monterey",
+"state": "CA"
+},
+{
+"id": "CA0090",
+"name": "Palm Springs Public Library",
+"city": "Palm Springs",
+"county": "Riverside",
+"state": "CA"
+},
+{
+"id": "CA0089",
+"name": "Palmdale City Library",
+"city": "Palmdale",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0091",
+"name": "Palo Alto City Library",
+"city": "Palo Alto",
+"county": "Santa Clara",
+"state": "CA"
+},
+{
+"id": "CA0093",
+"name": "Palo Verde Valley Library District",
+"city": "Blythe",
+"county": "Riverside",
+"state": "CA"
+},
+{
+"id": "CA0092",
+"name": "Palos Verdes Library District",
+"city": "Rolling Hills Estate",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0094",
+"name": "Pasadena Public Library",
+"city": "Pasadena",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0095",
+"name": "Paso Robles City Library",
+"city": "Paso Robles",
+"county": "San Luis Obispo",
+"state": "CA"
+},
+{
+"id": "CA0096",
+"name": "Placentia Library District",
+"city": "Placentia",
+"county": "Orange",
+"state": "CA"
+},
+{
+"id": "CA0009",
+"name": "Placer County Library",
+"city": "Auburn",
+"county": "Placer",
+"state": "CA"
+},
+{
+"id": "CA0206",
+"name": "Pleasanton Public Library",
+"city": "Pleasanton",
+"county": "Alameda",
+"state": "CA"
+},
+{
+"id": "CA0097",
+"name": "Plumas County Library",
+"city": "Quincy",
+"county": "Plumas",
+"state": "CA"
+},
+{
+"id": "CA0111",
+"name": "San Bruno Public Library",
+"city": "San Bruno",
+"county": "San Mateo",
+"state": "CA"
+},
+{
+"id": "CA0112",
+"name": "San Diego County Library",
+"city": "San Diego",
+"county": "San Diego",
+"state": "CA"
+},
+{
+"id": "CA0113",
+"name": "San Diego Public Library",
+"city": "San Diego",
+"county": "San Diego",
+"state": "CA"
+},
+{
+"id": "CA0114",
+"name": "San Francisco Public Library",
+"city": "San Francisco",
+"county": "San Francisco",
+"state": "CA"
+},
+{
+"id": "CA0115",
+"name": "San Jose Public Library",
+"city": "San Jose",
+"county": "Santa Clara",
+"state": "CA"
+},
+{
+"id": "CA0117",
+"name": "San Leandro Public Library",
+"city": "San Leandro",
+"county": "Alameda",
+"state": "CA"
+},
+{
+"id": "CA0118",
+"name": "San Luis Obispo City-County Library",
+"city": "San Luis Obispo",
+"county": "San Luis Obispo",
+"state": "CA"
+},
+{
+"id": "CA0120",
+"name": "San Mateo County Libraries",
+"city": "San Mateo",
+"county": "San Mateo",
+"state": "CA"
+},
+{
+"id": "CA0121",
+"name": "San Mateo Public Library",
+"city": "San Mateo",
+"county": "San Mateo",
+"state": "CA"
+},
+{
+"id": "CA0122",
+"name": "San Rafael Public Library",
+"city": "San Rafael",
+"county": "Marin",
+"state": "CA"
+},
+{
+"id": "CA0123",
+"name": "Santa Ana Public Library",
+"city": "Santa Ana",
+"county": "Orange",
+"state": "CA"
+},
+{
+"id": "CA0124",
+"name": "Santa Barbara Public Library",
+"city": "Santa Barbara",
+"county": "Santa Barbara",
+"state": "CA"
+},
+{
+"id": "CA0125",
+"name": "Santa Clara City Library",
+"city": "Santa Clara",
+"county": "Santa Clara",
+"state": "CA"
+},
+{
+"id": "CA0126",
+"name": "Santa Clara County Library",
+"city": "Campbell",
+"county": "Santa Clara",
+"state": "CA"
+},
+{
+"id": "CA0210",
+"name": "Santa Clarita Public Library",
+"city": "Santa Clarita",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0127",
+"name": "Santa Cruz Public Libraries",
+"city": "Santa Cruz",
+"county": "Santa Cruz",
+"state": "CA"
+},
+{
+"id": "CA0128",
+"name": "Santa Fe Springs City Library",
+"city": "Santa Fe Springs",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0129",
+"name": "Santa Maria Public Library",
+"city": "Santa Maria",
+"county": "Santa Barbara",
+"state": "CA"
+},
+{
+"id": "CA0130",
+"name": "Santa Monica Public Library",
+"city": "Santa Monica",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0272",
+"name": "Shafter Library",
+"city": "Shafter",
+"county": "Kern",
+"state": "CA"
+},
+{
+"id": "CA0133",
+"name": "Shasta Public Libraries",
+"city": "Redding",
+"county": "Shasta",
+"state": "CA"
+},
+{
+"id": "CA0134",
+"name": "Sierra Madre Public Library",
+"city": "Sierra Madre",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0166",
+"name": "Signal Hill Public Library",
+"city": "Signal Hill",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0211",
+"name": "Simi Valley Public Library",
+"city": "Simi Valley",
+"county": "Ventura",
+"state": "CA"
+},
+{
+"id": "CA0135",
+"name": "Siskiyou County Free Library",
+"city": "Yreka",
+"county": "Siskiyou",
+"state": "CA"
+},
+{
+"id": "CA0136",
+"name": "Solano County Library",
+"city": "Fairfield",
+"county": "Solano",
+"state": "CA"
+},
+{
+"id": "CA0137",
+"name": "Sonoma County Library",
+"city": "Rohnert Park",
+"county": "Sonoma",
+"state": "CA"
+},
+{
+"id": "CA0138",
+"name": "South Pasadena Public Library",
+"city": "South Pasadena",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0139",
+"name": "South San Francisco Public Library",
+"city": "South San Francisco",
+"county": "San Mateo",
+"state": "CA"
+},
+{
+"id": "CA0140",
+"name": "Stanislaus County Free Library",
+"city": "Modesto",
+"county": "Stanislaus",
+"state": "CA"
+},
+{
+"id": "CA0142",
+"name": "Stockton-San Joaquin County Public Library",
+"city": "Stockton",
+"county": "San Joaquin",
+"state": "CA"
+},
+{
+"id": "CA0143",
+"name": "Sunnyvale Public Library",
+"city": "Sunnyvale",
+"county": "Santa Clara",
+"state": "CA"
+},
+{
+"id": "CA0144",
+"name": "Sutter County Library",
+"city": "Yuba City",
+"county": "Sutter",
+"state": "CA"
+},
+{
+"id": "CA0145",
+"name": "Tehama County Library",
+"city": "Red Bluff",
+"county": "Tehama",
+"state": "CA"
+},
+{
+"id": "CO0005",
+"name": "Arapahoe Library District",
+"city": "Englewood",
+"county": "Arapahoe",
+"state": "CO"
+},
+{
+"id": "CO0007",
+"name": "Aurora Public Library",
+"city": "Aurora",
+"county": "Arapahoe",
+"state": "CO"
+},
+{
+"id": "CO0009",
+"name": "Basalt Regional Library District",
+"city": "Basalt",
+"county": "Eagle",
+"state": "CO"
+},
+{
+"id": "CO0011",
+"name": "Berthoud Community Library District",
+"city": "Berthoud",
+"county": "Larimer",
+"state": "CO"
+},
+{
+"id": "CO0012",
+"name": "Boulder Public Library",
+"city": "Boulder",
+"county": "Boulder",
+"state": "CO"
+},
+{
+"id": "CO0013",
+"name": "Broomfield/Eisenhower Public Library",
+"city": "Broomfield",
+"county": "Broomfield",
+"state": "CO"
+},
+{
+"id": "CO0017",
+"name": "Canon City Public Library",
+"city": "Canon City",
+"county": "Fremont",
+"state": "CO"
+},
+{
+"id": "CO0131",
+"name": "Clearview Library District",
+"city": "Windsor",
+"county": "Weld",
+"state": "CO"
+},
+{
+"id": "CO0144",
+"name": "Delta County Public Library District",
+"city": "Hotchkiss",
+"county": "Delta",
+"state": "CO"
+},
+{
+"id": "CO0034",
+"name": "Denver Public Library",
+"city": "Denver",
+"county": "Denver",
+"state": "CO"
+},
+{
+"id": "CO0037",
+"name": "Douglas County Libraries",
+"city": "Castle Rock",
+"county": "Douglas",
+"state": "CO"
+},
+{
+"id": "CO0038",
+"name": "Durango Public Library",
+"city": "Durango",
+"county": "La Plata",
+"state": "CO"
+},
+{
+"id": "CO0039",
+"name": "Eagle Valley Library District",
+"city": "Eagle",
+"county": "Eagle",
+"state": "CO"
+},
+{
+"id": "CO0112",
+"name": "East Routt Library District",
+"city": "Steamboat Springs",
+"county": "Routt",
+"state": "CO"
+},
+{
+"id": "CO0040",
+"name": "Elbert County Library District",
+"city": "Elizabeth",
+"county": "Elbert",
+"state": "CO"
+},
+{
+"id": "CO0041",
+"name": "Englewood Public Library",
+"city": "Englewood",
+"county": "Arapahoe",
+"state": "CO"
+},
+{
+"id": "CO0042",
+"name": "Estes Valley Public Library District",
+"city": "Estes Park",
+"county": "Larimer",
+"state": "CO"
+},
+{
+"id": "CO0047",
+"name": "Fort Morgan Public Library",
+"city": "Fort Morgan",
+"county": "Morgan",
+"state": "CO"
+},
+{
+"id": "CO0049",
+"name": "Garfield County Public Library District",
+"city": "Rifle",
+"county": "Garfield",
+"state": "CO"
+},
+{
+"id": "CO0051",
+"name": "Grand County Library District",
+"city": "Granby",
+"county": "Grand",
+"state": "CO"
+},
+{
+"id": "CO0052",
+"name": "Gunnison County Library District",
+"city": "Gunnison",
+"county": "Gunnison",
+"state": "CO"
+},
+{
+"id": "CO0145",
+"name": "High Plains Library District",
+"city": "Greeley",
+"county": "Weld",
+"state": "CO"
+},
+{
+"id": "CO0060",
+"name": "Jefferson County Public Library",
+"city": "Lakewood",
+"county": "Jefferson",
+"state": "CO"
+},
+{
+"id": "CO0065",
+"name": "Lafayette Public Library",
+"city": "Lafayette",
+"county": "Boulder",
+"state": "CO"
+},
+{
+"id": "CO0068",
+"name": "Lamar Public Library",
+"city": "Lamar",
+"county": "Prowers",
+"state": "CO"
+},
+{
+"id": "CO0072",
+"name": "Littleton/Bemis Public Library",
+"city": "Littleton",
+"county": "Arapahoe",
+"state": "CO"
+},
+{
+"id": "CO0073",
+"name": "Longmont Public Library",
+"city": "Longmont",
+"county": "Boulder",
+"state": "CO"
+},
+{
+"id": "CO0074",
+"name": "Louisville Public Library",
+"city": "Louisville",
+"county": "Boulder",
+"state": "CO"
+},
+{
+"id": "CO0075",
+"name": "Loveland Public Library",
+"city": "Loveland",
+"county": "Larimer",
+"state": "CO"
+},
+{
+"id": "CO0082",
+"name": "Mesa County Public Library District",
+"city": "Grand Junction",
+"county": "Mesa",
+"state": "CO"
+},
+{
+"id": "CO0024",
+"name": "Moffat County Library",
+"city": "Craig",
+"county": "Moffat",
+"state": "CO"
+},
+{
+"id": "CO0085",
+"name": "Montrose Regional Library District",
+"city": "Montrose",
+"county": "Montrose",
+"state": "CO"
+},
+{
+"id": "CO0094",
+"name": "Park County Public Library",
+"city": "Fairplay",
+"county": "Park",
+"state": "CO"
+},
+{
+"id": "CO0096",
+"name": "Pikes Peak Library District",
+"city": "Colorado Springs",
+"county": "El Paso",
+"state": "CO"
+},
+{
+"id": "CT0118",
+"name": "Acton Public Library",
+"city": "Old Saybrook",
+"county": "Middlesex",
+"state": "CT"
+},
+{
+"id": "CT0121",
+"name": "Aldrich Free Public Library",
+"city": "Moosup",
+"county": "Windham",
+"state": "CT"
+},
+{
+"id": "CT0002",
+"name": "Ansonia Library",
+"city": "Ansonia",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0004",
+"name": "Avon Free Public Library",
+"city": "Avon",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0178",
+"name": "Beardsley & Memorial Library",
+"city": "Winchester",
+"county": "Litchfield",
+"state": "CT"
+},
+{
+"id": "CT0008",
+"name": "Berlin Free Library Association",
+"city": "Berlin",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0007",
+"name": "Berlin-Peck Memorial Library",
+"city": "Berlin",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0010",
+"name": "Bethel Public Library",
+"city": "Bethel",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0067",
+"name": "Bill Memorial Library",
+"city": "Groton",
+"county": "New London",
+"state": "CT"
+},
+{
+"id": "CT0012",
+"name": "Bloomfield Public Library",
+"city": "Bloomfield",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0192",
+"name": "Booth & Dimock Memorial Library",
+"city": "Coventry",
+"county": "Tolland",
+"state": "CT"
+},
+{
+"id": "CT0016",
+"name": "Bridgeport Public Library",
+"city": "Bridgeport",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0018",
+"name": "Bristol Public Library",
+"city": "Bristol",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0019",
+"name": "Brookfield Library",
+"city": "Brookfield",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0024",
+"name": "Canton Public Library",
+"city": "Canton",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0119",
+"name": "Case Memorial Library",
+"city": "Orange",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0191",
+"name": "Cheshire Public Library",
+"city": "Cheshire",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0135",
+"name": "Cora J. Belden Library",
+"city": "Rocky Hill",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0028",
+"name": "Cragin Memorial Library",
+"city": "Colchester",
+"county": "New London",
+"state": "CT"
+},
+{
+"id": "CT0032",
+"name": "Cromwell Belden Public Library",
+"city": "Cromwell",
+"county": "Middlesex",
+"state": "CT"
+},
+{
+"id": "CT0107",
+"name": "Cyrenius H. Booth Library",
+"city": "Newtown",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0033",
+"name": "Danbury Public Library",
+"city": "Danbury",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0035",
+"name": "Darien Library",
+"city": "Darien",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0037",
+"name": "Derby Neck Library",
+"city": "Derby",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0038",
+"name": "Derby Public Library",
+"city": "Derby",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0085",
+"name": "E.C. Scranton Memorial Library",
+"city": "Madison",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0006",
+"name": "East Berlin Library Association",
+"city": "Berlin",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0043",
+"name": "East Hampton Public Library",
+"city": "East Hampton",
+"county": "Middlesex",
+"state": "CT"
+},
+{
+"id": "CT0045",
+"name": "East Hartford Public Library",
+"city": "East Hartford",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0047",
+"name": "East Lyme Public Library",
+"city": "Niantic",
+"county": "New London",
+"state": "CT"
+},
+{
+"id": "CT0094",
+"name": "Edith Wheeler Memorial Library",
+"city": "Monroe",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0052",
+"name": "Enfield Public Library",
+"city": "Enfield",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0055",
+"name": "Fairfield Public Library",
+"city": "Fairfield",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0057",
+"name": "Farmington Libraries",
+"city": "Farmington",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0151",
+"name": "Ferguson Library",
+"city": "Stamford",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0062",
+"name": "Granby Public Library",
+"city": "Granby",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0063",
+"name": "Greenwich Library",
+"city": "Greenwich",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0050",
+"name": "Library Association Of Warehouse Point",
+"city": "East Windsor",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0104",
+"name": "Lucy Robbins Welles Library",
+"city": "Newington",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0086",
+"name": "Manchester Public Library",
+"city": "Manchester",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0087",
+"name": "Mansfield Public Library",
+"city": "Mansfield",
+"county": "Tolland",
+"state": "CT"
+},
+{
+"id": "CT0089",
+"name": "Meriden Public Library",
+"city": "Meriden",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0093",
+"name": "Milford Public Library",
+"city": "Milford",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0069",
+"name": "Mystic & Noank Library",
+"city": "Mystic",
+"county": "New London",
+"state": "CT"
+},
+{
+"id": "CT0098",
+"name": "New Britain Public Library",
+"city": "New Britain",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0099",
+"name": "New Canaan Library",
+"city": "New Canaan",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0100",
+"name": "New Fairfield Free Public Library",
+"city": "New Fairfield",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0103",
+"name": "New Haven Free Public Library",
+"city": "New Haven",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0106",
+"name": "New Milford Public Library",
+"city": "New Milford",
+"county": "Litchfield",
+"state": "CT"
+},
+{
+"id": "CT0109",
+"name": "North Branford Library Department",
+"city": "North Branford",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0111",
+"name": "North Haven Memorial Library",
+"city": "North Haven",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0114",
+"name": "Norwalk Public Library",
+"city": "Norwalk",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0116",
+"name": "Otis Library",
+"city": "Norwich",
+"county": "New London",
+"state": "CT"
+},
+{
+"id": "CT0120",
+"name": "Oxford Public Library",
+"city": "Oxford",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0056",
+"name": "Pequot Library Association",
+"city": "Southport",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0064",
+"name": "Perrot Memorial Library",
+"city": "Old Greenwich",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0124",
+"name": "Plainville Public Library",
+"city": "Plainville",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0142",
+"name": "Plumb Memorial Library",
+"city": "Shelton",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0105",
+"name": "Public Library Of New London",
+"city": "New London",
+"county": "New London",
+"state": "CT"
+},
+{
+"id": "CT0095",
+"name": "Raymond Library",
+"city": "Oakdale",
+"county": "New London",
+"state": "CT"
+},
+{
+"id": "CT0134",
+"name": "Ridgefield Library",
+"city": "Ridgefield",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0162",
+"name": "Rockville Public Library, Inc.",
+"city": "Vernon",
+"county": "Tolland",
+"state": "CT"
+},
+{
+"id": "CT0115",
+"name": "Rowayton Library",
+"city": "Norwalk",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0092",
+"name": "Russell Library",
+"city": "Middletown",
+"county": "Middlesex",
+"state": "CT"
+},
+{
+"id": "CT0140",
+"name": "Seymour Public Library",
+"city": "Seymour",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0167",
+"name": "Silas Bronson Library",
+"city": "Waterbury",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0144",
+"name": "Simsbury Public Library",
+"city": "Simsbury",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0066",
+"name": "Slater Library",
+"city": "Griswold",
+"county": "New London",
+"state": "CT"
+},
+{
+"id": "CT0145",
+"name": "Somers Public Library",
+"city": "Somers",
+"county": "Tolland",
+"state": "CT"
+},
+{
+"id": "CT0148",
+"name": "South Windsor Public Library",
+"city": "South Windsor",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0146",
+"name": "Southbury Public Library",
+"city": "Southbury",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0147",
+"name": "Southington Public Library",
+"city": "Southington",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0150",
+"name": "Stafford Library",
+"city": "Stafford Springs",
+"county": "Tolland",
+"state": "CT"
+},
+{
+"id": "CT0153",
+"name": "Stonington Free Library",
+"city": "Stonington",
+"county": "New London",
+"state": "CT"
+},
+{
+"id": "CT0059",
+"name": "Welles-Turner Memorial Library",
+"city": "Glastonbury",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0171",
+"name": "West Hartford Public Library",
+"city": "West Hartford",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0172",
+"name": "West Haven Public Library",
+"city": "West Haven",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0173",
+"name": "Weston Public Library",
+"city": "Weston",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0174",
+"name": "Westport Library",
+"city": "Westport",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0175",
+"name": "Wethersfield Public Library",
+"city": "Wethersfield",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0180",
+"name": "Willimantic Public Library",
+"city": "Willimantic",
+"county": "Windham",
+"state": "CT"
+},
+{
+"id": "CT0015",
+"name": "Willoughby Wallace Memorial Library",
+"city": "Stony Creek",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0177",
+"name": "Wilton Library Association",
+"city": "Wilton",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0181",
+"name": "Windham Free Library",
+"city": "Windham",
+"county": "Windham",
+"state": "CT"
+},
+{
+"id": "CT0183",
+"name": "Windsor Locks Public Library",
+"city": "Windsor Locks",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0182",
+"name": "Windsor Public Library",
+"city": "Windsor",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0184",
+"name": "Wolcott Public Library",
+"city": "Wolcott",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0199",
+"name": "Wood Memorial Library And Museum",
+"city": "South Windsor",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "DC0001",
+"name": "District Of Columbia Public Library",
+"city": "Washington",
+"county": "Dist Of Columbia",
+"state": "DC"
+},
+{
+"id": "DE0026",
+"name": "Corbit-Calloway Memorial Library",
+"city": "Odessa",
+"county": "New Castle",
+"state": "DE"
+},
+{
+"id": "DE0046",
+"name": "Department Of Community Services",
+"city": "New Castle",
+"county": "New Castle",
+"state": "DE"
+},
+{
+"id": "DE0029",
+"name": "Dover Public Library",
+"city": "Dover",
+"county": "Kent",
+"state": "DE"
+},
+{
+"id": "DE0003",
+"name": "Georgetown Public Library",
+"city": "Georgetown",
+"county": "Sussex",
+"state": "DE"
+},
+{
+"id": "DE0005",
+"name": "Harrington Public Library",
+"city": "Harrington",
+"county": "Kent",
+"state": "DE"
+},
+{
+"id": "DE0032",
+"name": "Kent County Public Library",
+"city": "Dover",
+"county": "Kent",
+"state": "DE"
+},
+{
+"id": "DE0009",
+"name": "Laurel Public Library",
+"city": "Laurel",
+"county": "Sussex",
+"state": "DE"
+},
+{
+"id": "DE0010",
+"name": "Lewes Public Library",
+"city": "Lewes",
+"county": "Sussex",
+"state": "DE"
+},
+{
+"id": "DE0011",
+"name": "Milford Public Library",
+"city": "Milford",
+"county": "Sussex",
+"state": "DE"
+},
+{
+"id": "DE0013",
+"name": "Millsboro Public Library",
+"city": "Millsboro",
+"county": "Sussex",
+"state": "DE"
+},
+{
+"id": "DE0015",
+"name": "New Castle Public Library",
+"city": "New Castle",
+"county": "New Castle",
+"state": "DE"
+},
+{
+"id": "DE0017",
+"name": "Rehoboth Beach Public Library",
+"city": "Rehoboth Beach",
+"county": "Sussex",
+"state": "DE"
+},
+{
+"id": "DE0018",
+"name": "Seaford District Library",
+"city": "Seaford",
+"county": "Sussex",
+"state": "DE"
+},
+{
+"id": "DE0020",
+"name": "Smyrna Public Library",
+"city": "Smyrna",
+"county": "Kent",
+"state": "DE"
+},
+{
+"id": "DE0030",
+"name": "Sussex County Dept. Of Libraries",
+"city": "Georgetown",
+"county": "Sussex",
+"state": "DE"
+},
+{
+"id": "DE0022",
+"name": "Wilmington Institute Library",
+"city": "Wilmington",
+"county": "New Castle",
+"state": "DE"
+},
+{
+"id": "FL0094",
+"name": "Altamonte Springs City Library",
+"city": "Altamonte Springs",
+"county": "Seminole",
+"state": "FL"
+},
+{
+"id": "FL0056",
+"name": "Boca Raton Public Library",
+"city": "Boca Raton",
+"county": "Palm Beach",
+"state": "FL"
+},
+{
+"id": "FL0247",
+"name": "Boynton Beach City Library",
+"city": "Boynton Beach",
+"county": "Palm Beach",
+"state": "FL"
+},
+{
+"id": "FL0011",
+"name": "Brevard County Library System",
+"city": "Cocoa",
+"county": "Brevard",
+"state": "FL"
+},
+{
+"id": "FL0022",
+"name": "Brockway Memorial Library",
+"city": "Miami Shores",
+"county": "Miami-Dade",
+"state": "FL"
+},
+{
+"id": "FL0012",
+"name": "Broward County Libraries Division",
+"city": "Fort Lauderdale",
+"county": "Broward",
+"state": "FL"
+},
+{
+"id": "FL0258",
+"name": "Charlotte County Public Library",
+"city": "Port Charlotte",
+"county": "Charlotte",
+"state": "FL"
+},
+{
+"id": "FL0018",
+"name": "Citrus County Library System",
+"city": "Beverly Hills",
+"county": "Citrus",
+"state": "FL"
+},
+{
+"id": "FL0019",
+"name": "Clay County Public Library System",
+"city": "Fleming Island",
+"county": "Clay",
+"state": "FL"
+},
+{
+"id": "FL0020",
+"name": "Collier County Public Library",
+"city": "Naples",
+"county": "Collier",
+"state": "FL"
+},
+{
+"id": "FL0021",
+"name": "Columbia County Public Library",
+"city": "Lake City",
+"county": "Columbia",
+"state": "FL"
+},
+{
+"id": "FL0023",
+"name": "Hialeah Public Libraries",
+"city": "Hialeah",
+"county": "Miami-Dade",
+"state": "FL"
+},
+{
+"id": "FL0035",
+"name": "Hillsborough County Public Library Cooperative",
+"city": "Tampa",
+"county": "Hillsborough",
+"state": "FL"
+},
+{
+"id": "FL8010",
+"name": "Homestead Cybrarium",
+"city": "Homestead",
+"county": "Miami-Dade",
+"state": "FL"
+},
+{
+"id": "FL0036",
+"name": "Indian River County Library",
+"city": "Vero Beach",
+"county": "Indian River",
+"state": "FL"
+},
+{
+"id": "FL0003",
+"name": "Jacksonville Public Library",
+"city": "Jacksonville",
+"county": "Duval",
+"state": "FL"
+},
+{
+"id": "FL0039",
+"name": "Lake County Library System",
+"city": "Tavares",
+"county": "Lake",
+"state": "FL"
+},
+{
+"id": "FL0250",
+"name": "Lake Worth Beach Public Library",
+"city": "Lake Worth",
+"county": "Palm Beach",
+"state": "FL"
+},
+{
+"id": "FL0251",
+"name": "Lantana Public Library",
+"city": "Lantana",
+"county": "Palm Beach",
+"state": "FL"
+},
+{
+"id": "FL0042",
+"name": "Lee County Library System",
+"city": "Fort Myers",
+"county": "Lee",
+"state": "FL"
+},
+{
+"id": "FL0044",
+"name": "Leroy Collins Leon County Public Library Syst",
+"city": "Tallahassee",
+"county": "Leon",
+"state": "FL"
+},
+{
+"id": "FL0053",
+"name": "Maitland Public Library",
+"city": "Maitland",
+"county": "Orange",
+"state": "FL"
+},
+{
+"id": "FL0046",
+"name": "Manatee County Public Library System",
+"city": "Bradenton",
+"county": "Manatee",
+"state": "FL"
+},
+{
+"id": "FL0254",
+"name": "Mandel Public Library Of West Palm Beach",
+"city": "West Palm Beach",
+"county": "Palm Beach",
+"state": "FL"
+},
+{
+"id": "FL0001",
+"name": "Marion County Public Library System",
+"city": "Ocala",
+"county": "Marion",
+"state": "FL"
+},
+{
+"id": "FL0047",
+"name": "Martin County Library System",
+"city": "Stuart",
+"county": "Martin",
+"state": "FL"
+},
+{
+"id": "FL0025",
+"name": "Miami-Dade Public Library System",
+"city": "Miami",
+"county": "Miami-Dade",
+"state": "FL"
+},
+{
+"id": "FL0048",
+"name": "Monroe County Public Library System",
+"city": "Key West",
+"county": "Monroe",
+"state": "FL"
+},
+{
+"id": "FL8005",
+"name": "Nassau County Public Library System",
+"city": "Fernandina Beach",
+"county": "Nassau",
+"state": "FL"
+},
+{
+"id": "FL0064",
+"name": "New Port Richey Public Library",
+"city": "New Port Richey",
+"county": "Pasco",
+"state": "FL"
+},
+{
+"id": "FL0149",
+"name": "New River Public Library Cooperative",
+"city": "Lake Butler",
+"county": "Union",
+"state": "FL"
+},
+{
+"id": "FL0024",
+"name": "North Miami Beach Public Library",
+"city": "North Miami Beach",
+"county": "Miami-Dade",
+"state": "FL"
+},
+{
+"id": "FL0103",
+"name": "North Miami Public Library",
+"city": "North Miami",
+"county": "Miami-Dade",
+"state": "FL"
+},
+{
+"id": "FL0058",
+"name": "North Palm Beach Public Library",
+"city": "North Palm Beach",
+"county": "Palm Beach",
+"state": "FL"
+},
+{
+"id": "FL0004",
+"name": "Northwest Regional Library System",
+"city": "Panama City",
+"county": "Bay",
+"state": "FL"
+},
+{
+"id": "FL8003",
+"name": "Okaloosa County Public Library Cooperative",
+"city": "Niceville",
+"county": "Okaloosa",
+"state": "FL"
+},
+{
+"id": "FL0005",
+"name": "Orange County Library District",
+"city": "Orlando",
+"county": "Orange",
+"state": "FL"
+},
+{
+"id": "FL0109",
+"name": "Osceola Library System",
+"city": "Kissimmee",
+"county": "Osceola",
+"state": "FL"
+},
+{
+"id": "FL0259",
+"name": "Pal Public Library Cooperative",
+"city": "Bronson",
+"county": "Levy",
+"state": "FL"
+},
+{
+"id": "FL0246",
+"name": "Palm Beach County Library System",
+"city": "West Palm Beach",
+"county": "Palm Beach",
+"state": "FL"
+},
+{
+"id": "FL0252",
+"name": "Palm Springs Public Library",
+"city": "Palm Springs",
+"county": "Palm Beach",
+"state": "FL"
+},
+{
+"id": "FL0136",
+"name": "Panhandle Public Library Cooperative System",
+"city": "Marianna",
+"county": "Jackson",
+"state": "FL"
+},
+{
+"id": "FL0240",
+"name": "Parkland Library",
+"city": "Parkland",
+"county": "Broward",
+"state": "FL"
+},
+{
+"id": "FL0065",
+"name": "Pasco County Public Library Cooperative",
+"city": "Hudson",
+"county": "Pasco",
+"state": "FL"
+},
+{
+"id": "FL0127",
+"name": "Pinellas Public Library Cooperative",
+"city": "Clearwater",
+"county": "Pinellas",
+"state": "FL"
+},
+{
+"id": "FL8001",
+"name": "Polk County Library Cooperative",
+"city": "Bartow",
+"county": "Polk",
+"state": "FL"
+},
+{
+"id": "FL0016",
+"name": "Richard C. Sullivan Public Library Of Wilton Manors",
+"city": "Wilton Manors",
+"county": "Broward",
+"state": "FL"
+},
+{
+"id": "FL0253",
+"name": "Riviera Beach Public Library",
+"city": "Riviera Beach",
+"county": "Palm Beach",
+"state": "FL"
+},
+{
+"id": "FL0255",
+"name": "Santa Rosa County Library System",
+"city": "Milton",
+"county": "Santa Rosa",
+"state": "FL"
+},
+{
+"id": "FL0093",
+"name": "Sarasota County Public Libraries",
+"city": "Sarasota",
+"county": "Sarasota",
+"state": "FL"
+},
+{
+"id": "FL0095",
+"name": "Seminole County Public Library System",
+"city": "Casselberry",
+"county": "Seminole",
+"state": "FL"
+},
+{
+"id": "FL0007",
+"name": "Suwannee River Regional Library System",
+"city": "Live Oak",
+"county": "Suwannee",
+"state": "FL"
+},
+{
+"id": "FL0099",
+"name": "Volusia County Public Library",
+"city": "Daytona Beach",
+"county": "Volusia",
+"state": "FL"
+},
+{
+"id": "FL0101",
+"name": "Walton County Public Library System",
+"city": "Defuniak Springs",
+"county": "Walton",
+"state": "FL"
+},
+{
+"id": "FL8009",
+"name": "Washington County Public Library",
+"city": "Chipley",
+"county": "Washington",
+"state": "FL"
+},
+{
+"id": "FL0008",
+"name": "West Florida Public Libraries",
+"city": "Pensacola",
+"county": "Escambia",
+"state": "FL"
+},
+{
+"id": "FL0135",
+"name": "Wilderness Coast Public Libraries",
+"city": "Monticello",
+"county": "Jefferson",
+"state": "FL"
+},
+{
+"id": "FL0054",
+"name": "Winter Park Public Library",
+"city": "Winter Park",
+"county": "Orange",
+"state": "FL"
+},
+{
+"id": "GA0011",
+"name": "Athens Regional Library System",
+"city": "Athens",
+"county": "Clarke",
+"state": "GA"
+},
+{
+"id": "GA0039",
+"name": "Augusta-Richmond County Public Library System",
+"city": "Augusta",
+"county": "Richmond",
+"state": "GA"
+},
+{
+"id": "GA0035",
+"name": "Azalea Regional Library System",
+"city": "Madison",
+"county": "Morgan",
+"state": "GA"
+},
+{
+"id": "GA0002",
+"name": "Bartow County Library System",
+"city": "Cartersville",
+"county": "Bartow",
+"state": "GA"
+},
+{
+"id": "GA0051",
+"name": "Bartram Trail Regional Library System",
+"city": "Washington",
+"county": "Wilkes",
+"state": "GA"
+},
+{
+"id": "GA0005",
+"name": "Brooks County Public Library",
+"city": "Quitman",
+"county": "Brooks",
+"state": "GA"
+},
+{
+"id": "GA0064",
+"name": "Catoosa County Library",
+"city": "Ringgold",
+"county": "Catoosa",
+"state": "GA"
+},
+{
+"id": "GA0036",
+"name": "Chattahoochee Valley Libraries",
+"city": "Columbus",
+"county": "Muscogee",
+"state": "GA"
+},
+{
+"id": "GA0049",
+"name": "Cherokee Regional Library System",
+"city": "Lafayette",
+"county": "Walker",
+"state": "GA"
+},
+{
+"id": "GA0027",
+"name": "Chestatee Regional Library System",
+"city": "Dahlonega",
+"county": "Lumpkin",
+"state": "GA"
+},
+{
+"id": "GA0012",
+"name": "Clayton County Library System",
+"city": "Jonesboro",
+"county": "Clayton",
+"state": "GA"
+},
+{
+"id": "GA0046",
+"name": "Coastal Plain Regional Library",
+"city": "Tifton",
+"county": "Tift",
+"state": "GA"
+},
+{
+"id": "GA0013",
+"name": "Cobb County Public Library System",
+"city": "Marietta",
+"county": "Cobb",
+"state": "GA"
+},
+{
+"id": "GA0040",
+"name": "Conyers-Rockdale Library System",
+"city": "Conyers",
+"county": "Rockdale",
+"state": "GA"
+},
+{
+"id": "GA0063",
+"name": "Coweta County Public Library System",
+"city": "Newnan",
+"county": "Coweta",
+"state": "GA"
+},
+{
+"id": "GA0034",
+"name": "De Soto Trail Regional Library System",
+"city": "Camilla",
+"county": "Mitchell",
+"state": "GA"
+},
+{
+"id": "GA0017",
+"name": "Dekalb County Public Library",
+"city": "Decatur",
+"county": "Dekalb",
+"state": "GA"
+},
+{
+"id": "GA0019",
+"name": "Dougherty County Public Library",
+"city": "Albany",
+"county": "Dougherty",
+"state": "GA"
+},
+{
+"id": "GA0020",
+"name": "Elbert County Public Library System",
+"city": "Elberton",
+"county": "Elbert",
+"state": "GA"
+},
+{
+"id": "GA0042",
+"name": "Flint River Regional Library System",
+"city": "Griffin",
+"county": "Spalding",
+"state": "GA"
+},
+{
+"id": "GA0058",
+"name": "Forsyth County Public Library",
+"city": "Cumming",
+"county": "Forsyth",
+"state": "GA"
+},
+{
+"id": "GA0022",
+"name": "Fulton County Library System",
+"city": "Atlanta",
+"county": "Fulton",
+"state": "GA"
+},
+{
+"id": "GA0066",
+"name": "Greater Clarks Hill Regional Library",
+"city": "Evans",
+"county": "Columbia",
+"state": "GA"
+},
+{
+"id": "GA0025",
+"name": "Gwinnett County Public Library System",
+"city": "Lawrenceville",
+"county": "Gwinnett",
+"state": "GA"
+},
+{
+"id": "GA0060",
+"name": "Hall County Library System",
+"city": "Gainesville",
+"county": "Hall",
+"state": "GA"
+},
+{
+"id": "GA0028",
+"name": "Hart County Library System",
+"city": "Hartwell",
+"county": "Hart",
+"state": "GA"
+},
+{
+"id": "GA0054",
+"name": "Henry County Library System",
+"city": "Mcdonough",
+"county": "Henry",
+"state": "GA"
+},
+{
+"id": "GA0029",
+"name": "Houston County Public Library",
+"city": "Perry",
+"county": "Houston",
+"state": "GA"
+},
+{
+"id": "GA0030",
+"name": "Jefferson County Library System",
+"city": "Louisville",
+"county": "Jefferson",
+"state": "GA"
+},
+{
+"id": "GA0044",
+"name": "Kinchafoonee Regional Library System",
+"city": "Dawson",
+"county": "Terrell",
+"state": "GA"
+},
+{
+"id": "GA0043",
+"name": "Lake Blackshear Regional Library System",
+"city": "Americus",
+"county": "Sumter",
+"state": "GA"
+},
+{
+"id": "GA0056",
+"name": "Lee County Public Library",
+"city": "Leesburg",
+"county": "Lee",
+"state": "GA"
+},
+{
+"id": "GA0008",
+"name": "Live Oak Public Libraries",
+"city": "Savannah",
+"county": "Chatham",
+"state": "GA"
+},
+{
+"id": "GA0067",
+"name": "Marshes Of Glynn Libraries",
+"city": "Brunswick",
+"county": "Glynn",
+"state": "GA"
+},
+{
+"id": "GA0004",
+"name": "Middle Georgia Regional Library System",
+"city": "Macon",
+"county": "Bibb",
+"state": "GA"
+},
+{
+"id": "GA0015",
+"name": "Moultrie-Colquitt County Library System",
+"city": "Moultrie",
+"county": "Colquitt",
+"state": "GA"
+},
+{
+"id": "GA0047",
+"name": "Mountain Regional Library System",
+"city": "Young Harris",
+"county": "Towns",
+"state": "GA"
+},
+{
+"id": "GA0037",
+"name": "Newton County Library System",
+"city": "Covington",
+"county": "Newton",
+"state": "GA"
+},
+{
+"id": "GA0026",
+"name": "Northeast Georgia Regional Library System",
+"city": "Clarkesville",
+"county": "Habersham",
+"state": "GA"
+},
+{
+"id": "GA0050",
+"name": "Northwest Georgia Regional Library System",
+"city": "Dalton",
+"county": "Whitfield",
+"state": "GA"
+},
+{
+"id": "GA0018",
+"name": "Ocmulgee Regional Library System",
+"city": "Eastman",
+"county": "Dodge",
+"state": "GA"
+},
+{
+"id": "GA0031",
+"name": "Oconee Regional Library System",
+"city": "Dublin",
+"county": "Laurens",
+"state": "GA"
+},
+{
+"id": "GA0052",
+"name": "Ohoopee Regional Library System",
+"city": "Vidalia",
+"county": "Toombs",
+"state": "GA"
+},
+{
+"id": "GA0053",
+"name": "Okefenokee Regional Library System",
+"city": "Waycross",
+"county": "Ware",
+"state": "GA"
+},
+{
+"id": "GA0038",
+"name": "Peach Public Libraries",
+"city": "Fort Valley",
+"county": "Peach",
+"state": "GA"
+},
+{
+"id": "GA0001",
+"name": "Piedmont Regional Library System",
+"city": "Jefferson",
+"county": "Jackson",
+"state": "GA"
+},
+{
+"id": "GA0033",
+"name": "Pine Mountain Regional Library System",
+"city": "Manchester",
+"county": "Meriwether",
+"state": "GA"
+},
+{
+"id": "GA0024",
+"name": "Roddenbery Memorial Library",
+"city": "Cairo",
+"county": "Grady",
+"state": "GA"
+},
+{
+"id": "GA0021",
+"name": "Sara Hightower Regional Library System",
+"city": "Rome",
+"county": "Floyd",
+"state": "GA"
+},
+{
+"id": "GA0014",
+"name": "Satilla Regional Library System",
+"city": "Douglas",
+"county": "Coffee",
+"state": "GA"
+},
+{
+"id": "GA0041",
+"name": "Screven-Jenkins Regional Library System",
+"city": "Sylvania",
+"county": "Screven",
+"state": "GA"
+},
+{
+"id": "GA0010",
+"name": "Sequoyah Regional Library System",
+"city": "Canton",
+"county": "Cherokee",
+"state": "GA"
+},
+{
+"id": "GA0032",
+"name": "South Georgia Regional Library",
+"city": "Valdosta",
+"county": "Lowndes",
+"state": "GA"
+},
+{
+"id": "GA0016",
+"name": "Southwest Georgia Regional Library System",
+"city": "Bainbridge",
+"county": "Decatur",
+"state": "GA"
+},
+{
+"id": "GA0006",
+"name": "Statesboro Regional Public Libraries",
+"city": "Statesboro",
+"county": "Bulloch",
+"state": "GA"
+},
+{
+"id": "GA0045",
+"name": "Thomas County Public Library System",
+"city": "Thomasville",
+"county": "Thomas",
+"state": "GA"
+},
+{
+"id": "GA0023",
+"name": "Three Rivers Regional Library System",
+"city": "Jesup",
+"county": "Wayne",
+"state": "GA"
+},
+{
+"id": "GA0048",
+"name": "Troup-Harris Regional Library",
+"city": "Lagrange",
+"county": "Troup",
+"state": "GA"
+},
+{
+"id": "GA0007",
+"name": "West Georgia Regional Library",
+"city": "Carrollton",
+"county": "Carroll",
+"state": "GA"
+},
+{
+"id": "GA0065",
+"name": "Worth County Library System",
+"city": "Sylvester",
+"county": "Worth",
+"state": "GA"
+},
+{
+"id": "HI0001",
+"name": "Hawaii State Public Library System",
+"city": "Honolulu",
+"county": "Honolulu",
+"state": "HI"
+},
+{
+"id": "IA0044",
+"name": "Adel Public Library",
+"city": "Adel",
+"county": "Dallas",
+"state": "IA"
+},
+{
+"id": "IA0154",
+"name": "Altoona Public Library",
+"city": "Altoona",
+"county": "Polk",
+"state": "IA"
+},
+{
+"id": "IA0041",
+"name": "Ames Public Library",
+"city": "Ames",
+"county": "Story",
+"state": "IA"
+},
+{
+"id": "IA0464",
+"name": "Anamosa Library & Learning Center",
+"city": "Anamosa",
+"county": "Jones",
+"state": "IA"
+},
+{
+"id": "IA0150",
+"name": "Ankeny Kirkendall Public Library",
+"city": "Ankeny",
+"county": "Polk",
+"state": "IA"
+},
+{
+"id": "IA0354",
+"name": "Bettendorf Public Library Information Center",
+"city": "Bettendorf",
+"county": "Scott",
+"state": "IA"
+},
+{
+"id": "IA0456",
+"name": "Bondurant Community Library",
+"city": "Bondurant",
+"county": "Polk",
+"state": "IA"
+},
+{
+"id": "IA0219",
+"name": "Burlington Public Library",
+"city": "Burlington",
+"county": "Des Moines",
+"state": "IA"
+},
+{
+"id": "IA0147",
+"name": "Carnegie-Stout Public Library",
+"city": "Dubuque",
+"county": "Dubuque",
+"state": "IA"
+},
+{
+"id": "IA0325",
+"name": "Carroll Public Library",
+"city": "Carroll",
+"county": "Carroll",
+"state": "IA"
+},
+{
+"id": "IA0326",
+"name": "Cedar Falls Public Library",
+"city": "Cedar Falls",
+"county": "Black Hawk",
+"state": "IA"
+},
+{
+"id": "IA0373",
+"name": "Cedar Rapids Public Library",
+"city": "Cedar Rapids",
+"county": "Linn",
+"state": "IA"
+},
+{
+"id": "IA0288",
+"name": "Charles City Public Library",
+"city": "Charles City",
+"county": "Floyd",
+"state": "IA"
+},
+{
+"id": "IA0077",
+"name": "Clear Lake Public Library",
+"city": "Clear Lake",
+"county": "Cerro Gordo",
+"state": "IA"
+},
+{
+"id": "IA0473",
+"name": "Clinton Public Library",
+"city": "Clinton",
+"county": "Clinton",
+"state": "IA"
+},
+{
+"id": "IA0571",
+"name": "Clive Public Library",
+"city": "Clive",
+"county": "Polk",
+"state": "IA"
+},
+{
+"id": "IA0053",
+"name": "Coralville Public Library",
+"city": "Coralville",
+"county": "Johnson",
+"state": "IA"
+},
+{
+"id": "IA0453",
+"name": "Council Bluffs Public Library",
+"city": "Council Bluffs",
+"county": "Pottawattamie",
+"state": "IA"
+},
+{
+"id": "IA0355",
+"name": "Davenport Public Library",
+"city": "Davenport",
+"county": "Scott",
+"state": "IA"
+},
+{
+"id": "IA0404",
+"name": "Decorah Public Library",
+"city": "Decorah",
+"county": "Winneshiek",
+"state": "IA"
+},
+{
+"id": "IA0027",
+"name": "Des Moines Public Library",
+"city": "Des Moines",
+"county": "Polk",
+"state": "IA"
+}
+]

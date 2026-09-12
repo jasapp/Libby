@@ -1,0 +1,3194 @@
+[
+{
+"id": "MI0107",
+"name": "Fennville District Library",
+"city": "Fennville",
+"county": "Allegan",
+"state": "MI"
+},
+{
+"id": "MI0108",
+"name": "Ferndale Area District Library",
+"city": "Ferndale",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0133",
+"name": "Flat River Community Library",
+"city": "Greenville",
+"county": "Montcalm",
+"state": "MI"
+},
+{
+"id": "MI0421",
+"name": "Flat Rock Public Library",
+"city": "Flat Rock",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0111",
+"name": "Flint Public Library",
+"city": "Flint",
+"county": "Genesee",
+"state": "MI"
+},
+{
+"id": "MI0113",
+"name": "Fowlerville District Library",
+"city": "Fowlerville",
+"county": "Livingston",
+"state": "MI"
+},
+{
+"id": "MI0116",
+"name": "Fraser Public Library",
+"city": "Fraser",
+"county": "Macomb",
+"state": "MI"
+},
+{
+"id": "MI0118",
+"name": "Fremont Area District Library",
+"city": "Fremont",
+"county": "Newaygo",
+"state": "MI"
+},
+{
+"id": "MI9022",
+"name": "Fruitport District Library",
+"city": "Fruitport",
+"county": "Muskegon",
+"state": "MI"
+},
+{
+"id": "MI0121",
+"name": "Garden City Public Library",
+"city": "Garden City",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0162",
+"name": "Gary Byker Memorial Library Of Hudsonville",
+"city": "Hudsonville",
+"county": "Ottawa",
+"state": "MI"
+},
+{
+"id": "MI0123",
+"name": "Genesee District Library",
+"city": "Flint",
+"county": "Genesee",
+"state": "MI"
+},
+{
+"id": "MI0124",
+"name": "Georgetown Township Public Library",
+"city": "Jenison",
+"county": "Ottawa",
+"state": "MI"
+},
+{
+"id": "MI0126",
+"name": "Gladstone Area School & Public Library",
+"city": "Gladstone",
+"county": "Delta",
+"state": "MI"
+},
+{
+"id": "MI0127",
+"name": "Gladwin County District Library",
+"city": "Gladwin",
+"county": "Gladwin",
+"state": "MI"
+},
+{
+"id": "MI0129",
+"name": "Grace A. Dow Memorial Library",
+"city": "Midland",
+"county": "Midland",
+"state": "MI"
+},
+{
+"id": "MI0130",
+"name": "Grand Ledge Area District Library",
+"city": "Grand Ledge",
+"county": "Eaton",
+"state": "MI"
+},
+{
+"id": "MI0131",
+"name": "Grand Rapids Public Library",
+"city": "Grand Rapids",
+"county": "Kent",
+"state": "MI"
+},
+{
+"id": "MI0134",
+"name": "Grosse Pointe Public Library",
+"city": "Grosse Pointe Farms",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0135",
+"name": "Hackley Public Library",
+"city": "Muskegon",
+"county": "Muskegon",
+"state": "MI"
+},
+{
+"id": "MI0137",
+"name": "Hamburg Township Library",
+"city": "Hamburg",
+"county": "Livingston",
+"state": "MI"
+},
+{
+"id": "MI0138",
+"name": "Hamtramck Public Library",
+"city": "Hamtramck",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0141",
+"name": "Harper Woods Public Library",
+"city": "Harper Woods",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0142",
+"name": "Harrison District Library",
+"city": "Harrison",
+"county": "Clare",
+"state": "MI"
+},
+{
+"id": "MI0435",
+"name": "Harrison Township Public Library",
+"city": "Harrison Township",
+"county": "Macomb",
+"state": "MI"
+},
+{
+"id": "MI0145",
+"name": "Hastings Public Library",
+"city": "Hastings",
+"county": "Barry",
+"state": "MI"
+},
+{
+"id": "MI0146",
+"name": "Hazel Park Memorial District Library",
+"city": "Hazel Park",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0150",
+"name": "Herrick District Library",
+"city": "Holland",
+"county": "Ottawa",
+"state": "MI"
+},
+{
+"id": "MI0152",
+"name": "Highland Township Public Library",
+"city": "Highland",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0232",
+"name": "Hillsdale Community Library",
+"city": "Hillsdale",
+"county": "Hillsdale",
+"state": "MI"
+},
+{
+"id": "MI0153",
+"name": "Holly Township Library",
+"city": "Holly",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0158",
+"name": "Houghton Lake Public Library",
+"city": "Houghton Lake",
+"county": "Roscommon",
+"state": "MI"
+},
+{
+"id": "MI0378",
+"name": "Howard Miller Library",
+"city": "Zeeland",
+"county": "Ottawa",
+"state": "MI"
+},
+{
+"id": "MI0160",
+"name": "Howell Carnegie District Library",
+"city": "Howell",
+"county": "Livingston",
+"state": "MI"
+},
+{
+"id": "MI0136",
+"name": "Ionia Community Library",
+"city": "Ionia",
+"county": "Ionia",
+"state": "MI"
+},
+{
+"id": "MI0171",
+"name": "Iosco-Arenac District Library",
+"city": "East Tawas",
+"county": "Iosco",
+"state": "MI"
+},
+{
+"id": "MI0173",
+"name": "Ishpeming Carnegie Public Library",
+"city": "Ishpeming",
+"county": "Marquette",
+"state": "MI"
+},
+{
+"id": "MI0175",
+"name": "Jackson District Library",
+"city": "Jackson",
+"county": "Jackson",
+"state": "MI"
+},
+{
+"id": "MI0180",
+"name": "Kalamazoo Public Library",
+"city": "Kalamazoo",
+"county": "Kalamazoo",
+"state": "MI"
+},
+{
+"id": "MI0181",
+"name": "Kalkaska County Library",
+"city": "Kalkaska",
+"county": "Kalkaska",
+"state": "MI"
+},
+{
+"id": "MI0182",
+"name": "Kent District Library",
+"city": "Comstock Park",
+"county": "Kent",
+"state": "MI"
+},
+{
+"id": "MI0190",
+"name": "Lapeer District Library",
+"city": "Lapeer",
+"county": "Lapeer",
+"state": "MI"
+},
+{
+"id": "MI0431",
+"name": "Leanna Hicks Public Library Of Inkster",
+"city": "Inkster",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0195",
+"name": "Lenawee District Library",
+"city": "Adrian",
+"county": "Lenawee",
+"state": "MI"
+},
+{
+"id": "MI0196",
+"name": "Lenox Township Library",
+"city": "New Haven",
+"county": "Macomb",
+"state": "MI"
+},
+{
+"id": "MI9025",
+"name": "Lincoln Park Public Library",
+"city": "Lincoln Park",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0198",
+"name": "Lincoln Township Public Library",
+"city": "Stevensville",
+"county": "Berrien",
+"state": "MI"
+},
+{
+"id": "MI0200",
+"name": "Livonia Public Library",
+"city": "Livonia",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0290",
+"name": "Lois Wagner Memorial Library",
+"city": "Richmond",
+"county": "Macomb",
+"state": "MI"
+},
+{
+"id": "MI0201",
+"name": "Loutit District Library",
+"city": "Grand Haven",
+"county": "Ottawa",
+"state": "MI"
+},
+{
+"id": "MI0204",
+"name": "Lyon Township Public Library",
+"city": "South Lyon",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0242",
+"name": "Macdonald Public Library",
+"city": "New Baltimore",
+"county": "Macomb",
+"state": "MI"
+},
+{
+"id": "MI0210",
+"name": "Madison Heights Public Library",
+"city": "Madison Heights",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0213",
+"name": "Manistee County Library",
+"city": "Manistee",
+"county": "Manistee",
+"state": "MI"
+},
+{
+"id": "MI0218",
+"name": "Marshall District Library",
+"city": "Marshall",
+"county": "Calhoun",
+"state": "MI"
+},
+{
+"id": "MI0401",
+"name": "Mason County District Library",
+"city": "Ludington",
+"county": "Mason",
+"state": "MI"
+},
+{
+"id": "MI0220",
+"name": "Maud Preston Palenske Memorial Library",
+"city": "Saint Joseph",
+"county": "Berrien",
+"state": "MI"
+},
+{
+"id": "MI9018",
+"name": "Melvindale Public Library",
+"city": "Melvindale",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0226",
+"name": "Menominee County Library",
+"city": "Stephenson",
+"county": "Menominee",
+"state": "MI"
+},
+{
+"id": "MI0228",
+"name": "Milan Public Library",
+"city": "Milan",
+"county": "Monroe",
+"state": "MI"
+},
+{
+"id": "MI0229",
+"name": "Milford Public Library",
+"city": "Milford",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0231",
+"name": "Missaukee District Library",
+"city": "Lake City",
+"county": "Missaukee",
+"state": "MI"
+},
+{
+"id": "MI0233",
+"name": "Monroe County Library System",
+"city": "Monroe",
+"county": "Monroe",
+"state": "MI"
+},
+{
+"id": "MI0237",
+"name": "Mount Clemens Public Library",
+"city": "Mount Clemens",
+"county": "Macomb",
+"state": "MI"
+},
+{
+"id": "MI0240",
+"name": "Muskegon Area District Library",
+"city": "Muskegon",
+"county": "Muskegon",
+"state": "MI"
+},
+{
+"id": "MI0245",
+"name": "Niles District Library",
+"city": "Niles",
+"county": "Berrien",
+"state": "MI"
+},
+{
+"id": "MI0248",
+"name": "Northville District Library",
+"city": "Northville",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0250",
+"name": "Novi Public Library",
+"city": "Novi",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0251",
+"name": "Oak Park Public Library",
+"city": "Oak Park",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0253",
+"name": "Ogemaw District Library",
+"city": "Rose City",
+"county": "Ogemaw",
+"state": "MI"
+},
+{
+"id": "MI0255",
+"name": "Orion Township Public Library",
+"city": "Lake Orion",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0258",
+"name": "Otsego County Library",
+"city": "Gaylord",
+"county": "Otsego",
+"state": "MI"
+},
+{
+"id": "MI0259",
+"name": "Otsego District Public Library",
+"city": "Otsego",
+"county": "Allegan",
+"state": "MI"
+},
+{
+"id": "MI0262",
+"name": "Oxford Public Library",
+"city": "Oxford",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0263",
+"name": "Parchment Community Library",
+"city": "Parchment",
+"county": "Kalamazoo",
+"state": "MI"
+},
+{
+"id": "MI0265",
+"name": "Paw Paw District Library",
+"city": "Paw Paw",
+"county": "Van Buren",
+"state": "MI"
+},
+{
+"id": "MI0268",
+"name": "Peter White Public Library",
+"city": "Marquette",
+"county": "Marquette",
+"state": "MI"
+},
+{
+"id": "MI0269",
+"name": "Petoskey District Library",
+"city": "Petoskey",
+"county": "Emmet",
+"state": "MI"
+},
+{
+"id": "MI0271",
+"name": "Pinckney Community Public Library",
+"city": "Pinckney",
+"county": "Livingston",
+"state": "MI"
+},
+{
+"id": "MI0273",
+"name": "Plymouth District Library",
+"city": "Plymouth",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0274",
+"name": "Pontiac Public Library",
+"city": "Pontiac",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0277",
+"name": "Portage District Library",
+"city": "Portage",
+"county": "Kalamazoo",
+"state": "MI"
+},
+{
+"id": "MI0276",
+"name": "Portage Lake District Library",
+"city": "Houghton",
+"county": "Houghton",
+"state": "MI"
+},
+{
+"id": "MI0278",
+"name": "Portland District Library",
+"city": "Portland",
+"county": "Ionia",
+"state": "MI"
+},
+{
+"id": "MI0279",
+"name": "Presque Isle District Library",
+"city": "Rogers City",
+"county": "Presque Isle",
+"state": "MI"
+},
+{
+"id": "MI0299",
+"name": "Public Libraries Of Saginaw",
+"city": "Saginaw",
+"county": "Saginaw",
+"state": "MI"
+},
+{
+"id": "MI0402",
+"name": "Redford Township District Library",
+"city": "Redford",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0292",
+"name": "Riverview Public Library",
+"city": "Riverview",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0293",
+"name": "Rochester Hills Public Library",
+"city": "Rochester",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0294",
+"name": "Romeo District Library",
+"city": "Romeo",
+"county": "Macomb",
+"state": "MI"
+},
+{
+"id": "MI0433",
+"name": "Romulus Public Library",
+"city": "Romulus",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0295",
+"name": "Roseville Public Library",
+"city": "Roseville",
+"county": "Macomb",
+"state": "MI"
+},
+{
+"id": "MI0296",
+"name": "Royal Oak Public Library",
+"city": "Royal Oak",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0165",
+"name": "Ruth Hughes Memorial District Library",
+"city": "Imlay City",
+"county": "Lapeer",
+"state": "MI"
+},
+{
+"id": "MI0321",
+"name": "Saint Clair County Library System",
+"city": "Port Huron",
+"county": "Saint Clair",
+"state": "MI"
+},
+{
+"id": "MI0322",
+"name": "Saint Clair Shores Public Library",
+"city": "St. Clair Shores",
+"county": "Macomb",
+"state": "MI"
+},
+{
+"id": "MI0315",
+"name": "Salem-South Lyon District Library",
+"city": "South Lyon",
+"county": "Washtenaw",
+"state": "MI"
+},
+{
+"id": "MI0300",
+"name": "Saline District Library",
+"city": "Saline",
+"county": "Washtenaw",
+"state": "MI"
+},
+{
+"id": "MI0303",
+"name": "Saranac Public Library",
+"city": "Saranac",
+"county": "Ionia",
+"state": "MI"
+},
+{
+"id": "MI0309",
+"name": "Shelby Area District Library",
+"city": "Shelby",
+"county": "Oceana",
+"state": "MI"
+},
+{
+"id": "MI0308",
+"name": "Shelby Township Library",
+"city": "Shelby Township",
+"county": "Macomb",
+"state": "MI"
+},
+{
+"id": "MI0261",
+"name": "Shiawassee District Library",
+"city": "Owosso",
+"county": "Shiawassee",
+"state": "MI"
+},
+{
+"id": "MI0316",
+"name": "Southfield Public Library",
+"city": "Southfield",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0434",
+"name": "Southgate Veterans Memorial Library",
+"city": "Southgate",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0355",
+"name": "Spring Lake District Library",
+"city": "Spring Lake",
+"county": "Ottawa",
+"state": "MI"
+},
+{
+"id": "MI0319",
+"name": "Springfield Township Library",
+"city": "Davisburg",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0325",
+"name": "Sterling Heights Public Library",
+"city": "Sterling Heights",
+"county": "Macomb",
+"state": "MI"
+},
+{
+"id": "MI0326",
+"name": "Sturgis District Library",
+"city": "Sturgis",
+"county": "St. Joseph",
+"state": "MI"
+},
+{
+"id": "MI0022",
+"name": "Superior District Library",
+"city": "Sault Ste Marie",
+"county": "Chippewa",
+"state": "MI"
+},
+{
+"id": "MI0331",
+"name": "Tamarack District Library",
+"city": "Lakeview",
+"county": "Montcalm",
+"state": "MI"
+},
+{
+"id": "MI9024",
+"name": "Taylor Community Library",
+"city": "Taylor",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0333",
+"name": "Tecumseh District Library",
+"city": "Tecumseh",
+"county": "Lenawee",
+"state": "MI"
+},
+{
+"id": "MI0335",
+"name": "Theodore A. Cutler Memorial Library",
+"city": "Saint Louis",
+"county": "Gratiot",
+"state": "MI"
+},
+{
+"id": "MI0336",
+"name": "Thomas Township Library",
+"city": "Saginaw",
+"county": "Saginaw",
+"state": "MI"
+},
+{
+"id": "MI0338",
+"name": "Thornapple Kellogg School And Community Library",
+"city": "Middleville",
+"county": "Barry",
+"state": "MI"
+},
+{
+"id": "MI0340",
+"name": "Three Rivers Public Library",
+"city": "Three Rivers",
+"county": "St. Joseph",
+"state": "MI"
+},
+{
+"id": "MI0342",
+"name": "Traverse Area District Library",
+"city": "Traverse City",
+"county": "Grand Traverse",
+"state": "MI"
+},
+{
+"id": "MI9020",
+"name": "Trenton Veterans Memorial Library",
+"city": "Trenton",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0343",
+"name": "Troy Public Library",
+"city": "Troy",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0345",
+"name": "Van Buren District Library",
+"city": "Decatur",
+"county": "Van Buren",
+"state": "MI"
+},
+{
+"id": "MI0349",
+"name": "Vicksburg District Library",
+"city": "Vicksburg",
+"county": "Kalamazoo",
+"state": "MI"
+},
+{
+"id": "MI0356",
+"name": "Warren Public Library",
+"city": "Warren",
+"county": "Macomb",
+"state": "MI"
+},
+{
+"id": "MI0358",
+"name": "Waterford Township Public Library",
+"city": "Waterford",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0403",
+"name": "Wayne Public Library",
+"city": "Wayne",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0362",
+"name": "West Bloomfield Township Public Library",
+"city": "West Bloomfield",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0370",
+"name": "White Lake Community Library",
+"city": "Whitehall",
+"county": "Muskegon",
+"state": "MI"
+},
+{
+"id": "MI0366",
+"name": "White Lake Township Library",
+"city": "White Lake",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0371",
+"name": "Willard Public Library",
+"city": "Battle Creek",
+"county": "Calhoun",
+"state": "MI"
+},
+{
+"id": "MI0415",
+"name": "William P. Faust Public Library Of Westland",
+"city": "Westland",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0374",
+"name": "Wixom Public Library",
+"city": "Wixom",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0377",
+"name": "Ypsilanti District Library",
+"city": "Ypsilanti",
+"county": "Washtenaw",
+"state": "MI"
+},
+{
+"id": "MN0069",
+"name": "Albert Lea Public Library",
+"city": "Albert Lea",
+"county": "Freeborn",
+"state": "MN"
+},
+{
+"id": "MN0035",
+"name": "Anoka County Library",
+"city": "Blaine",
+"county": "Anoka",
+"state": "MN"
+},
+{
+"id": "MN0001",
+"name": "Arrowhead Library System",
+"city": "Mountain Iron",
+"county": "St. Louis",
+"state": "MN"
+},
+{
+"id": "MN0070",
+"name": "Austin Public Library",
+"city": "Austin",
+"county": "Mower",
+"state": "MN"
+},
+{
+"id": "MN0106",
+"name": "Blue Earth County Library",
+"city": "Mankato",
+"county": "Blue Earth",
+"state": "MN"
+},
+{
+"id": "MN0072",
+"name": "Cannon Falls Library",
+"city": "Cannon Falls",
+"county": "Goodhue",
+"state": "MN"
+},
+{
+"id": "MN0038",
+"name": "Carver County Library System",
+"city": "Chaska",
+"county": "Carver",
+"state": "MN"
+},
+{
+"id": "MN0010",
+"name": "Cloquet Public Library",
+"city": "Cloquet",
+"county": "Carlton",
+"state": "MN"
+},
+{
+"id": "MN0037",
+"name": "Columbia Heights Public Library",
+"city": "Columbia Heights",
+"county": "Anoka",
+"state": "MN"
+},
+{
+"id": "MN0039",
+"name": "Dakota County Library",
+"city": "Eagan",
+"county": "Dakota",
+"state": "MN"
+},
+{
+"id": "MN0137",
+"name": "Douglas County Library",
+"city": "Alexandria",
+"county": "Douglas",
+"state": "MN"
+},
+{
+"id": "MN0013",
+"name": "Duluth Public Library",
+"city": "Duluth",
+"county": "St. Louis",
+"state": "MN"
+},
+{
+"id": "MN0031",
+"name": "East Central Regional Library",
+"city": "Cambridge",
+"county": "Isanti",
+"state": "MN"
+},
+{
+"id": "MN0075",
+"name": "Faribault: Buckham Memorial Library",
+"city": "Faribault",
+"county": "Rice",
+"state": "MN"
+},
+{
+"id": "MN0113",
+"name": "Fergus Falls Public Library",
+"city": "Fergus Falls",
+"county": "Otter Tail",
+"state": "MN"
+},
+{
+"id": "MN0018",
+"name": "Grand Rapids Area Library",
+"city": "Grand Rapids",
+"county": "Itasca",
+"state": "MN"
+},
+{
+"id": "MN0032",
+"name": "Great River Regional Library",
+"city": "St Cloud",
+"county": "Stearns",
+"state": "MN"
+},
+{
+"id": "MN0041",
+"name": "Hennepin County Library",
+"city": "Minnetonka",
+"county": "Hennepin",
+"state": "MN"
+},
+{
+"id": "MN0019",
+"name": "Hibbing Public Library",
+"city": "Hibbing",
+"county": "St. Louis",
+"state": "MN"
+},
+{
+"id": "MN0078",
+"name": "Kasson Public Library",
+"city": "Kasson",
+"county": "Dodge",
+"state": "MN"
+},
+{
+"id": "MN0145",
+"name": "Kitchigami Regional Library",
+"city": "Pine River",
+"county": "Cass",
+"state": "MN"
+},
+{
+"id": "MN0034",
+"name": "Lake Agassiz Regional Library",
+"city": "Moorhead",
+"county": "Clay",
+"state": "MN"
+},
+{
+"id": "MN0081",
+"name": "Lake City Public Library",
+"city": "Lake City",
+"county": "Wabasha",
+"state": "MN"
+},
+{
+"id": "MN0155",
+"name": "Lonsdale Public Library",
+"city": "Lonsdale",
+"county": "Rice",
+"state": "MN"
+},
+{
+"id": "MN0057",
+"name": "Marshall-Lyon County Library",
+"city": "Marshall",
+"county": "Lyon",
+"state": "MN"
+},
+{
+"id": "MN0105",
+"name": "Martin County Library",
+"city": "Fairmont",
+"county": "Martin",
+"state": "MN"
+},
+{
+"id": "MN0101",
+"name": "New Ulm Public Library",
+"city": "New Ulm",
+"county": "Brown",
+"state": "MN"
+},
+{
+"id": "MN0060",
+"name": "Nobles County Library",
+"city": "Worthington",
+"county": "Nobles",
+"state": "MN"
+},
+{
+"id": "MN9027",
+"name": "North Mankato Taylor Library",
+"city": "North Mankato",
+"county": "Nicollet",
+"state": "MN"
+},
+{
+"id": "MN0084",
+"name": "Northfield Public Library",
+"city": "Northfield",
+"county": "Rice",
+"state": "MN"
+},
+{
+"id": "MN0050",
+"name": "Northwest Regional Library",
+"city": "Thief River Falls",
+"county": "Pennington",
+"state": "MN"
+},
+{
+"id": "MN0085",
+"name": "Owatonna-Steele County Library",
+"city": "Owatonna",
+"county": "Steele",
+"state": "MN"
+},
+{
+"id": "MN0086",
+"name": "Pine Island: Van Horn Public Library",
+"city": "Pine Island",
+"county": "Goodhue",
+"state": "MN"
+},
+{
+"id": "MN0051",
+"name": "Pioneerland Library System",
+"city": "Willmar",
+"county": "Kandiyohi",
+"state": "MN"
+},
+{
+"id": "MN0043",
+"name": "Ramsey County Library",
+"city": "Shoreview",
+"county": "Ramsey",
+"state": "MN"
+},
+{
+"id": "MN0089",
+"name": "Red Wing Public Library",
+"city": "Red Wing",
+"county": "Goodhue",
+"state": "MN"
+},
+{
+"id": "MN0090",
+"name": "Rochester Public Library",
+"city": "Rochester",
+"county": "Olmsted",
+"state": "MN"
+},
+{
+"id": "MN0044",
+"name": "Saint Paul Public Library",
+"city": "Saint Paul",
+"county": "Ramsey",
+"state": "MN"
+},
+{
+"id": "MN0045",
+"name": "Scott County Library",
+"city": "Shakopee",
+"county": "Scott",
+"state": "MN"
+},
+{
+"id": "MN9030",
+"name": "Sibley County Library",
+"city": "Gaylord",
+"county": "Sibley",
+"state": "MN"
+},
+{
+"id": "MN0040",
+"name": "South Saint Paul Public Library",
+"city": "South St Paul",
+"county": "Dakota",
+"state": "MN"
+},
+{
+"id": "MN9028",
+"name": "St. Peter Public Library",
+"city": "Saint Peter",
+"county": "Nicollet",
+"state": "MN"
+},
+{
+"id": "MN0094",
+"name": "Stewartville Public Library",
+"city": "Stewartville",
+"county": "Olmsted",
+"state": "MN"
+},
+{
+"id": "MN0049",
+"name": "Stillwater Public Library",
+"city": "Stillwater",
+"county": "Washington",
+"state": "MN"
+},
+{
+"id": "MN0109",
+"name": "Viking Library System",
+"city": "Fergus Falls",
+"county": "Otter Tail",
+"state": "MN"
+},
+{
+"id": "MN0107",
+"name": "Waseca-Le Sueur Regional Library",
+"city": "Waseca",
+"county": "Waseca",
+"state": "MN"
+},
+{
+"id": "MN0046",
+"name": "Washington County Library",
+"city": "Woodbury",
+"county": "Washington",
+"state": "MN"
+},
+{
+"id": "MN0108",
+"name": "Watonwan County Library",
+"city": "St James",
+"county": "Watonwan",
+"state": "MN"
+},
+{
+"id": "MN0097",
+"name": "Winona Public Library",
+"city": "Winona",
+"county": "Winona",
+"state": "MN"
+},
+{
+"id": "MN0098",
+"name": "Zumbrota Public Library",
+"city": "Zumbrota",
+"county": "Goodhue",
+"state": "MN"
+},
+{
+"id": "MO0015",
+"name": "Adair County Public Library",
+"city": "Kirksville",
+"county": "Adair",
+"state": "MO"
+},
+{
+"id": "MO0038",
+"name": "Barry-Lawrence Regional Library",
+"city": "Monett",
+"county": "Barry",
+"state": "MO"
+},
+{
+"id": "MO0173",
+"name": "Barton County Library",
+"city": "Lamar",
+"county": "Barton",
+"state": "MO"
+},
+{
+"id": "MO0122",
+"name": "Bollinger County Library",
+"city": "Marble Hill",
+"county": "Bollinger",
+"state": "MO"
+},
+{
+"id": "MO0039",
+"name": "Boonslick Regional Library",
+"city": "Sedalia",
+"county": "Pettis",
+"state": "MO"
+},
+{
+"id": "MO0095",
+"name": "Camden County Library",
+"city": "Camdenton",
+"county": "Camden",
+"state": "MO"
+},
+{
+"id": "MO0121",
+"name": "Carthage Public Library",
+"city": "Carthage",
+"county": "Jasper",
+"state": "MO"
+},
+{
+"id": "MO0040",
+"name": "Cass County Public Library",
+"city": "Harrisonville",
+"county": "Cass",
+"state": "MO"
+},
+{
+"id": "MO0178",
+"name": "Cedar County Library District",
+"city": "Stockton",
+"county": "Cedar",
+"state": "MO"
+},
+{
+"id": "MO0110",
+"name": "Christian County Library",
+"city": "Nixa",
+"county": "Christian",
+"state": "MO"
+},
+{
+"id": "MO0030",
+"name": "City Of St. Louis Municipal Library District",
+"city": "St. Louis",
+"county": "St. Louis City",
+"state": "MO"
+},
+{
+"id": "MO0234",
+"name": "Crawford County Library",
+"city": "Steelville",
+"county": "Crawford",
+"state": "MO"
+},
+{
+"id": "MO0087",
+"name": "Dallas County Library",
+"city": "Buffalo",
+"county": "Dallas",
+"state": "MO"
+},
+{
+"id": "MO0034",
+"name": "Daniel Boone Regional Library",
+"city": "Columbia",
+"county": "Boone",
+"state": "MO"
+},
+{
+"id": "MO0138",
+"name": "Doniphan-Ripley County Library District",
+"city": "Doniphan",
+"county": "Ripley",
+"state": "MO"
+},
+{
+"id": "MO0111",
+"name": "Douglas County Public Library",
+"city": "Ava",
+"county": "Douglas",
+"state": "MO"
+},
+{
+"id": "MO0126",
+"name": "Dunklin County Library",
+"city": "Kennett",
+"county": "Dunklin",
+"state": "MO"
+},
+{
+"id": "MO0075",
+"name": "Farmington Public Library",
+"city": "Farmington",
+"county": "St. Francois",
+"state": "MO"
+},
+{
+"id": "MO0073",
+"name": "Ferguson Municipal Public Library District",
+"city": "Ferguson",
+"county": "St. Louis",
+"state": "MO"
+},
+{
+"id": "MO0082",
+"name": "Festus Public Library",
+"city": "Festus",
+"county": "Jefferson",
+"state": "MO"
+},
+{
+"id": "MO0051",
+"name": "Hannibal Free Public Library",
+"city": "Hannibal",
+"county": "Marion",
+"state": "MO"
+},
+{
+"id": "MO0174",
+"name": "Heartland Regional Library System",
+"city": "Vienna",
+"county": "Maries",
+"state": "MO"
+},
+{
+"id": "MO0088",
+"name": "Henry County Library",
+"city": "Clinton",
+"county": "Henry",
+"state": "MO"
+},
+{
+"id": "MO0147",
+"name": "Jefferson County Library District",
+"city": "High Ridge",
+"county": "Jefferson",
+"state": "MO"
+},
+{
+"id": "MO0041",
+"name": "Joplin Public Library",
+"city": "Joplin",
+"county": "Jasper",
+"state": "MO"
+},
+{
+"id": "MO0014",
+"name": "Kansas City Public Library",
+"city": "Kansas City",
+"county": "Jackson",
+"state": "MO"
+},
+{
+"id": "MO0076",
+"name": "Kirkwood Public Library",
+"city": "Kirkwood",
+"county": "St. Louis",
+"state": "MO"
+},
+{
+"id": "MO0198",
+"name": "Lebanon-Laclede County Library",
+"city": "Lebanon",
+"county": "Laclede",
+"state": "MO"
+},
+{
+"id": "MO0053",
+"name": "Little Dixie Regional Libraries",
+"city": "Moberly",
+"county": "Randolph",
+"state": "MO"
+},
+{
+"id": "MO0054",
+"name": "Livingston County Library",
+"city": "Chillicothe",
+"county": "Livingston",
+"state": "MO"
+},
+{
+"id": "MO0140",
+"name": "Marshall Public Library",
+"city": "Marshall",
+"county": "Saline",
+"state": "MO"
+},
+{
+"id": "MO0055",
+"name": "Maryville Public Library",
+"city": "Maryville",
+"county": "Nodaway",
+"state": "MO"
+},
+{
+"id": "MO0106",
+"name": "Mcdonald County Library",
+"city": "Pineville",
+"county": "Mcdonald",
+"state": "MO"
+},
+{
+"id": "MO0091",
+"name": "Mexico-Audrain County Library District",
+"city": "Mexico",
+"county": "Audrain",
+"state": "MO"
+},
+{
+"id": "MO0004",
+"name": "Mid-Continent Public Library",
+"city": "Independence",
+"county": "Jackson",
+"state": "MO"
+},
+{
+"id": "MO0056",
+"name": "Mississippi County Library District",
+"city": "Charleston",
+"county": "Mississippi",
+"state": "MO"
+},
+{
+"id": "MO0175",
+"name": "Missouri River Regional Library",
+"city": "Jefferson City",
+"county": "Cole",
+"state": "MO"
+},
+{
+"id": "MO0172",
+"name": "Moniteau County Library",
+"city": "California",
+"county": "Moniteau",
+"state": "MO"
+},
+{
+"id": "MO0033",
+"name": "Morgan County Library",
+"city": "Versailles",
+"county": "Morgan",
+"state": "MO"
+},
+{
+"id": "MO0048",
+"name": "Municipal Library District Of The City Of Cape Girardeau",
+"city": "Cape Girardeau",
+"county": "Cape Girardeau",
+"state": "MO"
+},
+{
+"id": "MO0044",
+"name": "Neosho/Newton County Library",
+"city": "Neosho",
+"county": "Newton",
+"state": "MO"
+},
+{
+"id": "MO0132",
+"name": "New Madrid County Library",
+"city": "Portageville",
+"county": "New Madrid",
+"state": "MO"
+},
+{
+"id": "MO0059",
+"name": "Northeast Missouri Library Service",
+"city": "Kahoka",
+"county": "Clark",
+"state": "MO"
+},
+{
+"id": "MO0060",
+"name": "Ozark Regional Library",
+"city": "Ironton",
+"county": "Iron",
+"state": "MO"
+},
+{
+"id": "MO0181",
+"name": "Polk County Library",
+"city": "Bolivar",
+"county": "Polk",
+"state": "MO"
+},
+{
+"id": "MO0125",
+"name": "Poplar Bluff Municipal Library District",
+"city": "Poplar Bluff",
+"county": "Butler",
+"state": "MO"
+},
+{
+"id": "MO0199",
+"name": "Pulaski County Library",
+"city": "Waynesville",
+"county": "Pulaski",
+"state": "MO"
+},
+{
+"id": "MO0169",
+"name": "Ralls County Library",
+"city": "Center",
+"county": "Ralls",
+"state": "MO"
+},
+{
+"id": "MO0062",
+"name": "Ray County Library",
+"city": "Richmond",
+"county": "Ray",
+"state": "MO"
+},
+{
+"id": "MO0128",
+"name": "Riverside Regional Library",
+"city": "Jackson",
+"county": "Cape Girardeau",
+"state": "MO"
+},
+{
+"id": "MO0094",
+"name": "Rolla Public Library",
+"city": "Rolla",
+"county": "Phelps",
+"state": "MO"
+},
+{
+"id": "MO0206",
+"name": "Rolling Hills Consolidated",
+"city": "St. Joseph",
+"county": "Buchanan",
+"state": "MO"
+},
+{
+"id": "MO0035",
+"name": "Saint Charles City-County Library District",
+"city": "St. Peters",
+"county": "St. Charles",
+"state": "MO"
+},
+{
+"id": "MO0227",
+"name": "Saint Joseph Public Library",
+"city": "St. Joseph",
+"county": "Buchanan",
+"state": "MO"
+},
+{
+"id": "MO0036",
+"name": "Saint Louis County Library",
+"city": "St. Louis",
+"county": "St. Louis",
+"state": "MO"
+},
+{
+"id": "MO0065",
+"name": "Scenic Regional Library",
+"city": "Union",
+"county": "Franklin",
+"state": "MO"
+},
+{
+"id": "MO0090",
+"name": "Sedalia Public Library",
+"city": "Sedalia",
+"county": "Pettis",
+"state": "MO"
+},
+{
+"id": "MO0127",
+"name": "Sikeston Public Library",
+"city": "Sikeston",
+"county": "Scott",
+"state": "MO"
+},
+{
+"id": "MO0020",
+"name": "Springfield-Greene County Library District",
+"city": "Springfield",
+"county": "Greene",
+"state": "MO"
+},
+{
+"id": "MO0043",
+"name": "Stone County Library",
+"city": "Galena",
+"county": "Stone",
+"state": "MO"
+},
+{
+"id": "MO0116",
+"name": "Texas County Library",
+"city": "Houston",
+"county": "Texas",
+"state": "MO"
+},
+{
+"id": "MO0045",
+"name": "Trails Regional Library",
+"city": "Warrensburg",
+"county": "Johnson",
+"state": "MO"
+},
+{
+"id": "MO0037",
+"name": "University City Public Library",
+"city": "University City",
+"county": "St. Louis",
+"state": "MO"
+},
+{
+"id": "MO0068",
+"name": "Washington County Library",
+"city": "Potosi",
+"county": "Washington",
+"state": "MO"
+},
+{
+"id": "MO0114",
+"name": "Webb City Public Library",
+"city": "Webb City",
+"county": "Jasper",
+"state": "MO"
+},
+{
+"id": "MO0190",
+"name": "Webster County Library",
+"city": "Marshfield",
+"county": "Webster",
+"state": "MO"
+},
+{
+"id": "MO0084",
+"name": "Webster Groves Public Library",
+"city": "Webster Groves",
+"county": "St. Louis",
+"state": "MO"
+},
+{
+"id": "MO0108",
+"name": "West Plains Public Library",
+"city": "West Plains",
+"county": "Howell",
+"state": "MO"
+},
+{
+"id": "MO0011",
+"name": "Wright County Library",
+"city": "Hartville",
+"county": "Wright",
+"state": "MO"
+},
+{
+"id": "MS0003",
+"name": "Bolivar County Library",
+"city": "Cleveland",
+"county": "Bolivar",
+"state": "MS"
+},
+{
+"id": "MS0005",
+"name": "Carnegie Public Library",
+"city": "Clarksdale",
+"county": "Coahoma",
+"state": "MS"
+},
+{
+"id": "MS0006",
+"name": "Central Mississippi Regional Library",
+"city": "Brandon",
+"county": "Rankin",
+"state": "MS"
+},
+{
+"id": "MS0028",
+"name": "Columbus-Lowndes Public Library",
+"city": "Columbus",
+"county": "Lowndes",
+"state": "MS"
+},
+{
+"id": "MS0008",
+"name": "Copiah-Jefferson Regional Library",
+"city": "Hazlehurst",
+"county": "Copiah",
+"state": "MS"
+},
+{
+"id": "MS0051",
+"name": "Covington County Library System",
+"city": "Collins",
+"county": "Covington",
+"state": "MS"
+},
+{
+"id": "MS0009",
+"name": "Dixie Regional Library System",
+"city": "Pontotoc",
+"county": "Pontotoc",
+"state": "MS"
+},
+{
+"id": "MS0010",
+"name": "East Mississippi Regional Library",
+"city": "Quitman",
+"county": "Clarke",
+"state": "MS"
+},
+{
+"id": "MS0011",
+"name": "Elizabeth Jones Library",
+"city": "Grenada",
+"county": "Grenada",
+"state": "MS"
+},
+{
+"id": "MS0013",
+"name": "First Regional Library",
+"city": "Hernando",
+"county": "Desoto",
+"state": "MS"
+},
+{
+"id": "MS0012",
+"name": "Greenwood-Leflore Public Library",
+"city": "Greenwood",
+"county": "Leflore",
+"state": "MS"
+},
+{
+"id": "MS0014",
+"name": "Hancock County Library",
+"city": "Bay Saint Louis",
+"county": "Hancock",
+"state": "MS"
+},
+{
+"id": "MS0016",
+"name": "Harrison County Library System",
+"city": "Gulfport",
+"county": "Harrison",
+"state": "MS"
+},
+{
+"id": "MS0020",
+"name": "Jackson-George Regional Library System",
+"city": "Pascagoula",
+"county": "Jackson",
+"state": "MS"
+},
+{
+"id": "MS0021",
+"name": "Jackson/Hinds Library System",
+"city": "Jackson",
+"county": "Hinds",
+"state": "MS"
+},
+{
+"id": "MS0018",
+"name": "Judge Armstrong Library",
+"city": "Natchez",
+"county": "Adams",
+"state": "MS"
+},
+{
+"id": "MS0023",
+"name": "Kemper-Newton Regional Library",
+"city": "Union",
+"county": "Newton",
+"state": "MS"
+},
+{
+"id": "MS8001",
+"name": "Lamar County Library System",
+"city": "Purvis",
+"county": "Lamar",
+"state": "MS"
+},
+{
+"id": "MS0024",
+"name": "Laurel-Jones County Library System, Inc.",
+"city": "Laurel",
+"county": "Jones",
+"state": "MS"
+},
+{
+"id": "MS0025",
+"name": "Lee-Itawamba Library System",
+"city": "Tupelo",
+"county": "Lee",
+"state": "MS"
+},
+{
+"id": "MS0026",
+"name": "Lincoln-Lawrence-Franklin Regional Library",
+"city": "Brookhaven",
+"county": "Lincoln",
+"state": "MS"
+},
+{
+"id": "MS0027",
+"name": "Long Beach Public Library",
+"city": "Long Beach",
+"county": "Harrison",
+"state": "MS"
+},
+{
+"id": "MS0029",
+"name": "Madison County Library System",
+"city": "Canton",
+"county": "Madison",
+"state": "MS"
+},
+{
+"id": "MS0031",
+"name": "Marshall County Library",
+"city": "Holly Springs",
+"county": "Marshall",
+"state": "MS"
+},
+{
+"id": "MS0032",
+"name": "Meridian-Lauderdale County Public Library",
+"city": "Meridian",
+"county": "Lauderdale",
+"state": "MS"
+},
+{
+"id": "MS0033",
+"name": "Mid-Mississippi Regional Library",
+"city": "Kosciusko",
+"county": "Attala",
+"state": "MS"
+},
+{
+"id": "MS0034",
+"name": "Neshoba County Public Library",
+"city": "Philadelphia",
+"county": "Neshoba",
+"state": "MS"
+},
+{
+"id": "MS0035",
+"name": "Northeast Regional Library",
+"city": "Corinth",
+"county": "Alcorn",
+"state": "MS"
+},
+{
+"id": "MS0036",
+"name": "Noxubee County Library",
+"city": "Macon",
+"county": "Noxubee",
+"state": "MS"
+},
+{
+"id": "MS0039",
+"name": "Pearl River County Library System",
+"city": "Picayune",
+"county": "Pearl River",
+"state": "MS"
+},
+{
+"id": "MS0040",
+"name": "Pike-Amite-Walthall Library System",
+"city": "Mccomb",
+"county": "Pike",
+"state": "MS"
+},
+{
+"id": "MS0041",
+"name": "Pine Forest Regional Library",
+"city": "Richton",
+"county": "Perry",
+"state": "MS"
+},
+{
+"id": "MS0043",
+"name": "South Mississippi Regional Library",
+"city": "Columbia",
+"county": "Marion",
+"state": "MS"
+},
+{
+"id": "MS0038",
+"name": "Starkville-Oktibbeha County Public Library System",
+"city": "Starkville",
+"county": "Oktibbeha",
+"state": "MS"
+},
+{
+"id": "MS0044",
+"name": "Sunflower County Library",
+"city": "Indianola",
+"county": "Sunflower",
+"state": "MS"
+},
+{
+"id": "MS0045",
+"name": "Tallahatchie County Library",
+"city": "Charleston",
+"county": "Tallahatchie",
+"state": "MS"
+},
+{
+"id": "MS0017",
+"name": "The Library Of Hattiesburg, Petal & Forrest C",
+"city": "Hattiesburg",
+"county": "Forrest",
+"state": "MS"
+},
+{
+"id": "MS0046",
+"name": "Tombigbee Regional Library",
+"city": "West Point",
+"county": "Clay",
+"state": "MS"
+},
+{
+"id": "MS0022",
+"name": "Union County Library System",
+"city": "New Albany",
+"county": "Union",
+"state": "MS"
+},
+{
+"id": "MS0047",
+"name": "Warren County-Vicksburg Public Library",
+"city": "Vicksburg",
+"county": "Warren",
+"state": "MS"
+},
+{
+"id": "MS0048",
+"name": "Washington County Library",
+"city": "Greenville",
+"county": "Washington",
+"state": "MS"
+},
+{
+"id": "MS8002",
+"name": "Waynesboro-Wayne County Library System",
+"city": "Waynesboro",
+"county": "Wayne",
+"state": "MS"
+},
+{
+"id": "MS0002",
+"name": "Yalobusha County Library",
+"city": "Coffeeville",
+"county": "Yalobusha",
+"state": "MS"
+},
+{
+"id": "MS0042",
+"name": "Yazoo Library Association",
+"city": "Yazoo City",
+"county": "Yazoo",
+"state": "MS"
+},
+{
+"id": "MT0004",
+"name": "Belgrade Community Library",
+"city": "Belgrade",
+"county": "Gallatin",
+"state": "MT"
+},
+{
+"id": "MT0035",
+"name": "Big Horn County Public Library",
+"city": "Hardin",
+"county": "Big Horn",
+"state": "MT"
+},
+{
+"id": "MT0006",
+"name": "Billings Public Library",
+"city": "Billings",
+"county": "Yellowstone",
+"state": "MT"
+},
+{
+"id": "MT0034",
+"name": "Bitterroot Public Library",
+"city": "Hamilton",
+"county": "Ravalli",
+"state": "MT"
+},
+{
+"id": "MT0008",
+"name": "Bozeman Public Library",
+"city": "Bozeman",
+"county": "Gallatin",
+"state": "MT"
+},
+{
+"id": "MT0011",
+"name": "Butte-Silver Bow Public Library",
+"city": "Butte",
+"county": "Silver Bow",
+"state": "MT"
+},
+{
+"id": "MT0019",
+"name": "Glacier County Library",
+"city": "Cut Bank",
+"county": "Glacier",
+"state": "MT"
+},
+{
+"id": "MT0033",
+"name": "Great Falls Public Library",
+"city": "Great Falls",
+"county": "Cascade",
+"state": "MT"
+},
+{
+"id": "MT0038",
+"name": "Havre-Hill County Library",
+"city": "Havre",
+"county": "Hill",
+"state": "MT"
+},
+{
+"id": "MT0043",
+"name": "Imagineif Kalispell",
+"city": "Kalispell",
+"county": "Flathead",
+"state": "MT"
+},
+{
+"id": "MT0039",
+"name": "Lewis And Clark Library",
+"city": "Helena",
+"county": "Lewis And Clark",
+"state": "MT"
+},
+{
+"id": "MT0046",
+"name": "Lincoln County Public Libraries",
+"city": "Libby",
+"county": "Lincoln",
+"state": "MT"
+},
+{
+"id": "MT0047",
+"name": "Livingston-Park County Public Library",
+"city": "Livingston",
+"county": "Park",
+"state": "MT"
+},
+{
+"id": "MT0050",
+"name": "Miles City Public Library",
+"city": "Miles City",
+"county": "Custer",
+"state": "MT"
+},
+{
+"id": "MT0051",
+"name": "Missoula Public Library",
+"city": "Missoula",
+"county": "Missoula",
+"state": "MT"
+},
+{
+"id": "MT0056",
+"name": "North Lake County Public Library",
+"city": "Polson",
+"county": "Lake",
+"state": "MT"
+},
+{
+"id": "MT0066",
+"name": "North Valley Public Library",
+"city": "Stevensville",
+"county": "Ravalli",
+"state": "MT"
+},
+{
+"id": "MT0082",
+"name": "Roosevelt County Library",
+"city": "Wolf Point",
+"county": "Roosevelt",
+"state": "MT"
+},
+{
+"id": "MT0064",
+"name": "Sidney-Richland County Library",
+"city": "Sidney",
+"county": "Richland",
+"state": "MT"
+},
+{
+"id": "NC0103",
+"name": "Alamance County Public Libraries",
+"city": "Burlington",
+"county": "Alamance",
+"state": "NC"
+},
+{
+"id": "NC0001",
+"name": "Albemarle Regional Library",
+"city": "Winton",
+"county": "Hertford",
+"state": "NC"
+},
+{
+"id": "NC0016",
+"name": "Alexander County Library",
+"city": "Taylorsville",
+"county": "Alexander",
+"state": "NC"
+},
+{
+"id": "NC0002",
+"name": "Appalachian Regional Library",
+"city": "West Jefferson",
+"county": "Ashe",
+"state": "NC"
+},
+{
+"id": "NC0003",
+"name": "Avery-Mitchell-Yancey Regional Library",
+"city": "Burnsville",
+"county": "Yancey",
+"state": "NC"
+},
+{
+"id": "NC0004",
+"name": "Beaufort-Hyde-Martin Regional Library",
+"city": "Washington",
+"county": "Beaufort",
+"state": "NC"
+},
+{
+"id": "NC0017",
+"name": "Bladen County Public Library",
+"city": "Elizabethtown",
+"county": "Bladen",
+"state": "NC"
+},
+{
+"id": "NC0046",
+"name": "Braswell Memorial Public Library",
+"city": "Rocky Mount",
+"county": "Nash",
+"state": "NC"
+},
+{
+"id": "NC0018",
+"name": "Brunswick County Library",
+"city": "Southport",
+"county": "Brunswick",
+"state": "NC"
+},
+{
+"id": "NC0019",
+"name": "Buncombe County Public Libraries",
+"city": "Asheville",
+"county": "Buncombe",
+"state": "NC"
+},
+{
+"id": "NC0020",
+"name": "Burke County Public Library",
+"city": "Morganton",
+"county": "Burke",
+"state": "NC"
+},
+{
+"id": "NC0021",
+"name": "Cabarrus County Public Library",
+"city": "Concord",
+"county": "Cabarrus",
+"state": "NC"
+},
+{
+"id": "NC0022",
+"name": "Caldwell County Public Library",
+"city": "Lenoir",
+"county": "Caldwell",
+"state": "NC"
+},
+{
+"id": "NC0113",
+"name": "Carteret County Public Library System",
+"city": "Beaufort",
+"county": "Carteret",
+"state": "NC"
+},
+{
+"id": "NC0107",
+"name": "Caswell County Public Library",
+"city": "Yanceyville",
+"county": "Caswell",
+"state": "NC"
+},
+{
+"id": "NC0023",
+"name": "Catawba County Library",
+"city": "Newton",
+"county": "Catawba",
+"state": "NC"
+},
+{
+"id": "NC0071",
+"name": "Chapel Hill Public Library",
+"city": "Chapel Hill",
+"county": "Orange",
+"state": "NC"
+},
+{
+"id": "NC0045",
+"name": "Charlotte Mecklenburg Library",
+"city": "Charlotte",
+"county": "Mecklenburg",
+"state": "NC"
+},
+{
+"id": "NC0104",
+"name": "Chatham County Public Libraries",
+"city": "Pittsboro",
+"county": "Chatham",
+"state": "NC"
+},
+{
+"id": "NC0024",
+"name": "Cleveland County Memorial Library",
+"city": "Shelby",
+"county": "Cleveland",
+"state": "NC"
+},
+{
+"id": "NC0025",
+"name": "Columbus County Public Library",
+"city": "Whiteville",
+"county": "Columbus",
+"state": "NC"
+},
+{
+"id": "NC0006",
+"name": "Craven-Pamlico Regional Library",
+"city": "New Bern",
+"county": "Craven",
+"state": "NC"
+},
+{
+"id": "NC0026",
+"name": "Cumberland County Public Library",
+"city": "Fayetteville",
+"county": "Cumberland",
+"state": "NC"
+},
+{
+"id": "NC0027",
+"name": "Davidson County Public Library System",
+"city": "Lexington",
+"county": "Davidson",
+"state": "NC"
+},
+{
+"id": "NC0028",
+"name": "Davie County Public Library",
+"city": "Mocksville",
+"county": "Davie",
+"state": "NC"
+},
+{
+"id": "NC0029",
+"name": "Duplin County Library",
+"city": "Kenansville",
+"county": "Duplin",
+"state": "NC"
+},
+{
+"id": "NC0030",
+"name": "Durham County Library",
+"city": "Durham",
+"county": "Durham",
+"state": "NC"
+},
+{
+"id": "NC0007",
+"name": "East Albemarle Regional Library",
+"city": "Elizabeth City",
+"county": "Pasquotank",
+"state": "NC"
+},
+{
+"id": "NC0031",
+"name": "Edgecombe County Memorial Library",
+"city": "Tarboro",
+"county": "Edgecombe",
+"state": "NC"
+},
+{
+"id": "NC0008",
+"name": "Fontana Regional Library",
+"city": "Bryson City",
+"county": "Swain",
+"state": "NC"
+},
+{
+"id": "NC0032",
+"name": "Forsyth County Public Library",
+"city": "Winston-Salem",
+"county": "Forsyth",
+"state": "NC"
+},
+{
+"id": "NC0033",
+"name": "Franklin County Library",
+"city": "Louisburg",
+"county": "Franklin",
+"state": "NC"
+},
+{
+"id": "NC0105",
+"name": "Gaston County Public Library",
+"city": "Gastonia",
+"county": "Gaston",
+"state": "NC"
+},
+{
+"id": "NC0112",
+"name": "Givens Memorial Library & Tufts Archive",
+"city": "Pinehurst",
+"county": "Moore",
+"state": "NC"
+},
+{
+"id": "NC0034",
+"name": "Granville County Library System",
+"city": "Oxford",
+"county": "Granville",
+"state": "NC"
+},
+{
+"id": "NC0035",
+"name": "Greensboro Public Library",
+"city": "Greensboro",
+"county": "Guilford",
+"state": "NC"
+},
+{
+"id": "NC0062",
+"name": "H. Leslie Perry Memorial Library",
+"city": "Henderson",
+"county": "Vance",
+"state": "NC"
+},
+{
+"id": "NC0036",
+"name": "Halifax County Library System",
+"city": "Halifax",
+"county": "Halifax",
+"state": "NC"
+},
+{
+"id": "NC0037",
+"name": "Harnett County Public Library",
+"city": "Lillington",
+"county": "Harnett",
+"state": "NC"
+},
+{
+"id": "NC0038",
+"name": "Haywood County Public Library",
+"city": "Waynesville",
+"county": "Haywood",
+"state": "NC"
+},
+{
+"id": "NC0039",
+"name": "Henderson County Public Library",
+"city": "Hendersonville",
+"county": "Henderson",
+"state": "NC"
+},
+{
+"id": "NC0079",
+"name": "Hickory Public Library",
+"city": "Hickory",
+"county": "Catawba",
+"state": "NC"
+},
+{
+"id": "NC0080",
+"name": "High Point Public Library",
+"city": "High Point",
+"county": "Guilford",
+"state": "NC"
+},
+{
+"id": "NC0110",
+"name": "Hocutt Ellington Memorial Library",
+"city": "Clayton",
+"county": "Johnston",
+"state": "NC"
+},
+{
+"id": "NC0040",
+"name": "Iredell County Library",
+"city": "Statesville",
+"county": "Iredell",
+"state": "NC"
+},
+{
+"id": "NC0100",
+"name": "Jacob Mauney Memorial Library",
+"city": "Kings Mountain",
+"county": "Cleveland",
+"state": "NC"
+},
+{
+"id": "NC0042",
+"name": "Lee County Library",
+"city": "Sanford",
+"county": "Lee",
+"state": "NC"
+},
+{
+"id": "NC0106",
+"name": "Lincoln County Public Library",
+"city": "Lincolnton",
+"county": "Lincoln",
+"state": "NC"
+},
+{
+"id": "NC0043",
+"name": "Madison County Public Library",
+"city": "Marshall",
+"county": "Madison",
+"state": "NC"
+},
+{
+"id": "NC0044",
+"name": "Mcdowell County Public Library",
+"city": "Marion",
+"county": "Mcdowell",
+"state": "NC"
+},
+{
+"id": "NC0083",
+"name": "Mooresville Public Library",
+"city": "Mooresville",
+"county": "Iredell",
+"state": "NC"
+},
+{
+"id": "NC0011",
+"name": "Nantahala Regional Library",
+"city": "Murphy",
+"county": "Cherokee",
+"state": "NC"
+},
+{
+"id": "NC0012",
+"name": "Neuse Regional Library",
+"city": "Kinston",
+"county": "Lenoir",
+"state": "NC"
+},
+{
+"id": "NC0047",
+"name": "New Hanover County Public Library",
+"city": "Wilmington",
+"county": "New Hanover",
+"state": "NC"
+},
+{
+"id": "NC0013",
+"name": "Northwestern Regional Library",
+"city": "Elkin",
+"county": "Surry",
+"state": "NC"
+},
+{
+"id": "NC0048",
+"name": "Onslow County Public Library",
+"city": "Jacksonville",
+"county": "Onslow",
+"state": "NC"
+},
+{
+"id": "NC0108",
+"name": "Orange County Public Library",
+"city": "Hillsborough",
+"county": "Orange",
+"state": "NC"
+},
+{
+"id": "NC0049",
+"name": "Pender County Public Library",
+"city": "Burgaw",
+"county": "Pender",
+"state": "NC"
+},
+{
+"id": "NC0109",
+"name": "Person County Public Library",
+"city": "Roxboro",
+"county": "Person",
+"state": "NC"
+},
+{
+"id": "NC0014",
+"name": "Pettigrew Regional Library",
+"city": "Plymouth",
+"county": "Washington",
+"state": "NC"
+},
+{
+"id": "NC0051",
+"name": "Polk County Public Libraries",
+"city": "Columbus",
+"county": "Polk",
+"state": "NC"
+},
+{
+"id": "NC0041",
+"name": "Public Library Of Johnston County & Smithfield",
+"city": "Smithfield",
+"county": "Johnston",
+"state": "NC"
+},
+{
+"id": "NC0052",
+"name": "Randolph Public Library",
+"city": "Asheboro",
+"county": "Randolph",
+"state": "NC"
+},
+{
+"id": "NC0088",
+"name": "Roanoke Rapids Public Library",
+"city": "Roanoke Rapids",
+"county": "Halifax",
+"state": "NC"
+},
+{
+"id": "NC0053",
+"name": "Robeson County Public Library",
+"city": "Lumberton",
+"county": "Robeson",
+"state": "NC"
+},
+{
+"id": "NC0054",
+"name": "Rockingham County Public Library",
+"city": "Eden",
+"county": "Rockingham",
+"state": "NC"
+},
+{
+"id": "NC0055",
+"name": "Rowan Public Library",
+"city": "Salisbury",
+"county": "Rowan",
+"state": "NC"
+},
+{
+"id": "NC0056",
+"name": "Rutherford County Library",
+"city": "Spindale",
+"county": "Rutherford",
+"state": "NC"
+},
+{
+"id": "NC0057",
+"name": "Sampson-Clinton Public Library",
+"city": "Clinton",
+"county": "Sampson",
+"state": "NC"
+},
+{
+"id": "NC0015",
+"name": "Sandhill Regional Library System",
+"city": "Rockingham",
+"county": "Richmond",
+"state": "NC"
+},
+{
+"id": "NC0058",
+"name": "Scotland County Memorial Library",
+"city": "Laurinburg",
+"county": "Scotland",
+"state": "NC"
+},
+{
+"id": "NC0050",
+"name": "Sheppard Memorial Library",
+"city": "Greenville",
+"county": "Pitt",
+"state": "NC"
+},
+{
+"id": "NC0093",
+"name": "Southern Pines Public Library",
+"city": "Southern Pines",
+"county": "Moore",
+"state": "NC"
+},
+{
+"id": "NC0059",
+"name": "Stanly County Public Library",
+"city": "Albemarle",
+"county": "Stanly",
+"state": "NC"
+},
+{
+"id": "NC0060",
+"name": "Transylvania County Library",
+"city": "Brevard",
+"county": "Transylvania",
+"state": "NC"
+},
+{
+"id": "NC0061",
+"name": "Union County Public Library",
+"city": "Monroe",
+"county": "Union",
+"state": "NC"
+},
+{
+"id": "NC0063",
+"name": "Wake County Public Libraries",
+"city": "Raleigh",
+"county": "Wake",
+"state": "NC"
+},
+{
+"id": "NC0101",
+"name": "Warren County Memorial Library",
+"city": "Warrenton",
+"county": "Warren",
+"state": "NC"
+},
+{
+"id": "NC0065",
+"name": "Wayne County Public Library",
+"city": "Goldsboro",
+"county": "Wayne",
+"state": "NC"
+},
+{
+"id": "NC0066",
+"name": "Wilson County Public Library",
+"city": "Wilson",
+"county": "Wilson",
+"state": "NC"
+},
+{
+"id": "ND0007",
+"name": "Bismarck Veterans Memorial Public Library",
+"city": "Bismarck",
+"county": "Burleigh",
+"state": "ND"
+},
+{
+"id": "ND0012",
+"name": "Carnegie Regional Library",
+"city": "Grafton",
+"county": "Walsh",
+"state": "ND"
+},
+{
+"id": "ND0018",
+"name": "Dickinson Area Public Library",
+"city": "Dickinson",
+"county": "Stark",
+"state": "ND"
+},
+{
+"id": "ND0026",
+"name": "Fargo Public Library",
+"city": "Fargo",
+"county": "Cass",
+"state": "ND"
+},
+{
+"id": "ND0035",
+"name": "Grand Forks Public Library",
+"city": "Grand Forks",
+"county": "Grand Forks",
+"state": "ND"
+},
+{
+"id": "ND0002",
+"name": "James River Valley Library System",
+"city": "Jamestown",
+"county": "Stutsman",
+"state": "ND"
+},
+{
+"id": "ND0011",
+"name": "Lake Region Public Library",
+"city": "Devils Lake",
+"county": "Ramsey",
+"state": "ND"
+},
+{
+"id": "ND0058",
+"name": "Mckenzie County Public Library",
+"city": "Watford City",
+"county": "Mckenzie",
+"state": "ND"
+},
+{
+"id": "ND0062",
+"name": "Minot Public Library",
+"city": "Minot",
+"county": "Ward",
+"state": "ND"
+},
+{
+"id": "ND0064",
+"name": "Morton Mandan Public Library",
+"city": "Mandan",
+"county": "Morton",
+"state": "ND"
+},
+{
+"id": "ND0084",
+"name": "Valley City Barnes County Public Library",
+"city": "Valley City",
+"county": "Barnes",
+"state": "ND"
+},
+{
+"id": "ND0087",
+"name": "Ward County Public Library",
+"city": "Minot",
+"county": "Ward",
+"state": "ND"
+},
+{
+"id": "ND0091",
+"name": "West Fargo Public Library",
+"city": "West Fargo",
+"county": "Cass",
+"state": "ND"
+},
+{
+"id": "ND0092",
+"name": "Williston Community Library",
+"city": "Williston",
+"county": "Williams",
+"state": "ND"
+},
+{
+"id": "NE0024",
+"name": "Beatrice Public Library",
+"city": "Beatrice",
+"county": "Gage",
+"state": "NE"
+},
+{
+"id": "NE0028",
+"name": "Bellevue Public Library",
+"city": "Bellevue",
+"county": "Sarpy",
+"state": "NE"
+},
+{
+"id": "NE0057",
+"name": "Columbus Public Library",
+"city": "Columbus",
+"county": "Platte",
+"state": "NE"
+},
+{
+"id": "NE0099",
+"name": "Grand Island Public Library",
+"city": "Grand Island",
+"county": "Hall",
+"state": "NE"
+},
+{
+"id": "NE0108",
+"name": "Hastings Public Library",
+"city": "Hastings",
+"county": "Adams",
+"state": "NE"
+},
+{
+"id": "NE0121",
+"name": "Kearney Public Library",
+"city": "Kearney",
+"county": "Buffalo",
+"state": "NE"
+},
+{
+"id": "NE0090",
+"name": "Keene Memorial Library",
+"city": "Fremont",
+"county": "Dodge",
+"state": "NE"
+},
+{
+"id": "NE9008",
+"name": "La Vista Public Library",
+"city": "La Vista",
+"county": "Sarpy",
+"state": "NE"
+},
+{
+"id": "NE0125",
+"name": "Lexington Public Library",
+"city": "Lexington",
+"county": "Dawson",
+"state": "NE"
+},
+{
+"id": "NE0199",
+"name": "Lied Scottsbluff Public Library",
+"city": "Scottsbluff",
+"county": "Scotts Bluff",
+"state": "NE"
+},
+{
+"id": "NE0126",
+"name": "Lincoln City Libraries",
+"city": "Lincoln",
+"county": "Lancaster",
+"state": "NE"
+},
+{
+"id": "NE0155",
+"name": "Norfolk Public Library",
+"city": "Norfolk",
+"county": "Madison",
+"state": "NE"
+},
+{
+"id": "NE0158",
+"name": "North Platte Public Library",
+"city": "North Platte",
+"county": "Lincoln",
+"state": "NE"
+},
+{
+"id": "NE0162",
+"name": "Omaha Public Library",
+"city": "Omaha",
+"county": "Douglas",
+"state": "NE"
+},
+{
+"id": "NE0276",
+"name": "Papillion Public Library",
+"city": "Papillion",
+"county": "Sarpy",
+"state": "NE"
+},
+{
+"id": "NE0208",
+"name": "South Sioux City Public Library",
+"city": "South Sioux City",
+"county": "Dakota",
+"state": "NE"
+},
+{
+"id": "NH0184",
+"name": "Amherst Town Library",
+"city": "Amherst",
+"county": "Hillsborough",
+"state": "NH"
+},
+{
+"id": "NH0078",
+"name": "Bedford Public Library",
+"city": "Bedford",
+"county": "Hillsborough",
+"state": "NH"
+},
+{
+"id": "NH0167",
+"name": "Concord Public Library",
+"city": "Concord",
+"county": "Merrimack",
+"state": "NH"
+},
+{
+"id": "NH0176",
+"name": "Derry Public Library",
+"city": "Derry",
+"county": "Rockingham",
+"state": "NH"
+},
+{
+"id": "NH0179",
+"name": "Dover Public Library",
+"city": "Dover",
+"county": "Strafford",
+"state": "NH"
+},
+{
+"id": "NH0085",
+"name": "Dudley-Tucker Library",
+"city": "Raymond",
+"county": "Rockingham",
+"state": "NH"
+},
+{
+"id": "NH0182",
+"name": "Durham Public Library",
+"city": "Durham",
+"county": "Strafford",
+"state": "NH"
+},
+{
+"id": "NH0090",
+"name": "East Rochester Public Library",
+"city": "East Rochester",
+"county": "Strafford",
+"state": "NH"
+},
+{
+"id": "NH0191",
+"name": "Exeter Public Library",
+"city": "Exeter",
+"county": "Rockingham",
+"state": "NH"
+},
+{
+"id": "NH0164",
+"name": "Fiske Free Library",
+"city": "Claremont",
+"county": "Sullivan",
+"state": "NH"
+},
+{
+"id": "NH0011",
+"name": "George H. And Ella M. Rodgers Memorial Library",
+"city": "Hudson",
+"county": "Hillsborough",
+"state": "NH"
+},
+{
+"id": "NH0204",
+"name": "Goffstown Public Library",
+"city": "Goffstown",
+"county": "Hillsborough",
+"state": "NH"
+},
+{
+"id": "NH0243",
+"name": "Hanover Town Library",
+"city": "Etna",
+"county": "Grafton",
+"state": "NH"
+},
+{
+"id": "NH0009",
+"name": "Hooksett Public Library",
+"city": "Hooksett",
+"county": "Merrimack",
+"state": "NH"
+},
+{
+"id": "NH0218",
+"name": "Howe Library",
+"city": "Hanover",
+"county": "Grafton",
+"state": "NH"
+},
+{
+"id": "NH0016",
+"name": "Keene Public Library",
+"city": "Keene",
+"county": "Cheshire",
+"state": "NH"
+},
+{
+"id": "NH0093",
+"name": "Kelley Library",
+"city": "Salem",
+"county": "Rockingham",
+"state": "NH"
+},
+{
+"id": "NH0019",
+"name": "Laconia Public Library",
+"city": "Laconia",
+"county": "Belknap",
+"state": "NH"
+},
+{
+"id": "NH0214",
+"name": "Lane Memorial Library",
+"city": "Hampton",
+"county": "Rockingham",
+"state": "NH"
+},
+{
+"id": "NH0029",
+"name": "Leach Library",
+"city": "Londonderry",
+"county": "Rockingham",
+"state": "NH"
+},
+{
+"id": "NH0021",
+"name": "Lebanon Public Library",
+"city": "Lebanon",
+"county": "Grafton",
+"state": "NH"
+},
+{
+"id": "NH0035",
+"name": "Manchester City Library",
+"city": "Manchester",
+"county": "Hillsborough",
+"state": "NH"
+},
+{
+"id": "NH0040",
+"name": "Merrimack Public Library",
+"city": "Merrimack",
+"county": "Hillsborough",
+"state": "NH"
+},
+{
+"id": "NH0049",
+"name": "Nashua Public Library",
+"city": "Nashua",
+"county": "Hillsborough",
+"state": "NH"
+},
+{
+"id": "NH0147",
+"name": "Nesmith Library",
+"city": "Windham",
+"county": "Rockingham",
+"state": "NH"
+},
+{
+"id": "NH0073",
+"name": "Pelham Public Library",
+"city": "Pelham",
+"county": "Hillsborough",
+"state": "NH"
+},
+{
+"id": "NH0084",
+"name": "Portsmouth Public Library",
+"city": "Portsmouth",
+"county": "Rockingham",
+"state": "NH"
+},
+{
+"id": "NH0089",
+"name": "Rochester Public Library",
+"city": "Rochester",
+"county": "Strafford",
+"state": "NH"
+},
+{
+"id": "NH0101",
+"name": "Somersworth Public Library",
+"city": "Somersworth",
+"county": "Strafford",
+"state": "NH"
+},
+{
+"id": "NH0177",
+"name": "Taylor Library",
+"city": "East Derry",
+"county": "Rockingham",
+"state": "NH"
+},
+{
+"id": "NH0042",
+"name": "William Y. Wadleigh Memorial Library",
+"city": "Milford",
+"county": "Hillsborough",
+"state": "NH"
+},
+{
+"id": "NJ0269",
+"name": "Alfred H. Baumann Library/West Paterso",
+"city": "Woodland Park",
+"county": "Passaic",
+"state": "NJ"
+},
+{
+"id": "NJ0197",
+"name": "Asbury Park Free Public Library",
+"city": "Asbury Park",
+"county": "Monmouth",
+"state": "NJ"
+}
+]

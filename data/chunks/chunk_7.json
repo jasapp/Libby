@@ -1,0 +1,3159 @@
+[
+{
+"id": "TX0377",
+"name": "Nancy Carol Roberts Memorial Library",
+"city": "Brenham",
+"county": "Washington",
+"state": "TX"
+},
+{
+"id": "TX0194",
+"name": "Navasota Public Library",
+"city": "Navasota",
+"county": "Grimes",
+"state": "TX"
+},
+{
+"id": "TX0199",
+"name": "New Braunfels Public Library",
+"city": "New Braunfels",
+"county": "Comal",
+"state": "TX"
+},
+{
+"id": "TX0460",
+"name": "Newton County Public Library",
+"city": "Newton",
+"county": "Newton",
+"state": "TX"
+},
+{
+"id": "TX0321",
+"name": "Nicholas P Sims Library & Lyceum",
+"city": "Waxahachie",
+"county": "Ellis",
+"state": "TX"
+},
+{
+"id": "TX0058",
+"name": "Nicholson Memorial Library System",
+"city": "Garland",
+"county": "Dallas",
+"state": "TX"
+},
+{
+"id": "TX0201",
+"name": "North Richland Hills Public Library",
+"city": "North Richland Hills",
+"county": "Tarrant",
+"state": "TX"
+},
+{
+"id": "TX0686",
+"name": "Nueces County Public Libraries",
+"city": "Robstown",
+"county": "Nueces",
+"state": "TX"
+},
+{
+"id": "TX0349",
+"name": "Olga V Figueroa Zapata County Public Library",
+"city": "Zapata",
+"county": "Zapata",
+"state": "TX"
+},
+{
+"id": "TX0206",
+"name": "Orange Public Library",
+"city": "Orange",
+"county": "Orange",
+"state": "TX"
+},
+{
+"id": "TX0210",
+"name": "Palacios Library Inc",
+"city": "Palacios",
+"county": "Matagorda",
+"state": "TX"
+},
+{
+"id": "TX0211",
+"name": "Palestine Public Library",
+"city": "Palestine",
+"county": "Anderson",
+"state": "TX"
+},
+{
+"id": "TX0214",
+"name": "Paris Public Library",
+"city": "Paris",
+"county": "Lamar",
+"state": "TX"
+},
+{
+"id": "TX0217",
+"name": "Pasadena Public Library",
+"city": "Pasadena",
+"county": "Harris",
+"state": "TX"
+},
+{
+"id": "TX0308",
+"name": "Patrick Heath Public Library",
+"city": "Boerne",
+"county": "Kendall",
+"state": "TX"
+},
+{
+"id": "TX0347",
+"name": "Pflugerville Public Library",
+"city": "Pflugerville",
+"county": "Travis",
+"state": "TX"
+},
+{
+"id": "TX0221",
+"name": "Pharr Memorial Library",
+"city": "Pharr",
+"county": "Hidalgo",
+"state": "TX"
+},
+{
+"id": "TX0052",
+"name": "Pioneer Memorial Library",
+"city": "Fredericksburg",
+"county": "Gillespie",
+"state": "TX"
+},
+{
+"id": "TX0224",
+"name": "Pittsburg-Camp County Public Library",
+"city": "Pittsburg",
+"county": "Camp",
+"state": "TX"
+},
+{
+"id": "TX0228",
+"name": "Plano Public Library System",
+"city": "Plano",
+"county": "Collin",
+"state": "TX"
+},
+{
+"id": "TX0229",
+"name": "Pleasanton Public Library",
+"city": "Pleasanton",
+"county": "Atascosa",
+"state": "TX"
+},
+{
+"id": "TX0231",
+"name": "Port Arthur Public Library",
+"city": "Port Arthur",
+"county": "Jefferson",
+"state": "TX"
+},
+{
+"id": "TX0687",
+"name": "Prosper Community Library",
+"city": "Prosper",
+"county": "Collin",
+"state": "TX"
+},
+{
+"id": "TX0240",
+"name": "Quemado Public Library",
+"city": "Quemado",
+"county": "Maverick",
+"state": "TX"
+},
+{
+"id": "TX0034",
+"name": "Rains County Public Library",
+"city": "Emory",
+"county": "Rains",
+"state": "TX"
+},
+{
+"id": "TX0711",
+"name": "Red Oak Public Library",
+"city": "Red Oak",
+"county": "Ellis",
+"state": "TX"
+},
+{
+"id": "TX0432",
+"name": "Red River County Public Library",
+"city": "Clarksville",
+"county": "Red River",
+"state": "TX"
+},
+{
+"id": "TX0623",
+"name": "Reeves County Library",
+"city": "Pecos",
+"county": "Reeves",
+"state": "TX"
+},
+{
+"id": "TX0245",
+"name": "Richardson Public Library",
+"city": "Richardson",
+"county": "Dallas",
+"state": "TX"
+},
+{
+"id": "TX0485",
+"name": "Rio Grande City Public Library",
+"city": "Rio Grande City",
+"county": "Starr",
+"state": "TX"
+},
+{
+"id": "TX0337",
+"name": "Rita & Truett Smith Public Library",
+"city": "Wylie",
+"county": "Collin",
+"state": "TX"
+},
+{
+"id": "TX0303",
+"name": "Riter C Hulsey Public Library",
+"city": "Terrell",
+"county": "Kaufman",
+"state": "TX"
+},
+{
+"id": "TX0128",
+"name": "Robert J Kleberg Public Library",
+"city": "Kingsville",
+"county": "Kleberg",
+"state": "TX"
+},
+{
+"id": "TX0256",
+"name": "Rockwall County Library",
+"city": "Rockwall",
+"county": "Rockwall",
+"state": "TX"
+},
+{
+"id": "TX0056",
+"name": "Rosenberg Library",
+"city": "Galveston",
+"county": "Galveston",
+"state": "TX"
+},
+{
+"id": "TX0259",
+"name": "Round Rock Public Library System",
+"city": "Round Rock",
+"county": "Williamson",
+"state": "TX"
+},
+{
+"id": "TX0360",
+"name": "Rowlett Public Library",
+"city": "Rowlett",
+"county": "Dallas",
+"state": "TX"
+},
+{
+"id": "TX0091",
+"name": "Rusk County Library System",
+"city": "Henderson",
+"county": "Rusk",
+"state": "TX"
+},
+{
+"id": "TX0361",
+"name": "Sachse Public Library",
+"city": "Sachse",
+"county": "Dallas",
+"state": "TX"
+},
+{
+"id": "TX0422",
+"name": "Sammy Brown Library",
+"city": "Carthage",
+"county": "Panola",
+"state": "TX"
+},
+{
+"id": "TX0263",
+"name": "San Antonio Public Library",
+"city": "San Antonio",
+"county": "Bexar",
+"state": "TX"
+},
+{
+"id": "TX0265",
+"name": "San Benito Public Library",
+"city": "San Benito",
+"county": "Cameron",
+"state": "TX"
+},
+{
+"id": "TX0620",
+"name": "San Juan Memorial Library",
+"city": "San Juan",
+"county": "Hidalgo",
+"state": "TX"
+},
+{
+"id": "TX0266",
+"name": "San Marcos Public Library",
+"city": "San Marcos",
+"county": "Hays",
+"state": "TX"
+},
+{
+"id": "TX0382",
+"name": "Sanger Public Library",
+"city": "Sanger",
+"county": "Denton",
+"state": "TX"
+},
+{
+"id": "TX0272",
+"name": "Schertz Public Library",
+"city": "Schertz",
+"county": "Guadalupe",
+"state": "TX"
+},
+{
+"id": "TX0286",
+"name": "Scurry County Library",
+"city": "Snyder",
+"county": "Scurry",
+"state": "TX"
+},
+{
+"id": "TX0362",
+"name": "Seagoville Public Library",
+"city": "Seagoville",
+"county": "Dallas",
+"state": "TX"
+},
+{
+"id": "TX0274",
+"name": "Seguin Public Library",
+"city": "Seguin",
+"county": "Guadalupe",
+"state": "TX"
+},
+{
+"id": "TX0215",
+"name": "Sergeant Fernando De La Rosa Memorial Library",
+"city": "Alamo",
+"county": "Hidalgo",
+"state": "TX"
+},
+{
+"id": "TX0281",
+"name": "Sherman Public Library",
+"city": "Sherman",
+"county": "Grayson",
+"state": "TX"
+},
+{
+"id": "TX0282",
+"name": "Silsbee Public Library",
+"city": "Silsbee",
+"county": "Hardin",
+"state": "TX"
+},
+{
+"id": "TX0518",
+"name": "Smith-Welch Memorial Library",
+"city": "Hearne",
+"county": "Robertson",
+"state": "TX"
+},
+{
+"id": "TX0285",
+"name": "Smithville Public Library",
+"city": "Smithville",
+"county": "Bastrop",
+"state": "TX"
+},
+{
+"id": "TX0682",
+"name": "Southlake Public Library",
+"city": "Southlake",
+"county": "Tarrant",
+"state": "TX"
+},
+{
+"id": "TX0182",
+"name": "Speer Memorial Library",
+"city": "Mission",
+"county": "Hidalgo",
+"state": "TX"
+},
+{
+"id": "TX0365",
+"name": "Springtown Public Library",
+"city": "Springtown",
+"county": "Parker",
+"state": "TX"
+},
+{
+"id": "TX0294",
+"name": "Stephenville Public Library",
+"city": "Stephenville",
+"county": "Erath",
+"state": "TX"
+},
+{
+"id": "TX0204",
+"name": "Sterling Municipal Library",
+"city": "Baytown",
+"county": "Harris",
+"state": "TX"
+},
+{
+"id": "TX0084",
+"name": "Stewart C Meyer Library",
+"city": "Harker Heights",
+"county": "Bell",
+"state": "TX"
+},
+{
+"id": "TX0712",
+"name": "Tarkington Community Library",
+"city": "Cleveland-Tarkington",
+"county": "Liberty",
+"state": "TX"
+},
+{
+"id": "TX0300",
+"name": "Taylor Public Library",
+"city": "Taylor",
+"county": "Williamson",
+"state": "TX"
+},
+{
+"id": "TX0301",
+"name": "Teague Public Library",
+"city": "Teague",
+"county": "Freestone",
+"state": "TX"
+},
+{
+"id": "TX0302",
+"name": "Temple Public Library",
+"city": "Temple",
+"county": "Bell",
+"state": "TX"
+},
+{
+"id": "TX0304",
+"name": "Texarkana Public Library",
+"city": "Texarkana",
+"county": "Bowie",
+"state": "TX"
+},
+{
+"id": "TX0306",
+"name": "The Colony Public Library",
+"city": "The Colony",
+"county": "Denton",
+"state": "TX"
+},
+{
+"id": "TX0262",
+"name": "Tom Green County Library System",
+"city": "San Angelo",
+"county": "Tom Green",
+"state": "TX"
+},
+{
+"id": "TX0419",
+"name": "Tye Preston Memorial Library",
+"city": "Canyon Lake",
+"county": "Comal",
+"state": "TX"
+},
+{
+"id": "TX0310",
+"name": "Tyler Public Library",
+"city": "Tyler",
+"county": "Smith",
+"state": "TX"
+},
+{
+"id": "TX0227",
+"name": "Unger Memorial Library",
+"city": "Plainview",
+"county": "Hale",
+"state": "TX"
+},
+{
+"id": "TX0376",
+"name": "Universal City Public Library",
+"city": "Universal City",
+"county": "Bexar",
+"state": "TX"
+},
+{
+"id": "TX0689",
+"name": "University Park Public Library",
+"city": "Dallas",
+"county": "Dallas",
+"state": "TX"
+},
+{
+"id": "TX0064",
+"name": "Upshur County Library",
+"city": "Gilmer",
+"county": "Upshur",
+"state": "TX"
+},
+{
+"id": "TX0009",
+"name": "Val Verde County Library",
+"city": "Del Rio",
+"county": "Val Verde",
+"state": "TX"
+},
+{
+"id": "TX0417",
+"name": "Van Zandt County Library",
+"city": "Canton",
+"county": "Van Zandt",
+"state": "TX"
+},
+{
+"id": "TX0315",
+"name": "Victoria Public Library",
+"city": "Victoria",
+"county": "Victoria",
+"state": "TX"
+},
+{
+"id": "TX0273",
+"name": "Virgil & Josephine Gordon Memorial Library",
+"city": "Sealy",
+"county": "Austin",
+"state": "TX"
+},
+{
+"id": "TX0074",
+"name": "W Walworth Harrison Public Library",
+"city": "Greenville",
+"county": "Hunt",
+"state": "TX"
+},
+{
+"id": "TX0317",
+"name": "Waco-Mclennan County Library",
+"city": "Waco",
+"county": "Mclennan",
+"state": "TX"
+},
+{
+"id": "TX0090",
+"name": "Waller County Library",
+"city": "Hempstead",
+"county": "Waller",
+"state": "TX"
+},
+{
+"id": "TX0183",
+"name": "Ward County Library",
+"city": "Monahans",
+"county": "Ward",
+"state": "TX"
+},
+{
+"id": "TX0369",
+"name": "Watauga Public Library",
+"city": "Watauga",
+"county": "Tarrant",
+"state": "TX"
+},
+{
+"id": "TX0322",
+"name": "Weatherford Public Library",
+"city": "Weatherford",
+"county": "Parker",
+"state": "TX"
+},
+{
+"id": "TX0664",
+"name": "Wells Branch Community Library",
+"city": "Austin",
+"county": "Travis",
+"state": "TX"
+},
+{
+"id": "TX0370",
+"name": "Westbank Community Library District",
+"city": "Austin",
+"county": "Travis",
+"state": "TX"
+},
+{
+"id": "TX0326",
+"name": "Wharton County Library",
+"city": "Wharton",
+"county": "Wharton",
+"state": "TX"
+},
+{
+"id": "TX0329",
+"name": "White Settlement Public Library",
+"city": "White Settlement",
+"county": "Tarrant",
+"state": "TX"
+},
+{
+"id": "TX0332",
+"name": "Wichita Falls Public Library",
+"city": "Wichita Falls",
+"county": "Wichita",
+"state": "TX"
+},
+{
+"id": "TX0045",
+"name": "Wilson County Public Libraries",
+"city": "Floresville",
+"county": "Wilson",
+"state": "TX"
+},
+{
+"id": "TX0565",
+"name": "Wimberley Village Library",
+"city": "Wimberley",
+"county": "Hays",
+"state": "TX"
+},
+{
+"id": "TX0350",
+"name": "Zula B Wylie Public Library In Cedar Hill",
+"city": "Cedar Hill",
+"county": "Dallas",
+"state": "TX"
+},
+{
+"id": "UT0057",
+"name": "American Fork City Library",
+"city": "American Fork",
+"county": "Utah",
+"state": "UT"
+},
+{
+"id": "UT0005",
+"name": "Box Elder County Bookmobile Library",
+"city": "Willard",
+"county": "Box Elder",
+"state": "UT"
+},
+{
+"id": "UT0006",
+"name": "Brigham City Library",
+"city": "Brigham City",
+"county": "Box Elder",
+"state": "UT"
+},
+{
+"id": "UT0026",
+"name": "Cedar City Public Library",
+"city": "Cedar City",
+"county": "Iron",
+"state": "UT"
+},
+{
+"id": "UT0019",
+"name": "Davis County Library",
+"city": "Farmington",
+"county": "Davis",
+"state": "UT"
+},
+{
+"id": "UT0021",
+"name": "Duchesne County Library System",
+"city": "Duchesne",
+"county": "Duchesne",
+"state": "UT"
+},
+{
+"id": "UT8002",
+"name": "Eagle Mountain Public Library",
+"city": "Eagle Mountain",
+"county": "Utah",
+"state": "UT"
+},
+{
+"id": "UT8003",
+"name": "Grantsville City Library",
+"city": "Grantsville",
+"county": "Tooele",
+"state": "UT"
+},
+{
+"id": "UT0071",
+"name": "Highland City Library",
+"city": "Highland",
+"county": "Utah",
+"state": "UT"
+},
+{
+"id": "UT0010",
+"name": "Hyrum Library",
+"city": "Hyrum",
+"county": "Cache",
+"state": "UT"
+},
+{
+"id": "UT0025",
+"name": "Iron County Bookmobile Library",
+"city": "Enoch",
+"county": "Iron",
+"state": "UT"
+},
+{
+"id": "UT0058",
+"name": "Lehi City Public Library",
+"city": "Lehi",
+"county": "Utah",
+"state": "UT"
+},
+{
+"id": "UT0012",
+"name": "Logan Library",
+"city": "Logan",
+"county": "Cache",
+"state": "UT"
+},
+{
+"id": "UT0035",
+"name": "Morgan County Library",
+"city": "Morgan",
+"county": "Morgan",
+"state": "UT"
+},
+{
+"id": "UT0047",
+"name": "Murray Public Library",
+"city": "Murray",
+"county": "Salt Lake",
+"state": "UT"
+},
+{
+"id": "UT0070",
+"name": "North Logan City Library",
+"city": "North Logan",
+"county": "Cache",
+"state": "UT"
+},
+{
+"id": "UT0059",
+"name": "Orem Public Library",
+"city": "Orem",
+"county": "Utah",
+"state": "UT"
+},
+{
+"id": "UT0060",
+"name": "Payson City Library",
+"city": "Payson",
+"county": "Utah",
+"state": "UT"
+},
+{
+"id": "UT0061",
+"name": "Pleasant Grove Public Library",
+"city": "Pleasant Grove",
+"county": "Utah",
+"state": "UT"
+},
+{
+"id": "UT0062",
+"name": "Provo City Library",
+"city": "Provo",
+"county": "Utah",
+"state": "UT"
+},
+{
+"id": "UT0048",
+"name": "Salt Lake City Public Library System",
+"city": "Salt Lake City",
+"county": "Salt Lake",
+"state": "UT"
+},
+{
+"id": "UT0049",
+"name": "Salt Lake County Library",
+"city": "West Jordan",
+"county": "Salt Lake",
+"state": "UT"
+},
+{
+"id": "UT0050",
+"name": "San Juan County Library",
+"city": "Blanding",
+"county": "San Juan",
+"state": "UT"
+},
+{
+"id": "UT0038",
+"name": "Sanpete County Bookmobile Library",
+"city": "Fairview",
+"county": "Sanpete",
+"state": "UT"
+},
+{
+"id": "UT0063",
+"name": "Santaquin City Library",
+"city": "Santaquin",
+"county": "Utah",
+"state": "UT"
+},
+{
+"id": "UT0074",
+"name": "Saratoga Springs Public Library",
+"city": "Saratoga Springs",
+"county": "Utah",
+"state": "UT"
+},
+{
+"id": "UT0014",
+"name": "Smithfield Library",
+"city": "Smithfield",
+"county": "Cache",
+"state": "UT"
+},
+{
+"id": "UT0064",
+"name": "Spanish Fork Public Library",
+"city": "Spanish Fork",
+"county": "Utah",
+"state": "UT"
+},
+{
+"id": "UT0065",
+"name": "Springville Public Library",
+"city": "Springville",
+"county": "Utah",
+"state": "UT"
+},
+{
+"id": "UT0051",
+"name": "Summit County Library",
+"city": "Park City",
+"county": "Summit",
+"state": "UT"
+},
+{
+"id": "UT0054",
+"name": "Tooele City Public Library",
+"city": "Tooele",
+"county": "Tooele",
+"state": "UT"
+},
+{
+"id": "UT0008",
+"name": "Tremonton City Library",
+"city": "Tremonton",
+"county": "Box Elder",
+"state": "UT"
+},
+{
+"id": "UT0055",
+"name": "Uintah County Library",
+"city": "Vernal",
+"county": "Uintah",
+"state": "UT"
+},
+{
+"id": "UT0056",
+"name": "Utah County Bookmobile Library",
+"city": "Mapleton",
+"county": "Utah",
+"state": "UT"
+},
+{
+"id": "UT0067",
+"name": "Wasatch County Library",
+"city": "Heber City",
+"county": "Wasatch",
+"state": "UT"
+},
+{
+"id": "UT0066",
+"name": "Washington County Library System",
+"city": "St. George",
+"county": "Washington",
+"state": "UT"
+},
+{
+"id": "UT0069",
+"name": "Weber County Library System",
+"city": "Roy",
+"county": "Weber",
+"state": "UT"
+},
+{
+"id": "VA0001",
+"name": "Alexandria Library",
+"city": "Alexandria",
+"county": "Alexandria",
+"state": "VA"
+},
+{
+"id": "VA0015",
+"name": "Alleghany Highlands Regional Library",
+"city": "Covington",
+"county": "Covington",
+"state": "VA"
+},
+{
+"id": "VA0002",
+"name": "Amherst County Public Library",
+"city": "Amherst",
+"county": "Amherst",
+"state": "VA"
+},
+{
+"id": "VA0004",
+"name": "Appomattox Regional Library System",
+"city": "Hopewell",
+"county": "Hopewell",
+"state": "VA"
+},
+{
+"id": "VA0005",
+"name": "Arlington Dept. Of Libraries",
+"city": "Arlington",
+"county": "Arlington",
+"state": "VA"
+},
+{
+"id": "VA0006",
+"name": "Augusta County Library",
+"city": "Fishersville",
+"county": "Augusta",
+"state": "VA"
+},
+{
+"id": "VA0007",
+"name": "Bedford Public Library System",
+"city": "Bedford",
+"county": "Bedford",
+"state": "VA"
+},
+{
+"id": "VA0083",
+"name": "Blackwater Regional Library",
+"city": "Courtland",
+"county": "Southampton",
+"state": "VA"
+},
+{
+"id": "VA0008",
+"name": "Blue Ridge Regional Library",
+"city": "Martinsville",
+"county": "Martinsville",
+"state": "VA"
+},
+{
+"id": "VA0009",
+"name": "Botetourt County Library",
+"city": "Roanoke",
+"county": "Botetourt",
+"state": "VA"
+},
+{
+"id": "VA0010",
+"name": "Bristol Public Library",
+"city": "Bristol",
+"county": "Bristol",
+"state": "VA"
+},
+{
+"id": "VA0011",
+"name": "Buchanan County Public Library",
+"city": "Grundy",
+"county": "Buchanan",
+"state": "VA"
+},
+{
+"id": "VA0012",
+"name": "Campbell County Public Library",
+"city": "Rustburg",
+"county": "Campbell",
+"state": "VA"
+},
+{
+"id": "VA0013",
+"name": "Caroline County Library",
+"city": "Milford",
+"county": "Caroline",
+"state": "VA"
+},
+{
+"id": "VA0014",
+"name": "Central Rappahannock Regional Library",
+"city": "Fredericksburg",
+"county": "Spotsylvania",
+"state": "VA"
+},
+{
+"id": "VA0091",
+"name": "Central Virginia Regional Library",
+"city": "Farmville",
+"county": "Prince Edward",
+"state": "VA"
+},
+{
+"id": "VA0016",
+"name": "Charlotte County Library",
+"city": "Charlotte Court Hous",
+"county": "Charlotte",
+"state": "VA"
+},
+{
+"id": "VA0017",
+"name": "Chesapeake Public Library",
+"city": "Chesapeake",
+"county": "Chesapeake",
+"state": "VA"
+},
+{
+"id": "VA0018",
+"name": "Chesterfield County Public Library",
+"city": "Chesterfield",
+"county": "Chesterfield",
+"state": "VA"
+},
+{
+"id": "VA0020",
+"name": "Colonial Heights Public Library",
+"city": "Colonial Heights",
+"county": "Colonial Heights",
+"state": "VA"
+},
+{
+"id": "VA0021",
+"name": "Culpeper County Library",
+"city": "Culpeper",
+"county": "Culpeper",
+"state": "VA"
+},
+{
+"id": "VA0023",
+"name": "Danville Public Library",
+"city": "Danville",
+"county": "Danville",
+"state": "VA"
+},
+{
+"id": "VA0024",
+"name": "Eastern Shore Public Library",
+"city": "Accomac",
+"county": "Accomack",
+"state": "VA"
+},
+{
+"id": "VA0025",
+"name": "Essex Public Library",
+"city": "Tappahannock",
+"county": "Essex",
+"state": "VA"
+},
+{
+"id": "VA0026",
+"name": "Fairfax County Public Library",
+"city": "Fairfax",
+"county": "Fairfax",
+"state": "VA"
+},
+{
+"id": "VA0028",
+"name": "Fauquier County Public Library",
+"city": "Warrenton",
+"county": "Fauquier",
+"state": "VA"
+},
+{
+"id": "VA0029",
+"name": "Fluvanna County Public Library",
+"city": "Palmyra",
+"county": "Fluvanna",
+"state": "VA"
+},
+{
+"id": "VA0030",
+"name": "Franklin County Public Library",
+"city": "Rocky Mount",
+"county": "Franklin",
+"state": "VA"
+},
+{
+"id": "VA0031",
+"name": "Galax-Carroll Regional Library",
+"city": "Galax",
+"county": "Carroll",
+"state": "VA"
+},
+{
+"id": "VA0032",
+"name": "Gloucester County Public Library",
+"city": "Gloucester",
+"county": "Gloucester",
+"state": "VA"
+},
+{
+"id": "VA0033",
+"name": "Halifax County-South Boston Library System",
+"city": "Halifax",
+"county": "Halifax",
+"state": "VA"
+},
+{
+"id": "VA0034",
+"name": "Hampton Public Library",
+"city": "Hampton",
+"county": "Hampton",
+"state": "VA"
+},
+{
+"id": "VA0035",
+"name": "Handley Regional Library",
+"city": "Winchester",
+"county": "Winchester",
+"state": "VA"
+},
+{
+"id": "VA0036",
+"name": "Henrico County Public Library",
+"city": "Henrico",
+"county": "Henrico",
+"state": "VA"
+},
+{
+"id": "VA0037",
+"name": "Heritage Public Library",
+"city": "New Kent",
+"county": "New Kent",
+"state": "VA"
+},
+{
+"id": "VA0003",
+"name": "J. Robert Jamerson Memorial Library",
+"city": "Appomattox",
+"county": "Appomattox",
+"state": "VA"
+},
+{
+"id": "VA0039",
+"name": "James L. Hamner Public Library",
+"city": "Amelia",
+"county": "Amelia",
+"state": "VA"
+},
+{
+"id": "VA0040",
+"name": "Jefferson-Madison Regional Library",
+"city": "Charlottesville",
+"county": "Charlottesville",
+"state": "VA"
+},
+{
+"id": "VA0041",
+"name": "Lancaster Community Library",
+"city": "Kilmarnock",
+"county": "Lancaster",
+"state": "VA"
+},
+{
+"id": "VA0042",
+"name": "Lewis Egerton Smoot Memorial Library",
+"city": "King George",
+"county": "King George",
+"state": "VA"
+},
+{
+"id": "VA0043",
+"name": "Lonesome Pine Regional Library",
+"city": "Wise",
+"county": "Wise",
+"state": "VA"
+},
+{
+"id": "VA0044",
+"name": "Loudoun County Public Library",
+"city": "Leesburg",
+"county": "Loudoun",
+"state": "VA"
+},
+{
+"id": "VA8001",
+"name": "Lunenburg County Public Library System, Inc",
+"city": "Kenbridge",
+"county": "Lunenburg",
+"state": "VA"
+},
+{
+"id": "VA0045",
+"name": "Lynchburg Public Library",
+"city": "Lynchburg",
+"county": "Lynchburg",
+"state": "VA"
+},
+{
+"id": "VA0046",
+"name": "Madison County Library, Inc.",
+"city": "Madison",
+"county": "Madison",
+"state": "VA"
+},
+{
+"id": "VA8004",
+"name": "Manassas Park City Library",
+"city": "Manassas Park",
+"county": "Manassas Park",
+"state": "VA"
+},
+{
+"id": "VA0047",
+"name": "Mary Riley Styles Public Library",
+"city": "Falls Church",
+"county": "Falls Church",
+"state": "VA"
+},
+{
+"id": "VA0072",
+"name": "Massanutten Regional Library",
+"city": "Harrisonburg",
+"county": "Harrisonburg",
+"state": "VA"
+},
+{
+"id": "VA8002",
+"name": "Mecklenburg County Public Library",
+"city": "Boydton",
+"county": "Mecklenburg",
+"state": "VA"
+},
+{
+"id": "VA0049",
+"name": "Meherrin Regional Library",
+"city": "Lawrenceville",
+"county": "Brunswick",
+"state": "VA"
+},
+{
+"id": "VA0050",
+"name": "Middlesex County Public Library",
+"city": "Urbanna",
+"county": "Middlesex",
+"state": "VA"
+},
+{
+"id": "VA0051",
+"name": "Montgomery-Floyd Regional Library",
+"city": "Christiansburg",
+"county": "Montgomery",
+"state": "VA"
+},
+{
+"id": "VA0053",
+"name": "Newport News Public Library System",
+"city": "Newport News",
+"county": "Newport News",
+"state": "VA"
+},
+{
+"id": "VA0054",
+"name": "Norfolk Public Library",
+"city": "Norfolk",
+"county": "Norfolk",
+"state": "VA"
+},
+{
+"id": "VA0090",
+"name": "Northumberland Public Library",
+"city": "Heathsville",
+"county": "Northumberland",
+"state": "VA"
+},
+{
+"id": "VA0055",
+"name": "Nottoway County Library System",
+"city": "Crewe",
+"county": "Nottoway",
+"state": "VA"
+},
+{
+"id": "VA0056",
+"name": "Orange County Public Library",
+"city": "Orange",
+"county": "Orange",
+"state": "VA"
+},
+{
+"id": "VA0057",
+"name": "Pamunkey Regional Library",
+"city": "Hanover",
+"county": "Hanover",
+"state": "VA"
+},
+{
+"id": "VA0059",
+"name": "Petersburg Public Library",
+"city": "Petersburg",
+"county": "Petersburg",
+"state": "VA"
+},
+{
+"id": "VA0060",
+"name": "Pittsylvania County Public Library",
+"city": "Chatham",
+"county": "Pittsylvania",
+"state": "VA"
+},
+{
+"id": "VA0061",
+"name": "Poquoson Public Library",
+"city": "Poquoson",
+"county": "Poquoson",
+"state": "VA"
+},
+{
+"id": "VA0062",
+"name": "Portsmouth Public Library",
+"city": "Portsmouth",
+"county": "Portsmouth",
+"state": "VA"
+},
+{
+"id": "VA0063",
+"name": "Powhatan County Public Library",
+"city": "Powhatan",
+"county": "Powhatan",
+"state": "VA"
+},
+{
+"id": "VA0064",
+"name": "Prince William Public Libraries",
+"city": "Prince William",
+"county": "Prince William",
+"state": "VA"
+},
+{
+"id": "VA0065",
+"name": "Pulaski County Library System",
+"city": "Pulaski",
+"county": "Pulaski",
+"state": "VA"
+},
+{
+"id": "VA0066",
+"name": "Radford Public Library",
+"city": "Radford",
+"county": "Radford",
+"state": "VA"
+},
+{
+"id": "VA0068",
+"name": "Richmond Public Library",
+"city": "Richmond",
+"county": "Richmond",
+"state": "VA"
+},
+{
+"id": "VA0069",
+"name": "Roanoke City Public Library",
+"city": "Roanoke",
+"county": "Roanoke",
+"state": "VA"
+},
+{
+"id": "VA0070",
+"name": "Roanoke County Public Library",
+"city": "Roanoke",
+"county": "Roanoke",
+"state": "VA"
+},
+{
+"id": "VA0071",
+"name": "Rockbridge Regional Library",
+"city": "Lexington",
+"county": "Lexington",
+"state": "VA"
+},
+{
+"id": "VA0073",
+"name": "Russell County Public Library",
+"city": "Lebanon",
+"county": "Russell",
+"state": "VA"
+},
+{
+"id": "VA0074",
+"name": "Salem Public Library",
+"city": "Salem",
+"county": "Salem",
+"state": "VA"
+},
+{
+"id": "VA0075",
+"name": "Samuels Public Library",
+"city": "Front Royal",
+"county": "Warren",
+"state": "VA"
+},
+{
+"id": "VA0076",
+"name": "Shenandoah County Library",
+"city": "Edinburg",
+"county": "Shenandoah",
+"state": "VA"
+},
+{
+"id": "VA0077",
+"name": "Smyth County Public Library",
+"city": "Marion",
+"county": "Smyth/Marion",
+"state": "VA"
+},
+{
+"id": "VA0079",
+"name": "Staunton Public Library",
+"city": "Staunton",
+"county": "Staunton",
+"state": "VA"
+},
+{
+"id": "VA0080",
+"name": "Suffolk Public Library System",
+"city": "Suffolk",
+"county": "City Of Suffolk",
+"state": "VA"
+},
+{
+"id": "VA0081",
+"name": "Tazewell County Public Library",
+"city": "Tazewell",
+"county": "Tazewell",
+"state": "VA"
+},
+{
+"id": "VA0082",
+"name": "Virginia Beach Public Library",
+"city": "Virginia Beach",
+"county": "Virginia Beach",
+"state": "VA"
+},
+{
+"id": "VA0084",
+"name": "Washington County Public Library",
+"city": "Abingdon",
+"county": "Washington",
+"state": "VA"
+},
+{
+"id": "VA0085",
+"name": "Waynesboro Public Library",
+"city": "Waynesboro",
+"county": "Waynesboro",
+"state": "VA"
+},
+{
+"id": "VA0086",
+"name": "Williamsburg Regional Library",
+"city": "Williamsburg",
+"county": "Williamsburg",
+"state": "VA"
+},
+{
+"id": "VA0087",
+"name": "Wythe-Grayson Regional Library",
+"city": "Independence",
+"county": "Grayson",
+"state": "VA"
+},
+{
+"id": "VA0088",
+"name": "York County Public Library",
+"city": "Yorktown",
+"county": "York",
+"state": "VA"
+},
+{
+"id": "VT0011",
+"name": "Aldrich Public",
+"city": "Barre",
+"county": "Washington",
+"state": "VT"
+},
+{
+"id": "VT0014",
+"name": "Bennington Free",
+"city": "Bennington",
+"county": "Bennington",
+"state": "VT"
+},
+{
+"id": "VT0020",
+"name": "Brooks Memorial",
+"city": "Brattleboro",
+"county": "Windham",
+"state": "VT"
+},
+{
+"id": "VT0054",
+"name": "Brownell",
+"city": "Essex Junction",
+"county": "Chittenden",
+"state": "VT"
+},
+{
+"id": "VT0039",
+"name": "Burnham Memorial",
+"city": "Colchester",
+"county": "Chittenden",
+"state": "VT"
+},
+{
+"id": "VT0188",
+"name": "Dorothy Alling Memorial",
+"city": "Williston",
+"county": "Chittenden",
+"state": "VT"
+},
+{
+"id": "VT0053",
+"name": "Essex Free",
+"city": "Essex",
+"county": "Chittenden",
+"state": "VT"
+},
+{
+"id": "VT0029",
+"name": "Fletcher Free",
+"city": "Burlington",
+"county": "Chittenden",
+"state": "VT"
+},
+{
+"id": "VT0098",
+"name": "Kellogg-Hubbard",
+"city": "Montpelier",
+"county": "Washington",
+"state": "VT"
+},
+{
+"id": "VT0095",
+"name": "Milton Public",
+"city": "Milton",
+"county": "Chittenden",
+"state": "VT"
+},
+{
+"id": "VT0133",
+"name": "Rutland Free",
+"city": "Rutland",
+"county": "Rutland",
+"state": "VT"
+},
+{
+"id": "VT0145",
+"name": "South Burlington",
+"city": "S. Burlington",
+"county": "Chittenden",
+"state": "VT"
+},
+{
+"id": "VT0137",
+"name": "St. Albans Free",
+"city": "St. Albans",
+"county": "Franklin",
+"state": "VT"
+},
+{
+"id": "WA0032",
+"name": "Anacortes Public Library",
+"city": "Anacortes",
+"county": "Skagit",
+"state": "WA"
+},
+{
+"id": "WA0033",
+"name": "Asotin County Library",
+"city": "Clarkston",
+"county": "Asotin",
+"state": "WA"
+},
+{
+"id": "WA0050",
+"name": "Bellingham Public Library",
+"city": "Bellingham",
+"county": "Whatcom",
+"state": "WA"
+},
+{
+"id": "WA0034",
+"name": "Camas Public Library",
+"city": "Camas",
+"county": "Clark",
+"state": "WA"
+},
+{
+"id": "WA0076",
+"name": "Central Skagit Library District",
+"city": "Sedro-Woolley",
+"county": "Skagit",
+"state": "WA"
+},
+{
+"id": "WA0035",
+"name": "Ellensburg Public Library",
+"city": "Ellensburg",
+"county": "Kittitas",
+"state": "WA"
+},
+{
+"id": "WA0051",
+"name": "Everett Public Library",
+"city": "Everett",
+"county": "Snohomish",
+"state": "WA"
+},
+{
+"id": "WA0058",
+"name": "Fort Vancouver Regional Library District",
+"city": "Vancouver",
+"county": "Clark",
+"state": "WA"
+},
+{
+"id": "WA0037",
+"name": "Grandview Library",
+"city": "Grandview",
+"county": "Yakima",
+"state": "WA"
+},
+{
+"id": "WA0038",
+"name": "Jefferson County Rural Library District",
+"city": "Port Hadlock",
+"county": "Jefferson",
+"state": "WA"
+},
+{
+"id": "WA0039",
+"name": "Kelso Public Library",
+"city": "Kelso",
+"county": "Cowlitz",
+"state": "WA"
+},
+{
+"id": "WA0059",
+"name": "King County Library System",
+"city": "Issaquah",
+"county": "King",
+"state": "WA"
+},
+{
+"id": "WA0060",
+"name": "Kitsap Regional Library",
+"city": "Bremerton",
+"county": "Kitsap",
+"state": "WA"
+},
+{
+"id": "WA0074",
+"name": "Liberty Lake Municipal Library",
+"city": "Liberty Lake",
+"county": "Spokane",
+"state": "WA"
+},
+{
+"id": "WA0052",
+"name": "Longview Public Library",
+"city": "Longview",
+"county": "Cowlitz",
+"state": "WA"
+},
+{
+"id": "WA0061",
+"name": "Mid-Columbia Libraries",
+"city": "Kennewick",
+"county": "Benton",
+"state": "WA"
+},
+{
+"id": "WA0040",
+"name": "Mount Vernon City Library",
+"city": "Mount Vernon",
+"county": "Skagit",
+"state": "WA"
+},
+{
+"id": "WA0062",
+"name": "North Central Regional Library",
+"city": "Wenatchee",
+"county": "Chelan",
+"state": "WA"
+},
+{
+"id": "WA0053",
+"name": "North Olympic Library System",
+"city": "Port Angeles",
+"county": "Clallam",
+"state": "WA"
+},
+{
+"id": "WA0041",
+"name": "Pend Oreille County Library District",
+"city": "Newport",
+"county": "Pend Oreille",
+"state": "WA"
+},
+{
+"id": "WA0063",
+"name": "Pierce County Library System",
+"city": "Tacoma",
+"county": "Pierce",
+"state": "WA"
+},
+{
+"id": "WA0042",
+"name": "Port Townsend Public Library",
+"city": "Port Townsend",
+"county": "Jefferson",
+"state": "WA"
+},
+{
+"id": "WA0043",
+"name": "Pullman (Neill) Public Library",
+"city": "Pullman",
+"county": "Whitman",
+"state": "WA"
+},
+{
+"id": "WA0044",
+"name": "Puyallup Public Library",
+"city": "Puyallup",
+"county": "Pierce",
+"state": "WA"
+},
+{
+"id": "WA0055",
+"name": "Richland Public Library",
+"city": "Richland",
+"county": "Benton",
+"state": "WA"
+},
+{
+"id": "WA0064",
+"name": "Seattle Public Library",
+"city": "Seattle",
+"county": "King",
+"state": "WA"
+},
+{
+"id": "WA0065",
+"name": "Sno-Isle Libraries",
+"city": "Marysville",
+"county": "Snohomish",
+"state": "WA"
+},
+{
+"id": "WA0066",
+"name": "Spokane County Library District",
+"city": "Spokane",
+"county": "Spokane",
+"state": "WA"
+},
+{
+"id": "WA0067",
+"name": "Spokane Public Library",
+"city": "Spokane",
+"county": "Spokane",
+"state": "WA"
+},
+{
+"id": "WA0072",
+"name": "Stevens County Rural Library District",
+"city": "Loon Lake",
+"county": "Stevens",
+"state": "WA"
+},
+{
+"id": "WA0068",
+"name": "Tacoma Public Library",
+"city": "Tacoma",
+"county": "Pierce",
+"state": "WA"
+},
+{
+"id": "WA0069",
+"name": "Timberland Regional Library",
+"city": "Tumwater",
+"county": "Thurston",
+"state": "WA"
+},
+{
+"id": "WA0047",
+"name": "Walla Walla County Rural Library District",
+"city": "Walla Walla",
+"county": "Walla Walla",
+"state": "WA"
+},
+{
+"id": "WA0056",
+"name": "Walla Walla Public Library",
+"city": "Walla Walla",
+"county": "Walla Walla",
+"state": "WA"
+},
+{
+"id": "WA0057",
+"name": "Whatcom County Library System",
+"city": "Bellingham",
+"county": "Whatcom",
+"state": "WA"
+},
+{
+"id": "WA0048",
+"name": "Whitman County Library",
+"city": "Colfax",
+"county": "Whitman",
+"state": "WA"
+},
+{
+"id": "WA0070",
+"name": "Yakima Valley Regional Library",
+"city": "Yakima",
+"county": "Yakima",
+"state": "WA"
+},
+{
+"id": "WI0002",
+"name": "Adams County Library",
+"city": "Adams",
+"county": "Adams",
+"state": "WI"
+},
+{
+"id": "WI0006",
+"name": "Altoona Public Library",
+"city": "Altoona",
+"county": "Eau Claire",
+"state": "WI"
+},
+{
+"id": "WI0007",
+"name": "Amery Public Library",
+"city": "Amery",
+"county": "Polk",
+"state": "WI"
+},
+{
+"id": "WI0009",
+"name": "Antigo Public Library",
+"city": "Antigo",
+"county": "Langlade",
+"state": "WI"
+},
+{
+"id": "WI0010",
+"name": "Appleton Public Library",
+"city": "Appleton",
+"county": "Outagamie",
+"state": "WI"
+},
+{
+"id": "WI0080",
+"name": "Aram Public Library",
+"city": "Delavan",
+"county": "Walworth",
+"state": "WI"
+},
+{
+"id": "WI0018",
+"name": "Baraboo Public Library",
+"city": "Baraboo",
+"county": "Sauk",
+"state": "WI"
+},
+{
+"id": "WI0022",
+"name": "Beaver Dam Community Library",
+"city": "Beaver Dam",
+"county": "Dodge",
+"state": "WI"
+},
+{
+"id": "WI0025",
+"name": "Beloit Public Library",
+"city": "Beloit",
+"county": "Rock",
+"state": "WI"
+},
+{
+"id": "WI0031",
+"name": "Black River Falls Public Library",
+"city": "Black River Falls",
+"county": "Jackson",
+"state": "WI"
+},
+{
+"id": "WI0276",
+"name": "Brewer Public Library",
+"city": "Richland Center",
+"county": "Richland",
+"state": "WI"
+},
+{
+"id": "WI0040",
+"name": "Brillion Public Library",
+"city": "Brillion",
+"county": "Calumet",
+"state": "WI"
+},
+{
+"id": "WI0042",
+"name": "Brookfield Public Library",
+"city": "Brookfield",
+"county": "Waukesha",
+"state": "WI"
+},
+{
+"id": "WI0121",
+"name": "Brown County Library",
+"city": "Green Bay",
+"county": "Brown",
+"state": "WI"
+},
+{
+"id": "WI0043",
+"name": "Brown Deer Public Library",
+"city": "Brown Deer",
+"county": "Milwaukee",
+"state": "WI"
+},
+{
+"id": "WI0045",
+"name": "Burlington Public Library",
+"city": "Burlington",
+"county": "Racine",
+"state": "WI"
+},
+{
+"id": "WI0223",
+"name": "Carleton A. Friday Memorial Library",
+"city": "New Richmond",
+"county": "St. Croix",
+"state": "WI"
+},
+{
+"id": "WI0055",
+"name": "Cedarburg Public Library",
+"city": "Cedarburg",
+"county": "Ozaukee",
+"state": "WI"
+},
+{
+"id": "WI0058",
+"name": "Chilton Public Library",
+"city": "Chilton",
+"county": "Calumet",
+"state": "WI"
+},
+{
+"id": "WI0059",
+"name": "Chippewa Falls Public Library",
+"city": "Chippewa Falls",
+"county": "Chippewa",
+"state": "WI"
+},
+{
+"id": "WI0283",
+"name": "Community Library",
+"city": "Salem",
+"county": "Kenosha",
+"state": "WI"
+},
+{
+"id": "WI0071",
+"name": "Cudahy Family Library",
+"city": "Cudahy",
+"county": "Milwaukee",
+"state": "WI"
+},
+{
+"id": "WI0078",
+"name": "Deforest Area Public Library",
+"city": "Deforest",
+"county": "Dane",
+"state": "WI"
+},
+{
+"id": "WI0079",
+"name": "Delafield Public Library",
+"city": "Delafield",
+"county": "Waukesha",
+"state": "WI"
+},
+{
+"id": "WI0380",
+"name": "Dodgeville Public Library",
+"city": "Dodgeville",
+"county": "Iowa",
+"state": "WI"
+},
+{
+"id": "WI0312",
+"name": "Door County Library",
+"city": "Sturgeon Bay",
+"county": "Door",
+"state": "WI"
+},
+{
+"id": "WI0105",
+"name": "Dwight Foster Public Library",
+"city": "Fort Atkinson",
+"county": "Jefferson",
+"state": "WI"
+},
+{
+"id": "WI0420",
+"name": "E.D. Locke Public Library",
+"city": "Mcfarland",
+"county": "Dane",
+"state": "WI"
+},
+{
+"id": "WI0190",
+"name": "Elisha D. Smith Public Library",
+"city": "Menasha",
+"county": "Winnebago",
+"state": "WI"
+},
+{
+"id": "WI0184",
+"name": "Everett Roehl Marshfield Public Library",
+"city": "Marshfield",
+"county": "Wood",
+"state": "WI"
+},
+{
+"id": "WI0424",
+"name": "Fitchburg Public Library",
+"city": "Fitchburg",
+"county": "Dane",
+"state": "WI"
+},
+{
+"id": "WI0103",
+"name": "Fond Du Lac Public Library",
+"city": "Fond Du Lac",
+"county": "Fond Du Lac",
+"state": "WI"
+},
+{
+"id": "WI0188",
+"name": "Frances L. Simek Memorial Library Medford",
+"city": "Medford",
+"county": "Taylor",
+"state": "WI"
+},
+{
+"id": "WI0193",
+"name": "Frank L. Weyenberg Library",
+"city": "Mequon",
+"county": "Ozaukee",
+"state": "WI"
+},
+{
+"id": "WI0107",
+"name": "Franklin Public Library",
+"city": "Franklin",
+"county": "Milwaukee",
+"state": "WI"
+},
+{
+"id": "WI0113",
+"name": "Germantown Community Library",
+"city": "Germantown",
+"county": "Washington",
+"state": "WI"
+},
+{
+"id": "WI0326",
+"name": "Graham Public Library",
+"city": "Union Grove",
+"county": "Racine",
+"state": "WI"
+},
+{
+"id": "WI0123",
+"name": "Greendale Public Library",
+"city": "Greendale",
+"county": "Milwaukee",
+"state": "WI"
+},
+{
+"id": "WI0124",
+"name": "Greenfield Public Library",
+"city": "Greenfield",
+"county": "Milwaukee",
+"state": "WI"
+},
+{
+"id": "WI0130",
+"name": "Hartland Public Library",
+"city": "Hartland",
+"county": "Waukesha",
+"state": "WI"
+},
+{
+"id": "WI0185",
+"name": "Hatch Public Library",
+"city": "Mauston",
+"county": "Juneau",
+"state": "WI"
+},
+{
+"id": "WI0142",
+"name": "Hedberg Public Library",
+"city": "Janesville",
+"county": "Rock",
+"state": "WI"
+},
+{
+"id": "WI0136",
+"name": "Hortonville Public Library",
+"city": "Hortonville",
+"county": "Outagamie",
+"state": "WI"
+},
+{
+"id": "WI0137",
+"name": "Hudson Area Joint Library",
+"city": "Hudson",
+"county": "St. Croix",
+"state": "WI"
+},
+{
+"id": "WI0352",
+"name": "Irvin L. Young Memorial Library",
+"city": "Whitewater",
+"county": "Jefferson",
+"state": "WI"
+},
+{
+"id": "WI0129",
+"name": "Jack Russell Memorial Library",
+"city": "Hartford",
+"county": "Washington",
+"state": "WI"
+},
+{
+"id": "WI0143",
+"name": "Jefferson Public Library",
+"city": "Jefferson",
+"county": "Jefferson",
+"state": "WI"
+},
+{
+"id": "WI0146",
+"name": "Kaukauna Public Library",
+"city": "Kaukauna",
+"county": "Outagamie",
+"state": "WI"
+},
+{
+"id": "WI0148",
+"name": "Kenosha Public Library",
+"city": "Kenosha",
+"county": "Kenosha",
+"state": "WI"
+},
+{
+"id": "WI0151",
+"name": "Kewaunee Public Library",
+"city": "Kewaunee",
+"county": "Kewaunee",
+"state": "WI"
+},
+{
+"id": "WI0152",
+"name": "Kiel Public Library",
+"city": "Kiel",
+"county": "Manitowoc",
+"state": "WI"
+},
+{
+"id": "WI0153",
+"name": "Kimberly Public Library",
+"city": "Kimberly",
+"county": "Outagamie",
+"state": "WI"
+},
+{
+"id": "WI0163",
+"name": "L.D. Fargo Public Library",
+"city": "Lake Mills",
+"county": "Jefferson",
+"state": "WI"
+},
+{
+"id": "WI0090",
+"name": "L.E. Phillips Memorial Public Library",
+"city": "Eau Claire",
+"county": "Eau Claire",
+"state": "WI"
+},
+{
+"id": "WI0390",
+"name": "La Crosse County Library",
+"city": "Holmen",
+"county": "La Crosse",
+"state": "WI"
+},
+{
+"id": "WI0159",
+"name": "La Crosse Public Library",
+"city": "La Crosse",
+"county": "La Crosse",
+"state": "WI"
+},
+{
+"id": "WI0162",
+"name": "Lake Geneva Public Library",
+"city": "Lake Geneva",
+"county": "Walworth",
+"state": "WI"
+},
+{
+"id": "WI0325",
+"name": "Lester Public Library",
+"city": "Two Rivers",
+"county": "Manitowoc",
+"state": "WI"
+},
+{
+"id": "WI9026",
+"name": "Little Chute Public Library",
+"city": "Little Chute",
+"county": "Outagamie",
+"state": "WI"
+},
+{
+"id": "WI0176",
+"name": "Madison Public Library",
+"city": "Madison",
+"county": "Dane",
+"state": "WI"
+},
+{
+"id": "WI0179",
+"name": "Manitowoc Public Library",
+"city": "Manitowoc",
+"county": "Manitowoc",
+"state": "WI"
+},
+{
+"id": "WI0341",
+"name": "Marathon County Public Library",
+"city": "Wausau",
+"county": "Marathon",
+"state": "WI"
+},
+{
+"id": "WI0394",
+"name": "Marinette County Consolidated Public Library Service",
+"city": "Marinette",
+"county": "Marinette",
+"state": "WI"
+},
+{
+"id": "WI0093",
+"name": "Matheson Memorial Library",
+"city": "Elkhorn",
+"county": "Walworth",
+"state": "WI"
+},
+{
+"id": "WI0330",
+"name": "Mcintosh Memorial Library",
+"city": "Viroqua",
+"county": "Vernon",
+"state": "WI"
+},
+{
+"id": "WI0360",
+"name": "Mcmillan Memorial Library",
+"city": "Wisconsin Rapids",
+"county": "Wood",
+"state": "WI"
+},
+{
+"id": "WI0292",
+"name": "Mead Public Library",
+"city": "Sheboygan",
+"county": "Sheboygan",
+"state": "WI"
+},
+{
+"id": "WI0191",
+"name": "Menomonee Falls Public Library",
+"city": "Menomonee Falls",
+"county": "Waukesha",
+"state": "WI"
+},
+{
+"id": "WI0192",
+"name": "Menomonie Public Library",
+"city": "Menomonie",
+"county": "Dunn",
+"state": "WI"
+},
+{
+"id": "WI0196",
+"name": "Middleton Public Library",
+"city": "Middleton",
+"county": "Dane",
+"state": "WI"
+},
+{
+"id": "WI0198",
+"name": "Milton Public Library",
+"city": "Milton",
+"county": "Rock",
+"state": "WI"
+},
+{
+"id": "WI0199",
+"name": "Milwaukee Public Library",
+"city": "Milwaukee",
+"county": "Milwaukee",
+"state": "WI"
+},
+{
+"id": "WI0201",
+"name": "Minocqua Public Library",
+"city": "Minocqua",
+"county": "Oneida",
+"state": "WI"
+},
+{
+"id": "WI0203",
+"name": "Monona Public Library",
+"city": "Monona",
+"county": "Dane",
+"state": "WI"
+},
+{
+"id": "WI0204",
+"name": "Monroe Public Library",
+"city": "Monroe",
+"county": "Green",
+"state": "WI"
+},
+{
+"id": "WI0209",
+"name": "Mount Horeb Public Library",
+"city": "Mount Horeb",
+"county": "Dane",
+"state": "WI"
+},
+{
+"id": "WI0396",
+"name": "Mukwonago Community Library",
+"city": "Mukwonago",
+"county": "Waukesha",
+"state": "WI"
+},
+{
+"id": "WI0212",
+"name": "Muskego Public Library",
+"city": "Muskego",
+"county": "Waukesha",
+"state": "WI"
+},
+{
+"id": "WI0214",
+"name": "Neenah Public Library",
+"city": "Neenah",
+"county": "Winnebago",
+"state": "WI"
+},
+{
+"id": "WI0218",
+"name": "New Berlin Public Library",
+"city": "New Berlin",
+"county": "Waukesha",
+"state": "WI"
+},
+{
+"id": "WI0222",
+"name": "New London Public Library",
+"city": "New London",
+"county": "Waupaca",
+"state": "WI"
+},
+{
+"id": "WI0116",
+"name": "North Shore Library",
+"city": "Glendale",
+"county": "Milwaukee",
+"state": "WI"
+},
+{
+"id": "WI0227",
+"name": "Oak Creek Public Library",
+"city": "Oak Creek",
+"county": "Milwaukee",
+"state": "WI"
+},
+{
+"id": "WI0229",
+"name": "Oconomowoc Public Library",
+"city": "Oconomowoc",
+"county": "Waukesha",
+"state": "WI"
+},
+{
+"id": "WI0236",
+"name": "Oregon Public Library",
+"city": "Oregon",
+"county": "Dane",
+"state": "WI"
+},
+{
+"id": "WI0239",
+"name": "Oshkosh Public Library",
+"city": "Oshkosh",
+"county": "Winnebago",
+"state": "WI"
+},
+{
+"id": "WI0408",
+"name": "Pauline Haass Public Library",
+"city": "Sussex",
+"county": "Waukesha",
+"state": "WI"
+},
+{
+"id": "WI0421",
+"name": "Pewaukee Public Library",
+"city": "Pewaukee",
+"county": "Waukesha",
+"state": "WI"
+},
+{
+"id": "WI0255",
+"name": "Platteville Public Library",
+"city": "Platteville",
+"county": "Grant",
+"state": "WI"
+},
+{
+"id": "WI0257",
+"name": "Plymouth Public Library",
+"city": "Plymouth",
+"county": "Sheboygan",
+"state": "WI"
+},
+{
+"id": "WI0309",
+"name": "Portage County Public Library",
+"city": "Stevens Point",
+"county": "Portage",
+"state": "WI"
+},
+{
+"id": "WI0259",
+"name": "Portage Public Library",
+"city": "Portage",
+"county": "Columbia",
+"state": "WI"
+},
+{
+"id": "WI0262",
+"name": "Prairie Du Chien Memorial Library",
+"city": "Prairie Du Chien",
+"county": "Crawford",
+"state": "WI"
+},
+{
+"id": "WI0268",
+"name": "Racine Public Library",
+"city": "Racine",
+"county": "Racine",
+"state": "WI"
+},
+{
+"id": "WI0272",
+"name": "Reedsburg Public Library",
+"city": "Reedsburg",
+"county": "Sauk",
+"state": "WI"
+},
+{
+"id": "WI0273",
+"name": "Rhinelander District Library",
+"city": "Rhinelander",
+"county": "Oneida",
+"state": "WI"
+},
+{
+"id": "WI0275",
+"name": "Rice Lake Public Library",
+"city": "Rice Lake",
+"county": "Barron",
+"state": "WI"
+},
+{
+"id": "WI0278",
+"name": "Ripon Public Library",
+"city": "Ripon",
+"county": "Fond Du Lac",
+"state": "WI"
+},
+{
+"id": "WI0279",
+"name": "River Falls Public Library",
+"city": "River Falls",
+"county": "Pierce",
+"state": "WI"
+},
+{
+"id": "WI0160",
+"name": "Rusk County Community Library",
+"city": "Ladysmith",
+"county": "Rusk",
+"state": "WI"
+},
+{
+"id": "WI0291",
+"name": "Shawano County Library",
+"city": "Shawano",
+"county": "Shawano",
+"state": "WI"
+},
+{
+"id": "WI0293",
+"name": "Sheboygan Falls Memorial Library",
+"city": "Sheboygan Falls",
+"county": "Sheboygan",
+"state": "WI"
+},
+{
+"id": "WI0132",
+"name": "Sherman & Ruth Weiss Community Library",
+"city": "Hayward",
+"county": "Sawyer",
+"state": "WI"
+},
+{
+"id": "WI0296",
+"name": "Shorewood Public Library",
+"city": "Shorewood",
+"county": "Milwaukee",
+"state": "WI"
+},
+{
+"id": "WI0298",
+"name": "Slinger Community Library",
+"city": "Slinger",
+"county": "Washington",
+"state": "WI"
+},
+{
+"id": "WI0301",
+"name": "South Milwaukee Public Library",
+"city": "South Milwaukee",
+"county": "Milwaukee",
+"state": "WI"
+},
+{
+"id": "WI0302",
+"name": "Sparta Free Library",
+"city": "Sparta",
+"county": "Monroe",
+"state": "WI"
+},
+{
+"id": "WI0303",
+"name": "Spooner Memorial Library",
+"city": "Spooner",
+"county": "Washburn",
+"state": "WI"
+},
+{
+"id": "WI0310",
+"name": "Stoughton Public Library",
+"city": "Stoughton",
+"county": "Dane",
+"state": "WI"
+},
+{
+"id": "WI0314",
+"name": "Sun Prairie Public Library",
+"city": "Sun Prairie",
+"county": "Dane",
+"state": "WI"
+},
+{
+"id": "WI0315",
+"name": "Superior Public Library",
+"city": "Superior",
+"county": "Douglas",
+"state": "WI"
+},
+{
+"id": "WI0395",
+"name": "T.B. Scott Free Library",
+"city": "Merrill",
+"county": "Lincoln",
+"state": "WI"
+},
+{
+"id": "WI0321",
+"name": "Tomah Public Library",
+"city": "Tomah",
+"county": "Monroe",
+"state": "WI"
+},
+{
+"id": "WI0385",
+"name": "U.S.S. Liberty Memorial Public Library",
+"city": "Grafton",
+"county": "Ozaukee",
+"state": "WI"
+},
+{
+"id": "WI0014",
+"name": "Vaughn Public Library",
+"city": "Ashland",
+"county": "Ashland",
+"state": "WI"
+},
+{
+"id": "WI0327",
+"name": "Verona Public Library",
+"city": "Verona",
+"county": "Dane",
+"state": "WI"
+},
+{
+"id": "WI0258",
+"name": "W.J. Niederkorn Library",
+"city": "Port Washington",
+"county": "Ozaukee",
+"state": "WI"
+},
+{
+"id": "WI0088",
+"name": "Walter E. Olson Memorial Library",
+"city": "Eagle River",
+"county": "Vilas",
+"state": "WI"
+},
+{
+"id": "WI0334",
+"name": "Waterford Public Library",
+"city": "Waterford",
+"county": "Racine",
+"state": "WI"
+},
+{
+"id": "WI0336",
+"name": "Watertown Public Library",
+"city": "Watertown",
+"county": "Jefferson",
+"state": "WI"
+},
+{
+"id": "WI0337",
+"name": "Waukesha Public Library",
+"city": "Waukesha",
+"county": "Waukesha",
+"state": "WI"
+},
+{
+"id": "WI0338",
+"name": "Waunakee Public Library",
+"city": "Waunakee",
+"county": "Dane",
+"state": "WI"
+},
+{
+"id": "WI0339",
+"name": "Waupaca Area Public Library",
+"city": "Waupaca",
+"county": "Waupaca",
+"state": "WI"
+},
+{
+"id": "WI0340",
+"name": "Waupun Public Library",
+"city": "Waupun",
+"county": "Dodge",
+"state": "WI"
+},
+{
+"id": "WI0343",
+"name": "Wauwatosa Public Library",
+"city": "Wauwatosa",
+"county": "Milwaukee",
+"state": "WI"
+},
+{
+"id": "WI0344",
+"name": "West Allis Public Library",
+"city": "West Allis",
+"county": "Milwaukee",
+"state": "WI"
+},
+{
+"id": "WI0345",
+"name": "West Bend Community Memorial Library",
+"city": "West Bend",
+"county": "Washington",
+"state": "WI"
+},
+{
+"id": "WI0350",
+"name": "Whitefish Bay Public Library",
+"city": "Whitefish Bay",
+"county": "Milwaukee",
+"state": "WI"
+},
+{
+"id": "WV0054",
+"name": "Bolivar-Harpers Ferry Public Library",
+"city": "Harpers Ferry",
+"county": "Jefferson",
+"state": "WV"
+},
+{
+"id": "WV0077",
+"name": "Boone-Madison Public Library",
+"city": "Madison",
+"county": "Boone",
+"state": "WV"
+},
+{
+"id": "WV0080",
+"name": "Brooke County Public Library",
+"city": "Wellsburg",
+"county": "Brooke",
+"state": "WV"
+},
+{
+"id": "WV0090",
+"name": "Buffalo Creek Memorial Library",
+"city": "Man",
+"county": "Logan",
+"state": "WV"
+},
+{
+"id": "WV0004",
+"name": "Cabell County Public Library",
+"city": "Huntington",
+"county": "Cabell",
+"state": "WV"
+},
+{
+"id": "WV0089",
+"name": "Chapmanville Public Library",
+"city": "Chapmanville",
+"county": "Logan",
+"state": "WV"
+},
+{
+"id": "WV0040",
+"name": "Clarksburg-Harrison Public Library",
+"city": "Clarksburg",
+"county": "Harrison",
+"state": "WV"
+},
+{
+"id": "WV0002",
+"name": "Craft Memorial Library",
+"city": "Bluefield",
+"county": "Mercer",
+"state": "WV"
+},
+{
+"id": "WV0030",
+"name": "Elkins-Randolph Public Library",
+"city": "Elkins",
+"county": "Randolph",
+"state": "WV"
+},
+{
+"id": "WV0078",
+"name": "Fayette County Public Library",
+"city": "Oak Hill",
+"county": "Fayette",
+"state": "WV"
+},
+{
+"id": "WV0048",
+"name": "Grant County Public Library",
+"city": "Petersburg",
+"county": "Grant",
+"state": "WV"
+},
+{
+"id": "WV0088",
+"name": "Hamlin-Lincoln County Public Library",
+"city": "Hamlin",
+"county": "Lincoln",
+"state": "WV"
+},
+{
+"id": "WV0050",
+"name": "Hampshire County Public Library",
+"city": "Romney",
+"county": "Hampshire",
+"state": "WV"
+},
+{
+"id": "WV0051",
+"name": "Hardy County Public Library",
+"city": "Moorefield",
+"county": "Hardy",
+"state": "WV"
+},
+{
+"id": "WV0074",
+"name": "Jackson County Public Library",
+"city": "Ripley",
+"county": "Jackson",
+"state": "WV"
+},
+{
+"id": "WV0009",
+"name": "Kanawha County Public Library",
+"city": "Charleston",
+"county": "Kanawha",
+"state": "WV"
+},
+{
+"id": "WV0046",
+"name": "Keyser-Mineral County Public Library",
+"city": "Keyser",
+"county": "Mineral",
+"state": "WV"
+},
+{
+"id": "WV0024",
+"name": "Kingwood Public Library",
+"city": "Kingwood",
+"county": "Preston",
+"state": "WV"
+},
+{
+"id": "WV8006",
+"name": "Logan Area Public Library",
+"city": "Logan",
+"county": "Logan",
+"state": "WV"
+},
+{
+"id": "WV0076",
+"name": "Louis Bennett Public Library",
+"city": "Weston",
+"county": "Lewis",
+"state": "WV"
+},
+{
+"id": "WV0075",
+"name": "Marion County Public Library",
+"city": "Fairmont",
+"county": "Marion",
+"state": "WV"
+},
+{
+"id": "WV0053",
+"name": "Martinsburg-Berkeley Co. Public Library",
+"city": "Martinsburg",
+"county": "Berkeley",
+"state": "WV"
+},
+{
+"id": "WV0068",
+"name": "Mary H. Weir Public Library",
+"city": "Weirton",
+"county": "Hancock",
+"state": "WV"
+},
+{
+"id": "WV0073",
+"name": "Mason County Public Library",
+"city": "Point Pleasant",
+"county": "Mason",
+"state": "WV"
+},
+{
+"id": "WV0071",
+"name": "Mcdowell Public Library",
+"city": "Welch",
+"county": "Mcdowell",
+"state": "WV"
+},
+{
+"id": "WV0005",
+"name": "Mingo County Public Library",
+"city": "Delbarton",
+"county": "Mingo",
+"state": "WV"
+},
+{
+"id": "WV0058",
+"name": "Morgan County Public Library",
+"city": "Berkeley Springs",
+"county": "Morgan",
+"state": "WV"
+},
+{
+"id": "WV0023",
+"name": "Morgantown Public Library",
+"city": "Morgantown",
+"county": "Monongalia",
+"state": "WV"
+},
+{
+"id": "WV0061",
+"name": "Moundsville-Marshall County Public Library",
+"city": "Moundsville",
+"county": "Marshall",
+"state": "WV"
+},
+{
+"id": "WV0060",
+"name": "Ohio County Public Library",
+"city": "Wheeling",
+"county": "Ohio",
+"state": "WV"
+},
+{
+"id": "WV0020",
+"name": "Parkersburg/Wood Co. Public Library",
+"city": "Parkersburg",
+"county": "Wood",
+"state": "WV"
+},
+{
+"id": "WV0003",
+"name": "Princeton Public Library",
+"city": "Princeton",
+"county": "Mercer",
+"state": "WV"
+},
+{
+"id": "WV0007",
+"name": "Putnam County Library",
+"city": "Hurricane",
+"county": "Putnam",
+"state": "WV"
+},
+{
+"id": "WV0001",
+"name": "Raleigh County Public Library",
+"city": "Beckley",
+"county": "Raleigh",
+"state": "WV"
+},
+{
+"id": "WV0018",
+"name": "Ritchie County Public Library",
+"city": "Harrisville",
+"county": "Ritchie",
+"state": "WV"
+},
+{
+"id": "WV0014",
+"name": "Roane County Public Library",
+"city": "Spencer",
+"county": "Roane",
+"state": "WV"
+},
+{
+"id": "WV0057",
+"name": "Shepherdstown Public Library",
+"city": "Shepherdstown",
+"county": "Jefferson",
+"state": "WV"
+},
+{
+"id": "WV0012",
+"name": "South Charleston Public Library",
+"city": "South Charleston",
+"county": "Kanawha",
+"state": "WV"
+},
+{
+"id": "WV0055",
+"name": "South Jefferson Public Library",
+"city": "Summit Point",
+"county": "Jefferson",
+"state": "WV"
+},
+{
+"id": "WV0097",
+"name": "Summers County Public Library",
+"city": "Hinton",
+"county": "Summers",
+"state": "WV"
+},
+{
+"id": "WV0045",
+"name": "Taylor County Public Library",
+"city": "Grafton",
+"county": "Taylor",
+"state": "WV"
+},
+{
+"id": "WV0025",
+"name": "Terra Alta Public Library",
+"city": "Terra Alta",
+"county": "Preston",
+"state": "WV"
+},
+{
+"id": "WV0026",
+"name": "Upshur County Public Library",
+"city": "Buckhannon",
+"county": "Upshur",
+"state": "WV"
+},
+{
+"id": "WV0022",
+"name": "Vienna Public Library",
+"city": "Vienna",
+"county": "Wood",
+"state": "WV"
+},
+{
+"id": "WV0008",
+"name": "Wayne County Public Library",
+"city": "Kenova",
+"county": "Wayne",
+"state": "WV"
+},
+{
+"id": "WV0079",
+"name": "Wyoming County Public Library",
+"city": "Pineville",
+"county": "Wyoming",
+"state": "WV"
+},
+{
+"id": "WY0001",
+"name": "Albany County Public Library",
+"city": "Laramie",
+"county": "Albany",
+"state": "WY"
+},
+{
+"id": "WY0010",
+"name": "Big Horn County Library",
+"city": "Basin",
+"county": "Big Horn",
+"state": "WY"
+},
+{
+"id": "WY0002",
+"name": "Campbell County Public Library System",
+"city": "Gillette",
+"county": "Campbell",
+"state": "WY"
+},
+{
+"id": "WY0011",
+"name": "Carbon County Library System",
+"city": "Rawlins",
+"county": "Carbon",
+"state": "WY"
+},
+{
+"id": "WY0012",
+"name": "Converse County Library System",
+"city": "Douglas",
+"county": "Converse",
+"state": "WY"
+},
+{
+"id": "WY0003",
+"name": "Fremont County Library System",
+"city": "Lander",
+"county": "Fremont",
+"state": "WY"
+},
+{
+"id": "WY0014",
+"name": "Goshen County Library",
+"city": "Torrington",
+"county": "Goshen",
+"state": "WY"
+},
+{
+"id": "WY0004",
+"name": "Laramie County Library System",
+"city": "Cheyenne",
+"county": "Laramie",
+"state": "WY"
+},
+{
+"id": "WY0017",
+"name": "Lincoln County Library System",
+"city": "Kemmerer",
+"county": "Lincoln",
+"state": "WY"
+},
+{
+"id": "WY0009",
+"name": "Natrona County Library System",
+"city": "Casper",
+"county": "Natrona",
+"state": "WY"
+},
+{
+"id": "WY0005",
+"name": "Park County Library System",
+"city": "Cody",
+"county": "Park",
+"state": "WY"
+},
+{
+"id": "WY0007",
+"name": "Sheridan County Library System",
+"city": "Sheridan",
+"county": "Sheridan",
+"state": "WY"
+},
+{
+"id": "WY0008",
+"name": "Sweetwater County Library System",
+"city": "Green River",
+"county": "Sweetwater",
+"state": "WY"
+},
+{
+"id": "WY0020",
+"name": "Teton County Library",
+"city": "Jackson",
+"county": "Teton",
+"state": "WY"
+},
+{
+"id": "WY0021",
+"name": "Uinta County Library System",
+"city": "Evanston",
+"county": "Uinta",
+"state": "WY"
+}
+]

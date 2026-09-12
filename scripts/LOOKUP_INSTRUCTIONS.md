@@ -2,9 +2,9 @@
 
 You are finding the official public website for each US public library system in a batch file. Only the WebSearch tool reaches the internet in this environment (WebFetch and curl are blocked, do not try them).
 
-Input: batches/batch_NNN.json (path given in your task) — a JSON array of objects with fields id, name, city, county, state.
+Input: the JSON file named in your task — a JSON array of objects with fields id, name, city, county, state.
 
-Output: append one JSON object per line to results/batch_NNN.jsonl (same NNN, path given in your task) with the fields:
+Output: append one JSON object per line to the JSONL file named in your task, with the fields:
   {"id": "<id>", "website": "<url or empty string>", "confidence": "high|medium|low", "note": "<short reason, optional>"}
 
 Procedure for EACH library (do every single one, in order, skip none):
@@ -15,4 +15,8 @@ Procedure for EACH library (do every single one, in order, skip none):
 5. Do NOT guess or fabricate URLs. Only write a URL that appeared in a search result. Do not write directory/aggregator sites, social media, catalog vendor pages (e.g. *.bibliocommons.com, *.polarislibrary.com, *.sirsi.net are acceptable only if it is clearly the library's actual main site), or state library pages.
 6. confidence: high = clearly the official site; medium = probably right (e.g. a gov-site library page you inferred is the right one); low = unsure.
 
-Write results incrementally with Bash (append with >> using a heredoc or python) after every 5 to 10 libraries so nothing is lost. Keep your own reasoning short. When finished, report only: count done, count with a website, count blank, and a one-line list of any IDs you could not resolve.
+Write results incrementally with Bash (append with >> using a heredoc or python) after every 5 to 10 libraries so nothing is lost. Keep your own reasoning short.
+
+If WebSearch replies that the session has used its web search budget, STOP immediately. Do not write any line for libraries you did not actually search (no placeholders). Report how many you completed and that the budget ran out.
+
+When finished, report only: count searched, count with a website, count blank, whether the search budget ran out, and a one-line list of any IDs you searched but could not resolve.
