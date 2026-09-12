@@ -1,0 +1,352 @@
+[
+{
+"id": "NH0040",
+"name": "Merrimack Public Library",
+"city": "Merrimack",
+"county": "Hillsborough",
+"state": "NH"
+},
+{
+"id": "NH0049",
+"name": "Nashua Public Library",
+"city": "Nashua",
+"county": "Hillsborough",
+"state": "NH"
+},
+{
+"id": "NH0147",
+"name": "Nesmith Library",
+"city": "Windham",
+"county": "Rockingham",
+"state": "NH"
+},
+{
+"id": "NH0073",
+"name": "Pelham Public Library",
+"city": "Pelham",
+"county": "Hillsborough",
+"state": "NH"
+},
+{
+"id": "NH0084",
+"name": "Portsmouth Public Library",
+"city": "Portsmouth",
+"county": "Rockingham",
+"state": "NH"
+},
+{
+"id": "NH0089",
+"name": "Rochester Public Library",
+"city": "Rochester",
+"county": "Strafford",
+"state": "NH"
+},
+{
+"id": "NH0101",
+"name": "Somersworth Public Library",
+"city": "Somersworth",
+"county": "Strafford",
+"state": "NH"
+},
+{
+"id": "NH0177",
+"name": "Taylor Library",
+"city": "East Derry",
+"county": "Rockingham",
+"state": "NH"
+},
+{
+"id": "NH0042",
+"name": "William Y. Wadleigh Memorial Library",
+"city": "Milford",
+"county": "Hillsborough",
+"state": "NH"
+},
+{
+"id": "NJ0269",
+"name": "Alfred H. Baumann Library/West Paterso",
+"city": "Woodland Park",
+"county": "Passaic",
+"state": "NJ"
+},
+{
+"id": "NJ0197",
+"name": "Asbury Park Free Public Library",
+"city": "Asbury Park",
+"county": "Monmouth",
+"state": "NJ"
+},
+{
+"id": "NJ0003",
+"name": "Atlantic City Free Public Library",
+"city": "Atlantic City",
+"county": "Atlantic",
+"state": "NJ"
+},
+{
+"id": "NJ0001",
+"name": "Atlantic County Library",
+"city": "Mays Landing",
+"county": "Atlantic",
+"state": "NJ"
+},
+{
+"id": "NJ0146",
+"name": "Bayonne Free Public Library",
+"city": "Bayonne",
+"county": "Hudson",
+"state": "NJ"
+},
+{
+"id": "NJ0110",
+"name": "Belleville Public Library",
+"city": "Belleville",
+"county": "Essex",
+"state": "NJ"
+},
+{
+"id": "NJ0009",
+"name": "Bergenfield Free Public Library",
+"city": "Bergenfield",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0286",
+"name": "Berkeley Heights Free Public Library",
+"city": "Berkeley Heights",
+"county": "Union",
+"state": "NJ"
+},
+{
+"id": "NJ0277",
+"name": "Bernards Township Library",
+"city": "Basking Ridge",
+"county": "Somerset",
+"state": "NJ"
+},
+{
+"id": "NJ0111",
+"name": "Bloomfield Public Library",
+"city": "Bloomfield",
+"county": "Essex",
+"state": "NJ"
+},
+{
+"id": "NJ0105",
+"name": "Bridgeton Free Public Library",
+"city": "Bridgeton",
+"county": "Cumberland",
+"state": "NJ"
+},
+{
+"id": "NJ0070",
+"name": "Burlington County Library",
+"city": "Westampton",
+"county": "Burlington",
+"state": "NJ"
+},
+{
+"id": "NJ0083",
+"name": "Camden County Library",
+"city": "Voorhees",
+"county": "Camden",
+"state": "NJ"
+},
+{
+"id": "NJ0100",
+"name": "Cape May County Library",
+"city": "Cape May Court House",
+"county": "Cape May",
+"state": "NJ"
+},
+{
+"id": "NJ0171",
+"name": "Carteret Free Public Library",
+"city": "Carteret",
+"county": "Middlesex",
+"state": "NJ"
+},
+{
+"id": "NJ0113",
+"name": "Cedar Grove Free Public Library",
+"city": "Cedar Grove",
+"county": "Essex",
+"state": "NJ"
+},
+{
+"id": "NJ0224",
+"name": "Chathams Joint Free Public Library",
+"city": "Chatham",
+"county": "Morris",
+"state": "NJ"
+},
+{
+"id": "NJ0087",
+"name": "Cherry Hill Free Public Library",
+"city": "Cherry Hill",
+"county": "Camden",
+"state": "NJ"
+},
+{
+"id": "NJ0287",
+"name": "Clark Public Library",
+"city": "Clark",
+"county": "Union",
+"state": "NJ"
+},
+{
+"id": "NJ0012",
+"name": "Cliffside Park Free Public Library",
+"city": "Cliffside Park",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0256",
+"name": "Clifton Public Library",
+"city": "Clifton",
+"county": "Passaic",
+"state": "NJ"
+},
+{
+"id": "NJ0089",
+"name": "Collingswood Free Public Library",
+"city": "Collingswood",
+"county": "Camden",
+"state": "NJ"
+},
+{
+"id": "NJ0288",
+"name": "Cranford Public Library",
+"city": "Cranford",
+"county": "Union",
+"state": "NJ"
+},
+{
+"id": "NJ0104",
+"name": "Cumberland County Library",
+"city": "Bridgeton",
+"county": "Cumberland",
+"state": "NJ"
+},
+{
+"id": "NJ0226",
+"name": "Denville Free Public Library",
+"city": "Denville",
+"county": "Morris",
+"state": "NJ"
+},
+{
+"id": "NJ0016",
+"name": "Dixon Homestead Library",
+"city": "Dumont",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0227",
+"name": "Dover Free Public Library",
+"city": "Dover",
+"county": "Morris",
+"state": "NJ"
+},
+{
+"id": "NJ0265",
+"name": "Dwight D. Eisenhower Library",
+"city": "Totowa",
+"county": "Passaic",
+"state": "NJ"
+},
+{
+"id": "NJ0174",
+"name": "East Brunswick Public Library",
+"city": "East Brunswick",
+"county": "Middlesex",
+"state": "NJ"
+},
+{
+"id": "NJ0228",
+"name": "East Hanover Township Free Public Library",
+"city": "East Hanover",
+"county": "Morris",
+"state": "NJ"
+},
+{
+"id": "NJ0114",
+"name": "East Orange Public Library",
+"city": "East Orange",
+"county": "Essex",
+"state": "NJ"
+},
+{
+"id": "NJ0017",
+"name": "East Rutherford Memorial Library",
+"city": "East Rutherford",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0203",
+"name": "Eatontown Public Library",
+"city": "Eatontown",
+"county": "Monmouth",
+"state": "NJ"
+},
+{
+"id": "NJ0018",
+"name": "Edgewater Free Public Library",
+"city": "Edgewater",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0175",
+"name": "Edison Township Free Public Library",
+"city": "Edison",
+"county": "Middlesex",
+"state": "NJ"
+},
+{
+"id": "NJ0289",
+"name": "Elizabeth Free Public Library",
+"city": "Elizabeth",
+"county": "Union",
+"state": "NJ"
+},
+{
+"id": "NJ0019",
+"name": "Elmwood Park Free Public Library",
+"city": "Elmwood Park",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0021",
+"name": "Englewood Free Public Library",
+"city": "Englewood",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0023",
+"name": "Fairview Free Public Library",
+"city": "Fairview",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0075",
+"name": "Florence Township Library",
+"city": "Roebling",
+"county": "Burlington",
+"state": "NJ"
+},
+{
+"id": "NJ0229",
+"name": "Florham Park Free Public Library",
+"city": "Florham Park",
+"county": "Morris",
+"state": "NJ"
+}
+]

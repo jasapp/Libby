@@ -1,0 +1,352 @@
+[
+{
+"id": "NC0105",
+"name": "Gaston County Public Library",
+"city": "Gastonia",
+"county": "Gaston",
+"state": "NC"
+},
+{
+"id": "NC0112",
+"name": "Givens Memorial Library & Tufts Archive",
+"city": "Pinehurst",
+"county": "Moore",
+"state": "NC"
+},
+{
+"id": "NC0034",
+"name": "Granville County Library System",
+"city": "Oxford",
+"county": "Granville",
+"state": "NC"
+},
+{
+"id": "NC0035",
+"name": "Greensboro Public Library",
+"city": "Greensboro",
+"county": "Guilford",
+"state": "NC"
+},
+{
+"id": "NC0062",
+"name": "H. Leslie Perry Memorial Library",
+"city": "Henderson",
+"county": "Vance",
+"state": "NC"
+},
+{
+"id": "NC0036",
+"name": "Halifax County Library System",
+"city": "Halifax",
+"county": "Halifax",
+"state": "NC"
+},
+{
+"id": "NC0037",
+"name": "Harnett County Public Library",
+"city": "Lillington",
+"county": "Harnett",
+"state": "NC"
+},
+{
+"id": "NC0038",
+"name": "Haywood County Public Library",
+"city": "Waynesville",
+"county": "Haywood",
+"state": "NC"
+},
+{
+"id": "NC0039",
+"name": "Henderson County Public Library",
+"city": "Hendersonville",
+"county": "Henderson",
+"state": "NC"
+},
+{
+"id": "NC0079",
+"name": "Hickory Public Library",
+"city": "Hickory",
+"county": "Catawba",
+"state": "NC"
+},
+{
+"id": "NC0080",
+"name": "High Point Public Library",
+"city": "High Point",
+"county": "Guilford",
+"state": "NC"
+},
+{
+"id": "NC0110",
+"name": "Hocutt Ellington Memorial Library",
+"city": "Clayton",
+"county": "Johnston",
+"state": "NC"
+},
+{
+"id": "NC0040",
+"name": "Iredell County Library",
+"city": "Statesville",
+"county": "Iredell",
+"state": "NC"
+},
+{
+"id": "NC0100",
+"name": "Jacob Mauney Memorial Library",
+"city": "Kings Mountain",
+"county": "Cleveland",
+"state": "NC"
+},
+{
+"id": "NC0042",
+"name": "Lee County Library",
+"city": "Sanford",
+"county": "Lee",
+"state": "NC"
+},
+{
+"id": "NC0106",
+"name": "Lincoln County Public Library",
+"city": "Lincolnton",
+"county": "Lincoln",
+"state": "NC"
+},
+{
+"id": "NC0043",
+"name": "Madison County Public Library",
+"city": "Marshall",
+"county": "Madison",
+"state": "NC"
+},
+{
+"id": "NC0044",
+"name": "Mcdowell County Public Library",
+"city": "Marion",
+"county": "Mcdowell",
+"state": "NC"
+},
+{
+"id": "NC0083",
+"name": "Mooresville Public Library",
+"city": "Mooresville",
+"county": "Iredell",
+"state": "NC"
+},
+{
+"id": "NC0011",
+"name": "Nantahala Regional Library",
+"city": "Murphy",
+"county": "Cherokee",
+"state": "NC"
+},
+{
+"id": "NC0012",
+"name": "Neuse Regional Library",
+"city": "Kinston",
+"county": "Lenoir",
+"state": "NC"
+},
+{
+"id": "NC0047",
+"name": "New Hanover County Public Library",
+"city": "Wilmington",
+"county": "New Hanover",
+"state": "NC"
+},
+{
+"id": "NC0013",
+"name": "Northwestern Regional Library",
+"city": "Elkin",
+"county": "Surry",
+"state": "NC"
+},
+{
+"id": "NC0048",
+"name": "Onslow County Public Library",
+"city": "Jacksonville",
+"county": "Onslow",
+"state": "NC"
+},
+{
+"id": "NC0108",
+"name": "Orange County Public Library",
+"city": "Hillsborough",
+"county": "Orange",
+"state": "NC"
+},
+{
+"id": "NC0049",
+"name": "Pender County Public Library",
+"city": "Burgaw",
+"county": "Pender",
+"state": "NC"
+},
+{
+"id": "NC0109",
+"name": "Person County Public Library",
+"city": "Roxboro",
+"county": "Person",
+"state": "NC"
+},
+{
+"id": "NC0014",
+"name": "Pettigrew Regional Library",
+"city": "Plymouth",
+"county": "Washington",
+"state": "NC"
+},
+{
+"id": "NC0051",
+"name": "Polk County Public Libraries",
+"city": "Columbus",
+"county": "Polk",
+"state": "NC"
+},
+{
+"id": "NC0041",
+"name": "Public Library Of Johnston County & Smithfield",
+"city": "Smithfield",
+"county": "Johnston",
+"state": "NC"
+},
+{
+"id": "NC0052",
+"name": "Randolph Public Library",
+"city": "Asheboro",
+"county": "Randolph",
+"state": "NC"
+},
+{
+"id": "NC0088",
+"name": "Roanoke Rapids Public Library",
+"city": "Roanoke Rapids",
+"county": "Halifax",
+"state": "NC"
+},
+{
+"id": "NC0053",
+"name": "Robeson County Public Library",
+"city": "Lumberton",
+"county": "Robeson",
+"state": "NC"
+},
+{
+"id": "NC0054",
+"name": "Rockingham County Public Library",
+"city": "Eden",
+"county": "Rockingham",
+"state": "NC"
+},
+{
+"id": "NC0055",
+"name": "Rowan Public Library",
+"city": "Salisbury",
+"county": "Rowan",
+"state": "NC"
+},
+{
+"id": "NC0056",
+"name": "Rutherford County Library",
+"city": "Spindale",
+"county": "Rutherford",
+"state": "NC"
+},
+{
+"id": "NC0057",
+"name": "Sampson-Clinton Public Library",
+"city": "Clinton",
+"county": "Sampson",
+"state": "NC"
+},
+{
+"id": "NC0015",
+"name": "Sandhill Regional Library System",
+"city": "Rockingham",
+"county": "Richmond",
+"state": "NC"
+},
+{
+"id": "NC0058",
+"name": "Scotland County Memorial Library",
+"city": "Laurinburg",
+"county": "Scotland",
+"state": "NC"
+},
+{
+"id": "NC0050",
+"name": "Sheppard Memorial Library",
+"city": "Greenville",
+"county": "Pitt",
+"state": "NC"
+},
+{
+"id": "NC0093",
+"name": "Southern Pines Public Library",
+"city": "Southern Pines",
+"county": "Moore",
+"state": "NC"
+},
+{
+"id": "NC0059",
+"name": "Stanly County Public Library",
+"city": "Albemarle",
+"county": "Stanly",
+"state": "NC"
+},
+{
+"id": "NC0060",
+"name": "Transylvania County Library",
+"city": "Brevard",
+"county": "Transylvania",
+"state": "NC"
+},
+{
+"id": "NC0061",
+"name": "Union County Public Library",
+"city": "Monroe",
+"county": "Union",
+"state": "NC"
+},
+{
+"id": "NC0063",
+"name": "Wake County Public Libraries",
+"city": "Raleigh",
+"county": "Wake",
+"state": "NC"
+},
+{
+"id": "NC0101",
+"name": "Warren County Memorial Library",
+"city": "Warrenton",
+"county": "Warren",
+"state": "NC"
+},
+{
+"id": "NC0065",
+"name": "Wayne County Public Library",
+"city": "Goldsboro",
+"county": "Wayne",
+"state": "NC"
+},
+{
+"id": "NC0066",
+"name": "Wilson County Public Library",
+"city": "Wilson",
+"county": "Wilson",
+"state": "NC"
+},
+{
+"id": "ND0007",
+"name": "Bismarck Veterans Memorial Public Library",
+"city": "Bismarck",
+"county": "Burleigh",
+"state": "ND"
+},
+{
+"id": "ND0012",
+"name": "Carnegie Regional Library",
+"city": "Grafton",
+"county": "Walsh",
+"state": "ND"
+}
+]

@@ -1,0 +1,352 @@
+[
+{
+"id": "CT0068",
+"name": "Groton Public Library",
+"city": "Groton",
+"county": "New London",
+"state": "CT"
+},
+{
+"id": "CT0070",
+"name": "Guilford Free Library",
+"city": "Guilford",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0179",
+"name": "Guilford Smith Memorial Library, Inc.",
+"city": "South Windham",
+"county": "Windham",
+"state": "CT"
+},
+{
+"id": "CT0046",
+"name": "Hagaman Memorial Library",
+"city": "East Haven",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0051",
+"name": "Hall Memorial Library",
+"city": "Ellington",
+"county": "Tolland",
+"state": "CT"
+},
+{
+"id": "CT0072",
+"name": "Hamden Public Library",
+"city": "Hamden",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0073",
+"name": "Hartford Public Library",
+"city": "Hartford",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0027",
+"name": "Henry Carter Hull Library",
+"city": "Clinton",
+"county": "Middlesex",
+"state": "CT"
+},
+{
+"id": "CT0097",
+"name": "Howard Whittemore Memorial Library",
+"city": "Naugatuck",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0014",
+"name": "James Blackstone Memorial Library",
+"city": "Branford",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0155",
+"name": "Kent Memorial Library",
+"city": "Suffield",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0078",
+"name": "Killingly Public Library",
+"city": "Danielson",
+"county": "Windham",
+"state": "CT"
+},
+{
+"id": "CT0081",
+"name": "Ledyard Public Libraries",
+"city": "Ledyard",
+"county": "New London",
+"state": "CT"
+},
+{
+"id": "CT0050",
+"name": "Library Association Of Warehouse Point",
+"city": "East Windsor",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0104",
+"name": "Lucy Robbins Welles Library",
+"city": "Newington",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0086",
+"name": "Manchester Public Library",
+"city": "Manchester",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0087",
+"name": "Mansfield Public Library",
+"city": "Mansfield",
+"county": "Tolland",
+"state": "CT"
+},
+{
+"id": "CT0089",
+"name": "Meriden Public Library",
+"city": "Meriden",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0093",
+"name": "Milford Public Library",
+"city": "Milford",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0069",
+"name": "Mystic & Noank Library",
+"city": "Mystic",
+"county": "New London",
+"state": "CT"
+},
+{
+"id": "CT0098",
+"name": "New Britain Public Library",
+"city": "New Britain",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0099",
+"name": "New Canaan Library",
+"city": "New Canaan",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0100",
+"name": "New Fairfield Free Public Library",
+"city": "New Fairfield",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0103",
+"name": "New Haven Free Public Library",
+"city": "New Haven",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0106",
+"name": "New Milford Public Library",
+"city": "New Milford",
+"county": "Litchfield",
+"state": "CT"
+},
+{
+"id": "CT0109",
+"name": "North Branford Library Department",
+"city": "North Branford",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0111",
+"name": "North Haven Memorial Library",
+"city": "North Haven",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0114",
+"name": "Norwalk Public Library",
+"city": "Norwalk",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0116",
+"name": "Otis Library",
+"city": "Norwich",
+"county": "New London",
+"state": "CT"
+},
+{
+"id": "CT0120",
+"name": "Oxford Public Library",
+"city": "Oxford",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0056",
+"name": "Pequot Library Association",
+"city": "Southport",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0064",
+"name": "Perrot Memorial Library",
+"city": "Old Greenwich",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0124",
+"name": "Plainville Public Library",
+"city": "Plainville",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0142",
+"name": "Plumb Memorial Library",
+"city": "Shelton",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0105",
+"name": "Public Library Of New London",
+"city": "New London",
+"county": "New London",
+"state": "CT"
+},
+{
+"id": "CT0095",
+"name": "Raymond Library",
+"city": "Oakdale",
+"county": "New London",
+"state": "CT"
+},
+{
+"id": "CT0134",
+"name": "Ridgefield Library",
+"city": "Ridgefield",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0162",
+"name": "Rockville Public Library, Inc.",
+"city": "Vernon",
+"county": "Tolland",
+"state": "CT"
+},
+{
+"id": "CT0115",
+"name": "Rowayton Library",
+"city": "Norwalk",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0092",
+"name": "Russell Library",
+"city": "Middletown",
+"county": "Middlesex",
+"state": "CT"
+},
+{
+"id": "CT0140",
+"name": "Seymour Public Library",
+"city": "Seymour",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0167",
+"name": "Silas Bronson Library",
+"city": "Waterbury",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0144",
+"name": "Simsbury Public Library",
+"city": "Simsbury",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0066",
+"name": "Slater Library",
+"city": "Griswold",
+"county": "New London",
+"state": "CT"
+},
+{
+"id": "CT0145",
+"name": "Somers Public Library",
+"city": "Somers",
+"county": "Tolland",
+"state": "CT"
+},
+{
+"id": "CT0148",
+"name": "South Windsor Public Library",
+"city": "South Windsor",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0146",
+"name": "Southbury Public Library",
+"city": "Southbury",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0147",
+"name": "Southington Public Library",
+"city": "Southington",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0150",
+"name": "Stafford Library",
+"city": "Stafford Springs",
+"county": "Tolland",
+"state": "CT"
+},
+{
+"id": "CT0153",
+"name": "Stonington Free Library",
+"city": "Stonington",
+"county": "New London",
+"state": "CT"
+}
+]

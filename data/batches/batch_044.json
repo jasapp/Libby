@@ -1,0 +1,352 @@
+[
+{
+"id": "NJ0060",
+"name": "Saddle Brook Free Public Library",
+"city": "Saddle Brook",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0081",
+"name": "Sally Stretch Keen Memorial Library",
+"city": "Vincentown",
+"county": "Burlington",
+"state": "NJ"
+},
+{
+"id": "NJ0188",
+"name": "Sayreville Free Public Library",
+"city": "Parlin",
+"county": "Middlesex",
+"state": "NJ"
+},
+{
+"id": "NJ0301",
+"name": "Scotch Plains Public Library",
+"city": "Scotch Plains",
+"county": "Union",
+"state": "NJ"
+},
+{
+"id": "NJ0152",
+"name": "Secaucus Free Public Library",
+"city": "Secaucus",
+"county": "Hudson",
+"state": "NJ"
+},
+{
+"id": "NJ0275",
+"name": "Somerset County Library",
+"city": "Bridgewater",
+"county": "Somerset",
+"state": "NJ"
+},
+{
+"id": "NJ0190",
+"name": "South Brunswick Public Library",
+"city": "Monmouth Junction",
+"county": "Middlesex",
+"state": "NJ"
+},
+{
+"id": "NJ0126",
+"name": "South Orange Public Library",
+"city": "South Orange",
+"county": "Essex",
+"state": "NJ"
+},
+{
+"id": "NJ0191",
+"name": "South Plainfield Free Public Library",
+"city": "South Plainfield",
+"county": "Middlesex",
+"state": "NJ"
+},
+{
+"id": "NJ0192",
+"name": "South River Public Library",
+"city": "South River",
+"county": "Middlesex",
+"state": "NJ"
+},
+{
+"id": "NJ0285",
+"name": "Sparta Public Library",
+"city": "Sparta",
+"county": "Sussex",
+"state": "NJ"
+},
+{
+"id": "NJ0302",
+"name": "Springfield Free Public Library",
+"city": "Springfield",
+"county": "Union",
+"state": "NJ"
+},
+{
+"id": "NJ0303",
+"name": "Summit Free Public Library",
+"city": "Summit",
+"county": "Union",
+"state": "NJ"
+},
+{
+"id": "NJ0284",
+"name": "Sussex County Library",
+"city": "Newton",
+"county": "Sussex",
+"state": "NJ"
+},
+{
+"id": "NJ0061",
+"name": "Teaneck Public Library",
+"city": "Teaneck",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0062",
+"name": "Tenafly Free Public Library",
+"city": "Tenafly",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0124",
+"name": "The Orange Public Library",
+"city": "Orange",
+"county": "Essex",
+"state": "NJ"
+},
+{
+"id": "NJ0218",
+"name": "Tinton Falls Public Library",
+"city": "Tinton Falls",
+"county": "Monmouth",
+"state": "NJ"
+},
+{
+"id": "NJ0170",
+"name": "Trenton Free Public Library",
+"city": "Trenton",
+"county": "Mercer",
+"state": "NJ"
+},
+{
+"id": "NJ0153",
+"name": "Union City Public Library",
+"city": "Union City",
+"county": "Hudson",
+"state": "NJ"
+},
+{
+"id": "NJ0304",
+"name": "Union Free Public Library",
+"city": "Union",
+"county": "Union",
+"state": "NJ"
+},
+{
+"id": "NJ0127",
+"name": "Verona Free Public Library",
+"city": "Verona",
+"county": "Essex",
+"state": "NJ"
+},
+{
+"id": "NJ0109",
+"name": "Vineland Public Library",
+"city": "Vineland",
+"county": "Cumberland",
+"state": "NJ"
+},
+{
+"id": "NJ0064",
+"name": "Waldwick Public Library",
+"city": "Waldwick",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0266",
+"name": "Wanaque Borough Free Public Library",
+"city": "Wanaque",
+"county": "Passaic",
+"state": "NJ"
+},
+{
+"id": "NJ0306",
+"name": "Warren County Library",
+"city": "Belvidere",
+"county": "Warren",
+"state": "NJ"
+},
+{
+"id": "NJ0250",
+"name": "Washington Twp Public Library/Morris",
+"city": "Long Valley",
+"county": "Morris",
+"state": "NJ"
+},
+{
+"id": "NJ0099",
+"name": "Waterford Township Public Library",
+"city": "Atco",
+"county": "Camden",
+"state": "NJ"
+},
+{
+"id": "NJ0267",
+"name": "Wayne Public Library",
+"city": "Wayne",
+"county": "Passaic",
+"state": "NJ"
+},
+{
+"id": "NJ0154",
+"name": "Weehawken Free Public Library",
+"city": "Weehawken",
+"county": "Hudson",
+"state": "NJ"
+},
+{
+"id": "NJ0128",
+"name": "West Caldwell Public Library",
+"city": "West Caldwell",
+"county": "Essex",
+"state": "NJ"
+},
+{
+"id": "NJ0143",
+"name": "West Deptford Free Public Library",
+"city": "West Deptford",
+"county": "Gloucester",
+"state": "NJ"
+},
+{
+"id": "NJ0268",
+"name": "West Milford Township Library",
+"city": "West Milford",
+"county": "Passaic",
+"state": "NJ"
+},
+{
+"id": "NJ0155",
+"name": "West New York Free Public Library",
+"city": "West New York",
+"county": "Hudson",
+"state": "NJ"
+},
+{
+"id": "NJ0129",
+"name": "West Orange Free Public Library",
+"city": "West Orange",
+"county": "Essex",
+"state": "NJ"
+},
+{
+"id": "NJ0305",
+"name": "Westfield Memorial Library",
+"city": "Westfield",
+"county": "Union",
+"state": "NJ"
+},
+{
+"id": "NJ0067",
+"name": "Westwood Free Public Library",
+"city": "Westwood",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0230",
+"name": "Whippanong Library/Hanover Township",
+"city": "Whippany",
+"county": "Morris",
+"state": "NJ"
+},
+{
+"id": "NJ0082",
+"name": "Willingboro Public Library",
+"city": "Willingboro",
+"county": "Burlington",
+"state": "NJ"
+},
+{
+"id": "NJ0068",
+"name": "Wood-Ridge Memorial Library",
+"city": "Wood-Ridge",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0194",
+"name": "Woodbridge Public Library",
+"city": "Woodbridge",
+"county": "Middlesex",
+"state": "NJ"
+},
+{
+"id": "NJ0069",
+"name": "Wyckoff Free Public Library",
+"city": "Wyckoff",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NM0001",
+"name": "Alamogordo Public Library",
+"city": "Alamogordo",
+"county": "Otero",
+"state": "NM"
+},
+{
+"id": "NM0002",
+"name": "Albuquerque/Bernalillo County Library System",
+"city": "Albuquerque",
+"county": "Bernalillo",
+"state": "NM"
+},
+{
+"id": "NM0003",
+"name": "Artesia Public Library",
+"city": "Artesia",
+"county": "Eddy",
+"state": "NM"
+},
+{
+"id": "NM0007",
+"name": "Carlsbad Public Library",
+"city": "Carlsbad",
+"county": "Eddy",
+"state": "NM"
+},
+{
+"id": "NM0023",
+"name": "Carnegie Public Library",
+"city": "Las Vegas",
+"county": "San Miguel",
+"state": "NM"
+},
+{
+"id": "NM0010",
+"name": "Clovis Carver Public Library",
+"city": "Clovis",
+"county": "Curry",
+"state": "NM"
+},
+{
+"id": "NM0012",
+"name": "Espanola Public Library",
+"city": "Espanola",
+"county": "Rio Arriba",
+"state": "NM"
+},
+{
+"id": "NM0014",
+"name": "Farmington Public Library",
+"city": "Farmington",
+"county": "San Juan",
+"state": "NM"
+}
+]

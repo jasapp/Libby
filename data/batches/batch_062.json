@@ -1,0 +1,352 @@
+[
+{
+"id": "SC0010",
+"name": "Cherokee County Public Library",
+"city": "Gaffney",
+"county": "Cherokee",
+"state": "SC"
+},
+{
+"id": "SC0011",
+"name": "Chester County Library",
+"city": "Chester",
+"county": "Chester",
+"state": "SC"
+},
+{
+"id": "SC0012",
+"name": "Chesterfield County Library System",
+"city": "Chesterfield",
+"county": "Chesterfield",
+"state": "SC"
+},
+{
+"id": "SC0013",
+"name": "Clarendon County Library System",
+"city": "Manning",
+"county": "Clarendon",
+"state": "SC"
+},
+{
+"id": "SC0014",
+"name": "Colleton County Memorial Library",
+"city": "Walterboro",
+"county": "Colleton",
+"state": "SC"
+},
+{
+"id": "SC0015",
+"name": "Darlington County Library System",
+"city": "Darlington",
+"county": "Darlington",
+"state": "SC"
+},
+{
+"id": "SC0016",
+"name": "Dillon County Library System",
+"city": "Dillon",
+"county": "Dillon",
+"state": "SC"
+},
+{
+"id": "SC0017",
+"name": "Dorchester County Library System",
+"city": "St. George",
+"county": "Dorchester",
+"state": "SC"
+},
+{
+"id": "SC0018",
+"name": "Fairfield County Library",
+"city": "Winnsboro",
+"county": "Fairfield",
+"state": "SC"
+},
+{
+"id": "SC0019",
+"name": "Florence County Library System",
+"city": "Florence",
+"county": "Florence",
+"state": "SC"
+},
+{
+"id": "SC0020",
+"name": "Georgetown County Library",
+"city": "Georgetown",
+"county": "Georgetown",
+"state": "SC"
+},
+{
+"id": "SC0021",
+"name": "Greenville County Library System",
+"city": "Greenville",
+"county": "Greenville",
+"state": "SC"
+},
+{
+"id": "SC8004",
+"name": "Greenwood County Library System",
+"city": "Greenwood",
+"county": "Greenwood",
+"state": "SC"
+},
+{
+"id": "SC0022",
+"name": "Horry County Memorial Library",
+"city": "Conway",
+"county": "Horry",
+"state": "SC"
+},
+{
+"id": "SC0023",
+"name": "Kershaw County Library",
+"city": "Camden",
+"county": "Kershaw",
+"state": "SC"
+},
+{
+"id": "SC0024",
+"name": "Lancaster County Library System",
+"city": "Lancaster",
+"county": "Lancaster",
+"state": "SC"
+},
+{
+"id": "SC0025",
+"name": "Laurens County Library System",
+"city": "Laurens",
+"county": "Laurens",
+"state": "SC"
+},
+{
+"id": "SC0026",
+"name": "Lee County Public Library System",
+"city": "Bishopville",
+"county": "Lee",
+"state": "SC"
+},
+{
+"id": "SC0027",
+"name": "Lexington County Public Library System",
+"city": "Lexington",
+"county": "Lexington",
+"state": "SC"
+},
+{
+"id": "SC0029",
+"name": "Marion County Library System",
+"city": "Marion",
+"county": "Marion",
+"state": "SC"
+},
+{
+"id": "SC0030",
+"name": "Marlboro County Library System",
+"city": "Bennettsville",
+"county": "Marlboro",
+"state": "SC"
+},
+{
+"id": "SC8001",
+"name": "Newberry County Library System",
+"city": "Newberry",
+"county": "Newberry",
+"state": "SC"
+},
+{
+"id": "SC0032",
+"name": "Oconee County Public Library",
+"city": "Walhalla",
+"county": "Oconee",
+"state": "SC"
+},
+{
+"id": "SC0033",
+"name": "Orangeburg County Library Commission",
+"city": "Orangeburg",
+"county": "Orangeburg",
+"state": "SC"
+},
+{
+"id": "SC0034",
+"name": "Pickens County Library System",
+"city": "Easley",
+"county": "Pickens",
+"state": "SC"
+},
+{
+"id": "SC0035",
+"name": "Richland County Public Library",
+"city": "Columbia",
+"county": "Richland",
+"state": "SC"
+},
+{
+"id": "SC8002",
+"name": "Saluda County Library System",
+"city": "Saluda",
+"county": "Saluda",
+"state": "SC"
+},
+{
+"id": "SC0036",
+"name": "Spartanburg County Public Library System",
+"city": "Spartanburg",
+"county": "Spartanburg",
+"state": "SC"
+},
+{
+"id": "SC0037",
+"name": "Sumter County Public Library System",
+"city": "Sumter",
+"county": "Sumter",
+"state": "SC"
+},
+{
+"id": "SC0038",
+"name": "Union County Library System",
+"city": "Union",
+"county": "Union",
+"state": "SC"
+},
+{
+"id": "SC0039",
+"name": "Williamsburg County Library System",
+"city": "Kingstree",
+"county": "Williamsburg",
+"state": "SC"
+},
+{
+"id": "SC0040",
+"name": "York County Library System",
+"city": "Rock Hill",
+"county": "York",
+"state": "SC"
+},
+{
+"id": "SD0004",
+"name": "Brookings Public Library",
+"city": "Brookings",
+"county": "Brookings",
+"state": "SD"
+},
+{
+"id": "SD0026",
+"name": "Edith B Siegrist Vermillion Public Library",
+"city": "Vermillion",
+"county": "Clay",
+"state": "SD"
+},
+{
+"id": "SD0125",
+"name": "Grace Balloch Memorial Library",
+"city": "Spearfish",
+"county": "Lawrence",
+"state": "SD"
+},
+{
+"id": "SD0032",
+"name": "Hamlin-Codington Regional Library",
+"city": "Watertown",
+"county": "Codington",
+"state": "SD"
+},
+{
+"id": "SD0060",
+"name": "Huron Public Library",
+"city": "Huron",
+"county": "Beadle",
+"state": "SD"
+},
+{
+"id": "SD0077",
+"name": "K.O. Lee Aberdeen Public Library",
+"city": "Aberdeen",
+"county": "Brown",
+"state": "SD"
+},
+{
+"id": "SD0049",
+"name": "Mitchell Public Library",
+"city": "Mitchell",
+"county": "Davison",
+"state": "SD"
+},
+{
+"id": "SD0154",
+"name": "Oglala Lakota College Woksape Tipi Academic & Public Library",
+"city": "Kyle",
+"county": "Oglala Lakota",
+"state": "SD"
+},
+{
+"id": "SD0162",
+"name": "Piedmont Valley Library",
+"city": "Piedmont",
+"county": "Meade",
+"state": "SD"
+},
+{
+"id": "SD0094",
+"name": "R. E. Rawlins Municipal Library",
+"city": "Pierre",
+"county": "Hughes",
+"state": "SD"
+},
+{
+"id": "SD0112",
+"name": "Rapid City Public Library",
+"city": "Rapid City",
+"county": "Pennington",
+"state": "SD"
+},
+{
+"id": "SD0152",
+"name": "Sinte Gleska University Library",
+"city": "Mission",
+"county": "Todd",
+"state": "SD"
+},
+{
+"id": "SD0141",
+"name": "Siouxland Libraries",
+"city": "Sioux Falls",
+"county": "Minnehaha",
+"state": "SD"
+},
+{
+"id": "SD0148",
+"name": "Sisseton Wahpeton Community College Library",
+"city": "Sisseton",
+"county": "Roberts",
+"state": "SD"
+},
+{
+"id": "SD0126",
+"name": "Sturgis Public Library",
+"city": "Sturgis",
+"county": "Meade",
+"state": "SD"
+},
+{
+"id": "SD0033",
+"name": "Watertown Regional Library",
+"city": "Watertown",
+"county": "Codington",
+"state": "SD"
+},
+{
+"id": "SD0030",
+"name": "Yankton Community Library",
+"city": "Yankton",
+"county": "Yankton",
+"state": "SD"
+},
+{
+"id": "TN0012",
+"name": "Art Circle Public Library",
+"city": "Crossville",
+"county": "Cumberland",
+"state": "TN"
+}
+]

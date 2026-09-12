@@ -1,0 +1,352 @@
+[
+{
+"id": "ND0018",
+"name": "Dickinson Area Public Library",
+"city": "Dickinson",
+"county": "Stark",
+"state": "ND"
+},
+{
+"id": "ND0026",
+"name": "Fargo Public Library",
+"city": "Fargo",
+"county": "Cass",
+"state": "ND"
+},
+{
+"id": "ND0035",
+"name": "Grand Forks Public Library",
+"city": "Grand Forks",
+"county": "Grand Forks",
+"state": "ND"
+},
+{
+"id": "ND0002",
+"name": "James River Valley Library System",
+"city": "Jamestown",
+"county": "Stutsman",
+"state": "ND"
+},
+{
+"id": "ND0011",
+"name": "Lake Region Public Library",
+"city": "Devils Lake",
+"county": "Ramsey",
+"state": "ND"
+},
+{
+"id": "ND0058",
+"name": "Mckenzie County Public Library",
+"city": "Watford City",
+"county": "Mckenzie",
+"state": "ND"
+},
+{
+"id": "ND0062",
+"name": "Minot Public Library",
+"city": "Minot",
+"county": "Ward",
+"state": "ND"
+},
+{
+"id": "ND0064",
+"name": "Morton Mandan Public Library",
+"city": "Mandan",
+"county": "Morton",
+"state": "ND"
+},
+{
+"id": "ND0084",
+"name": "Valley City Barnes County Public Library",
+"city": "Valley City",
+"county": "Barnes",
+"state": "ND"
+},
+{
+"id": "ND0087",
+"name": "Ward County Public Library",
+"city": "Minot",
+"county": "Ward",
+"state": "ND"
+},
+{
+"id": "ND0091",
+"name": "West Fargo Public Library",
+"city": "West Fargo",
+"county": "Cass",
+"state": "ND"
+},
+{
+"id": "ND0092",
+"name": "Williston Community Library",
+"city": "Williston",
+"county": "Williams",
+"state": "ND"
+},
+{
+"id": "NE0024",
+"name": "Beatrice Public Library",
+"city": "Beatrice",
+"county": "Gage",
+"state": "NE"
+},
+{
+"id": "NE0028",
+"name": "Bellevue Public Library",
+"city": "Bellevue",
+"county": "Sarpy",
+"state": "NE"
+},
+{
+"id": "NE0057",
+"name": "Columbus Public Library",
+"city": "Columbus",
+"county": "Platte",
+"state": "NE"
+},
+{
+"id": "NE0099",
+"name": "Grand Island Public Library",
+"city": "Grand Island",
+"county": "Hall",
+"state": "NE"
+},
+{
+"id": "NE0108",
+"name": "Hastings Public Library",
+"city": "Hastings",
+"county": "Adams",
+"state": "NE"
+},
+{
+"id": "NE0121",
+"name": "Kearney Public Library",
+"city": "Kearney",
+"county": "Buffalo",
+"state": "NE"
+},
+{
+"id": "NE0090",
+"name": "Keene Memorial Library",
+"city": "Fremont",
+"county": "Dodge",
+"state": "NE"
+},
+{
+"id": "NE9008",
+"name": "La Vista Public Library",
+"city": "La Vista",
+"county": "Sarpy",
+"state": "NE"
+},
+{
+"id": "NE0125",
+"name": "Lexington Public Library",
+"city": "Lexington",
+"county": "Dawson",
+"state": "NE"
+},
+{
+"id": "NE0199",
+"name": "Lied Scottsbluff Public Library",
+"city": "Scottsbluff",
+"county": "Scotts Bluff",
+"state": "NE"
+},
+{
+"id": "NE0126",
+"name": "Lincoln City Libraries",
+"city": "Lincoln",
+"county": "Lancaster",
+"state": "NE"
+},
+{
+"id": "NE0155",
+"name": "Norfolk Public Library",
+"city": "Norfolk",
+"county": "Madison",
+"state": "NE"
+},
+{
+"id": "NE0158",
+"name": "North Platte Public Library",
+"city": "North Platte",
+"county": "Lincoln",
+"state": "NE"
+},
+{
+"id": "NE0162",
+"name": "Omaha Public Library",
+"city": "Omaha",
+"county": "Douglas",
+"state": "NE"
+},
+{
+"id": "NE0276",
+"name": "Papillion Public Library",
+"city": "Papillion",
+"county": "Sarpy",
+"state": "NE"
+},
+{
+"id": "NE0208",
+"name": "South Sioux City Public Library",
+"city": "South Sioux City",
+"county": "Dakota",
+"state": "NE"
+},
+{
+"id": "NH0184",
+"name": "Amherst Town Library",
+"city": "Amherst",
+"county": "Hillsborough",
+"state": "NH"
+},
+{
+"id": "NH0078",
+"name": "Bedford Public Library",
+"city": "Bedford",
+"county": "Hillsborough",
+"state": "NH"
+},
+{
+"id": "NH0167",
+"name": "Concord Public Library",
+"city": "Concord",
+"county": "Merrimack",
+"state": "NH"
+},
+{
+"id": "NH0176",
+"name": "Derry Public Library",
+"city": "Derry",
+"county": "Rockingham",
+"state": "NH"
+},
+{
+"id": "NH0179",
+"name": "Dover Public Library",
+"city": "Dover",
+"county": "Strafford",
+"state": "NH"
+},
+{
+"id": "NH0085",
+"name": "Dudley-Tucker Library",
+"city": "Raymond",
+"county": "Rockingham",
+"state": "NH"
+},
+{
+"id": "NH0182",
+"name": "Durham Public Library",
+"city": "Durham",
+"county": "Strafford",
+"state": "NH"
+},
+{
+"id": "NH0090",
+"name": "East Rochester Public Library",
+"city": "East Rochester",
+"county": "Strafford",
+"state": "NH"
+},
+{
+"id": "NH0191",
+"name": "Exeter Public Library",
+"city": "Exeter",
+"county": "Rockingham",
+"state": "NH"
+},
+{
+"id": "NH0164",
+"name": "Fiske Free Library",
+"city": "Claremont",
+"county": "Sullivan",
+"state": "NH"
+},
+{
+"id": "NH0011",
+"name": "George H. And Ella M. Rodgers Memorial Library",
+"city": "Hudson",
+"county": "Hillsborough",
+"state": "NH"
+},
+{
+"id": "NH0204",
+"name": "Goffstown Public Library",
+"city": "Goffstown",
+"county": "Hillsborough",
+"state": "NH"
+},
+{
+"id": "NH0243",
+"name": "Hanover Town Library",
+"city": "Etna",
+"county": "Grafton",
+"state": "NH"
+},
+{
+"id": "NH0009",
+"name": "Hooksett Public Library",
+"city": "Hooksett",
+"county": "Merrimack",
+"state": "NH"
+},
+{
+"id": "NH0218",
+"name": "Howe Library",
+"city": "Hanover",
+"county": "Grafton",
+"state": "NH"
+},
+{
+"id": "NH0016",
+"name": "Keene Public Library",
+"city": "Keene",
+"county": "Cheshire",
+"state": "NH"
+},
+{
+"id": "NH0093",
+"name": "Kelley Library",
+"city": "Salem",
+"county": "Rockingham",
+"state": "NH"
+},
+{
+"id": "NH0019",
+"name": "Laconia Public Library",
+"city": "Laconia",
+"county": "Belknap",
+"state": "NH"
+},
+{
+"id": "NH0214",
+"name": "Lane Memorial Library",
+"city": "Hampton",
+"county": "Rockingham",
+"state": "NH"
+},
+{
+"id": "NH0029",
+"name": "Leach Library",
+"city": "Londonderry",
+"county": "Rockingham",
+"state": "NH"
+},
+{
+"id": "NH0021",
+"name": "Lebanon Public Library",
+"city": "Lebanon",
+"county": "Grafton",
+"state": "NH"
+},
+{
+"id": "NH0035",
+"name": "Manchester City Library",
+"city": "Manchester",
+"county": "Hillsborough",
+"state": "NH"
+}
+]

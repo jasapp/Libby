@@ -1,0 +1,352 @@
+[
+{
+"id": "IN0226",
+"name": "Jackson County Public Library",
+"city": "Seymour",
+"county": "Jackson",
+"state": "IN"
+},
+{
+"id": "IN0025",
+"name": "Jasper County Public Library",
+"city": "Rensselaer",
+"county": "Jasper",
+"state": "IN"
+},
+{
+"id": "IN0003",
+"name": "Jasper-Dubois County Contractual Public Library",
+"city": "Jasper",
+"county": "Dubois",
+"state": "IN"
+},
+{
+"id": "IN0155",
+"name": "Jay County Public Library",
+"city": "Portland",
+"county": "Jay",
+"state": "IN"
+},
+{
+"id": "IN0227",
+"name": "Jefferson County Public Library",
+"city": "Madison",
+"county": "Jefferson",
+"state": "IN"
+},
+{
+"id": "IN0218",
+"name": "Jeffersonville Township Public Library",
+"city": "Jeffersonville",
+"county": "Clark",
+"state": "IN"
+},
+{
+"id": "IN0228",
+"name": "Jennings County Public Library",
+"city": "North Vernon",
+"county": "Jennings",
+"state": "IN"
+},
+{
+"id": "IN0207",
+"name": "Johnson County Public Library",
+"city": "Franklin",
+"county": "Johnson",
+"state": "IN"
+},
+{
+"id": "IN0086",
+"name": "Kendallville Public Library",
+"city": "Kendallville",
+"county": "Noble",
+"state": "IN"
+},
+{
+"id": "IN0010",
+"name": "Knox County Public Library",
+"city": "Vincennes",
+"county": "Knox",
+"state": "IN"
+},
+{
+"id": "IN0128",
+"name": "Kokomo-Howard County Public Library",
+"city": "Kokomo",
+"county": "Howard",
+"state": "IN"
+},
+{
+"id": "IN0083",
+"name": "La Grange County Public Library",
+"city": "Lagrange",
+"county": "Lagrange",
+"state": "IN"
+},
+{
+"id": "IN0037",
+"name": "La Porte County Public Library",
+"city": "La Porte",
+"county": "La Porte",
+"state": "IN"
+},
+{
+"id": "IN0030",
+"name": "Lake County Public Library",
+"city": "Merrillville",
+"county": "Lake",
+"state": "IN"
+},
+{
+"id": "IN0220",
+"name": "Lawrenceburg Public Library District",
+"city": "Lawrenceburg",
+"county": "Dearborn",
+"state": "IN"
+},
+{
+"id": "IN0191",
+"name": "Lebanon Public Library",
+"city": "Lebanon",
+"county": "Boone",
+"state": "IN"
+},
+{
+"id": "IN0239",
+"name": "Lincoln Heritage Public Library",
+"city": "Dale",
+"county": "Spencer",
+"state": "IN"
+},
+{
+"id": "IN0123",
+"name": "Logansport-Cass County Public Library",
+"city": "Logansport",
+"county": "Cass",
+"state": "IN"
+},
+{
+"id": "IN0241",
+"name": "Lowell Public Library",
+"city": "Lowell",
+"county": "Lake",
+"state": "IN"
+},
+{
+"id": "IN0142",
+"name": "Marion Public Library",
+"city": "Marion",
+"county": "Grant",
+"state": "IN"
+},
+{
+"id": "IN0033",
+"name": "Michigan City Public Library",
+"city": "Michigan City",
+"county": "Laporte",
+"state": "IN"
+},
+{
+"id": "IN0055",
+"name": "Middlebury Community Public Library",
+"city": "Middlebury",
+"county": "Elkhart",
+"state": "IN"
+},
+{
+"id": "IN0069",
+"name": "Mishawaka-Penn-Harris Public Library",
+"city": "Mishawaka",
+"county": "St Joseph",
+"state": "IN"
+},
+{
+"id": "IN0179",
+"name": "Mitchell Community Public Library",
+"city": "Mitchell",
+"county": "Lawrence",
+"state": "IN"
+},
+{
+"id": "IN0180",
+"name": "Monroe County Public Library",
+"city": "Bloomington",
+"county": "Monroe",
+"state": "IN"
+},
+{
+"id": "IN0121",
+"name": "Monticello-Union Township Public Library",
+"city": "Monticello",
+"county": "White",
+"state": "IN"
+},
+{
+"id": "IN0213",
+"name": "Mooresville Public Library",
+"city": "Mooresville",
+"county": "Morgan",
+"state": "IN"
+},
+{
+"id": "IN0212",
+"name": "Morgan County Public Library",
+"city": "Martinsville",
+"county": "Morgan",
+"state": "IN"
+},
+{
+"id": "IN0171",
+"name": "Morrisson-Reeves Library",
+"city": "Richmond",
+"county": "Wayne",
+"state": "IN"
+},
+{
+"id": "IN0138",
+"name": "Muncie-Center Township Public Library",
+"city": "Muncie",
+"county": "Delaware",
+"state": "IN"
+},
+{
+"id": "IN0052",
+"name": "Nappanee Public Library",
+"city": "Nappanee",
+"county": "Elkhart",
+"state": "IN"
+},
+{
+"id": "IN0223",
+"name": "New Albany-Floyd County Public Library",
+"city": "New Albany",
+"county": "Floyd",
+"state": "IN"
+},
+{
+"id": "IN0150",
+"name": "New Castle-Henry County Public Library",
+"city": "New Castle",
+"county": "Henry",
+"state": "IN"
+},
+{
+"id": "IN0022",
+"name": "Newburgh Chandler Public Library",
+"city": "Newburgh",
+"county": "Warrick",
+"state": "IN"
+},
+{
+"id": "IN0085",
+"name": "Noble County Public Library",
+"city": "Albion",
+"county": "Noble",
+"state": "IN"
+},
+{
+"id": "IN0156",
+"name": "North Madison County Public Library System",
+"city": "Elwood",
+"county": "Madison",
+"state": "IN"
+},
+{
+"id": "IN0234",
+"name": "Osgood Public Library",
+"city": "Osgood",
+"county": "Ripley",
+"state": "IN"
+},
+{
+"id": "IN0181",
+"name": "Owen County Public Library",
+"city": "Spencer",
+"county": "Owen",
+"state": "IN"
+},
+{
+"id": "IN0183",
+"name": "Parke County Public Library",
+"city": "Rockville",
+"county": "Parke",
+"state": "IN"
+},
+{
+"id": "IN0092",
+"name": "Peabody Public Library",
+"city": "Columbia City",
+"county": "Whitley",
+"state": "IN"
+},
+{
+"id": "IN0159",
+"name": "Pendleton Community Public Library",
+"city": "Pendleton",
+"county": "Madison",
+"state": "IN"
+},
+{
+"id": "IN0013",
+"name": "Perry County Public Library",
+"city": "Tell City",
+"county": "Perry",
+"state": "IN"
+},
+{
+"id": "IN0130",
+"name": "Peru Public Library",
+"city": "Peru",
+"county": "Miami",
+"state": "IN"
+},
+{
+"id": "IN0015",
+"name": "Pike County Public Library",
+"city": "Petersburg",
+"county": "Pike",
+"state": "IN"
+},
+{
+"id": "IN0205",
+"name": "Plainfield-Guilford Township Public Library",
+"city": "Plainfield",
+"county": "Hendricks",
+"state": "IN"
+},
+{
+"id": "IN0062",
+"name": "Plymouth Public Library",
+"city": "Plymouth",
+"county": "Marshall",
+"state": "IN"
+},
+{
+"id": "IN0043",
+"name": "Porter County Public Library System",
+"city": "Valparaiso",
+"county": "Porter",
+"state": "IN"
+},
+{
+"id": "IN0006",
+"name": "Princeton Public Library",
+"city": "Princeton",
+"county": "Gibson",
+"state": "IN"
+},
+{
+"id": "IN0184",
+"name": "Putnam County Public Library",
+"city": "Greencastle",
+"county": "Putnam",
+"state": "IN"
+},
+{
+"id": "IN0166",
+"name": "Rushville Public Library",
+"city": "Rushville",
+"county": "Rush",
+"state": "IN"
+}
+]

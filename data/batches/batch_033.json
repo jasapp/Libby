@@ -1,0 +1,352 @@
+[
+{
+"id": "MI9025",
+"name": "Lincoln Park Public Library",
+"city": "Lincoln Park",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0198",
+"name": "Lincoln Township Public Library",
+"city": "Stevensville",
+"county": "Berrien",
+"state": "MI"
+},
+{
+"id": "MI0200",
+"name": "Livonia Public Library",
+"city": "Livonia",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0290",
+"name": "Lois Wagner Memorial Library",
+"city": "Richmond",
+"county": "Macomb",
+"state": "MI"
+},
+{
+"id": "MI0201",
+"name": "Loutit District Library",
+"city": "Grand Haven",
+"county": "Ottawa",
+"state": "MI"
+},
+{
+"id": "MI0204",
+"name": "Lyon Township Public Library",
+"city": "South Lyon",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0242",
+"name": "Macdonald Public Library",
+"city": "New Baltimore",
+"county": "Macomb",
+"state": "MI"
+},
+{
+"id": "MI0210",
+"name": "Madison Heights Public Library",
+"city": "Madison Heights",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0213",
+"name": "Manistee County Library",
+"city": "Manistee",
+"county": "Manistee",
+"state": "MI"
+},
+{
+"id": "MI0218",
+"name": "Marshall District Library",
+"city": "Marshall",
+"county": "Calhoun",
+"state": "MI"
+},
+{
+"id": "MI0401",
+"name": "Mason County District Library",
+"city": "Ludington",
+"county": "Mason",
+"state": "MI"
+},
+{
+"id": "MI0220",
+"name": "Maud Preston Palenske Memorial Library",
+"city": "Saint Joseph",
+"county": "Berrien",
+"state": "MI"
+},
+{
+"id": "MI9018",
+"name": "Melvindale Public Library",
+"city": "Melvindale",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0226",
+"name": "Menominee County Library",
+"city": "Stephenson",
+"county": "Menominee",
+"state": "MI"
+},
+{
+"id": "MI0228",
+"name": "Milan Public Library",
+"city": "Milan",
+"county": "Monroe",
+"state": "MI"
+},
+{
+"id": "MI0229",
+"name": "Milford Public Library",
+"city": "Milford",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0231",
+"name": "Missaukee District Library",
+"city": "Lake City",
+"county": "Missaukee",
+"state": "MI"
+},
+{
+"id": "MI0233",
+"name": "Monroe County Library System",
+"city": "Monroe",
+"county": "Monroe",
+"state": "MI"
+},
+{
+"id": "MI0237",
+"name": "Mount Clemens Public Library",
+"city": "Mount Clemens",
+"county": "Macomb",
+"state": "MI"
+},
+{
+"id": "MI0240",
+"name": "Muskegon Area District Library",
+"city": "Muskegon",
+"county": "Muskegon",
+"state": "MI"
+},
+{
+"id": "MI0245",
+"name": "Niles District Library",
+"city": "Niles",
+"county": "Berrien",
+"state": "MI"
+},
+{
+"id": "MI0248",
+"name": "Northville District Library",
+"city": "Northville",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0250",
+"name": "Novi Public Library",
+"city": "Novi",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0251",
+"name": "Oak Park Public Library",
+"city": "Oak Park",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0253",
+"name": "Ogemaw District Library",
+"city": "Rose City",
+"county": "Ogemaw",
+"state": "MI"
+},
+{
+"id": "MI0255",
+"name": "Orion Township Public Library",
+"city": "Lake Orion",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0258",
+"name": "Otsego County Library",
+"city": "Gaylord",
+"county": "Otsego",
+"state": "MI"
+},
+{
+"id": "MI0259",
+"name": "Otsego District Public Library",
+"city": "Otsego",
+"county": "Allegan",
+"state": "MI"
+},
+{
+"id": "MI0262",
+"name": "Oxford Public Library",
+"city": "Oxford",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0263",
+"name": "Parchment Community Library",
+"city": "Parchment",
+"county": "Kalamazoo",
+"state": "MI"
+},
+{
+"id": "MI0265",
+"name": "Paw Paw District Library",
+"city": "Paw Paw",
+"county": "Van Buren",
+"state": "MI"
+},
+{
+"id": "MI0268",
+"name": "Peter White Public Library",
+"city": "Marquette",
+"county": "Marquette",
+"state": "MI"
+},
+{
+"id": "MI0269",
+"name": "Petoskey District Library",
+"city": "Petoskey",
+"county": "Emmet",
+"state": "MI"
+},
+{
+"id": "MI0271",
+"name": "Pinckney Community Public Library",
+"city": "Pinckney",
+"county": "Livingston",
+"state": "MI"
+},
+{
+"id": "MI0273",
+"name": "Plymouth District Library",
+"city": "Plymouth",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0274",
+"name": "Pontiac Public Library",
+"city": "Pontiac",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0277",
+"name": "Portage District Library",
+"city": "Portage",
+"county": "Kalamazoo",
+"state": "MI"
+},
+{
+"id": "MI0276",
+"name": "Portage Lake District Library",
+"city": "Houghton",
+"county": "Houghton",
+"state": "MI"
+},
+{
+"id": "MI0278",
+"name": "Portland District Library",
+"city": "Portland",
+"county": "Ionia",
+"state": "MI"
+},
+{
+"id": "MI0279",
+"name": "Presque Isle District Library",
+"city": "Rogers City",
+"county": "Presque Isle",
+"state": "MI"
+},
+{
+"id": "MI0299",
+"name": "Public Libraries Of Saginaw",
+"city": "Saginaw",
+"county": "Saginaw",
+"state": "MI"
+},
+{
+"id": "MI0402",
+"name": "Redford Township District Library",
+"city": "Redford",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0292",
+"name": "Riverview Public Library",
+"city": "Riverview",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0293",
+"name": "Rochester Hills Public Library",
+"city": "Rochester",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0294",
+"name": "Romeo District Library",
+"city": "Romeo",
+"county": "Macomb",
+"state": "MI"
+},
+{
+"id": "MI0433",
+"name": "Romulus Public Library",
+"city": "Romulus",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0295",
+"name": "Roseville Public Library",
+"city": "Roseville",
+"county": "Macomb",
+"state": "MI"
+},
+{
+"id": "MI0296",
+"name": "Royal Oak Public Library",
+"city": "Royal Oak",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0165",
+"name": "Ruth Hughes Memorial District Library",
+"city": "Imlay City",
+"county": "Lapeer",
+"state": "MI"
+},
+{
+"id": "MI0321",
+"name": "Saint Clair County Library System",
+"city": "Port Huron",
+"county": "Saint Clair",
+"state": "MI"
+}
+]

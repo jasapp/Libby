@@ -1,0 +1,352 @@
+[
+{
+"id": "TX0141",
+"name": "Laredo Public Library",
+"city": "Laredo",
+"county": "Webb",
+"state": "TX"
+},
+{
+"id": "TX0471",
+"name": "Leander Public Library",
+"city": "Leander",
+"county": "Williamson",
+"state": "TX"
+},
+{
+"id": "TX0268",
+"name": "Lena Armstrong Public Library",
+"city": "Belton",
+"county": "Bell",
+"state": "TX"
+},
+{
+"id": "TX0144",
+"name": "Leon Valley Public Library",
+"city": "Leon Valley",
+"county": "Bexar",
+"state": "TX"
+},
+{
+"id": "TX0146",
+"name": "Lewisville Public Library",
+"city": "Lewisville",
+"county": "Denton",
+"state": "TX"
+},
+{
+"id": "TX0696",
+"name": "Liberty Hill Public Library",
+"city": "Liberty Hill",
+"county": "Williamson",
+"state": "TX"
+},
+{
+"id": "TX0667",
+"name": "Little Elm Public Library",
+"city": "Little Elm",
+"county": "Denton",
+"state": "TX"
+},
+{
+"id": "TX0061",
+"name": "Live Oak County Library",
+"city": "George West",
+"county": "Live Oak",
+"state": "TX"
+},
+{
+"id": "TX0675",
+"name": "Lois Nelson Public Library",
+"city": "Princeton",
+"county": "Collin",
+"state": "TX"
+},
+{
+"id": "TX0152",
+"name": "Longview Public Library",
+"city": "Longview",
+"county": "Gregg",
+"state": "TX"
+},
+{
+"id": "TX0212",
+"name": "Lovett Memorial Library Pampa",
+"city": "Pampa",
+"county": "Gray",
+"state": "TX"
+},
+{
+"id": "TX0155",
+"name": "Lubbock Public Library",
+"city": "Lubbock",
+"county": "Lubbock",
+"state": "TX"
+},
+{
+"id": "TX0573",
+"name": "Lumberton Public Library",
+"city": "Lumberton",
+"county": "Hardin",
+"state": "TX"
+},
+{
+"id": "TX0159",
+"name": "Madison County Library",
+"city": "Madisonville",
+"county": "Madison",
+"state": "TX"
+},
+{
+"id": "TX0271",
+"name": "Mae S Bruce Library",
+"city": "Santa Fe",
+"county": "Galveston",
+"state": "TX"
+},
+{
+"id": "TX0391",
+"name": "Mammen Family Public Library",
+"city": "Bulverde",
+"county": "Comal",
+"state": "TX"
+},
+{
+"id": "TX0161",
+"name": "Mansfield Public Library",
+"city": "Mansfield",
+"county": "Tarrant",
+"state": "TX"
+},
+{
+"id": "TX0196",
+"name": "Marion & Ed Hughes Public Library",
+"city": "Nederland",
+"county": "Jefferson",
+"state": "TX"
+},
+{
+"id": "TX0164",
+"name": "Marshall Public Library",
+"city": "Marshall",
+"county": "Harrison",
+"state": "TX"
+},
+{
+"id": "TX0325",
+"name": "Mayor Joe V Sanchez Public Library",
+"city": "Weslaco",
+"county": "Hidalgo",
+"state": "TX"
+},
+{
+"id": "TX0549",
+"name": "Mcallen Public Library",
+"city": "Mcallen",
+"county": "Hidalgo",
+"state": "TX"
+},
+{
+"id": "TX0171",
+"name": "Mckinney Public Library System",
+"city": "Mckinney",
+"county": "Collin",
+"state": "TX"
+},
+{
+"id": "TX0530",
+"name": "Melissa Public Library",
+"city": "Melissa",
+"county": "Collin",
+"state": "TX"
+},
+{
+"id": "TX0177",
+"name": "Mesquite Public Library",
+"city": "Mesquite",
+"county": "Dallas",
+"state": "TX"
+},
+{
+"id": "TX0179",
+"name": "Midland County Public Library",
+"city": "Midland",
+"county": "Midland",
+"state": "TX"
+},
+{
+"id": "TX0574",
+"name": "Mineola Memorial Library",
+"city": "Mineola",
+"county": "Wood",
+"state": "TX"
+},
+{
+"id": "TX0443",
+"name": "Montgomery County Memorial Library System",
+"city": "Conroe",
+"county": "Montgomery",
+"state": "TX"
+},
+{
+"id": "TX0305",
+"name": "Moore Memorial Public Library",
+"city": "Texas City",
+"county": "Galveston",
+"state": "TX"
+},
+{
+"id": "TX0188",
+"name": "Mount Pleasant Public Library",
+"city": "Mt Pleasant",
+"county": "Titus",
+"state": "TX"
+},
+{
+"id": "TX0377",
+"name": "Nancy Carol Roberts Memorial Library",
+"city": "Brenham",
+"county": "Washington",
+"state": "TX"
+},
+{
+"id": "TX0194",
+"name": "Navasota Public Library",
+"city": "Navasota",
+"county": "Grimes",
+"state": "TX"
+},
+{
+"id": "TX0199",
+"name": "New Braunfels Public Library",
+"city": "New Braunfels",
+"county": "Comal",
+"state": "TX"
+},
+{
+"id": "TX0460",
+"name": "Newton County Public Library",
+"city": "Newton",
+"county": "Newton",
+"state": "TX"
+},
+{
+"id": "TX0321",
+"name": "Nicholas P Sims Library & Lyceum",
+"city": "Waxahachie",
+"county": "Ellis",
+"state": "TX"
+},
+{
+"id": "TX0058",
+"name": "Nicholson Memorial Library System",
+"city": "Garland",
+"county": "Dallas",
+"state": "TX"
+},
+{
+"id": "TX0201",
+"name": "North Richland Hills Public Library",
+"city": "North Richland Hills",
+"county": "Tarrant",
+"state": "TX"
+},
+{
+"id": "TX0686",
+"name": "Nueces County Public Libraries",
+"city": "Robstown",
+"county": "Nueces",
+"state": "TX"
+},
+{
+"id": "TX0349",
+"name": "Olga V Figueroa Zapata County Public Library",
+"city": "Zapata",
+"county": "Zapata",
+"state": "TX"
+},
+{
+"id": "TX0206",
+"name": "Orange Public Library",
+"city": "Orange",
+"county": "Orange",
+"state": "TX"
+},
+{
+"id": "TX0210",
+"name": "Palacios Library Inc",
+"city": "Palacios",
+"county": "Matagorda",
+"state": "TX"
+},
+{
+"id": "TX0211",
+"name": "Palestine Public Library",
+"city": "Palestine",
+"county": "Anderson",
+"state": "TX"
+},
+{
+"id": "TX0214",
+"name": "Paris Public Library",
+"city": "Paris",
+"county": "Lamar",
+"state": "TX"
+},
+{
+"id": "TX0217",
+"name": "Pasadena Public Library",
+"city": "Pasadena",
+"county": "Harris",
+"state": "TX"
+},
+{
+"id": "TX0308",
+"name": "Patrick Heath Public Library",
+"city": "Boerne",
+"county": "Kendall",
+"state": "TX"
+},
+{
+"id": "TX0347",
+"name": "Pflugerville Public Library",
+"city": "Pflugerville",
+"county": "Travis",
+"state": "TX"
+},
+{
+"id": "TX0221",
+"name": "Pharr Memorial Library",
+"city": "Pharr",
+"county": "Hidalgo",
+"state": "TX"
+},
+{
+"id": "TX0052",
+"name": "Pioneer Memorial Library",
+"city": "Fredericksburg",
+"county": "Gillespie",
+"state": "TX"
+},
+{
+"id": "TX0224",
+"name": "Pittsburg-Camp County Public Library",
+"city": "Pittsburg",
+"county": "Camp",
+"state": "TX"
+},
+{
+"id": "TX0228",
+"name": "Plano Public Library System",
+"city": "Plano",
+"county": "Collin",
+"state": "TX"
+},
+{
+"id": "TX0229",
+"name": "Pleasanton Public Library",
+"city": "Pleasanton",
+"county": "Atascosa",
+"state": "TX"
+}
+]

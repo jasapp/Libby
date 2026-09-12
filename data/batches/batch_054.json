@@ -1,0 +1,352 @@
+[
+{
+"id": "OH0237",
+"name": "Westerville Public Library",
+"city": "Westerville",
+"county": "Franklin",
+"state": "OH"
+},
+{
+"id": "OH0240",
+"name": "Wickliffe Public Library",
+"city": "Wickliffe",
+"county": "Lake",
+"state": "OH"
+},
+{
+"id": "OH0032",
+"name": "Williams Co Public Library",
+"city": "Bryan",
+"county": "Williams",
+"state": "OH"
+},
+{
+"id": "OH0242",
+"name": "Willoughby-Eastlake Public Library",
+"city": "Willowick",
+"county": "Lake",
+"state": "OH"
+},
+{
+"id": "OH0243",
+"name": "Wilmington Public Library Of Clinton County",
+"city": "Wilmington",
+"county": "Clinton",
+"state": "OH"
+},
+{
+"id": "OH0029",
+"name": "Wood County District Public Library",
+"city": "Bowling Green",
+"county": "Wood",
+"state": "OH"
+},
+{
+"id": "OH0246",
+"name": "Worthington Public Library",
+"city": "Worthington",
+"county": "Franklin",
+"state": "OH"
+},
+{
+"id": "OH0248",
+"name": "Youngstown And Mahoning County, Pl Of",
+"city": "Youngstown",
+"county": "Mahoning",
+"state": "OH"
+},
+{
+"id": "OK0001",
+"name": "Ada Public Library",
+"city": "Ada",
+"county": "Pontotoc",
+"state": "OK"
+},
+{
+"id": "OK0006",
+"name": "Ardmore Public Library",
+"city": "Ardmore",
+"county": "Carter",
+"state": "OK"
+},
+{
+"id": "OK0009",
+"name": "Bartlesville Public Library",
+"city": "Bartlesville",
+"county": "Washington",
+"state": "OK"
+},
+{
+"id": "OK0021",
+"name": "Chickasha Public Library",
+"city": "Chickasha",
+"county": "Grady",
+"state": "OK"
+},
+{
+"id": "OK0112",
+"name": "Claremore - Will Rogers Library",
+"city": "Claremore",
+"county": "Rogers",
+"state": "OK"
+},
+{
+"id": "OK0025",
+"name": "Coweta Public Library",
+"city": "Coweta",
+"county": "Wagoner",
+"state": "OK"
+},
+{
+"id": "OK0031",
+"name": "Duncan Public Library",
+"city": "Duncan",
+"county": "Stephens",
+"state": "OK"
+},
+{
+"id": "OK0032",
+"name": "Durant-Donald Reynolds Community Ct & Library",
+"city": "Durant",
+"county": "Bryan",
+"state": "OK"
+},
+{
+"id": "OK0066",
+"name": "Eastern Oklahoma Library System",
+"city": "Muskogee",
+"county": "Muskogee",
+"state": "OK"
+},
+{
+"id": "OK0033",
+"name": "El Reno Carnegie Library",
+"city": "El Reno",
+"county": "Canadian",
+"state": "OK"
+},
+{
+"id": "OK0034",
+"name": "Elk City Carnegie Library",
+"city": "Elk City",
+"county": "Beckham",
+"state": "OK"
+},
+{
+"id": "OK0035",
+"name": "Enid-Public Library Of Enid And Garfield Co",
+"city": "Enid",
+"county": "Garfield",
+"state": "OK"
+},
+{
+"id": "OK0041",
+"name": "Guthrie Public Library",
+"city": "Guthrie",
+"county": "Logan",
+"state": "OK"
+},
+{
+"id": "OK0042",
+"name": "Guymon Public Library & Arts Center",
+"city": "Guymon",
+"county": "Texas",
+"state": "OK"
+},
+{
+"id": "OK0054",
+"name": "Lawton Public Library",
+"city": "Lawton",
+"county": "Comanche",
+"state": "OK"
+},
+{
+"id": "OK0057",
+"name": "Madill City-County Library",
+"city": "Madill",
+"county": "Marshall",
+"state": "OK"
+},
+{
+"id": "OK0074",
+"name": "Metropolitan Library System",
+"city": "Oklahoma City",
+"county": "Oklahoma",
+"state": "OK"
+},
+{
+"id": "OK0064",
+"name": "Miami Public Library",
+"city": "Miami",
+"county": "Ottawa",
+"state": "OK"
+},
+{
+"id": "OK0067",
+"name": "Mustang Public Library",
+"city": "Mustang",
+"county": "Canadian",
+"state": "OK"
+},
+{
+"id": "OK0075",
+"name": "Okmulgee Public Library",
+"city": "Okmulgee",
+"county": "Okmulgee",
+"state": "OK"
+},
+{
+"id": "OK0070",
+"name": "Pioneer Library System",
+"city": "Norman",
+"county": "Cleveland",
+"state": "OK"
+},
+{
+"id": "OK0081",
+"name": "Ponca City Library",
+"city": "Ponca City",
+"county": "Kay",
+"state": "OK"
+},
+{
+"id": "OK0085",
+"name": "Sapulpa - Bartlett Carnegie Public Library",
+"city": "Sapulpa",
+"county": "Creek",
+"state": "OK"
+},
+{
+"id": "OK0062",
+"name": "Southeast Oklahoma Library System",
+"city": "Mcalester",
+"county": "Pittsburg",
+"state": "OK"
+},
+{
+"id": "OK0007",
+"name": "Southern Oklahoma Library System",
+"city": "Ardmore",
+"county": "Carter",
+"state": "OK"
+},
+{
+"id": "OK0002",
+"name": "Southern Prairie Library System",
+"city": "Altus",
+"county": "Jackson",
+"state": "OK"
+},
+{
+"id": "OK0113",
+"name": "Stillwater Public Library",
+"city": "Stillwater",
+"county": "Payne",
+"state": "OK"
+},
+{
+"id": "OK0093",
+"name": "Tulsa City-County Library System",
+"city": "Tulsa",
+"county": "Tulsa",
+"state": "OK"
+},
+{
+"id": "OK0024",
+"name": "Western Plains Library System",
+"city": "Clinton",
+"county": "Custer",
+"state": "OK"
+},
+{
+"id": "OK0102",
+"name": "Woodward Public Library",
+"city": "Woodward",
+"county": "Woodward",
+"state": "OK"
+},
+{
+"id": "OK0105",
+"name": "Yukon - Mabel C. Fry Public Library",
+"city": "Yukon",
+"county": "Canadian",
+"state": "OK"
+},
+{
+"id": "OR0106",
+"name": "Albany Public Library",
+"city": "Albany",
+"county": "Linn",
+"state": "OR"
+},
+{
+"id": "OR9010",
+"name": "Aloha Community Library",
+"city": "Aloha",
+"county": "Washington",
+"state": "OR"
+},
+{
+"id": "OR0023",
+"name": "Astoria Public Library",
+"city": "Astoria",
+"county": "Clatsop",
+"state": "OR"
+},
+{
+"id": "OR0046",
+"name": "Baker County Library District",
+"city": "Baker City",
+"county": "Baker",
+"state": "OR"
+},
+{
+"id": "OR0080",
+"name": "Beaverton City Library",
+"city": "Beaverton",
+"county": "Washington",
+"state": "OR"
+},
+{
+"id": "OR0110",
+"name": "Canby Public Library",
+"city": "Canby",
+"county": "Clackamas",
+"state": "OR"
+},
+{
+"id": "OR0128",
+"name": "Cedar Mill Community Library",
+"city": "Portland",
+"county": "Washington",
+"state": "OR"
+},
+{
+"id": "OR0107",
+"name": "Chetco Community Public Library",
+"city": "Brookings",
+"county": "Curry",
+"state": "OR"
+},
+{
+"id": "OR0129",
+"name": "Clackamas County - Oak Lodge Public Library",
+"city": "Oak Grove",
+"county": "Clackamas",
+"state": "OR"
+},
+{
+"id": "OR0114",
+"name": "Coos Bay Public Library",
+"city": "Coos Bay",
+"county": "Coos",
+"state": "OR"
+},
+{
+"id": "OR0118",
+"name": "Cornelius Public Library",
+"city": "Cornelius",
+"county": "Washington",
+"state": "OR"
+}
+]

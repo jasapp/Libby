@@ -1,0 +1,352 @@
+[
+{
+"id": "PA0447",
+"name": "Cheltenham Twnshp Lib System",
+"city": "Glenside",
+"county": "Montgomery",
+"state": "PA"
+},
+{
+"id": "PA0344",
+"name": "Chester County Library",
+"city": "Exton",
+"county": "Chester",
+"state": "PA"
+},
+{
+"id": "PA0013",
+"name": "Citizens Library",
+"city": "Washington",
+"county": "Washington",
+"state": "PA"
+},
+{
+"id": "PA0088",
+"name": "Clarion Free Library",
+"city": "Clarion",
+"county": "Clarion",
+"state": "PA"
+},
+{
+"id": "PA0168",
+"name": "Clearfield County Public Library",
+"city": "Curwensville",
+"county": "Clearfield",
+"state": "PA"
+},
+{
+"id": "PA0214",
+"name": "Cleve J. Fredricksen Library",
+"city": "Camp Hill",
+"county": "Cumberland",
+"state": "PA"
+},
+{
+"id": "PA0289",
+"name": "Clymer Library Association",
+"city": "Pocono Pines",
+"county": "Monroe",
+"state": "PA"
+},
+{
+"id": "PA0345",
+"name": "Coatesville Public Library Association",
+"city": "Coatesville",
+"county": "Chester",
+"state": "PA"
+},
+{
+"id": "PA0227",
+"name": "Columbia County Traveling Library Authority",
+"city": "Bloomsburg",
+"county": "Columbia",
+"state": "PA"
+},
+{
+"id": "PA0439",
+"name": "Columbia Public Library",
+"city": "Columbia",
+"county": "Lancaster",
+"state": "PA"
+},
+{
+"id": "PA9036",
+"name": "Community Library Of Allegheny Valley",
+"city": "Natrona Heights",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA0068",
+"name": "Community Library Of The Shenango Valley",
+"city": "Sharon",
+"county": "Mercer",
+"state": "PA"
+},
+{
+"id": "PA0040",
+"name": "Cooper-Siegel Community Library",
+"city": "Pittsburgh",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA0077",
+"name": "Corry Public Library",
+"city": "Corry",
+"county": "Erie",
+"state": "PA"
+},
+{
+"id": "PA0159",
+"name": "Coudersport Public Library",
+"city": "Coudersport",
+"county": "Potter",
+"state": "PA"
+},
+{
+"id": "PA0418",
+"name": "Cranberry Public Library",
+"city": "Cranberry Twp",
+"county": "Butler",
+"state": "PA"
+},
+{
+"id": "PA0363",
+"name": "Darby Library",
+"city": "Darby",
+"county": "Delaware",
+"state": "PA"
+},
+{
+"id": "PA0222",
+"name": "Dauphin County Library System",
+"city": "Harrisburg",
+"county": "Dauphin",
+"state": "PA"
+},
+{
+"id": "PA0235",
+"name": "Degenstein Community Library",
+"city": "Sunbury",
+"county": "Northumberland",
+"state": "PA"
+},
+{
+"id": "PA0179",
+"name": "Dillsburg Area Public Library",
+"city": "Dillsburg",
+"county": "York",
+"state": "PA"
+},
+{
+"id": "PA0298",
+"name": "Dimmick Memorial Library",
+"city": "Jim Thorpe",
+"county": "Carbon",
+"state": "PA"
+},
+{
+"id": "PA0346",
+"name": "Downingtown Library Company",
+"city": "Downingtown",
+"county": "Chester",
+"state": "PA"
+},
+{
+"id": "PA0093",
+"name": "Dubois Public Library",
+"city": "Dubois",
+"county": "Clearfield",
+"state": "PA"
+},
+{
+"id": "PA0195",
+"name": "Eastern Lancaster County Lib",
+"city": "New Holland",
+"county": "Lancaster",
+"state": "PA"
+},
+{
+"id": "PA0288",
+"name": "Eastern Monroe Public Library",
+"city": "Stroudsburg",
+"county": "Monroe",
+"state": "PA"
+},
+{
+"id": "PA0292",
+"name": "Easton Area Public Library",
+"city": "Easton",
+"county": "Northampton",
+"state": "PA"
+},
+{
+"id": "PA0347",
+"name": "Easttown Library",
+"city": "Berwyn",
+"county": "Chester",
+"state": "PA"
+},
+{
+"id": "PA0190",
+"name": "Elizabethtown Public Library",
+"city": "Elizabethtown",
+"county": "Lancaster",
+"state": "PA"
+},
+{
+"id": "PA0062",
+"name": "Ellwood City Area Pub Library",
+"city": "Ellwood City",
+"county": "Lawrence",
+"state": "PA"
+},
+{
+"id": "PA0304",
+"name": "Emmaus Public Library",
+"city": "Emmaus",
+"county": "Lehigh",
+"state": "PA"
+},
+{
+"id": "PA0191",
+"name": "Ephrata Public Library",
+"city": "Ephrata",
+"county": "Lancaster",
+"state": "PA"
+},
+{
+"id": "PA0423",
+"name": "Erie County Public Library",
+"city": "Erie",
+"county": "Erie",
+"state": "PA"
+},
+{
+"id": "PA0007",
+"name": "Eva K Bowlby Public Library",
+"city": "Waynesburg",
+"county": "Greene",
+"state": "PA"
+},
+{
+"id": "PA0121",
+"name": "Everett Free Library",
+"city": "Everett",
+"county": "Bedford",
+"state": "PA"
+},
+{
+"id": "PA9031",
+"name": "Exeter Community Library",
+"city": "Reading",
+"county": "Berks",
+"state": "PA"
+},
+{
+"id": "PA0513",
+"name": "F.O.R. Sto-Rox Library",
+"city": "Mckees Rocks",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA0475",
+"name": "Fleetwood Area Public Library",
+"city": "Fleetwood",
+"county": "Berks",
+"state": "PA"
+},
+{
+"id": "PA0006",
+"name": "Flenniken Public Library",
+"city": "Carmichaels",
+"county": "Greene",
+"state": "PA"
+},
+{
+"id": "PA0010",
+"name": "Frank Sarris Public Library",
+"city": "Canonsburg",
+"county": "Washington",
+"state": "PA"
+},
+{
+"id": "PA9037",
+"name": "Franklin Sys Admin Unit",
+"city": "Chambersburg",
+"county": "Franklin",
+"state": "PA"
+},
+{
+"id": "PA0313",
+"name": "Free Lib Of Northampton Twp",
+"city": "Richboro",
+"county": "Bucks",
+"state": "PA"
+},
+{
+"id": "PA0312",
+"name": "Free Library Of New Hope & Solebury",
+"city": "New Hope",
+"county": "Bucks",
+"state": "PA"
+},
+{
+"id": "PA0385",
+"name": "Free Library Of Philadelphia",
+"city": "Philadelphia",
+"county": "Philadelphia",
+"state": "PA"
+},
+{
+"id": "PA0450",
+"name": "Free Library Of Springfield Township",
+"city": "Wyndmoor",
+"county": "Montgomery",
+"state": "PA"
+},
+{
+"id": "PA0170",
+"name": "Fulton County Library",
+"city": "Mcconnellsburg",
+"county": "Fulton",
+"state": "PA"
+},
+{
+"id": "PA0259",
+"name": "Green Free Library Wellsboro",
+"city": "Wellsboro",
+"county": "Tioga",
+"state": "PA"
+},
+{
+"id": "PA0104",
+"name": "Greensburg Hempfield Area Lib",
+"city": "Greensburg",
+"county": "Westmoreland",
+"state": "PA"
+},
+{
+"id": "PA0065",
+"name": "Greenville Area Public Library",
+"city": "Greenville",
+"county": "Mercer",
+"state": "PA"
+},
+{
+"id": "PA0066",
+"name": "Grove City Community Library",
+"city": "Grove City",
+"county": "Mercer",
+"state": "PA"
+},
+{
+"id": "PA0181",
+"name": "Guthrie Memorial Library - Hanover'S Public Library",
+"city": "Hanover",
+"county": "York",
+"state": "PA"
+}
+]

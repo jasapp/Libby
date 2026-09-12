@@ -1,0 +1,352 @@
+[
+{
+"id": "OH0175",
+"name": "Grand Valley Public Library",
+"city": "Orwell",
+"county": "Ashtabula",
+"state": "OH"
+},
+{
+"id": "OH0096",
+"name": "Granville Public Library",
+"city": "Granville",
+"county": "Licking",
+"state": "OH"
+},
+{
+"id": "OH0247",
+"name": "Greene County Public Library",
+"city": "Xenia",
+"county": "Greene",
+"state": "OH"
+},
+{
+"id": "OH0098",
+"name": "Greenville Public Library",
+"city": "Greenville",
+"county": "Darke",
+"state": "OH"
+},
+{
+"id": "OH0037",
+"name": "Guernsey County District Public Library",
+"city": "Cambridge",
+"county": "Guernsey",
+"state": "OH"
+},
+{
+"id": "OH0076",
+"name": "Harris-Elmore Public Library",
+"city": "Elmore",
+"county": "Ottawa",
+"state": "OH"
+},
+{
+"id": "OH0137",
+"name": "Herbert Wescoat Memorial Library",
+"city": "Mcarthur",
+"county": "Vinton",
+"state": "OH"
+},
+{
+"id": "OH0101",
+"name": "Highland County District Library",
+"city": "Hillsboro",
+"county": "Highland",
+"state": "OH"
+},
+{
+"id": "OH0146",
+"name": "Holmes County District Public Library",
+"city": "Millersburg",
+"county": "Holmes",
+"state": "OH"
+},
+{
+"id": "OH0104",
+"name": "Hubbard Public Library",
+"city": "Hubbard",
+"county": "Trumbull",
+"state": "OH"
+},
+{
+"id": "OH0105",
+"name": "Hudson Library And Historical Society",
+"city": "Hudson",
+"county": "Summit",
+"state": "OH"
+},
+{
+"id": "OH0241",
+"name": "Huron County Community Library",
+"city": "Willard",
+"county": "Huron",
+"state": "OH"
+},
+{
+"id": "OH0106",
+"name": "Huron Public Library",
+"city": "Huron",
+"county": "Erie",
+"state": "OH"
+},
+{
+"id": "OH0188",
+"name": "Ida Rupp Public Library",
+"city": "Port Clinton",
+"county": "Ottawa",
+"state": "OH"
+},
+{
+"id": "OH0108",
+"name": "Jackson City Library",
+"city": "Jackson",
+"county": "Jackson",
+"state": "OH"
+},
+{
+"id": "OH0139",
+"name": "Kate Love Simpson-Morgan County Library",
+"city": "Mcconnelsville",
+"county": "Morgan",
+"state": "OH"
+},
+{
+"id": "OH0084",
+"name": "Kaubisch Memorial Public Library",
+"city": "Fostoria",
+"county": "Seneca",
+"state": "OH"
+},
+{
+"id": "OH0110",
+"name": "Kent Free Library",
+"city": "Kent",
+"county": "Portage",
+"state": "OH"
+},
+{
+"id": "OH0115",
+"name": "Lakewood Public Library",
+"city": "Lakewood",
+"county": "Cuyahoga",
+"state": "OH"
+},
+{
+"id": "OH0100",
+"name": "Lane Public Library",
+"city": "Hamilton",
+"county": "Butler",
+"state": "OH"
+},
+{
+"id": "OH0117",
+"name": "Lebanon Public Library",
+"city": "Lebanon",
+"county": "Warren",
+"state": "OH"
+},
+{
+"id": "OH0122",
+"name": "Lepper Library",
+"city": "Lisbon",
+"county": "Columbiana",
+"state": "OH"
+},
+{
+"id": "OH0163",
+"name": "Licking County Library",
+"city": "Newark",
+"county": "Licking",
+"state": "OH"
+},
+{
+"id": "OH0121",
+"name": "Lima Public Library",
+"city": "Lima",
+"county": "Allen",
+"state": "OH"
+},
+{
+"id": "OH0021",
+"name": "Logan County District Library",
+"city": "Bellefontaine",
+"county": "Logan",
+"state": "OH"
+},
+{
+"id": "OH0123",
+"name": "Logan-Hocking County District Library",
+"city": "Logan",
+"county": "Hocking",
+"state": "OH"
+},
+{
+"id": "OH0124",
+"name": "London Public Library",
+"city": "London",
+"county": "Madison",
+"state": "OH"
+},
+{
+"id": "OH0125",
+"name": "Lorain Public Library",
+"city": "Lorain",
+"county": "Lorain",
+"state": "OH"
+},
+{
+"id": "OH0127",
+"name": "Louisville Public Library",
+"city": "Louisville",
+"county": "Stark",
+"state": "OH"
+},
+{
+"id": "OH0128",
+"name": "Madison Public Library",
+"city": "Madison",
+"county": "Lake",
+"state": "OH"
+},
+{
+"id": "OH0130",
+"name": "Mansfield-Richland County Public Library",
+"city": "Mansfield",
+"county": "Richland",
+"state": "OH"
+},
+{
+"id": "OH0132",
+"name": "Marion Public Library",
+"city": "Marion",
+"county": "Marion",
+"state": "OH"
+},
+{
+"id": "OH0202",
+"name": "Marvin Memorial Library",
+"city": "Shelby",
+"county": "Richland",
+"state": "OH"
+},
+{
+"id": "OH0231",
+"name": "Mary L. Cook Public Library",
+"city": "Waynesville",
+"county": "Warren",
+"state": "OH"
+},
+{
+"id": "OH0111",
+"name": "Mary Lou Johnson-Hardin Cnty Pl",
+"city": "Kenton",
+"county": "Hardin",
+"state": "OH"
+},
+{
+"id": "OH0134",
+"name": "Marysville Public Library",
+"city": "Marysville",
+"county": "Union",
+"state": "OH"
+},
+{
+"id": "OH0135",
+"name": "Mason Public Library",
+"city": "Mason",
+"county": "Warren",
+"state": "OH"
+},
+{
+"id": "OH0136",
+"name": "Massillon Public Library",
+"city": "Massillon",
+"county": "Stark",
+"state": "OH"
+},
+{
+"id": "OH0166",
+"name": "Mckinley Memorial Library",
+"city": "Niles",
+"county": "Trumbull",
+"state": "OH"
+},
+{
+"id": "OH0141",
+"name": "Medina County District Library",
+"city": "Medina",
+"county": "Medina",
+"state": "OH"
+},
+{
+"id": "OH0187",
+"name": "Meigs County District Public Library",
+"city": "Pomeroy",
+"county": "Meigs",
+"state": "OH"
+},
+{
+"id": "OH0142",
+"name": "Mentor Public Library",
+"city": "Mentor",
+"county": "Lake",
+"state": "OH"
+},
+{
+"id": "OH0043",
+"name": "Mercer County District Public Library",
+"city": "Celina",
+"county": "Mercer",
+"state": "OH"
+},
+{
+"id": "OH0144",
+"name": "Midpointe Library System",
+"city": "Middletown",
+"county": "Butler",
+"state": "OH"
+},
+{
+"id": "OH0147",
+"name": "Minerva Public Library",
+"city": "Minerva",
+"county": "Stark",
+"state": "OH"
+},
+{
+"id": "OH0244",
+"name": "Monroe County District Library",
+"city": "Woodsfield",
+"county": "Monroe",
+"state": "OH"
+},
+{
+"id": "OH0177",
+"name": "Morley Library",
+"city": "Painesville",
+"county": "Lake",
+"state": "OH"
+},
+{
+"id": "OH0152",
+"name": "Mt Sterling Public Library",
+"city": "Mt. Sterling",
+"county": "Madison",
+"state": "OH"
+},
+{
+"id": "OH0153",
+"name": "Mt Vernon & Knox County, Public Library Of",
+"city": "Mt. Vernon",
+"county": "Knox",
+"state": "OH"
+},
+{
+"id": "OH0250",
+"name": "Muskingum County Library System",
+"city": "Zanesville",
+"county": "Muskingum",
+"state": "OH"
+}
+]

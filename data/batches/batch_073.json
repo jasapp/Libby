@@ -1,0 +1,352 @@
+[
+{
+"id": "VT0095",
+"name": "Milton Public",
+"city": "Milton",
+"county": "Chittenden",
+"state": "VT"
+},
+{
+"id": "VT0133",
+"name": "Rutland Free",
+"city": "Rutland",
+"county": "Rutland",
+"state": "VT"
+},
+{
+"id": "VT0145",
+"name": "South Burlington",
+"city": "S. Burlington",
+"county": "Chittenden",
+"state": "VT"
+},
+{
+"id": "VT0137",
+"name": "St. Albans Free",
+"city": "St. Albans",
+"county": "Franklin",
+"state": "VT"
+},
+{
+"id": "WA0032",
+"name": "Anacortes Public Library",
+"city": "Anacortes",
+"county": "Skagit",
+"state": "WA"
+},
+{
+"id": "WA0033",
+"name": "Asotin County Library",
+"city": "Clarkston",
+"county": "Asotin",
+"state": "WA"
+},
+{
+"id": "WA0050",
+"name": "Bellingham Public Library",
+"city": "Bellingham",
+"county": "Whatcom",
+"state": "WA"
+},
+{
+"id": "WA0034",
+"name": "Camas Public Library",
+"city": "Camas",
+"county": "Clark",
+"state": "WA"
+},
+{
+"id": "WA0076",
+"name": "Central Skagit Library District",
+"city": "Sedro-Woolley",
+"county": "Skagit",
+"state": "WA"
+},
+{
+"id": "WA0035",
+"name": "Ellensburg Public Library",
+"city": "Ellensburg",
+"county": "Kittitas",
+"state": "WA"
+},
+{
+"id": "WA0051",
+"name": "Everett Public Library",
+"city": "Everett",
+"county": "Snohomish",
+"state": "WA"
+},
+{
+"id": "WA0058",
+"name": "Fort Vancouver Regional Library District",
+"city": "Vancouver",
+"county": "Clark",
+"state": "WA"
+},
+{
+"id": "WA0037",
+"name": "Grandview Library",
+"city": "Grandview",
+"county": "Yakima",
+"state": "WA"
+},
+{
+"id": "WA0038",
+"name": "Jefferson County Rural Library District",
+"city": "Port Hadlock",
+"county": "Jefferson",
+"state": "WA"
+},
+{
+"id": "WA0039",
+"name": "Kelso Public Library",
+"city": "Kelso",
+"county": "Cowlitz",
+"state": "WA"
+},
+{
+"id": "WA0059",
+"name": "King County Library System",
+"city": "Issaquah",
+"county": "King",
+"state": "WA"
+},
+{
+"id": "WA0060",
+"name": "Kitsap Regional Library",
+"city": "Bremerton",
+"county": "Kitsap",
+"state": "WA"
+},
+{
+"id": "WA0074",
+"name": "Liberty Lake Municipal Library",
+"city": "Liberty Lake",
+"county": "Spokane",
+"state": "WA"
+},
+{
+"id": "WA0052",
+"name": "Longview Public Library",
+"city": "Longview",
+"county": "Cowlitz",
+"state": "WA"
+},
+{
+"id": "WA0061",
+"name": "Mid-Columbia Libraries",
+"city": "Kennewick",
+"county": "Benton",
+"state": "WA"
+},
+{
+"id": "WA0040",
+"name": "Mount Vernon City Library",
+"city": "Mount Vernon",
+"county": "Skagit",
+"state": "WA"
+},
+{
+"id": "WA0062",
+"name": "North Central Regional Library",
+"city": "Wenatchee",
+"county": "Chelan",
+"state": "WA"
+},
+{
+"id": "WA0053",
+"name": "North Olympic Library System",
+"city": "Port Angeles",
+"county": "Clallam",
+"state": "WA"
+},
+{
+"id": "WA0041",
+"name": "Pend Oreille County Library District",
+"city": "Newport",
+"county": "Pend Oreille",
+"state": "WA"
+},
+{
+"id": "WA0063",
+"name": "Pierce County Library System",
+"city": "Tacoma",
+"county": "Pierce",
+"state": "WA"
+},
+{
+"id": "WA0042",
+"name": "Port Townsend Public Library",
+"city": "Port Townsend",
+"county": "Jefferson",
+"state": "WA"
+},
+{
+"id": "WA0043",
+"name": "Pullman (Neill) Public Library",
+"city": "Pullman",
+"county": "Whitman",
+"state": "WA"
+},
+{
+"id": "WA0044",
+"name": "Puyallup Public Library",
+"city": "Puyallup",
+"county": "Pierce",
+"state": "WA"
+},
+{
+"id": "WA0055",
+"name": "Richland Public Library",
+"city": "Richland",
+"county": "Benton",
+"state": "WA"
+},
+{
+"id": "WA0064",
+"name": "Seattle Public Library",
+"city": "Seattle",
+"county": "King",
+"state": "WA"
+},
+{
+"id": "WA0065",
+"name": "Sno-Isle Libraries",
+"city": "Marysville",
+"county": "Snohomish",
+"state": "WA"
+},
+{
+"id": "WA0066",
+"name": "Spokane County Library District",
+"city": "Spokane",
+"county": "Spokane",
+"state": "WA"
+},
+{
+"id": "WA0067",
+"name": "Spokane Public Library",
+"city": "Spokane",
+"county": "Spokane",
+"state": "WA"
+},
+{
+"id": "WA0072",
+"name": "Stevens County Rural Library District",
+"city": "Loon Lake",
+"county": "Stevens",
+"state": "WA"
+},
+{
+"id": "WA0068",
+"name": "Tacoma Public Library",
+"city": "Tacoma",
+"county": "Pierce",
+"state": "WA"
+},
+{
+"id": "WA0069",
+"name": "Timberland Regional Library",
+"city": "Tumwater",
+"county": "Thurston",
+"state": "WA"
+},
+{
+"id": "WA0047",
+"name": "Walla Walla County Rural Library District",
+"city": "Walla Walla",
+"county": "Walla Walla",
+"state": "WA"
+},
+{
+"id": "WA0056",
+"name": "Walla Walla Public Library",
+"city": "Walla Walla",
+"county": "Walla Walla",
+"state": "WA"
+},
+{
+"id": "WA0057",
+"name": "Whatcom County Library System",
+"city": "Bellingham",
+"county": "Whatcom",
+"state": "WA"
+},
+{
+"id": "WA0048",
+"name": "Whitman County Library",
+"city": "Colfax",
+"county": "Whitman",
+"state": "WA"
+},
+{
+"id": "WA0070",
+"name": "Yakima Valley Regional Library",
+"city": "Yakima",
+"county": "Yakima",
+"state": "WA"
+},
+{
+"id": "WI0002",
+"name": "Adams County Library",
+"city": "Adams",
+"county": "Adams",
+"state": "WI"
+},
+{
+"id": "WI0006",
+"name": "Altoona Public Library",
+"city": "Altoona",
+"county": "Eau Claire",
+"state": "WI"
+},
+{
+"id": "WI0007",
+"name": "Amery Public Library",
+"city": "Amery",
+"county": "Polk",
+"state": "WI"
+},
+{
+"id": "WI0009",
+"name": "Antigo Public Library",
+"city": "Antigo",
+"county": "Langlade",
+"state": "WI"
+},
+{
+"id": "WI0010",
+"name": "Appleton Public Library",
+"city": "Appleton",
+"county": "Outagamie",
+"state": "WI"
+},
+{
+"id": "WI0080",
+"name": "Aram Public Library",
+"city": "Delavan",
+"county": "Walworth",
+"state": "WI"
+},
+{
+"id": "WI0018",
+"name": "Baraboo Public Library",
+"city": "Baraboo",
+"county": "Sauk",
+"state": "WI"
+},
+{
+"id": "WI0022",
+"name": "Beaver Dam Community Library",
+"city": "Beaver Dam",
+"county": "Dodge",
+"state": "WI"
+},
+{
+"id": "WI0025",
+"name": "Beloit Public Library",
+"city": "Beloit",
+"county": "Rock",
+"state": "WI"
+}
+]

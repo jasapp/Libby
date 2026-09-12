@@ -1,0 +1,352 @@
+[
+{
+"id": "NY0621",
+"name": "Schuylerville Public Library",
+"city": "Schuylerville",
+"county": "Saratoga",
+"state": "NY"
+},
+{
+"id": "NY0379",
+"name": "Seaford Public Library",
+"city": "Seaford",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0508",
+"name": "Seymour Library",
+"city": "Brockport",
+"county": "Monroe",
+"state": "NY"
+},
+{
+"id": "NY0134",
+"name": "Seymour Public Library District",
+"city": "Auburn",
+"county": "Cayuga",
+"state": "NY"
+},
+{
+"id": "NY0333",
+"name": "Shelter Rock Public Library",
+"city": "Albertson",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0689",
+"name": "Smithtown Special Library District",
+"city": "Nesconset",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0645",
+"name": "South Country Library",
+"city": "Bellport",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0670",
+"name": "South Huntington Public Library",
+"city": "Huntington Statio",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0088",
+"name": "Southeast Steuben County Library",
+"city": "Corning",
+"county": "Steuben",
+"state": "NY"
+},
+{
+"id": "NY0554",
+"name": "Stevens Memorial Community Library",
+"city": "Attica",
+"county": "Wyoming",
+"state": "NY"
+},
+{
+"id": "NY0594",
+"name": "Suffern Free Library",
+"city": "Suffern",
+"county": "Rockland",
+"state": "NY"
+},
+{
+"id": "NY0289",
+"name": "Sullivan Free Library",
+"city": "Chittenango",
+"county": "Madison",
+"state": "NY"
+},
+{
+"id": "NY0380",
+"name": "Syosset Public Library",
+"city": "Syosset",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0328",
+"name": "The Community Library",
+"city": "Cobleskill",
+"county": "Schoharie",
+"state": "NY"
+},
+{
+"id": "NY0748",
+"name": "The Field Library",
+"city": "Peekskill",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0309",
+"name": "The Jervis Public Library Association, Inc.",
+"city": "Rome",
+"county": "Oneida",
+"state": "NY"
+},
+{
+"id": "NY0756",
+"name": "The Somers Library",
+"city": "Somers",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0130",
+"name": "The Wead Library",
+"city": "Malone",
+"county": "Franklin",
+"state": "NY"
+},
+{
+"id": "NY0572",
+"name": "Thrall Public Library District Of Middletown And Wallkill",
+"city": "Middletown",
+"county": "Orange",
+"state": "NY"
+},
+{
+"id": "NY0160",
+"name": "Tompkins County Public Library",
+"city": "Ithaca",
+"county": "Tompkins",
+"state": "NY"
+},
+{
+"id": "NY0749",
+"name": "Town Of Pelham Public Library",
+"city": "Pelham",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0019",
+"name": "Town Of Tonawanda Public Library",
+"city": "Kenmore",
+"county": "Erie",
+"state": "NY"
+},
+{
+"id": "NY0259",
+"name": "Town Of Ulster Public Library",
+"city": "Kingston",
+"county": "Ulster",
+"state": "NY"
+},
+{
+"id": "NY0720",
+"name": "Troy Public Library",
+"city": "Troy",
+"county": "Rensselaer",
+"state": "NY"
+},
+{
+"id": "NY0381",
+"name": "Uniondale Public Library",
+"city": "Uniondale",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0311",
+"name": "Utica Public Library",
+"city": "Utica",
+"county": "Oneida",
+"state": "NY"
+},
+{
+"id": "NY0171",
+"name": "Vestal Public Library",
+"city": "Vestal",
+"county": "Broome",
+"state": "NY"
+},
+{
+"id": "NY0537",
+"name": "Victor Farmington Library",
+"city": "Victor",
+"county": "Ontario",
+"state": "NY"
+},
+{
+"id": "NY0501",
+"name": "Wadsworth Library",
+"city": "Geneseo",
+"county": "Livingston",
+"state": "NY"
+},
+{
+"id": "NY0383",
+"name": "Wantagh Public Library",
+"city": "Wantagh",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0758",
+"name": "Warner Library",
+"city": "Tarrytown",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0708",
+"name": "Watervliet Public Library",
+"city": "Watervliet",
+"county": "Albany",
+"state": "NY"
+},
+{
+"id": "NY0525",
+"name": "Webster Public Library",
+"city": "Webster",
+"county": "Monroe",
+"state": "NY"
+},
+{
+"id": "NY0692",
+"name": "West Babylon Public Library",
+"city": "West Babylon",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0384",
+"name": "West Hempstead Public Library",
+"city": "West Hempstead",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0693",
+"name": "West Islip Public Library",
+"city": "West Islip",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0028",
+"name": "West Seneca Public Library",
+"city": "West Seneca",
+"county": "Erie",
+"state": "NY"
+},
+{
+"id": "NY0385",
+"name": "Westbury Memorial Public Library",
+"city": "Westbury",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0760",
+"name": "White Plains Public Library",
+"city": "White Plains",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0701",
+"name": "William K Sanford Town Library",
+"city": "Loudonville",
+"county": "Albany",
+"state": "NY"
+},
+{
+"id": "NY0619",
+"name": "Woman'S Round Lake Improvement Society",
+"city": "Round Lake",
+"county": "Saratoga",
+"state": "NY"
+},
+{
+"id": "NY0529",
+"name": "Wood Library Association",
+"city": "Canandaigua",
+"county": "Ontario",
+"state": "NY"
+},
+{
+"id": "NY0777",
+"name": "Woodbury Public Library",
+"city": "Highland Mills",
+"county": "Orange",
+"state": "NY"
+},
+{
+"id": "NY0695",
+"name": "Wyandanch Public Library",
+"city": "Wyandanch",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0761",
+"name": "Yonkers Public Library",
+"city": "Yonkers",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0168",
+"name": "Your Home Public Library",
+"city": "Johnson City",
+"county": "Broome",
+"state": "NY"
+},
+{
+"id": "OH0129",
+"name": "Adams County Public Library",
+"city": "Peebles",
+"county": "Adams",
+"state": "OH"
+},
+{
+"id": "OH0002",
+"name": "Akron-Summit Cnty Public Library",
+"city": "Akron",
+"county": "Summit",
+"state": "OH"
+},
+{
+"id": "OH0006",
+"name": "Amherst Public Library",
+"city": "Amherst",
+"county": "Lorain",
+"state": "OH"
+},
+{
+"id": "OH0010",
+"name": "Ashland Public Library",
+"city": "Ashland",
+"county": "Ashland",
+"state": "OH"
+}
+]

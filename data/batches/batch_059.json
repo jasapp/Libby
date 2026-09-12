@@ -1,0 +1,352 @@
+[
+{
+"id": "PA0080",
+"name": "Mccord Memorial Library",
+"city": "North East",
+"county": "Erie",
+"state": "PA"
+},
+{
+"id": "PA0421",
+"name": "Meadville Public Library",
+"city": "Meadville",
+"county": "Crawford",
+"state": "PA"
+},
+{
+"id": "PA0370",
+"name": "Media Upper Providence Free Library",
+"city": "Media",
+"county": "Delaware",
+"state": "PA"
+},
+{
+"id": "PA0293",
+"name": "Mem Lib Of Nazareth & Vicinity",
+"city": "Nazareth",
+"county": "Northampton",
+"state": "PA"
+},
+{
+"id": "PA0376",
+"name": "Mem Library Of Radnor Twnshp",
+"city": "Wayne",
+"county": "Delaware",
+"state": "PA"
+},
+{
+"id": "PA0067",
+"name": "Mercer Area Library",
+"city": "Mercer",
+"county": "Mercer",
+"state": "PA"
+},
+{
+"id": "PA0145",
+"name": "Meyersdale Public Library",
+"city": "Meyersdale",
+"county": "Somerset",
+"state": "PA"
+},
+{
+"id": "PA0371",
+"name": "Middletown Free Library",
+"city": "Media",
+"county": "Delaware",
+"state": "PA"
+},
+{
+"id": "PA9033",
+"name": "Mifflin Community Library",
+"city": "Shillington",
+"county": "Berks",
+"state": "PA"
+},
+{
+"id": "PA0174",
+"name": "Mifflin County Library",
+"city": "Lewistown",
+"county": "Mifflin",
+"state": "PA"
+},
+{
+"id": "PA0194",
+"name": "Milanof-Schock Library",
+"city": "Mount Joy",
+"county": "Lancaster",
+"state": "PA"
+},
+{
+"id": "PA0265",
+"name": "Mill Memorial Library",
+"city": "Nanticoke",
+"county": "Luzerne",
+"state": "PA"
+},
+{
+"id": "PA0230",
+"name": "Milton Public Library",
+"city": "Milton",
+"county": "Northumberland",
+"state": "PA"
+},
+{
+"id": "PA0018",
+"name": "Monongahela Area Library",
+"city": "Monongahela",
+"county": "Washington",
+"state": "PA"
+},
+{
+"id": "PA0035",
+"name": "Monroeville Public Library",
+"city": "Monroeville",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA0336",
+"name": "Mont Co-Norristown Pub Lib",
+"city": "Norristown",
+"county": "Montgomery",
+"state": "PA"
+},
+{
+"id": "PA0036",
+"name": "Moon Township Public Library",
+"city": "Moon Township",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA0231",
+"name": "Mount Carmel Public Library",
+"city": "Mount Carmel",
+"county": "Northumberland",
+"state": "PA"
+},
+{
+"id": "PA0111",
+"name": "Mt Pleasant Fr Pub Lib Assoc",
+"city": "Mount Pleasant",
+"county": "Westmoreland",
+"state": "PA"
+},
+{
+"id": "PA0037",
+"name": "Mt. Lebanon Public Library",
+"city": "Pittsburgh",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA0209",
+"name": "Muhlenberg Community Library",
+"city": "Laureldale",
+"county": "Berks",
+"state": "PA"
+},
+{
+"id": "PA0103",
+"name": "Murrysville Community Library",
+"city": "Murrysville",
+"county": "Westmoreland",
+"state": "PA"
+},
+{
+"id": "PA0198",
+"name": "Myerstown Community Library",
+"city": "Myerstown",
+"county": "Lebanon",
+"state": "PA"
+},
+{
+"id": "PA0063",
+"name": "New Castle Public Library",
+"city": "New Castle",
+"county": "Lawrence",
+"state": "PA"
+},
+{
+"id": "PA0373",
+"name": "Newtown Public Library",
+"city": "Newtown Square",
+"county": "Delaware",
+"state": "PA"
+},
+{
+"id": "PA0275",
+"name": "North Pocono Public Library",
+"city": "Moscow",
+"county": "Lackawanna",
+"state": "PA"
+},
+{
+"id": "PA0038",
+"name": "North Versailles Public Library",
+"city": "North Versailles",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA9034",
+"name": "North Wales Area Library",
+"city": "North Wales",
+"county": "Montgomery",
+"state": "PA"
+},
+{
+"id": "PA0294",
+"name": "Northampton Area Pub Library",
+"city": "Northampton",
+"county": "Northampton",
+"state": "PA"
+},
+{
+"id": "PA0043",
+"name": "Northern Tier Regional Library",
+"city": "Gibsonia",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA0044",
+"name": "Northland Public Library Authority",
+"city": "Pittsburgh",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA0106",
+"name": "Norwin Pub Lib Assoc",
+"city": "Irwin",
+"county": "Westmoreland",
+"state": "PA"
+},
+{
+"id": "PA0101",
+"name": "Oil City Library",
+"city": "Oil City",
+"county": "Venango",
+"state": "PA"
+},
+{
+"id": "PA0269",
+"name": "Osterhout Free Library",
+"city": "Wilkes-Barre",
+"county": "Luzerne",
+"state": "PA"
+},
+{
+"id": "PA0351",
+"name": "Oxford Public Library",
+"city": "Oxford",
+"county": "Chester",
+"state": "PA"
+},
+{
+"id": "PA0300",
+"name": "Palmerton Area Library",
+"city": "Palmerton",
+"county": "Carbon",
+"state": "PA"
+},
+{
+"id": "PA0199",
+"name": "Palmyra Public Library",
+"city": "Annville",
+"county": "Lebanon",
+"state": "PA"
+},
+{
+"id": "PA0352",
+"name": "Parkesburg Free Library",
+"city": "Parkesburg",
+"county": "Chester",
+"state": "PA"
+},
+{
+"id": "PA0307",
+"name": "Parkland Community Library",
+"city": "Allentown",
+"county": "Lehigh",
+"state": "PA"
+},
+{
+"id": "PA0184",
+"name": "Paul Smith Library Of Southern York County",
+"city": "Shrewsbury",
+"county": "York",
+"state": "PA"
+},
+{
+"id": "PA0429",
+"name": "Penn Area Library",
+"city": "Harrison City",
+"county": "Westmoreland",
+"state": "PA"
+},
+{
+"id": "PA0041",
+"name": "Penn Hills Library",
+"city": "Pittsburgh",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA0113",
+"name": "Peoples Library",
+"city": "New Kensington",
+"county": "Westmoreland",
+"state": "PA"
+},
+{
+"id": "PA0019",
+"name": "Peters Township Public Library",
+"city": "Mcmurray",
+"county": "Washington",
+"state": "PA"
+},
+{
+"id": "PA0353",
+"name": "Phoenixville Public Library",
+"city": "Phoenixville",
+"county": "Chester",
+"state": "PA"
+},
+{
+"id": "PA0297",
+"name": "Pike County Public Library",
+"city": "Milford",
+"county": "Pike",
+"state": "PA"
+},
+{
+"id": "PA0495",
+"name": "Plum Borough Library",
+"city": "Pittsburgh",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA0287",
+"name": "Pocono Mountain Public Library",
+"city": "Tobyhanna",
+"county": "Monroe",
+"state": "PA"
+},
+{
+"id": "PA0338",
+"name": "Pottstown Regional Public Library",
+"city": "Pottstown",
+"county": "Montgomery",
+"state": "PA"
+},
+{
+"id": "PA0405",
+"name": "Pottsville Free Public Library",
+"city": "Pottsville",
+"county": "Schuylkill",
+"state": "PA"
+}
+]

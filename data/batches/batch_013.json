@@ -1,0 +1,352 @@
+[
+{
+"id": "GA0050",
+"name": "Northwest Georgia Regional Library System",
+"city": "Dalton",
+"county": "Whitfield",
+"state": "GA"
+},
+{
+"id": "GA0018",
+"name": "Ocmulgee Regional Library System",
+"city": "Eastman",
+"county": "Dodge",
+"state": "GA"
+},
+{
+"id": "GA0031",
+"name": "Oconee Regional Library System",
+"city": "Dublin",
+"county": "Laurens",
+"state": "GA"
+},
+{
+"id": "GA0052",
+"name": "Ohoopee Regional Library System",
+"city": "Vidalia",
+"county": "Toombs",
+"state": "GA"
+},
+{
+"id": "GA0053",
+"name": "Okefenokee Regional Library System",
+"city": "Waycross",
+"county": "Ware",
+"state": "GA"
+},
+{
+"id": "GA0038",
+"name": "Peach Public Libraries",
+"city": "Fort Valley",
+"county": "Peach",
+"state": "GA"
+},
+{
+"id": "GA0001",
+"name": "Piedmont Regional Library System",
+"city": "Jefferson",
+"county": "Jackson",
+"state": "GA"
+},
+{
+"id": "GA0033",
+"name": "Pine Mountain Regional Library System",
+"city": "Manchester",
+"county": "Meriwether",
+"state": "GA"
+},
+{
+"id": "GA0024",
+"name": "Roddenbery Memorial Library",
+"city": "Cairo",
+"county": "Grady",
+"state": "GA"
+},
+{
+"id": "GA0021",
+"name": "Sara Hightower Regional Library System",
+"city": "Rome",
+"county": "Floyd",
+"state": "GA"
+},
+{
+"id": "GA0014",
+"name": "Satilla Regional Library System",
+"city": "Douglas",
+"county": "Coffee",
+"state": "GA"
+},
+{
+"id": "GA0041",
+"name": "Screven-Jenkins Regional Library System",
+"city": "Sylvania",
+"county": "Screven",
+"state": "GA"
+},
+{
+"id": "GA0010",
+"name": "Sequoyah Regional Library System",
+"city": "Canton",
+"county": "Cherokee",
+"state": "GA"
+},
+{
+"id": "GA0032",
+"name": "South Georgia Regional Library",
+"city": "Valdosta",
+"county": "Lowndes",
+"state": "GA"
+},
+{
+"id": "GA0016",
+"name": "Southwest Georgia Regional Library System",
+"city": "Bainbridge",
+"county": "Decatur",
+"state": "GA"
+},
+{
+"id": "GA0006",
+"name": "Statesboro Regional Public Libraries",
+"city": "Statesboro",
+"county": "Bulloch",
+"state": "GA"
+},
+{
+"id": "GA0045",
+"name": "Thomas County Public Library System",
+"city": "Thomasville",
+"county": "Thomas",
+"state": "GA"
+},
+{
+"id": "GA0023",
+"name": "Three Rivers Regional Library System",
+"city": "Jesup",
+"county": "Wayne",
+"state": "GA"
+},
+{
+"id": "GA0048",
+"name": "Troup-Harris Regional Library",
+"city": "Lagrange",
+"county": "Troup",
+"state": "GA"
+},
+{
+"id": "GA0007",
+"name": "West Georgia Regional Library",
+"city": "Carrollton",
+"county": "Carroll",
+"state": "GA"
+},
+{
+"id": "GA0065",
+"name": "Worth County Library System",
+"city": "Sylvester",
+"county": "Worth",
+"state": "GA"
+},
+{
+"id": "HI0001",
+"name": "Hawaii State Public Library System",
+"city": "Honolulu",
+"county": "Honolulu",
+"state": "HI"
+},
+{
+"id": "IA0044",
+"name": "Adel Public Library",
+"city": "Adel",
+"county": "Dallas",
+"state": "IA"
+},
+{
+"id": "IA0154",
+"name": "Altoona Public Library",
+"city": "Altoona",
+"county": "Polk",
+"state": "IA"
+},
+{
+"id": "IA0041",
+"name": "Ames Public Library",
+"city": "Ames",
+"county": "Story",
+"state": "IA"
+},
+{
+"id": "IA0464",
+"name": "Anamosa Library & Learning Center",
+"city": "Anamosa",
+"county": "Jones",
+"state": "IA"
+},
+{
+"id": "IA0150",
+"name": "Ankeny Kirkendall Public Library",
+"city": "Ankeny",
+"county": "Polk",
+"state": "IA"
+},
+{
+"id": "IA0354",
+"name": "Bettendorf Public Library Information Center",
+"city": "Bettendorf",
+"county": "Scott",
+"state": "IA"
+},
+{
+"id": "IA0456",
+"name": "Bondurant Community Library",
+"city": "Bondurant",
+"county": "Polk",
+"state": "IA"
+},
+{
+"id": "IA0219",
+"name": "Burlington Public Library",
+"city": "Burlington",
+"county": "Des Moines",
+"state": "IA"
+},
+{
+"id": "IA0147",
+"name": "Carnegie-Stout Public Library",
+"city": "Dubuque",
+"county": "Dubuque",
+"state": "IA"
+},
+{
+"id": "IA0325",
+"name": "Carroll Public Library",
+"city": "Carroll",
+"county": "Carroll",
+"state": "IA"
+},
+{
+"id": "IA0326",
+"name": "Cedar Falls Public Library",
+"city": "Cedar Falls",
+"county": "Black Hawk",
+"state": "IA"
+},
+{
+"id": "IA0373",
+"name": "Cedar Rapids Public Library",
+"city": "Cedar Rapids",
+"county": "Linn",
+"state": "IA"
+},
+{
+"id": "IA0288",
+"name": "Charles City Public Library",
+"city": "Charles City",
+"county": "Floyd",
+"state": "IA"
+},
+{
+"id": "IA0077",
+"name": "Clear Lake Public Library",
+"city": "Clear Lake",
+"county": "Cerro Gordo",
+"state": "IA"
+},
+{
+"id": "IA0473",
+"name": "Clinton Public Library",
+"city": "Clinton",
+"county": "Clinton",
+"state": "IA"
+},
+{
+"id": "IA0571",
+"name": "Clive Public Library",
+"city": "Clive",
+"county": "Polk",
+"state": "IA"
+},
+{
+"id": "IA0053",
+"name": "Coralville Public Library",
+"city": "Coralville",
+"county": "Johnson",
+"state": "IA"
+},
+{
+"id": "IA0453",
+"name": "Council Bluffs Public Library",
+"city": "Council Bluffs",
+"county": "Pottawattamie",
+"state": "IA"
+},
+{
+"id": "IA0355",
+"name": "Davenport Public Library",
+"city": "Davenport",
+"county": "Scott",
+"state": "IA"
+},
+{
+"id": "IA0404",
+"name": "Decorah Public Library",
+"city": "Decorah",
+"county": "Winneshiek",
+"state": "IA"
+},
+{
+"id": "IA0027",
+"name": "Des Moines Public Library",
+"city": "Des Moines",
+"county": "Polk",
+"state": "IA"
+},
+{
+"id": "IA0474",
+"name": "Dewitt Community Library",
+"city": "Dewitt",
+"county": "Clinton",
+"state": "IA"
+},
+{
+"id": "IA0061",
+"name": "Drake Community Library",
+"city": "Grinnell",
+"county": "Poweshiek",
+"state": "IA"
+},
+{
+"id": "IA0148",
+"name": "Dubuque County Library",
+"city": "Asbury",
+"county": "Dubuque",
+"state": "IA"
+},
+{
+"id": "IA0193",
+"name": "Ericson Public Library",
+"city": "Boone",
+"county": "Boone",
+"state": "IA"
+},
+{
+"id": "IA0012",
+"name": "Fairfield Public Library",
+"city": "Fairfield",
+"county": "Jefferson",
+"state": "IA"
+},
+{
+"id": "IA0262",
+"name": "Fort Dodge Public Library",
+"city": "Fort Dodge",
+"county": "Webster",
+"state": "IA"
+},
+{
+"id": "IA0211",
+"name": "Fort Madison Public Library",
+"city": "Fort Madison",
+"county": "Lee",
+"state": "IA"
+}
+]

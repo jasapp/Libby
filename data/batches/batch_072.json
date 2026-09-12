@@ -1,0 +1,352 @@
+[
+{
+"id": "VA0045",
+"name": "Lynchburg Public Library",
+"city": "Lynchburg",
+"county": "Lynchburg",
+"state": "VA"
+},
+{
+"id": "VA0046",
+"name": "Madison County Library, Inc.",
+"city": "Madison",
+"county": "Madison",
+"state": "VA"
+},
+{
+"id": "VA8004",
+"name": "Manassas Park City Library",
+"city": "Manassas Park",
+"county": "Manassas Park",
+"state": "VA"
+},
+{
+"id": "VA0047",
+"name": "Mary Riley Styles Public Library",
+"city": "Falls Church",
+"county": "Falls Church",
+"state": "VA"
+},
+{
+"id": "VA0072",
+"name": "Massanutten Regional Library",
+"city": "Harrisonburg",
+"county": "Harrisonburg",
+"state": "VA"
+},
+{
+"id": "VA8002",
+"name": "Mecklenburg County Public Library",
+"city": "Boydton",
+"county": "Mecklenburg",
+"state": "VA"
+},
+{
+"id": "VA0049",
+"name": "Meherrin Regional Library",
+"city": "Lawrenceville",
+"county": "Brunswick",
+"state": "VA"
+},
+{
+"id": "VA0050",
+"name": "Middlesex County Public Library",
+"city": "Urbanna",
+"county": "Middlesex",
+"state": "VA"
+},
+{
+"id": "VA0051",
+"name": "Montgomery-Floyd Regional Library",
+"city": "Christiansburg",
+"county": "Montgomery",
+"state": "VA"
+},
+{
+"id": "VA0053",
+"name": "Newport News Public Library System",
+"city": "Newport News",
+"county": "Newport News",
+"state": "VA"
+},
+{
+"id": "VA0054",
+"name": "Norfolk Public Library",
+"city": "Norfolk",
+"county": "Norfolk",
+"state": "VA"
+},
+{
+"id": "VA0090",
+"name": "Northumberland Public Library",
+"city": "Heathsville",
+"county": "Northumberland",
+"state": "VA"
+},
+{
+"id": "VA0055",
+"name": "Nottoway County Library System",
+"city": "Crewe",
+"county": "Nottoway",
+"state": "VA"
+},
+{
+"id": "VA0056",
+"name": "Orange County Public Library",
+"city": "Orange",
+"county": "Orange",
+"state": "VA"
+},
+{
+"id": "VA0057",
+"name": "Pamunkey Regional Library",
+"city": "Hanover",
+"county": "Hanover",
+"state": "VA"
+},
+{
+"id": "VA0059",
+"name": "Petersburg Public Library",
+"city": "Petersburg",
+"county": "Petersburg",
+"state": "VA"
+},
+{
+"id": "VA0060",
+"name": "Pittsylvania County Public Library",
+"city": "Chatham",
+"county": "Pittsylvania",
+"state": "VA"
+},
+{
+"id": "VA0061",
+"name": "Poquoson Public Library",
+"city": "Poquoson",
+"county": "Poquoson",
+"state": "VA"
+},
+{
+"id": "VA0062",
+"name": "Portsmouth Public Library",
+"city": "Portsmouth",
+"county": "Portsmouth",
+"state": "VA"
+},
+{
+"id": "VA0063",
+"name": "Powhatan County Public Library",
+"city": "Powhatan",
+"county": "Powhatan",
+"state": "VA"
+},
+{
+"id": "VA0064",
+"name": "Prince William Public Libraries",
+"city": "Prince William",
+"county": "Prince William",
+"state": "VA"
+},
+{
+"id": "VA0065",
+"name": "Pulaski County Library System",
+"city": "Pulaski",
+"county": "Pulaski",
+"state": "VA"
+},
+{
+"id": "VA0066",
+"name": "Radford Public Library",
+"city": "Radford",
+"county": "Radford",
+"state": "VA"
+},
+{
+"id": "VA0068",
+"name": "Richmond Public Library",
+"city": "Richmond",
+"county": "Richmond",
+"state": "VA"
+},
+{
+"id": "VA0069",
+"name": "Roanoke City Public Library",
+"city": "Roanoke",
+"county": "Roanoke",
+"state": "VA"
+},
+{
+"id": "VA0070",
+"name": "Roanoke County Public Library",
+"city": "Roanoke",
+"county": "Roanoke",
+"state": "VA"
+},
+{
+"id": "VA0071",
+"name": "Rockbridge Regional Library",
+"city": "Lexington",
+"county": "Lexington",
+"state": "VA"
+},
+{
+"id": "VA0073",
+"name": "Russell County Public Library",
+"city": "Lebanon",
+"county": "Russell",
+"state": "VA"
+},
+{
+"id": "VA0074",
+"name": "Salem Public Library",
+"city": "Salem",
+"county": "Salem",
+"state": "VA"
+},
+{
+"id": "VA0075",
+"name": "Samuels Public Library",
+"city": "Front Royal",
+"county": "Warren",
+"state": "VA"
+},
+{
+"id": "VA0076",
+"name": "Shenandoah County Library",
+"city": "Edinburg",
+"county": "Shenandoah",
+"state": "VA"
+},
+{
+"id": "VA0077",
+"name": "Smyth County Public Library",
+"city": "Marion",
+"county": "Smyth/Marion",
+"state": "VA"
+},
+{
+"id": "VA0079",
+"name": "Staunton Public Library",
+"city": "Staunton",
+"county": "Staunton",
+"state": "VA"
+},
+{
+"id": "VA0080",
+"name": "Suffolk Public Library System",
+"city": "Suffolk",
+"county": "City Of Suffolk",
+"state": "VA"
+},
+{
+"id": "VA0081",
+"name": "Tazewell County Public Library",
+"city": "Tazewell",
+"county": "Tazewell",
+"state": "VA"
+},
+{
+"id": "VA0082",
+"name": "Virginia Beach Public Library",
+"city": "Virginia Beach",
+"county": "Virginia Beach",
+"state": "VA"
+},
+{
+"id": "VA0084",
+"name": "Washington County Public Library",
+"city": "Abingdon",
+"county": "Washington",
+"state": "VA"
+},
+{
+"id": "VA0085",
+"name": "Waynesboro Public Library",
+"city": "Waynesboro",
+"county": "Waynesboro",
+"state": "VA"
+},
+{
+"id": "VA0086",
+"name": "Williamsburg Regional Library",
+"city": "Williamsburg",
+"county": "Williamsburg",
+"state": "VA"
+},
+{
+"id": "VA0087",
+"name": "Wythe-Grayson Regional Library",
+"city": "Independence",
+"county": "Grayson",
+"state": "VA"
+},
+{
+"id": "VA0088",
+"name": "York County Public Library",
+"city": "Yorktown",
+"county": "York",
+"state": "VA"
+},
+{
+"id": "VT0011",
+"name": "Aldrich Public",
+"city": "Barre",
+"county": "Washington",
+"state": "VT"
+},
+{
+"id": "VT0014",
+"name": "Bennington Free",
+"city": "Bennington",
+"county": "Bennington",
+"state": "VT"
+},
+{
+"id": "VT0020",
+"name": "Brooks Memorial",
+"city": "Brattleboro",
+"county": "Windham",
+"state": "VT"
+},
+{
+"id": "VT0054",
+"name": "Brownell",
+"city": "Essex Junction",
+"county": "Chittenden",
+"state": "VT"
+},
+{
+"id": "VT0039",
+"name": "Burnham Memorial",
+"city": "Colchester",
+"county": "Chittenden",
+"state": "VT"
+},
+{
+"id": "VT0188",
+"name": "Dorothy Alling Memorial",
+"city": "Williston",
+"county": "Chittenden",
+"state": "VT"
+},
+{
+"id": "VT0053",
+"name": "Essex Free",
+"city": "Essex",
+"county": "Chittenden",
+"state": "VT"
+},
+{
+"id": "VT0029",
+"name": "Fletcher Free",
+"city": "Burlington",
+"county": "Chittenden",
+"state": "VT"
+},
+{
+"id": "VT0098",
+"name": "Kellogg-Hubbard",
+"city": "Montpelier",
+"county": "Washington",
+"state": "VT"
+}
+]

@@ -1,0 +1,352 @@
+[
+{
+"id": "LA0036",
+"name": "Vermilion Parish Library",
+"city": "Abbeville",
+"county": "Vermilion",
+"state": "LA"
+},
+{
+"id": "LA0038",
+"name": "Vernon Parish Library",
+"city": "Leesville",
+"county": "Vernon",
+"state": "LA"
+},
+{
+"id": "LA0035",
+"name": "Washington Parish Library",
+"city": "Franklinton",
+"county": "Washington",
+"state": "LA"
+},
+{
+"id": "LA0033",
+"name": "Webster Parish Library",
+"city": "Minden",
+"county": "Webster",
+"state": "LA"
+},
+{
+"id": "LA0007",
+"name": "West Baton Rouge Parish Library",
+"city": "Port Allen",
+"county": "West Baton Rouge",
+"state": "LA"
+},
+{
+"id": "LA0067",
+"name": "West Feliciana Parish Library",
+"city": "St. Francisville",
+"county": "West Feliciana",
+"state": "LA"
+},
+{
+"id": "LA0005",
+"name": "Winn Parish Library",
+"city": "Winnfield",
+"county": "Winn",
+"state": "LA"
+},
+{
+"id": "MA0167",
+"name": "Abbot Public Library",
+"city": "Marblehead",
+"county": "Essex",
+"state": "MA"
+},
+{
+"id": "MA0001",
+"name": "Abington Public Library",
+"city": "Abington",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0002",
+"name": "Acton Memorial Library",
+"city": "Acton",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0003",
+"name": "Acushnet Public Library",
+"city": "Acushnet",
+"county": "Bristol",
+"state": "MA"
+},
+{
+"id": "MA0005",
+"name": "Agawam Public Library",
+"city": "Agawam",
+"county": "Hampden",
+"state": "MA"
+},
+{
+"id": "MA0088",
+"name": "Ames Free Library Of Easton, Inc.",
+"city": "North Easton",
+"county": "Bristol",
+"state": "MA"
+},
+{
+"id": "MA0007",
+"name": "Amesbury Public Library",
+"city": "Amesbury",
+"county": "Essex",
+"state": "MA"
+},
+{
+"id": "MA0014",
+"name": "Ashland Public Library",
+"city": "Ashland",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0015",
+"name": "Athol Public Library",
+"city": "Athol",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0016",
+"name": "Attleboro Public Library",
+"city": "Attleboro",
+"county": "Bristol",
+"state": "MA"
+},
+{
+"id": "MA0017",
+"name": "Auburn Free Public Library",
+"city": "Auburn",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0339",
+"name": "Beals Memorial Library",
+"city": "Winchendon",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0023",
+"name": "Bedford Free Public Library",
+"city": "Bedford",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0025",
+"name": "Bellingham Public Library",
+"city": "Bellingham",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0026",
+"name": "Belmont Public Library",
+"city": "Belmont",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0233",
+"name": "Berkshire Athenaeum",
+"city": "Pittsfield",
+"county": "Berkshire",
+"state": "MA"
+},
+{
+"id": "MA0030",
+"name": "Beverly Public Library",
+"city": "Beverly",
+"county": "Essex",
+"state": "MA"
+},
+{
+"id": "MA0064",
+"name": "Bigelow Free Public Library",
+"city": "Clinton",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0031",
+"name": "Billerica Public Library",
+"city": "Billerica",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0244",
+"name": "Blanding Free Public Library",
+"city": "Rehoboth",
+"county": "Bristol",
+"state": "MA"
+},
+{
+"id": "MA0035",
+"name": "Boston Public Library",
+"city": "Boston",
+"county": "Suffolk",
+"state": "MA"
+},
+{
+"id": "MA0099",
+"name": "Boyden Library",
+"city": "Foxborough",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0041",
+"name": "Brewster Ladies' Library",
+"city": "Brewster",
+"county": "Barnstable",
+"state": "MA"
+},
+{
+"id": "MA0042",
+"name": "Bridgewater Public Library",
+"city": "Bridgewater",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0044",
+"name": "Brockton Public Library",
+"city": "Brockton",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0046",
+"name": "Brookline Public Library",
+"city": "Brookline",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0126",
+"name": "Brooks Free Library",
+"city": "Harwich",
+"county": "Barnstable",
+"state": "MA"
+},
+{
+"id": "MA0048",
+"name": "Burlington Public Library",
+"city": "Burlington",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0049",
+"name": "Cambridge Public Library",
+"city": "Cambridge",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0050",
+"name": "Canton Public Library",
+"city": "Canton",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0052",
+"name": "Carver Public Library",
+"city": "Carver",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0154",
+"name": "Cary Memorial Library",
+"city": "Lexington",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0054",
+"name": "Charlton Public Library",
+"city": "Charlton",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0056",
+"name": "Chelmsford Public Library",
+"city": "Chelmsford",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0057",
+"name": "Chelsea Public Library",
+"city": "Chelsea",
+"county": "Suffolk",
+"state": "MA"
+},
+{
+"id": "MA0061",
+"name": "Chicopee Public Library",
+"city": "Chicopee",
+"county": "Hampden",
+"state": "MA"
+},
+{
+"id": "MA0024",
+"name": "Clapp Memorial Library",
+"city": "Belchertown",
+"county": "Hampshire",
+"state": "MA"
+},
+{
+"id": "MA0067",
+"name": "Concord Free Public Library",
+"city": "Concord",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0072",
+"name": "Dartmouth Public Libraries",
+"city": "Dartmouth",
+"county": "Bristol",
+"state": "MA"
+},
+{
+"id": "MA0073",
+"name": "Dedham Public Library",
+"city": "Dedham",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0082",
+"name": "Duxbury Free Library",
+"city": "Duxbury",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0083",
+"name": "East Bridgewater Public Library",
+"city": "East Bridgewater",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0085",
+"name": "East Longmeadow Public Library",
+"city": "East Longmeadow",
+"county": "Hampden",
+"state": "MA"
+}
+]

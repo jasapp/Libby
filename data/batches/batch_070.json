@@ -1,0 +1,352 @@
+[
+{
+"id": "TX0689",
+"name": "University Park Public Library",
+"city": "Dallas",
+"county": "Dallas",
+"state": "TX"
+},
+{
+"id": "TX0064",
+"name": "Upshur County Library",
+"city": "Gilmer",
+"county": "Upshur",
+"state": "TX"
+},
+{
+"id": "TX0009",
+"name": "Val Verde County Library",
+"city": "Del Rio",
+"county": "Val Verde",
+"state": "TX"
+},
+{
+"id": "TX0417",
+"name": "Van Zandt County Library",
+"city": "Canton",
+"county": "Van Zandt",
+"state": "TX"
+},
+{
+"id": "TX0315",
+"name": "Victoria Public Library",
+"city": "Victoria",
+"county": "Victoria",
+"state": "TX"
+},
+{
+"id": "TX0273",
+"name": "Virgil & Josephine Gordon Memorial Library",
+"city": "Sealy",
+"county": "Austin",
+"state": "TX"
+},
+{
+"id": "TX0074",
+"name": "W Walworth Harrison Public Library",
+"city": "Greenville",
+"county": "Hunt",
+"state": "TX"
+},
+{
+"id": "TX0317",
+"name": "Waco-Mclennan County Library",
+"city": "Waco",
+"county": "Mclennan",
+"state": "TX"
+},
+{
+"id": "TX0090",
+"name": "Waller County Library",
+"city": "Hempstead",
+"county": "Waller",
+"state": "TX"
+},
+{
+"id": "TX0183",
+"name": "Ward County Library",
+"city": "Monahans",
+"county": "Ward",
+"state": "TX"
+},
+{
+"id": "TX0369",
+"name": "Watauga Public Library",
+"city": "Watauga",
+"county": "Tarrant",
+"state": "TX"
+},
+{
+"id": "TX0322",
+"name": "Weatherford Public Library",
+"city": "Weatherford",
+"county": "Parker",
+"state": "TX"
+},
+{
+"id": "TX0664",
+"name": "Wells Branch Community Library",
+"city": "Austin",
+"county": "Travis",
+"state": "TX"
+},
+{
+"id": "TX0370",
+"name": "Westbank Community Library District",
+"city": "Austin",
+"county": "Travis",
+"state": "TX"
+},
+{
+"id": "TX0326",
+"name": "Wharton County Library",
+"city": "Wharton",
+"county": "Wharton",
+"state": "TX"
+},
+{
+"id": "TX0329",
+"name": "White Settlement Public Library",
+"city": "White Settlement",
+"county": "Tarrant",
+"state": "TX"
+},
+{
+"id": "TX0332",
+"name": "Wichita Falls Public Library",
+"city": "Wichita Falls",
+"county": "Wichita",
+"state": "TX"
+},
+{
+"id": "TX0045",
+"name": "Wilson County Public Libraries",
+"city": "Floresville",
+"county": "Wilson",
+"state": "TX"
+},
+{
+"id": "TX0565",
+"name": "Wimberley Village Library",
+"city": "Wimberley",
+"county": "Hays",
+"state": "TX"
+},
+{
+"id": "TX0350",
+"name": "Zula B Wylie Public Library In Cedar Hill",
+"city": "Cedar Hill",
+"county": "Dallas",
+"state": "TX"
+},
+{
+"id": "UT0057",
+"name": "American Fork City Library",
+"city": "American Fork",
+"county": "Utah",
+"state": "UT"
+},
+{
+"id": "UT0005",
+"name": "Box Elder County Bookmobile Library",
+"city": "Willard",
+"county": "Box Elder",
+"state": "UT"
+},
+{
+"id": "UT0006",
+"name": "Brigham City Library",
+"city": "Brigham City",
+"county": "Box Elder",
+"state": "UT"
+},
+{
+"id": "UT0026",
+"name": "Cedar City Public Library",
+"city": "Cedar City",
+"county": "Iron",
+"state": "UT"
+},
+{
+"id": "UT0019",
+"name": "Davis County Library",
+"city": "Farmington",
+"county": "Davis",
+"state": "UT"
+},
+{
+"id": "UT0021",
+"name": "Duchesne County Library System",
+"city": "Duchesne",
+"county": "Duchesne",
+"state": "UT"
+},
+{
+"id": "UT8002",
+"name": "Eagle Mountain Public Library",
+"city": "Eagle Mountain",
+"county": "Utah",
+"state": "UT"
+},
+{
+"id": "UT8003",
+"name": "Grantsville City Library",
+"city": "Grantsville",
+"county": "Tooele",
+"state": "UT"
+},
+{
+"id": "UT0071",
+"name": "Highland City Library",
+"city": "Highland",
+"county": "Utah",
+"state": "UT"
+},
+{
+"id": "UT0010",
+"name": "Hyrum Library",
+"city": "Hyrum",
+"county": "Cache",
+"state": "UT"
+},
+{
+"id": "UT0025",
+"name": "Iron County Bookmobile Library",
+"city": "Enoch",
+"county": "Iron",
+"state": "UT"
+},
+{
+"id": "UT0058",
+"name": "Lehi City Public Library",
+"city": "Lehi",
+"county": "Utah",
+"state": "UT"
+},
+{
+"id": "UT0012",
+"name": "Logan Library",
+"city": "Logan",
+"county": "Cache",
+"state": "UT"
+},
+{
+"id": "UT0035",
+"name": "Morgan County Library",
+"city": "Morgan",
+"county": "Morgan",
+"state": "UT"
+},
+{
+"id": "UT0047",
+"name": "Murray Public Library",
+"city": "Murray",
+"county": "Salt Lake",
+"state": "UT"
+},
+{
+"id": "UT0070",
+"name": "North Logan City Library",
+"city": "North Logan",
+"county": "Cache",
+"state": "UT"
+},
+{
+"id": "UT0059",
+"name": "Orem Public Library",
+"city": "Orem",
+"county": "Utah",
+"state": "UT"
+},
+{
+"id": "UT0060",
+"name": "Payson City Library",
+"city": "Payson",
+"county": "Utah",
+"state": "UT"
+},
+{
+"id": "UT0061",
+"name": "Pleasant Grove Public Library",
+"city": "Pleasant Grove",
+"county": "Utah",
+"state": "UT"
+},
+{
+"id": "UT0062",
+"name": "Provo City Library",
+"city": "Provo",
+"county": "Utah",
+"state": "UT"
+},
+{
+"id": "UT0048",
+"name": "Salt Lake City Public Library System",
+"city": "Salt Lake City",
+"county": "Salt Lake",
+"state": "UT"
+},
+{
+"id": "UT0049",
+"name": "Salt Lake County Library",
+"city": "West Jordan",
+"county": "Salt Lake",
+"state": "UT"
+},
+{
+"id": "UT0050",
+"name": "San Juan County Library",
+"city": "Blanding",
+"county": "San Juan",
+"state": "UT"
+},
+{
+"id": "UT0038",
+"name": "Sanpete County Bookmobile Library",
+"city": "Fairview",
+"county": "Sanpete",
+"state": "UT"
+},
+{
+"id": "UT0063",
+"name": "Santaquin City Library",
+"city": "Santaquin",
+"county": "Utah",
+"state": "UT"
+},
+{
+"id": "UT0074",
+"name": "Saratoga Springs Public Library",
+"city": "Saratoga Springs",
+"county": "Utah",
+"state": "UT"
+},
+{
+"id": "UT0014",
+"name": "Smithfield Library",
+"city": "Smithfield",
+"county": "Cache",
+"state": "UT"
+},
+{
+"id": "UT0064",
+"name": "Spanish Fork Public Library",
+"city": "Spanish Fork",
+"county": "Utah",
+"state": "UT"
+},
+{
+"id": "UT0065",
+"name": "Springville Public Library",
+"city": "Springville",
+"county": "Utah",
+"state": "UT"
+},
+{
+"id": "UT0051",
+"name": "Summit County Library",
+"city": "Park City",
+"county": "Summit",
+"state": "UT"
+}
+]

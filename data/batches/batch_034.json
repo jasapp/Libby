@@ -1,0 +1,352 @@
+[
+{
+"id": "MI0322",
+"name": "Saint Clair Shores Public Library",
+"city": "St. Clair Shores",
+"county": "Macomb",
+"state": "MI"
+},
+{
+"id": "MI0315",
+"name": "Salem-South Lyon District Library",
+"city": "South Lyon",
+"county": "Washtenaw",
+"state": "MI"
+},
+{
+"id": "MI0300",
+"name": "Saline District Library",
+"city": "Saline",
+"county": "Washtenaw",
+"state": "MI"
+},
+{
+"id": "MI0303",
+"name": "Saranac Public Library",
+"city": "Saranac",
+"county": "Ionia",
+"state": "MI"
+},
+{
+"id": "MI0309",
+"name": "Shelby Area District Library",
+"city": "Shelby",
+"county": "Oceana",
+"state": "MI"
+},
+{
+"id": "MI0308",
+"name": "Shelby Township Library",
+"city": "Shelby Township",
+"county": "Macomb",
+"state": "MI"
+},
+{
+"id": "MI0261",
+"name": "Shiawassee District Library",
+"city": "Owosso",
+"county": "Shiawassee",
+"state": "MI"
+},
+{
+"id": "MI0316",
+"name": "Southfield Public Library",
+"city": "Southfield",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0434",
+"name": "Southgate Veterans Memorial Library",
+"city": "Southgate",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0355",
+"name": "Spring Lake District Library",
+"city": "Spring Lake",
+"county": "Ottawa",
+"state": "MI"
+},
+{
+"id": "MI0319",
+"name": "Springfield Township Library",
+"city": "Davisburg",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0325",
+"name": "Sterling Heights Public Library",
+"city": "Sterling Heights",
+"county": "Macomb",
+"state": "MI"
+},
+{
+"id": "MI0326",
+"name": "Sturgis District Library",
+"city": "Sturgis",
+"county": "St. Joseph",
+"state": "MI"
+},
+{
+"id": "MI0022",
+"name": "Superior District Library",
+"city": "Sault Ste Marie",
+"county": "Chippewa",
+"state": "MI"
+},
+{
+"id": "MI0331",
+"name": "Tamarack District Library",
+"city": "Lakeview",
+"county": "Montcalm",
+"state": "MI"
+},
+{
+"id": "MI9024",
+"name": "Taylor Community Library",
+"city": "Taylor",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0333",
+"name": "Tecumseh District Library",
+"city": "Tecumseh",
+"county": "Lenawee",
+"state": "MI"
+},
+{
+"id": "MI0335",
+"name": "Theodore A. Cutler Memorial Library",
+"city": "Saint Louis",
+"county": "Gratiot",
+"state": "MI"
+},
+{
+"id": "MI0336",
+"name": "Thomas Township Library",
+"city": "Saginaw",
+"county": "Saginaw",
+"state": "MI"
+},
+{
+"id": "MI0338",
+"name": "Thornapple Kellogg School And Community Library",
+"city": "Middleville",
+"county": "Barry",
+"state": "MI"
+},
+{
+"id": "MI0340",
+"name": "Three Rivers Public Library",
+"city": "Three Rivers",
+"county": "St. Joseph",
+"state": "MI"
+},
+{
+"id": "MI0342",
+"name": "Traverse Area District Library",
+"city": "Traverse City",
+"county": "Grand Traverse",
+"state": "MI"
+},
+{
+"id": "MI9020",
+"name": "Trenton Veterans Memorial Library",
+"city": "Trenton",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0343",
+"name": "Troy Public Library",
+"city": "Troy",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0345",
+"name": "Van Buren District Library",
+"city": "Decatur",
+"county": "Van Buren",
+"state": "MI"
+},
+{
+"id": "MI0349",
+"name": "Vicksburg District Library",
+"city": "Vicksburg",
+"county": "Kalamazoo",
+"state": "MI"
+},
+{
+"id": "MI0356",
+"name": "Warren Public Library",
+"city": "Warren",
+"county": "Macomb",
+"state": "MI"
+},
+{
+"id": "MI0358",
+"name": "Waterford Township Public Library",
+"city": "Waterford",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0403",
+"name": "Wayne Public Library",
+"city": "Wayne",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0362",
+"name": "West Bloomfield Township Public Library",
+"city": "West Bloomfield",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0370",
+"name": "White Lake Community Library",
+"city": "Whitehall",
+"county": "Muskegon",
+"state": "MI"
+},
+{
+"id": "MI0366",
+"name": "White Lake Township Library",
+"city": "White Lake",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0371",
+"name": "Willard Public Library",
+"city": "Battle Creek",
+"county": "Calhoun",
+"state": "MI"
+},
+{
+"id": "MI0415",
+"name": "William P. Faust Public Library Of Westland",
+"city": "Westland",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0374",
+"name": "Wixom Public Library",
+"city": "Wixom",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0377",
+"name": "Ypsilanti District Library",
+"city": "Ypsilanti",
+"county": "Washtenaw",
+"state": "MI"
+},
+{
+"id": "MN0069",
+"name": "Albert Lea Public Library",
+"city": "Albert Lea",
+"county": "Freeborn",
+"state": "MN"
+},
+{
+"id": "MN0035",
+"name": "Anoka County Library",
+"city": "Blaine",
+"county": "Anoka",
+"state": "MN"
+},
+{
+"id": "MN0001",
+"name": "Arrowhead Library System",
+"city": "Mountain Iron",
+"county": "St. Louis",
+"state": "MN"
+},
+{
+"id": "MN0070",
+"name": "Austin Public Library",
+"city": "Austin",
+"county": "Mower",
+"state": "MN"
+},
+{
+"id": "MN0106",
+"name": "Blue Earth County Library",
+"city": "Mankato",
+"county": "Blue Earth",
+"state": "MN"
+},
+{
+"id": "MN0072",
+"name": "Cannon Falls Library",
+"city": "Cannon Falls",
+"county": "Goodhue",
+"state": "MN"
+},
+{
+"id": "MN0038",
+"name": "Carver County Library System",
+"city": "Chaska",
+"county": "Carver",
+"state": "MN"
+},
+{
+"id": "MN0010",
+"name": "Cloquet Public Library",
+"city": "Cloquet",
+"county": "Carlton",
+"state": "MN"
+},
+{
+"id": "MN0037",
+"name": "Columbia Heights Public Library",
+"city": "Columbia Heights",
+"county": "Anoka",
+"state": "MN"
+},
+{
+"id": "MN0039",
+"name": "Dakota County Library",
+"city": "Eagan",
+"county": "Dakota",
+"state": "MN"
+},
+{
+"id": "MN0137",
+"name": "Douglas County Library",
+"city": "Alexandria",
+"county": "Douglas",
+"state": "MN"
+},
+{
+"id": "MN0013",
+"name": "Duluth Public Library",
+"city": "Duluth",
+"county": "St. Louis",
+"state": "MN"
+},
+{
+"id": "MN0031",
+"name": "East Central Regional Library",
+"city": "Cambridge",
+"county": "Isanti",
+"state": "MN"
+},
+{
+"id": "MN0075",
+"name": "Faribault: Buckham Memorial Library",
+"city": "Faribault",
+"county": "Rice",
+"state": "MN"
+}
+]

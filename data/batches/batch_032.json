@@ -1,0 +1,352 @@
+[
+{
+"id": "MI0093",
+"name": "East Lansing Public Library",
+"city": "East Lansing",
+"county": "Ingham",
+"state": "MI"
+},
+{
+"id": "MI0092",
+"name": "Eastpointe Memorial Library",
+"city": "Eastpointe",
+"county": "Macomb",
+"state": "MI"
+},
+{
+"id": "MI0094",
+"name": "Eaton Rapids Area District Library",
+"city": "Eaton Rapids",
+"county": "Eaton",
+"state": "MI"
+},
+{
+"id": "MI0101",
+"name": "Escanaba Public Library",
+"city": "Escanaba",
+"county": "Delta",
+"state": "MI"
+},
+{
+"id": "MI0105",
+"name": "Farmington Community Library",
+"city": "Farmington Hills",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0107",
+"name": "Fennville District Library",
+"city": "Fennville",
+"county": "Allegan",
+"state": "MI"
+},
+{
+"id": "MI0108",
+"name": "Ferndale Area District Library",
+"city": "Ferndale",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0133",
+"name": "Flat River Community Library",
+"city": "Greenville",
+"county": "Montcalm",
+"state": "MI"
+},
+{
+"id": "MI0421",
+"name": "Flat Rock Public Library",
+"city": "Flat Rock",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0111",
+"name": "Flint Public Library",
+"city": "Flint",
+"county": "Genesee",
+"state": "MI"
+},
+{
+"id": "MI0113",
+"name": "Fowlerville District Library",
+"city": "Fowlerville",
+"county": "Livingston",
+"state": "MI"
+},
+{
+"id": "MI0116",
+"name": "Fraser Public Library",
+"city": "Fraser",
+"county": "Macomb",
+"state": "MI"
+},
+{
+"id": "MI0118",
+"name": "Fremont Area District Library",
+"city": "Fremont",
+"county": "Newaygo",
+"state": "MI"
+},
+{
+"id": "MI9022",
+"name": "Fruitport District Library",
+"city": "Fruitport",
+"county": "Muskegon",
+"state": "MI"
+},
+{
+"id": "MI0121",
+"name": "Garden City Public Library",
+"city": "Garden City",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0162",
+"name": "Gary Byker Memorial Library Of Hudsonville",
+"city": "Hudsonville",
+"county": "Ottawa",
+"state": "MI"
+},
+{
+"id": "MI0123",
+"name": "Genesee District Library",
+"city": "Flint",
+"county": "Genesee",
+"state": "MI"
+},
+{
+"id": "MI0124",
+"name": "Georgetown Township Public Library",
+"city": "Jenison",
+"county": "Ottawa",
+"state": "MI"
+},
+{
+"id": "MI0126",
+"name": "Gladstone Area School & Public Library",
+"city": "Gladstone",
+"county": "Delta",
+"state": "MI"
+},
+{
+"id": "MI0127",
+"name": "Gladwin County District Library",
+"city": "Gladwin",
+"county": "Gladwin",
+"state": "MI"
+},
+{
+"id": "MI0129",
+"name": "Grace A. Dow Memorial Library",
+"city": "Midland",
+"county": "Midland",
+"state": "MI"
+},
+{
+"id": "MI0130",
+"name": "Grand Ledge Area District Library",
+"city": "Grand Ledge",
+"county": "Eaton",
+"state": "MI"
+},
+{
+"id": "MI0131",
+"name": "Grand Rapids Public Library",
+"city": "Grand Rapids",
+"county": "Kent",
+"state": "MI"
+},
+{
+"id": "MI0134",
+"name": "Grosse Pointe Public Library",
+"city": "Grosse Pointe Farms",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0135",
+"name": "Hackley Public Library",
+"city": "Muskegon",
+"county": "Muskegon",
+"state": "MI"
+},
+{
+"id": "MI0137",
+"name": "Hamburg Township Library",
+"city": "Hamburg",
+"county": "Livingston",
+"state": "MI"
+},
+{
+"id": "MI0138",
+"name": "Hamtramck Public Library",
+"city": "Hamtramck",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0141",
+"name": "Harper Woods Public Library",
+"city": "Harper Woods",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0142",
+"name": "Harrison District Library",
+"city": "Harrison",
+"county": "Clare",
+"state": "MI"
+},
+{
+"id": "MI0435",
+"name": "Harrison Township Public Library",
+"city": "Harrison Township",
+"county": "Macomb",
+"state": "MI"
+},
+{
+"id": "MI0145",
+"name": "Hastings Public Library",
+"city": "Hastings",
+"county": "Barry",
+"state": "MI"
+},
+{
+"id": "MI0146",
+"name": "Hazel Park Memorial District Library",
+"city": "Hazel Park",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0150",
+"name": "Herrick District Library",
+"city": "Holland",
+"county": "Ottawa",
+"state": "MI"
+},
+{
+"id": "MI0152",
+"name": "Highland Township Public Library",
+"city": "Highland",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0232",
+"name": "Hillsdale Community Library",
+"city": "Hillsdale",
+"county": "Hillsdale",
+"state": "MI"
+},
+{
+"id": "MI0153",
+"name": "Holly Township Library",
+"city": "Holly",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0158",
+"name": "Houghton Lake Public Library",
+"city": "Houghton Lake",
+"county": "Roscommon",
+"state": "MI"
+},
+{
+"id": "MI0378",
+"name": "Howard Miller Library",
+"city": "Zeeland",
+"county": "Ottawa",
+"state": "MI"
+},
+{
+"id": "MI0160",
+"name": "Howell Carnegie District Library",
+"city": "Howell",
+"county": "Livingston",
+"state": "MI"
+},
+{
+"id": "MI0136",
+"name": "Ionia Community Library",
+"city": "Ionia",
+"county": "Ionia",
+"state": "MI"
+},
+{
+"id": "MI0171",
+"name": "Iosco-Arenac District Library",
+"city": "East Tawas",
+"county": "Iosco",
+"state": "MI"
+},
+{
+"id": "MI0173",
+"name": "Ishpeming Carnegie Public Library",
+"city": "Ishpeming",
+"county": "Marquette",
+"state": "MI"
+},
+{
+"id": "MI0175",
+"name": "Jackson District Library",
+"city": "Jackson",
+"county": "Jackson",
+"state": "MI"
+},
+{
+"id": "MI0180",
+"name": "Kalamazoo Public Library",
+"city": "Kalamazoo",
+"county": "Kalamazoo",
+"state": "MI"
+},
+{
+"id": "MI0181",
+"name": "Kalkaska County Library",
+"city": "Kalkaska",
+"county": "Kalkaska",
+"state": "MI"
+},
+{
+"id": "MI0182",
+"name": "Kent District Library",
+"city": "Comstock Park",
+"county": "Kent",
+"state": "MI"
+},
+{
+"id": "MI0190",
+"name": "Lapeer District Library",
+"city": "Lapeer",
+"county": "Lapeer",
+"state": "MI"
+},
+{
+"id": "MI0431",
+"name": "Leanna Hicks Public Library Of Inkster",
+"city": "Inkster",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0195",
+"name": "Lenawee District Library",
+"city": "Adrian",
+"county": "Lenawee",
+"state": "MI"
+},
+{
+"id": "MI0196",
+"name": "Lenox Township Library",
+"city": "New Haven",
+"county": "Macomb",
+"state": "MI"
+}
+]

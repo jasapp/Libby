@@ -1,0 +1,352 @@
+[
+{
+"id": "NJ0121",
+"name": "Montclair Public Library",
+"city": "Montclair",
+"county": "Essex",
+"state": "NJ"
+},
+{
+"id": "NJ0237",
+"name": "Montville Township Public Library",
+"city": "Montville",
+"county": "Morris",
+"state": "NJ"
+},
+{
+"id": "NJ0076",
+"name": "Moorestown Library",
+"city": "Moorestown",
+"county": "Burlington",
+"state": "NJ"
+},
+{
+"id": "NJ0221",
+"name": "Morris County Library",
+"city": "Whippany",
+"county": "Morris",
+"state": "NJ"
+},
+{
+"id": "NJ0238",
+"name": "Morristown-Morris Twp Joint Public Library",
+"city": "Morristown",
+"county": "Morris",
+"state": "NJ"
+},
+{
+"id": "NJ0078",
+"name": "Mount Laurel Library",
+"city": "Mount Laurel",
+"county": "Burlington",
+"state": "NJ"
+},
+{
+"id": "NJ0242",
+"name": "Mount Olive Public Library",
+"city": "Flanders",
+"county": "Morris",
+"state": "NJ"
+},
+{
+"id": "NJ0213",
+"name": "Neptune Township Public Library",
+"city": "Neptune",
+"county": "Monmouth",
+"state": "NJ"
+},
+{
+"id": "NJ0182",
+"name": "New Brunswick Free Public Library",
+"city": "New Brunswick",
+"county": "Middlesex",
+"state": "NJ"
+},
+{
+"id": "NJ0042",
+"name": "New Milford Public Library",
+"city": "New Milford",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0296",
+"name": "New Providence Memorial Library",
+"city": "New Providence",
+"county": "Union",
+"state": "NJ"
+},
+{
+"id": "NJ0122",
+"name": "Newark Public Library",
+"city": "Newark",
+"county": "Essex",
+"state": "NJ"
+},
+{
+"id": "NJ0043",
+"name": "North Arlington Public Library",
+"city": "North Arlington",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0151",
+"name": "North Bergen Free Public Library",
+"city": "North Bergen",
+"county": "Hudson",
+"state": "NJ"
+},
+{
+"id": "NJ0183",
+"name": "North Brunswick Free Public Library",
+"city": "North Brunswick",
+"county": "Middlesex",
+"state": "NJ"
+},
+{
+"id": "NJ0123",
+"name": "Nutley Free Public Library",
+"city": "Nutley",
+"county": "Essex",
+"state": "NJ"
+},
+{
+"id": "NJ0046",
+"name": "Oakland Public Library",
+"city": "Oakland",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0102",
+"name": "Ocean City Free Public Library",
+"city": "Ocean City",
+"county": "Cape May",
+"state": "NJ"
+},
+{
+"id": "NJ0252",
+"name": "Ocean County Library",
+"city": "Toms River",
+"county": "Ocean",
+"state": "NJ"
+},
+{
+"id": "NJ0184",
+"name": "Old Bridge Public Library",
+"city": "Old Bridge",
+"county": "Middlesex",
+"state": "NJ"
+},
+{
+"id": "NJ0049",
+"name": "Palisades Park Free Public Library",
+"city": "Palisades Park",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0050",
+"name": "Paramus Public Library",
+"city": "Paramus",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0243",
+"name": "Parsippany-Troy Hills Public Library",
+"city": "Parsippany",
+"county": "Morris",
+"state": "NJ"
+},
+{
+"id": "NJ0261",
+"name": "Passaic Public Library",
+"city": "Passaic",
+"county": "Passaic",
+"state": "NJ"
+},
+{
+"id": "NJ0262",
+"name": "Paterson Free Public Library",
+"city": "Paterson",
+"county": "Passaic",
+"state": "NJ"
+},
+{
+"id": "NJ0095",
+"name": "Pennsauken Free Public Library",
+"city": "Pennsauken",
+"county": "Camden",
+"state": "NJ"
+},
+{
+"id": "NJ0272",
+"name": "Pennsville Public Library",
+"city": "Pennsville",
+"county": "Salem",
+"state": "NJ"
+},
+{
+"id": "NJ0245",
+"name": "Pequannock Township Public Library",
+"city": "Pompton Plains",
+"county": "Morris",
+"state": "NJ"
+},
+{
+"id": "NJ0185",
+"name": "Perth Amboy Free Public Library",
+"city": "Perth Amboy",
+"county": "Middlesex",
+"state": "NJ"
+},
+{
+"id": "NJ0312",
+"name": "Phillipsburg Free Public Library",
+"city": "Phillipsburg",
+"county": "Warren",
+"state": "NJ"
+},
+{
+"id": "NJ0186",
+"name": "Piscataway Public Library",
+"city": "Piscataway",
+"county": "Middlesex",
+"state": "NJ"
+},
+{
+"id": "NJ0297",
+"name": "Plainfield Free Public Library",
+"city": "Plainfield",
+"county": "Union",
+"state": "NJ"
+},
+{
+"id": "NJ0187",
+"name": "Plainsboro Free Public Library",
+"city": "Plainsboro",
+"county": "Middlesex",
+"state": "NJ"
+},
+{
+"id": "NJ0263",
+"name": "Pompton Lakes Borough Free Public Library",
+"city": "Pompton Lakes",
+"county": "Passaic",
+"state": "NJ"
+},
+{
+"id": "NJ0169",
+"name": "Princeton Public Library",
+"city": "Princeton",
+"county": "Mercer",
+"state": "NJ"
+},
+{
+"id": "NJ0298",
+"name": "Rahway Public Library",
+"city": "Rahway",
+"county": "Union",
+"state": "NJ"
+},
+{
+"id": "NJ0052",
+"name": "Ramsey Free Public Library",
+"city": "Ramsey",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0246",
+"name": "Randolph Township Free Public Library",
+"city": "Randolph",
+"county": "Morris",
+"state": "NJ"
+},
+{
+"id": "NJ0215",
+"name": "Red Bank Public Library",
+"city": "Red Bank",
+"county": "Monmouth",
+"state": "NJ"
+},
+{
+"id": "NJ0053",
+"name": "Ridgefield Free Public Library",
+"city": "Ridgefield",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0054",
+"name": "Ridgefield Park Public Library",
+"city": "Ridgefield Park",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0055",
+"name": "Ridgewood Public Library",
+"city": "Ridgewood",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0264",
+"name": "Ringwood Public Library",
+"city": "Ringwood",
+"county": "Passaic",
+"state": "NJ"
+},
+{
+"id": "NJ0056",
+"name": "River Edge Free Public Library",
+"city": "River Edge",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0248",
+"name": "Rockaway Township Free Public Library",
+"city": "Rockaway",
+"county": "Morris",
+"state": "NJ"
+},
+{
+"id": "NJ0299",
+"name": "Roselle Free Public Library",
+"city": "Roselle",
+"county": "Union",
+"state": "NJ"
+},
+{
+"id": "NJ0300",
+"name": "Roselle Park Veteran`S Memorial Library",
+"city": "Roselle Park",
+"county": "Union",
+"state": "NJ"
+},
+{
+"id": "NJ0249",
+"name": "Roxbury Public Library",
+"city": "Succasunna",
+"county": "Morris",
+"state": "NJ"
+},
+{
+"id": "NJ0118",
+"name": "Ruth L. Rockwood Memorial Library",
+"city": "Livingston",
+"county": "Essex",
+"state": "NJ"
+},
+{
+"id": "NJ0059",
+"name": "Rutherford Free Public Library",
+"city": "Rutherford",
+"county": "Bergen",
+"state": "NJ"
+}
+]

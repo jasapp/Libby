@@ -1,0 +1,352 @@
+[
+{
+"id": "MA0087",
+"name": "Emily Williston Memorial Library",
+"city": "Easthampton",
+"county": "Hampshire",
+"state": "MA"
+},
+{
+"id": "MA0093",
+"name": "Everett Public Libraries",
+"city": "Everett",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0095",
+"name": "Fall River Public Library",
+"city": "Fall River",
+"county": "Bristol",
+"state": "MA"
+},
+{
+"id": "MA0096",
+"name": "Falmouth Public Library",
+"city": "Falmouth",
+"county": "Barnstable",
+"state": "MA"
+},
+{
+"id": "MA0346",
+"name": "Fiske Public Library",
+"city": "Wrentham",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0097",
+"name": "Fitchburg Public Library",
+"city": "Fitchburg",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0210",
+"name": "Flint Memorial Library",
+"city": "North Reading",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0211",
+"name": "Forbes Library",
+"city": "Northampton",
+"county": "Hampshire",
+"state": "MA"
+},
+{
+"id": "MA0100",
+"name": "Framingham Public Library",
+"city": "Framingham",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0101",
+"name": "Franklin Public Library",
+"city": "Franklin",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0133",
+"name": "Gale Free Library",
+"city": "Holden",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0312",
+"name": "Gladys E. Kelly Public Library",
+"city": "Webster",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0107",
+"name": "Gloucester Lyceum & Sawyer Free Lib",
+"city": "Gloucester",
+"county": "Essex",
+"state": "MA"
+},
+{
+"id": "MA0285",
+"name": "Goodnow Library",
+"city": "Sudbury",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0110",
+"name": "Grafton Public Library",
+"city": "Grafton",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0114",
+"name": "Greenfield Public Library",
+"city": "Greenfield",
+"county": "Franklin",
+"state": "MA"
+},
+{
+"id": "MA0115",
+"name": "Groton Public Library",
+"city": "Groton",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA9024",
+"name": "Hamilton-Wenham Public Library",
+"city": "South Hamilton",
+"county": "Essex",
+"state": "MA"
+},
+{
+"id": "MA0123",
+"name": "Hanson Public Library",
+"city": "Hanson",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0128",
+"name": "Haverhill Public Library",
+"city": "Haverhill",
+"county": "Essex",
+"state": "MA"
+},
+{
+"id": "MA0130",
+"name": "Hingham Public Library",
+"city": "Hingham",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0132",
+"name": "Holbrook Public Library",
+"city": "Holbrook",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0135",
+"name": "Holliston Public Library",
+"city": "Holliston",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0136",
+"name": "Holyoke Public Library",
+"city": "Holyoke",
+"county": "Hampden",
+"state": "MA"
+},
+{
+"id": "MA0138",
+"name": "Hopkinton Public Library",
+"city": "Hopkinton",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0160",
+"name": "Hubbard Memorial Library",
+"city": "Ludlow",
+"county": "Hampden",
+"state": "MA"
+},
+{
+"id": "MA0140",
+"name": "Hudson Public Library",
+"city": "Hudson",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0141",
+"name": "Hull Public Library",
+"city": "Hull",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0352",
+"name": "Hyannis Public Library Assoc.",
+"city": "Hyannis",
+"county": "Barnstable",
+"state": "MA"
+},
+{
+"id": "MA0143",
+"name": "Ipswich Public Library",
+"city": "Ipswich",
+"county": "Essex",
+"state": "MA"
+},
+{
+"id": "MA0326",
+"name": "J. V. Fletcher Library",
+"city": "Westford",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0275",
+"name": "Jacob Edwards Library",
+"city": "Southbridge",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0122",
+"name": "John Curtis Free Library",
+"city": "Hanover",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0036",
+"name": "Jonathan Bourne Public Library",
+"city": "Bourne",
+"county": "Barnstable",
+"state": "MA"
+},
+{
+"id": "MA0008",
+"name": "Jones Library, Inc.",
+"city": "Amherst",
+"county": "Hampshire",
+"state": "MA"
+},
+{
+"id": "MA0144",
+"name": "Kingston Public Library",
+"city": "Kingston",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0145",
+"name": "Lakeville Free Public Library",
+"city": "Lakeville",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0229",
+"name": "Lawrence Library",
+"city": "Pepperell",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0148",
+"name": "Lawrence Public Library",
+"city": "Lawrence",
+"county": "Essex",
+"state": "MA"
+},
+{
+"id": "MA0150",
+"name": "Leicester Public Library",
+"city": "Leicester",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0152",
+"name": "Leominster Public Library",
+"city": "Leominster",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0103",
+"name": "Levi Heywood Memorial Library",
+"city": "Gardner",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0302",
+"name": "Lucius Beebe Memorial Library",
+"city": "Wakefield",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0161",
+"name": "Lunenburg Public Library",
+"city": "Lunenburg",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0162",
+"name": "Lynn Public Library",
+"city": "Lynn",
+"county": "Essex",
+"state": "MA"
+},
+{
+"id": "MA0163",
+"name": "Lynnfield Public Library",
+"city": "Lynnfield",
+"county": "Essex",
+"state": "MA"
+},
+{
+"id": "MA0164",
+"name": "Malden Public Library",
+"city": "Malden",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0166",
+"name": "Mansfield Public Library",
+"city": "Mansfield",
+"county": "Bristol",
+"state": "MA"
+},
+{
+"id": "MA0169",
+"name": "Marlborough Public Library",
+"city": "Marlborough",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0171",
+"name": "Mashpee Public Library",
+"city": "Mashpee",
+"county": "Barnstable",
+"state": "MA"
+}
+]

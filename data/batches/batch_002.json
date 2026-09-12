@@ -1,0 +1,352 @@
+[
+{
+"id": "AR0020",
+"name": "Barton Library",
+"city": "El Dorado",
+"county": "Union",
+"state": "AR"
+},
+{
+"id": "AR0039",
+"name": "Baxter County Library",
+"city": "Mountain Home",
+"county": "Baxter",
+"state": "AR"
+},
+{
+"id": "AR0044",
+"name": "Bella Vista Public Library",
+"city": "Bella Vista",
+"county": "Benton",
+"state": "AR"
+},
+{
+"id": "AR0038",
+"name": "Bentonville Public Library",
+"city": "Bentonville",
+"county": "Benton",
+"state": "AR"
+},
+{
+"id": "AR0050",
+"name": "Boone County Library",
+"city": "Harrison",
+"county": "Boone",
+"state": "AR"
+},
+{
+"id": "AR0049",
+"name": "Carroll And Madison Library System",
+"city": "Berryville",
+"county": "Carroll",
+"state": "AR"
+},
+{
+"id": "AR0001",
+"name": "Central Arkansas Library System",
+"city": "Little Rock",
+"county": "Pulaski",
+"state": "AR"
+},
+{
+"id": "AR0060",
+"name": "Clark County Library",
+"city": "Arkadelphia",
+"county": "Clark",
+"state": "AR"
+},
+{
+"id": "AR0010",
+"name": "Columbia County Library",
+"city": "Magnolia",
+"county": "Columbia",
+"state": "AR"
+},
+{
+"id": "AR0030",
+"name": "Conway County Library",
+"city": "Morrilton",
+"county": "Conway",
+"state": "AR"
+},
+{
+"id": "AR0048",
+"name": "Crawford County Library System",
+"city": "Van Buren",
+"county": "Crawford",
+"state": "AR"
+},
+{
+"id": "AR0009",
+"name": "Crowley Ridge Regional Library",
+"city": "Jonesboro",
+"county": "Craighead",
+"state": "AR"
+},
+{
+"id": "AR0024",
+"name": "East Central Arkansas Regional Library System",
+"city": "Wynne",
+"county": "Cross",
+"state": "AR"
+},
+{
+"id": "AR0017",
+"name": "Faulkner-Van Buren Regional Library System",
+"city": "Conway",
+"county": "Faulkner",
+"state": "AR"
+},
+{
+"id": "AR0066",
+"name": "Fayetteville Public Library",
+"city": "Fayetteville",
+"county": "Washington",
+"state": "AR"
+},
+{
+"id": "AR0037",
+"name": "Forrest City Public Library",
+"city": "Forrest City",
+"county": "St. Francis",
+"state": "AR"
+},
+{
+"id": "AR0011",
+"name": "Fort Smith Public Library",
+"city": "Fort Smith",
+"county": "Sebastian",
+"state": "AR"
+},
+{
+"id": "AR0006",
+"name": "Garland County Library",
+"city": "Hot Springs",
+"county": "Garland",
+"state": "AR"
+},
+{
+"id": "AR0076",
+"name": "Hempstead County Library",
+"city": "Hope",
+"county": "Hempstead",
+"state": "AR"
+},
+{
+"id": "AR0082",
+"name": "Independence County Library",
+"city": "Batesville",
+"county": "Independence",
+"state": "AR"
+},
+{
+"id": "AR0031",
+"name": "Lawrence County Library",
+"city": "Walnut Ridge",
+"county": "Lawrence",
+"state": "AR"
+},
+{
+"id": "AR0041",
+"name": "Lonoke County Library System",
+"city": "Lonoke",
+"county": "Lonoke",
+"state": "AR"
+},
+{
+"id": "AR0003",
+"name": "Marion County Library",
+"city": "Yellville",
+"county": "Marion",
+"state": "AR"
+},
+{
+"id": "AR0005",
+"name": "Mid Arkansas Regional Library System",
+"city": "Malvern",
+"county": "Hot Spring",
+"state": "AR"
+},
+{
+"id": "AR0040",
+"name": "Mississippi/Crittenden Regional Library",
+"city": "Blytheville",
+"county": "Mississippi",
+"state": "AR"
+},
+{
+"id": "AR0016",
+"name": "North Little Rock Public Library System",
+"city": "North Little Rock",
+"county": "Pulaski",
+"state": "AR"
+},
+{
+"id": "AR0013",
+"name": "Northeast Arkansas Regional Library",
+"city": "Paragould",
+"county": "Greene",
+"state": "AR"
+},
+{
+"id": "AR0062",
+"name": "Ouachita Mountains Regional Library",
+"city": "Mt. Ida",
+"county": "Montgomery",
+"state": "AR"
+},
+{
+"id": "AR0015",
+"name": "Phillips Lee Monroe Regional Library System",
+"city": "Helena",
+"county": "Phillips",
+"state": "AR"
+},
+{
+"id": "AR0008",
+"name": "Pine Bluff/Jefferson County Library System",
+"city": "Pine Bluff",
+"county": "Jefferson",
+"state": "AR"
+},
+{
+"id": "AR0021",
+"name": "Pope County Library System",
+"city": "Russellville",
+"county": "Pope",
+"state": "AR"
+},
+{
+"id": "AR0063",
+"name": "Public Library Of Camden & Ouachita County",
+"city": "Camden",
+"county": "Ouachita",
+"state": "AR"
+},
+{
+"id": "AR0047",
+"name": "Rogers Public Library",
+"city": "Rogers",
+"county": "Benton",
+"state": "AR"
+},
+{
+"id": "AR0023",
+"name": "Scott Sebastian Regional Library",
+"city": "Greenwood",
+"county": "Sebastian",
+"state": "AR"
+},
+{
+"id": "AR0079",
+"name": "Siloam Springs Public Library",
+"city": "Siloam Springs",
+"county": "Benton",
+"state": "AR"
+},
+{
+"id": "AR0014",
+"name": "Southeast Arkansas Regional Library",
+"city": "Monticello",
+"county": "Drew",
+"state": "AR"
+},
+{
+"id": "AR0004",
+"name": "Southwest Arkansas Regional Library",
+"city": "Prescott",
+"county": "Nevada",
+"state": "AR"
+},
+{
+"id": "AR0028",
+"name": "Texarkana Public Library",
+"city": "Texarkana",
+"county": "Bowie",
+"state": "AR"
+},
+{
+"id": "AR0081",
+"name": "Tri-County Regional Library System",
+"city": "De Queen",
+"county": "Sevier",
+"state": "AR"
+},
+{
+"id": "AR0027",
+"name": "W.A. Billingsley/Jackson County Library",
+"city": "Newport",
+"county": "Jackson",
+"state": "AR"
+},
+{
+"id": "AR0002",
+"name": "Washington County Library System",
+"city": "Fayetteville",
+"county": "Washington",
+"state": "AR"
+},
+{
+"id": "AR0025",
+"name": "West Memphis Public Library",
+"city": "West Memphis",
+"county": "Crittenden",
+"state": "AR"
+},
+{
+"id": "AR0019",
+"name": "White County Regional Library System",
+"city": "Searcy",
+"county": "White",
+"state": "AR"
+},
+{
+"id": "AR0007",
+"name": "White River Regional Library",
+"city": "Mountain View",
+"county": "Stone",
+"state": "AR"
+},
+{
+"id": "AZ0001",
+"name": "Apache County Library District Office",
+"city": "St. Johns",
+"county": "Apache",
+"state": "AZ"
+},
+{
+"id": "AZ0117",
+"name": "Apache Junction Public Library",
+"city": "Apache Junction",
+"county": "Pinal",
+"state": "AZ"
+},
+{
+"id": "AZ0029",
+"name": "Avondale Public Library",
+"city": "Avondale",
+"county": "Maricopa",
+"state": "AZ"
+},
+{
+"id": "AZ0030",
+"name": "Buckeye Public Library",
+"city": "Buckeye",
+"county": "Maricopa",
+"state": "AZ"
+},
+{
+"id": "AZ0145",
+"name": "Camp Verde Community Library",
+"city": "Camp Verde",
+"county": "Yavapai",
+"state": "AZ"
+},
+{
+"id": "AZ0118",
+"name": "Casa Grande Public Library",
+"city": "Casa Grande",
+"county": "Pinal",
+"state": "AZ"
+}
+]

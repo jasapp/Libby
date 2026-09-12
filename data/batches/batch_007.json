@@ -1,0 +1,352 @@
+[
+{
+"id": "CA0169",
+"name": "Thousand Oaks Library",
+"city": "Thousand Oaks",
+"county": "Ventura",
+"state": "CA"
+},
+{
+"id": "CA0146",
+"name": "Torrance Public Library",
+"city": "Torrance",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0147",
+"name": "Trinity County Free Library",
+"city": "Weaverville",
+"county": "Trinity",
+"state": "CA"
+},
+{
+"id": "CA0148",
+"name": "Tulare County Free Library",
+"city": "Visalia",
+"county": "Tulare",
+"state": "CA"
+},
+{
+"id": "CA0149",
+"name": "Tulare Public Library",
+"city": "Tulare",
+"county": "Tulare",
+"state": "CA"
+},
+{
+"id": "CA0150",
+"name": "Tuolumne County Library",
+"city": "Sonora",
+"county": "Tuolumne",
+"state": "CA"
+},
+{
+"id": "CA0151",
+"name": "Upland Public Library",
+"city": "Upland",
+"county": "San Bernardino",
+"state": "CA"
+},
+{
+"id": "CA0152",
+"name": "Ventura County Library",
+"city": "Ventura",
+"county": "Ventura",
+"state": "CA"
+},
+{
+"id": "CA0207",
+"name": "Victorville City Library",
+"city": "Victorville",
+"county": "San Bernardino",
+"state": "CA"
+},
+{
+"id": "CA0153",
+"name": "Watsonville Public Library",
+"city": "Watsonville",
+"county": "Santa Cruz",
+"state": "CA"
+},
+{
+"id": "CA0154",
+"name": "Whittier Public Library",
+"city": "Whittier",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0155",
+"name": "Willows Public Library",
+"city": "Willows",
+"county": "Glenn",
+"state": "CA"
+},
+{
+"id": "CA0156",
+"name": "Woodland Public Library",
+"city": "Woodland",
+"county": "Yolo",
+"state": "CA"
+},
+{
+"id": "CA0157",
+"name": "Yolo County Library",
+"city": "Woodland",
+"county": "Yolo",
+"state": "CA"
+},
+{
+"id": "CA0158",
+"name": "Yorba Linda Public Library",
+"city": "Yorba Linda",
+"county": "Orange",
+"state": "CA"
+},
+{
+"id": "CA0159",
+"name": "Yuba County Library",
+"city": "Marysville",
+"county": "Yuba",
+"state": "CA"
+},
+{
+"id": "CO0005",
+"name": "Arapahoe Library District",
+"city": "Englewood",
+"county": "Arapahoe",
+"state": "CO"
+},
+{
+"id": "CO0007",
+"name": "Aurora Public Library",
+"city": "Aurora",
+"county": "Arapahoe",
+"state": "CO"
+},
+{
+"id": "CO0009",
+"name": "Basalt Regional Library District",
+"city": "Basalt",
+"county": "Eagle",
+"state": "CO"
+},
+{
+"id": "CO0011",
+"name": "Berthoud Community Library District",
+"city": "Berthoud",
+"county": "Larimer",
+"state": "CO"
+},
+{
+"id": "CO0012",
+"name": "Boulder Public Library",
+"city": "Boulder",
+"county": "Boulder",
+"state": "CO"
+},
+{
+"id": "CO0013",
+"name": "Broomfield/Eisenhower Public Library",
+"city": "Broomfield",
+"county": "Broomfield",
+"state": "CO"
+},
+{
+"id": "CO0017",
+"name": "Canon City Public Library",
+"city": "Canon City",
+"county": "Fremont",
+"state": "CO"
+},
+{
+"id": "CO0131",
+"name": "Clearview Library District",
+"city": "Windsor",
+"county": "Weld",
+"state": "CO"
+},
+{
+"id": "CO0144",
+"name": "Delta County Public Library District",
+"city": "Hotchkiss",
+"county": "Delta",
+"state": "CO"
+},
+{
+"id": "CO0034",
+"name": "Denver Public Library",
+"city": "Denver",
+"county": "Denver",
+"state": "CO"
+},
+{
+"id": "CO0037",
+"name": "Douglas County Libraries",
+"city": "Castle Rock",
+"county": "Douglas",
+"state": "CO"
+},
+{
+"id": "CO0038",
+"name": "Durango Public Library",
+"city": "Durango",
+"county": "La Plata",
+"state": "CO"
+},
+{
+"id": "CO0039",
+"name": "Eagle Valley Library District",
+"city": "Eagle",
+"county": "Eagle",
+"state": "CO"
+},
+{
+"id": "CO0112",
+"name": "East Routt Library District",
+"city": "Steamboat Springs",
+"county": "Routt",
+"state": "CO"
+},
+{
+"id": "CO0040",
+"name": "Elbert County Library District",
+"city": "Elizabeth",
+"county": "Elbert",
+"state": "CO"
+},
+{
+"id": "CO0041",
+"name": "Englewood Public Library",
+"city": "Englewood",
+"county": "Arapahoe",
+"state": "CO"
+},
+{
+"id": "CO0042",
+"name": "Estes Valley Public Library District",
+"city": "Estes Park",
+"county": "Larimer",
+"state": "CO"
+},
+{
+"id": "CO0047",
+"name": "Fort Morgan Public Library",
+"city": "Fort Morgan",
+"county": "Morgan",
+"state": "CO"
+},
+{
+"id": "CO0049",
+"name": "Garfield County Public Library District",
+"city": "Rifle",
+"county": "Garfield",
+"state": "CO"
+},
+{
+"id": "CO0051",
+"name": "Grand County Library District",
+"city": "Granby",
+"county": "Grand",
+"state": "CO"
+},
+{
+"id": "CO0052",
+"name": "Gunnison County Library District",
+"city": "Gunnison",
+"county": "Gunnison",
+"state": "CO"
+},
+{
+"id": "CO0145",
+"name": "High Plains Library District",
+"city": "Greeley",
+"county": "Weld",
+"state": "CO"
+},
+{
+"id": "CO0060",
+"name": "Jefferson County Public Library",
+"city": "Lakewood",
+"county": "Jefferson",
+"state": "CO"
+},
+{
+"id": "CO0065",
+"name": "Lafayette Public Library",
+"city": "Lafayette",
+"county": "Boulder",
+"state": "CO"
+},
+{
+"id": "CO0068",
+"name": "Lamar Public Library",
+"city": "Lamar",
+"county": "Prowers",
+"state": "CO"
+},
+{
+"id": "CO0072",
+"name": "Littleton/Bemis Public Library",
+"city": "Littleton",
+"county": "Arapahoe",
+"state": "CO"
+},
+{
+"id": "CO0073",
+"name": "Longmont Public Library",
+"city": "Longmont",
+"county": "Boulder",
+"state": "CO"
+},
+{
+"id": "CO0074",
+"name": "Louisville Public Library",
+"city": "Louisville",
+"county": "Boulder",
+"state": "CO"
+},
+{
+"id": "CO0075",
+"name": "Loveland Public Library",
+"city": "Loveland",
+"county": "Larimer",
+"state": "CO"
+},
+{
+"id": "CO0082",
+"name": "Mesa County Public Library District",
+"city": "Grand Junction",
+"county": "Mesa",
+"state": "CO"
+},
+{
+"id": "CO0024",
+"name": "Moffat County Library",
+"city": "Craig",
+"county": "Moffat",
+"state": "CO"
+},
+{
+"id": "CO0085",
+"name": "Montrose Regional Library District",
+"city": "Montrose",
+"county": "Montrose",
+"state": "CO"
+},
+{
+"id": "CO0094",
+"name": "Park County Public Library",
+"city": "Fairplay",
+"county": "Park",
+"state": "CO"
+},
+{
+"id": "CO0096",
+"name": "Pikes Peak Library District",
+"city": "Colorado Springs",
+"county": "El Paso",
+"state": "CO"
+}
+]

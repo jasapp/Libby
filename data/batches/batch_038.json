@@ -1,0 +1,352 @@
+[
+{
+"id": "MT0035",
+"name": "Big Horn County Public Library",
+"city": "Hardin",
+"county": "Big Horn",
+"state": "MT"
+},
+{
+"id": "MT0006",
+"name": "Billings Public Library",
+"city": "Billings",
+"county": "Yellowstone",
+"state": "MT"
+},
+{
+"id": "MT0034",
+"name": "Bitterroot Public Library",
+"city": "Hamilton",
+"county": "Ravalli",
+"state": "MT"
+},
+{
+"id": "MT0008",
+"name": "Bozeman Public Library",
+"city": "Bozeman",
+"county": "Gallatin",
+"state": "MT"
+},
+{
+"id": "MT0011",
+"name": "Butte-Silver Bow Public Library",
+"city": "Butte",
+"county": "Silver Bow",
+"state": "MT"
+},
+{
+"id": "MT0019",
+"name": "Glacier County Library",
+"city": "Cut Bank",
+"county": "Glacier",
+"state": "MT"
+},
+{
+"id": "MT0033",
+"name": "Great Falls Public Library",
+"city": "Great Falls",
+"county": "Cascade",
+"state": "MT"
+},
+{
+"id": "MT0038",
+"name": "Havre-Hill County Library",
+"city": "Havre",
+"county": "Hill",
+"state": "MT"
+},
+{
+"id": "MT0043",
+"name": "Imagineif Kalispell",
+"city": "Kalispell",
+"county": "Flathead",
+"state": "MT"
+},
+{
+"id": "MT0039",
+"name": "Lewis And Clark Library",
+"city": "Helena",
+"county": "Lewis And Clark",
+"state": "MT"
+},
+{
+"id": "MT0046",
+"name": "Lincoln County Public Libraries",
+"city": "Libby",
+"county": "Lincoln",
+"state": "MT"
+},
+{
+"id": "MT0047",
+"name": "Livingston-Park County Public Library",
+"city": "Livingston",
+"county": "Park",
+"state": "MT"
+},
+{
+"id": "MT0050",
+"name": "Miles City Public Library",
+"city": "Miles City",
+"county": "Custer",
+"state": "MT"
+},
+{
+"id": "MT0051",
+"name": "Missoula Public Library",
+"city": "Missoula",
+"county": "Missoula",
+"state": "MT"
+},
+{
+"id": "MT0056",
+"name": "North Lake County Public Library",
+"city": "Polson",
+"county": "Lake",
+"state": "MT"
+},
+{
+"id": "MT0066",
+"name": "North Valley Public Library",
+"city": "Stevensville",
+"county": "Ravalli",
+"state": "MT"
+},
+{
+"id": "MT0082",
+"name": "Roosevelt County Library",
+"city": "Wolf Point",
+"county": "Roosevelt",
+"state": "MT"
+},
+{
+"id": "MT0064",
+"name": "Sidney-Richland County Library",
+"city": "Sidney",
+"county": "Richland",
+"state": "MT"
+},
+{
+"id": "NC0103",
+"name": "Alamance County Public Libraries",
+"city": "Burlington",
+"county": "Alamance",
+"state": "NC"
+},
+{
+"id": "NC0001",
+"name": "Albemarle Regional Library",
+"city": "Winton",
+"county": "Hertford",
+"state": "NC"
+},
+{
+"id": "NC0016",
+"name": "Alexander County Library",
+"city": "Taylorsville",
+"county": "Alexander",
+"state": "NC"
+},
+{
+"id": "NC0002",
+"name": "Appalachian Regional Library",
+"city": "West Jefferson",
+"county": "Ashe",
+"state": "NC"
+},
+{
+"id": "NC0003",
+"name": "Avery-Mitchell-Yancey Regional Library",
+"city": "Burnsville",
+"county": "Yancey",
+"state": "NC"
+},
+{
+"id": "NC0004",
+"name": "Beaufort-Hyde-Martin Regional Library",
+"city": "Washington",
+"county": "Beaufort",
+"state": "NC"
+},
+{
+"id": "NC0017",
+"name": "Bladen County Public Library",
+"city": "Elizabethtown",
+"county": "Bladen",
+"state": "NC"
+},
+{
+"id": "NC0046",
+"name": "Braswell Memorial Public Library",
+"city": "Rocky Mount",
+"county": "Nash",
+"state": "NC"
+},
+{
+"id": "NC0018",
+"name": "Brunswick County Library",
+"city": "Southport",
+"county": "Brunswick",
+"state": "NC"
+},
+{
+"id": "NC0019",
+"name": "Buncombe County Public Libraries",
+"city": "Asheville",
+"county": "Buncombe",
+"state": "NC"
+},
+{
+"id": "NC0020",
+"name": "Burke County Public Library",
+"city": "Morganton",
+"county": "Burke",
+"state": "NC"
+},
+{
+"id": "NC0021",
+"name": "Cabarrus County Public Library",
+"city": "Concord",
+"county": "Cabarrus",
+"state": "NC"
+},
+{
+"id": "NC0022",
+"name": "Caldwell County Public Library",
+"city": "Lenoir",
+"county": "Caldwell",
+"state": "NC"
+},
+{
+"id": "NC0113",
+"name": "Carteret County Public Library System",
+"city": "Beaufort",
+"county": "Carteret",
+"state": "NC"
+},
+{
+"id": "NC0107",
+"name": "Caswell County Public Library",
+"city": "Yanceyville",
+"county": "Caswell",
+"state": "NC"
+},
+{
+"id": "NC0023",
+"name": "Catawba County Library",
+"city": "Newton",
+"county": "Catawba",
+"state": "NC"
+},
+{
+"id": "NC0071",
+"name": "Chapel Hill Public Library",
+"city": "Chapel Hill",
+"county": "Orange",
+"state": "NC"
+},
+{
+"id": "NC0045",
+"name": "Charlotte Mecklenburg Library",
+"city": "Charlotte",
+"county": "Mecklenburg",
+"state": "NC"
+},
+{
+"id": "NC0104",
+"name": "Chatham County Public Libraries",
+"city": "Pittsboro",
+"county": "Chatham",
+"state": "NC"
+},
+{
+"id": "NC0024",
+"name": "Cleveland County Memorial Library",
+"city": "Shelby",
+"county": "Cleveland",
+"state": "NC"
+},
+{
+"id": "NC0025",
+"name": "Columbus County Public Library",
+"city": "Whiteville",
+"county": "Columbus",
+"state": "NC"
+},
+{
+"id": "NC0006",
+"name": "Craven-Pamlico Regional Library",
+"city": "New Bern",
+"county": "Craven",
+"state": "NC"
+},
+{
+"id": "NC0026",
+"name": "Cumberland County Public Library",
+"city": "Fayetteville",
+"county": "Cumberland",
+"state": "NC"
+},
+{
+"id": "NC0027",
+"name": "Davidson County Public Library System",
+"city": "Lexington",
+"county": "Davidson",
+"state": "NC"
+},
+{
+"id": "NC0028",
+"name": "Davie County Public Library",
+"city": "Mocksville",
+"county": "Davie",
+"state": "NC"
+},
+{
+"id": "NC0029",
+"name": "Duplin County Library",
+"city": "Kenansville",
+"county": "Duplin",
+"state": "NC"
+},
+{
+"id": "NC0030",
+"name": "Durham County Library",
+"city": "Durham",
+"county": "Durham",
+"state": "NC"
+},
+{
+"id": "NC0007",
+"name": "East Albemarle Regional Library",
+"city": "Elizabeth City",
+"county": "Pasquotank",
+"state": "NC"
+},
+{
+"id": "NC0031",
+"name": "Edgecombe County Memorial Library",
+"city": "Tarboro",
+"county": "Edgecombe",
+"state": "NC"
+},
+{
+"id": "NC0008",
+"name": "Fontana Regional Library",
+"city": "Bryson City",
+"county": "Swain",
+"state": "NC"
+},
+{
+"id": "NC0032",
+"name": "Forsyth County Public Library",
+"city": "Winston-Salem",
+"county": "Forsyth",
+"state": "NC"
+},
+{
+"id": "NC0033",
+"name": "Franklin County Library",
+"city": "Louisburg",
+"county": "Franklin",
+"state": "NC"
+}
+]

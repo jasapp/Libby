@@ -1,0 +1,352 @@
+[
+{
+"id": "CO0098",
+"name": "Pitkin County Library",
+"city": "Aspen",
+"county": "Pitkin",
+"state": "CO"
+},
+{
+"id": "CO0046",
+"name": "Poudre River Public Library District",
+"city": "Fort Collins",
+"county": "Larimer",
+"state": "CO"
+},
+{
+"id": "CO0099",
+"name": "Pueblo City-County Library District",
+"city": "Pueblo",
+"county": "Pueblo",
+"state": "CO"
+},
+{
+"id": "CO0132",
+"name": "Rampart Regional Library District",
+"city": "Woodland Park",
+"county": "Teller",
+"state": "CO"
+},
+{
+"id": "CO0001",
+"name": "Rangeview Library District",
+"city": "Thornton",
+"county": "Adams",
+"state": "CO"
+},
+{
+"id": "CO0146",
+"name": "Rio Grande County Library District",
+"city": "Monte Vista",
+"county": "Rio Grande",
+"state": "CO"
+},
+{
+"id": "CO0110",
+"name": "Security Public Library",
+"city": "Security",
+"county": "El Paso",
+"state": "CO"
+},
+{
+"id": "CO0113",
+"name": "Sterling Public Library",
+"city": "Sterling",
+"county": "Logan",
+"state": "CO"
+},
+{
+"id": "CO0115",
+"name": "Summit County Library",
+"city": "Frisco",
+"county": "Summit",
+"state": "CO"
+},
+{
+"id": "CO0118",
+"name": "Trinidad Carnegie Public Library",
+"city": "Trinidad",
+"county": "Las Animas",
+"state": "CO"
+},
+{
+"id": "CO0006",
+"name": "Upper San Juan Library District",
+"city": "Pagosa Springs",
+"county": "Archuleta",
+"state": "CO"
+},
+{
+"id": "CO0129",
+"name": "Wellington Public Library",
+"city": "Wellington",
+"county": "Larimer",
+"state": "CO"
+},
+{
+"id": "CO0130",
+"name": "Westminster Public Library",
+"city": "Westminster",
+"county": "Adams",
+"state": "CO"
+},
+{
+"id": "CT0118",
+"name": "Acton Public Library",
+"city": "Old Saybrook",
+"county": "Middlesex",
+"state": "CT"
+},
+{
+"id": "CT0121",
+"name": "Aldrich Free Public Library",
+"city": "Moosup",
+"county": "Windham",
+"state": "CT"
+},
+{
+"id": "CT0002",
+"name": "Ansonia Library",
+"city": "Ansonia",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0004",
+"name": "Avon Free Public Library",
+"city": "Avon",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0178",
+"name": "Beardsley & Memorial Library",
+"city": "Winchester",
+"county": "Litchfield",
+"state": "CT"
+},
+{
+"id": "CT0008",
+"name": "Berlin Free Library Association",
+"city": "Berlin",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0007",
+"name": "Berlin-Peck Memorial Library",
+"city": "Berlin",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0010",
+"name": "Bethel Public Library",
+"city": "Bethel",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0067",
+"name": "Bill Memorial Library",
+"city": "Groton",
+"county": "New London",
+"state": "CT"
+},
+{
+"id": "CT0012",
+"name": "Bloomfield Public Library",
+"city": "Bloomfield",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0192",
+"name": "Booth & Dimock Memorial Library",
+"city": "Coventry",
+"county": "Tolland",
+"state": "CT"
+},
+{
+"id": "CT0016",
+"name": "Bridgeport Public Library",
+"city": "Bridgeport",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0018",
+"name": "Bristol Public Library",
+"city": "Bristol",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0019",
+"name": "Brookfield Library",
+"city": "Brookfield",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0024",
+"name": "Canton Public Library",
+"city": "Canton",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0119",
+"name": "Case Memorial Library",
+"city": "Orange",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0191",
+"name": "Cheshire Public Library",
+"city": "Cheshire",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0135",
+"name": "Cora J. Belden Library",
+"city": "Rocky Hill",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0028",
+"name": "Cragin Memorial Library",
+"city": "Colchester",
+"county": "New London",
+"state": "CT"
+},
+{
+"id": "CT0032",
+"name": "Cromwell Belden Public Library",
+"city": "Cromwell",
+"county": "Middlesex",
+"state": "CT"
+},
+{
+"id": "CT0107",
+"name": "Cyrenius H. Booth Library",
+"city": "Newtown",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0033",
+"name": "Danbury Public Library",
+"city": "Danbury",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0035",
+"name": "Darien Library",
+"city": "Darien",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0037",
+"name": "Derby Neck Library",
+"city": "Derby",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0038",
+"name": "Derby Public Library",
+"city": "Derby",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0085",
+"name": "E.C. Scranton Memorial Library",
+"city": "Madison",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0006",
+"name": "East Berlin Library Association",
+"city": "Berlin",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0043",
+"name": "East Hampton Public Library",
+"city": "East Hampton",
+"county": "Middlesex",
+"state": "CT"
+},
+{
+"id": "CT0045",
+"name": "East Hartford Public Library",
+"city": "East Hartford",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0047",
+"name": "East Lyme Public Library",
+"city": "Niantic",
+"county": "New London",
+"state": "CT"
+},
+{
+"id": "CT0094",
+"name": "Edith Wheeler Memorial Library",
+"city": "Monroe",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0052",
+"name": "Enfield Public Library",
+"city": "Enfield",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0055",
+"name": "Fairfield Public Library",
+"city": "Fairfield",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0057",
+"name": "Farmington Libraries",
+"city": "Farmington",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0151",
+"name": "Ferguson Library",
+"city": "Stamford",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0062",
+"name": "Granby Public Library",
+"city": "Granby",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0063",
+"name": "Greenwich Library",
+"city": "Greenwich",
+"county": "Fairfield",
+"state": "CT"
+}
+]

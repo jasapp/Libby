@@ -1,0 +1,352 @@
+[
+{
+"id": "CA0197",
+"name": "Belvedere-Tiburon Library",
+"city": "Tiburon",
+"county": "Marin",
+"state": "CA"
+},
+{
+"id": "CA0163",
+"name": "Benicia Public Library",
+"city": "Benicia",
+"county": "Solano",
+"state": "CA"
+},
+{
+"id": "CA0011",
+"name": "Berkeley Public Library",
+"city": "Berkeley",
+"county": "Alameda",
+"state": "CA"
+},
+{
+"id": "CA0012",
+"name": "Beverly Hills Public Library",
+"city": "Beverly Hills",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0131",
+"name": "Blanchard/Santa Paula Public Library District",
+"city": "Santa Paula",
+"county": "Ventura",
+"state": "CA"
+},
+{
+"id": "CA0013",
+"name": "Brawley Public Library",
+"city": "Brawley",
+"county": "Imperial",
+"state": "CA"
+},
+{
+"id": "CA0014",
+"name": "Buena Park Library District",
+"city": "Buena Park",
+"county": "Orange",
+"state": "CA"
+},
+{
+"id": "CA0015",
+"name": "Burbank Public Library",
+"city": "Burbank",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0016",
+"name": "Burlingame Public Library",
+"city": "Burlingame",
+"county": "San Mateo",
+"state": "CA"
+},
+{
+"id": "CA0017",
+"name": "Butte County Library",
+"city": "Oroville",
+"county": "Butte",
+"state": "CA"
+},
+{
+"id": "CA0201",
+"name": "Calabasas City Library",
+"city": "Calabasas",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0018",
+"name": "Calaveras County Library",
+"city": "San Andreas",
+"county": "Calaveras",
+"state": "CA"
+},
+{
+"id": "CA0019",
+"name": "Camarena Memorial Public Library",
+"city": "Calexico",
+"county": "Imperial",
+"state": "CA"
+},
+{
+"id": "CA0209",
+"name": "Camarillo Public Library",
+"city": "Camarillo",
+"county": "Ventura",
+"state": "CA"
+},
+{
+"id": "CA0020",
+"name": "Carlsbad City Library",
+"city": "Carlsbad",
+"county": "San Diego",
+"state": "CA"
+},
+{
+"id": "CA0022",
+"name": "Cerritos Public Library",
+"city": "Cerritos",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0023",
+"name": "Chula Vista Public Library",
+"city": "Chula Vista",
+"county": "San Diego",
+"state": "CA"
+},
+{
+"id": "CA0027",
+"name": "City Of Commerce Public Library",
+"city": "Commerce",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0024",
+"name": "Coalinga-Huron Library District",
+"city": "Coalinga",
+"county": "Fresno",
+"state": "CA"
+},
+{
+"id": "CA0025",
+"name": "Colton Public Library",
+"city": "Colton",
+"county": "San Bernardino",
+"state": "CA"
+},
+{
+"id": "CA0026",
+"name": "Colusa County Free Library",
+"city": "Colusa",
+"county": "Colusa",
+"state": "CA"
+},
+{
+"id": "CA0028",
+"name": "Contra Costa County Library",
+"city": "Martinez",
+"county": "Contra Costa",
+"state": "CA"
+},
+{
+"id": "CA0029",
+"name": "Corona Public Library",
+"city": "Corona",
+"county": "Riverside",
+"state": "CA"
+},
+{
+"id": "CA0160",
+"name": "Coronado Public Library",
+"city": "Coronado",
+"county": "San Diego",
+"state": "CA"
+},
+{
+"id": "CA0030",
+"name": "Covina Public Library",
+"city": "Covina",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0119",
+"name": "Crowell Public Library",
+"city": "San Marino",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0031",
+"name": "Daly City Public Library",
+"city": "Daly City",
+"county": "San Mateo",
+"state": "CA"
+},
+{
+"id": "CA0032",
+"name": "Del Norte County Library District",
+"city": "Crescent City",
+"county": "Del Norte",
+"state": "CA"
+},
+{
+"id": "CA0034",
+"name": "Downey City Library",
+"city": "Downey",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0035",
+"name": "El Centro Public Library",
+"city": "El Centro",
+"county": "Imperial",
+"state": "CA"
+},
+{
+"id": "CA0036",
+"name": "El Dorado County Library",
+"city": "Placerville",
+"county": "El Dorado",
+"state": "CA"
+},
+{
+"id": "CA0037",
+"name": "El Segundo Public Library",
+"city": "El Segundo",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0038",
+"name": "Escondido Public Library",
+"city": "Escondido",
+"county": "San Diego",
+"state": "CA"
+},
+{
+"id": "CA0193",
+"name": "Folsom Public Library",
+"city": "Folsom",
+"county": "Sacramento",
+"state": "CA"
+},
+{
+"id": "CA0040",
+"name": "Fresno County Public Library",
+"city": "Fresno",
+"county": "Fresno",
+"state": "CA"
+},
+{
+"id": "CA0041",
+"name": "Fullerton Public Library",
+"city": "Fullerton",
+"county": "Orange",
+"state": "CA"
+},
+{
+"id": "CA0042",
+"name": "Glendale Library, Arts & Culture",
+"city": "Glendale",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0043",
+"name": "Glendora Library & Cultural Center",
+"city": "Glendora",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0271",
+"name": "Goleta Valley Library",
+"city": "Goleta",
+"county": "Santa Barbara",
+"state": "CA"
+},
+{
+"id": "CA0044",
+"name": "Hayward Public Library",
+"city": "Hayward",
+"county": "Alameda",
+"state": "CA"
+},
+{
+"id": "CA0045",
+"name": "Hemet Public Library",
+"city": "Hemet",
+"county": "Riverside",
+"state": "CA"
+},
+{
+"id": "CA0039",
+"name": "Humboldt County Library",
+"city": "Eureka",
+"county": "Humboldt",
+"state": "CA"
+},
+{
+"id": "CA0046",
+"name": "Huntington Beach Public Library",
+"city": "Huntington Beach",
+"county": "Orange",
+"state": "CA"
+},
+{
+"id": "CA0047",
+"name": "Imperial County Library",
+"city": "El Centro",
+"county": "Imperial",
+"state": "CA"
+},
+{
+"id": "CA0048",
+"name": "Imperial Public Library",
+"city": "Imperial",
+"county": "Imperial",
+"state": "CA"
+},
+{
+"id": "CA0049",
+"name": "Inglewood Public Library",
+"city": "Inglewood",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0050",
+"name": "Inyo County Free Library",
+"city": "Independence",
+"county": "Inyo",
+"state": "CA"
+},
+{
+"id": "CA0051",
+"name": "Kern County Library",
+"city": "Bakersfield",
+"county": "Kern",
+"state": "CA"
+},
+{
+"id": "CA0053",
+"name": "Kings County Library",
+"city": "Hanford",
+"county": "Kings",
+"state": "CA"
+},
+{
+"id": "CA0062",
+"name": "La County Library",
+"city": "Downey",
+"county": "Los Angeles",
+"state": "CA"
+}
+]

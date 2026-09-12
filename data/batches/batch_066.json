@@ -1,0 +1,352 @@
+[
+{
+"id": "TX0421",
+"name": "Carrollton Public Library",
+"city": "Carrollton",
+"county": "Dallas",
+"state": "TX"
+},
+{
+"id": "TX0424",
+"name": "Cedar Park Public Library",
+"city": "Cedar Park",
+"county": "Williamson",
+"state": "TX"
+},
+{
+"id": "TX0732",
+"name": "Celina Public Library",
+"city": "Celina",
+"county": "Collin",
+"state": "TX"
+},
+{
+"id": "TX0703",
+"name": "Cf Goodwin Public Library",
+"city": "Royse City",
+"county": "Rockwall",
+"state": "TX"
+},
+{
+"id": "TX0002",
+"name": "Chambers County Library System",
+"city": "Anahuac",
+"county": "Chambers",
+"state": "TX"
+},
+{
+"id": "TX0734",
+"name": "Chandler Public Library",
+"city": "Chandler",
+"county": "Henderson",
+"state": "TX"
+},
+{
+"id": "TX0434",
+"name": "Cleburne Public Library",
+"city": "Cleburne",
+"county": "Johnson",
+"state": "TX"
+},
+{
+"id": "TX0577",
+"name": "Clint Isd Public Library",
+"city": "El Paso",
+"county": "El Paso",
+"state": "TX"
+},
+{
+"id": "TX0436",
+"name": "Clyde Public Library",
+"city": "Clyde",
+"county": "Callahan",
+"state": "TX"
+},
+{
+"id": "TX0701",
+"name": "Colleyville Public Library",
+"city": "Colleyville",
+"county": "Tarrant",
+"state": "TX"
+},
+{
+"id": "TX0441",
+"name": "Comfort Public Library",
+"city": "Comfort",
+"county": "Kendall",
+"state": "TX"
+},
+{
+"id": "TX0442",
+"name": "Commerce Public Library",
+"city": "Commerce",
+"county": "Hunt",
+"state": "TX"
+},
+{
+"id": "TX0514",
+"name": "Converse Public Library",
+"city": "Converse",
+"county": "Bexar",
+"state": "TX"
+},
+{
+"id": "TX0055",
+"name": "Cooke County Library",
+"city": "Gainesville",
+"county": "Cooke",
+"state": "TX"
+},
+{
+"id": "TX0444",
+"name": "Copperas Cove Public Library",
+"city": "Copperas Cove",
+"county": "Coryell",
+"state": "TX"
+},
+{
+"id": "TX0445",
+"name": "Corpus Christi Public Libraries",
+"city": "Corpus Christi",
+"county": "Nueces",
+"state": "TX"
+},
+{
+"id": "TX0448",
+"name": "Corsicana Public Library",
+"city": "Corsicana",
+"county": "Navarro",
+"state": "TX"
+},
+{
+"id": "TX0297",
+"name": "County-City Library",
+"city": "Sweetwater",
+"county": "Nolan",
+"state": "TX"
+},
+{
+"id": "TX0351",
+"name": "Cozby Library And Community Commons",
+"city": "Coppell",
+"county": "Dallas",
+"state": "TX"
+},
+{
+"id": "TX0626",
+"name": "Crandall-Combine Community Library",
+"city": "Crandall",
+"county": "Kaufman",
+"state": "TX"
+},
+{
+"id": "TX0484",
+"name": "Crowley Public Library",
+"city": "Crowley",
+"county": "Tarrant",
+"state": "TX"
+},
+{
+"id": "TX0457",
+"name": "Dallam-Hartley County Library",
+"city": "Dalhart",
+"county": "Dallam",
+"state": "TX"
+},
+{
+"id": "TX0003",
+"name": "Dallas Public Library",
+"city": "Dallas",
+"county": "Dallas",
+"state": "TX"
+},
+{
+"id": "TX0139",
+"name": "Dawson County Public Library",
+"city": "Lamesa",
+"county": "Dawson",
+"state": "TX"
+},
+{
+"id": "TX0093",
+"name": "Deaf Smith County Library",
+"city": "Hereford",
+"county": "Deaf Smith",
+"state": "TX"
+},
+{
+"id": "TX0007",
+"name": "Decatur Public Library",
+"city": "Decatur",
+"county": "Wise",
+"state": "TX"
+},
+{
+"id": "TX0008",
+"name": "Deer Park Public Library",
+"city": "Deer Park",
+"county": "Harris",
+"state": "TX"
+},
+{
+"id": "TX0011",
+"name": "Denison Public Library",
+"city": "Denison",
+"county": "Grayson",
+"state": "TX"
+},
+{
+"id": "TX0012",
+"name": "Denton Public Library",
+"city": "Denton",
+"county": "Denton",
+"state": "TX"
+},
+{
+"id": "TX0352",
+"name": "Desoto Public Library",
+"city": "Desoto",
+"county": "Dallas",
+"state": "TX"
+},
+{
+"id": "TX0017",
+"name": "Dickinson Public Library",
+"city": "Dickinson",
+"county": "Galveston",
+"state": "TX"
+},
+{
+"id": "TX0019",
+"name": "Donna Public Library",
+"city": "Donna",
+"county": "Hidalgo",
+"state": "TX"
+},
+{
+"id": "TX0151",
+"name": "Dr Eugene Clark Library",
+"city": "Lockhart",
+"county": "Caldwell",
+"state": "TX"
+},
+{
+"id": "TX0176",
+"name": "Dr Hector P Garcia Memorial Library",
+"city": "Mercedes",
+"county": "Hidalgo",
+"state": "TX"
+},
+{
+"id": "TX0384",
+"name": "Dripping Springs Community Library",
+"city": "Dripping Springs",
+"county": "Hays",
+"state": "TX"
+},
+{
+"id": "TX0022",
+"name": "Duncanville Public Library",
+"city": "Duncanville",
+"county": "Dallas",
+"state": "TX"
+},
+{
+"id": "TX0028",
+"name": "Dustin Michael Sekula Memorial Library",
+"city": "Edinburg",
+"county": "Hidalgo",
+"state": "TX"
+},
+{
+"id": "TX0025",
+"name": "Eagle Pass Public Library",
+"city": "Eagle Pass",
+"county": "Maverick",
+"state": "TX"
+},
+{
+"id": "TX0532",
+"name": "East Parker County Library",
+"city": "Aledo",
+"county": "Parker",
+"state": "TX"
+},
+{
+"id": "TX0717",
+"name": "East Travis Gateway Library District",
+"city": "Del Valle",
+"county": "Travis",
+"state": "TX"
+},
+{
+"id": "TX0203",
+"name": "Ector County Library",
+"city": "Odessa",
+"county": "Ector",
+"state": "TX"
+},
+{
+"id": "TX0046",
+"name": "Ed & Hazel Richmond Public Library",
+"city": "Aransas Pass",
+"county": "San Patricio",
+"state": "TX"
+},
+{
+"id": "TX0092",
+"name": "Edwards Public Library",
+"city": "Henrietta",
+"county": "Clay",
+"state": "TX"
+},
+{
+"id": "TX0234",
+"name": "Effie & Wilton Hebert Public Library",
+"city": "Port Neches",
+"county": "Jefferson",
+"state": "TX"
+},
+{
+"id": "TX0030",
+"name": "El Paso Public Library",
+"city": "El Paso",
+"county": "El Paso",
+"state": "TX"
+},
+{
+"id": "TX0311",
+"name": "El Progreso Memorial Library",
+"city": "Uvalde",
+"county": "Uvalde",
+"state": "TX"
+},
+{
+"id": "TX0473",
+"name": "Elgin Public Library",
+"city": "Elgin",
+"county": "Bastrop",
+"state": "TX"
+},
+{
+"id": "TX0036",
+"name": "Ennis Public Library",
+"city": "Ennis",
+"county": "Ellis",
+"state": "TX"
+},
+{
+"id": "TX0153",
+"name": "Ethel L Whipple Memorial Library",
+"city": "Los Fresnos",
+"county": "Cameron",
+"state": "TX"
+},
+{
+"id": "TX0037",
+"name": "Euless Public Library",
+"city": "Euless",
+"county": "Tarrant",
+"state": "TX"
+}
+]

@@ -1,0 +1,352 @@
+[
+{
+"id": "IN0238",
+"name": "Salem-Washington Township Public Library",
+"city": "Salem",
+"county": "Washington",
+"state": "IN"
+},
+{
+"id": "IN0236",
+"name": "Scott County Public Library",
+"city": "Scottsburg",
+"county": "Scott",
+"state": "IN"
+},
+{
+"id": "IN0214",
+"name": "Shelby County Public Library",
+"city": "Shelbyville",
+"county": "Shelby",
+"state": "IN"
+},
+{
+"id": "IN0209",
+"name": "Speedway Public Library",
+"city": "Speedway",
+"county": "Marion",
+"state": "IN"
+},
+{
+"id": "IN0068",
+"name": "St Joseph County Public Library",
+"city": "South Bend",
+"county": "St Joseph",
+"state": "IN"
+},
+{
+"id": "IN0049",
+"name": "Starke County Public Library System",
+"city": "Knox",
+"county": "Starke",
+"state": "IN"
+},
+{
+"id": "IN0186",
+"name": "Sullivan County Public Library",
+"city": "Sullivan",
+"county": "Sullivan",
+"state": "IN"
+},
+{
+"id": "IN0115",
+"name": "Tippecanoe County Public Library",
+"city": "Lafayette",
+"county": "Tippecanoe",
+"state": "IN"
+},
+{
+"id": "IN0132",
+"name": "Tipton County Public Library",
+"city": "Tipton",
+"county": "Tipton",
+"state": "IN"
+},
+{
+"id": "IN0189",
+"name": "Vigo County Public Library",
+"city": "Terre Haute",
+"county": "Vigo",
+"state": "IN"
+},
+{
+"id": "IN0135",
+"name": "Wabash Carnegie Public Library",
+"city": "Wabash",
+"county": "Wabash",
+"state": "IN"
+},
+{
+"id": "IN0057",
+"name": "Warsaw Community Public Library",
+"city": "Warsaw",
+"county": "Kosciusko",
+"state": "IN"
+},
+{
+"id": "IN0001",
+"name": "Washington Carnegie Public Library",
+"city": "Washington",
+"county": "Daviess",
+"state": "IN"
+},
+{
+"id": "IN0090",
+"name": "Wells County Public Library",
+"city": "Bluffton",
+"county": "Wells",
+"state": "IN"
+},
+{
+"id": "IN0114",
+"name": "West Lafayette Public Library",
+"city": "West Lafayette",
+"county": "Tippecanoe",
+"state": "IN"
+},
+{
+"id": "IN0044",
+"name": "Westchester Public Library",
+"city": "Chesterton",
+"county": "Porter",
+"state": "IN"
+},
+{
+"id": "IN0194",
+"name": "Westfield-Washington Public Library",
+"city": "Westfield",
+"county": "Hamilton",
+"state": "IN"
+},
+{
+"id": "IN0021",
+"name": "Willard Library Of Evansville",
+"city": "Evansville",
+"county": "Vanderburgh",
+"state": "IN"
+},
+{
+"id": "IN8007",
+"name": "Yorktown Public Library",
+"city": "Yorktown",
+"county": "Delaware",
+"state": "IN"
+},
+{
+"id": "KS0210",
+"name": "Andover Public Library",
+"city": "Andover",
+"county": "Butler",
+"state": "KS"
+},
+{
+"id": "KS0223",
+"name": "Arkansas City Public Library",
+"city": "Arkansas City",
+"county": "Cowley",
+"state": "KS"
+},
+{
+"id": "KS0128",
+"name": "Atchison Library",
+"city": "Atchison",
+"county": "Atchison",
+"state": "KS"
+},
+{
+"id": "KS0119",
+"name": "Basehor Community Library, Dist #2, Lv. Co.",
+"city": "Basehor",
+"county": "Leavenworth",
+"state": "KS"
+},
+{
+"id": "KS0219",
+"name": "Bradford Memorial Library",
+"city": "El Dorado",
+"county": "Butler",
+"state": "KS"
+},
+{
+"id": "KS0222",
+"name": "Derby Public Library",
+"city": "Derby",
+"county": "Sedgwick",
+"state": "KS"
+},
+{
+"id": "KS0316",
+"name": "Dodge City Public Library",
+"city": "Dodge City",
+"county": "Ford",
+"state": "KS"
+},
+{
+"id": "KS0089",
+"name": "Dorothy Bramlage Public Library",
+"city": "Junction City",
+"county": "Geary",
+"state": "KS"
+},
+{
+"id": "KS0090",
+"name": "Emporia Public Library",
+"city": "Emporia",
+"county": "Lyon",
+"state": "KS"
+},
+{
+"id": "KS0317",
+"name": "Finney County Public Library",
+"city": "Garden City",
+"county": "Finney",
+"state": "KS"
+},
+{
+"id": "KS0052",
+"name": "Great Bend Public Library",
+"city": "Great Bend",
+"county": "Barton",
+"state": "KS"
+},
+{
+"id": "KS0053",
+"name": "Hays Public Library",
+"city": "Hays",
+"county": "Ellis",
+"state": "KS"
+},
+{
+"id": "KS0217",
+"name": "Haysville Community Library",
+"city": "Haysville",
+"county": "Sedgwick",
+"state": "KS"
+},
+{
+"id": "KS0225",
+"name": "Hutchinson Public Library",
+"city": "Hutchinson",
+"county": "Reno",
+"state": "KS"
+},
+{
+"id": "KS0276",
+"name": "Independence Public Library",
+"city": "Independence",
+"county": "Montgomery",
+"state": "KS"
+},
+{
+"id": "KS0134",
+"name": "Johnson County Library",
+"city": "Overland Park",
+"county": "Johnson",
+"state": "KS"
+},
+{
+"id": "KS0133",
+"name": "Kansas City, Kansas Public Library",
+"city": "Kansas City",
+"county": "Wyandotte",
+"state": "KS"
+},
+{
+"id": "KS8008",
+"name": "Lansing Community Library",
+"city": "Lansing",
+"county": "Leavenworth",
+"state": "KS"
+},
+{
+"id": "KS0131",
+"name": "Lawrence Public Library",
+"city": "Lawrence",
+"county": "Douglas",
+"state": "KS"
+},
+{
+"id": "KS0129",
+"name": "Leavenworth Public Library",
+"city": "Leavenworth",
+"county": "Leavenworth",
+"state": "KS"
+},
+{
+"id": "KS0315",
+"name": "Liberal Memorial Library",
+"city": "Liberal",
+"county": "Seward",
+"state": "KS"
+},
+{
+"id": "KS0091",
+"name": "Manhattan Public Library",
+"city": "Manhattan",
+"county": "Riley",
+"state": "KS"
+},
+{
+"id": "KS0221",
+"name": "Mcpherson Public Library",
+"city": "Mcpherson",
+"county": "Mcpherson",
+"state": "KS"
+},
+{
+"id": "KS0224",
+"name": "Newton Public Library",
+"city": "Newton",
+"county": "Harvey",
+"state": "KS"
+},
+{
+"id": "KS0130",
+"name": "Olathe Public Library",
+"city": "Olathe",
+"county": "Johnson",
+"state": "KS"
+},
+{
+"id": "KS0127",
+"name": "Ottawa Library",
+"city": "Ottawa",
+"county": "Franklin",
+"state": "KS"
+},
+{
+"id": "KS0279",
+"name": "Pittsburg Public Library",
+"city": "Pittsburg",
+"county": "Crawford",
+"state": "KS"
+},
+{
+"id": "KS0088",
+"name": "Pottawatomie Wabaunsee Regional Library",
+"city": "St. Marys",
+"county": "Pottawatomie",
+"state": "KS"
+},
+{
+"id": "KS0054",
+"name": "Salina Public Library",
+"city": "Salina",
+"county": "Saline",
+"state": "KS"
+},
+{
+"id": "KS0132",
+"name": "Topeka And Shawnee County Public Library",
+"city": "Topeka",
+"county": "Shawnee",
+"state": "KS"
+},
+{
+"id": "KS0226",
+"name": "Wichita Public Library",
+"city": "Wichita",
+"county": "Sedgwick",
+"state": "KS"
+}
+]

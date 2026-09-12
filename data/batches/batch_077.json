@@ -1,0 +1,212 @@
+[
+{
+"id": "WV0003",
+"name": "Princeton Public Library",
+"city": "Princeton",
+"county": "Mercer",
+"state": "WV"
+},
+{
+"id": "WV0007",
+"name": "Putnam County Library",
+"city": "Hurricane",
+"county": "Putnam",
+"state": "WV"
+},
+{
+"id": "WV0001",
+"name": "Raleigh County Public Library",
+"city": "Beckley",
+"county": "Raleigh",
+"state": "WV"
+},
+{
+"id": "WV0018",
+"name": "Ritchie County Public Library",
+"city": "Harrisville",
+"county": "Ritchie",
+"state": "WV"
+},
+{
+"id": "WV0014",
+"name": "Roane County Public Library",
+"city": "Spencer",
+"county": "Roane",
+"state": "WV"
+},
+{
+"id": "WV0057",
+"name": "Shepherdstown Public Library",
+"city": "Shepherdstown",
+"county": "Jefferson",
+"state": "WV"
+},
+{
+"id": "WV0012",
+"name": "South Charleston Public Library",
+"city": "South Charleston",
+"county": "Kanawha",
+"state": "WV"
+},
+{
+"id": "WV0055",
+"name": "South Jefferson Public Library",
+"city": "Summit Point",
+"county": "Jefferson",
+"state": "WV"
+},
+{
+"id": "WV0097",
+"name": "Summers County Public Library",
+"city": "Hinton",
+"county": "Summers",
+"state": "WV"
+},
+{
+"id": "WV0045",
+"name": "Taylor County Public Library",
+"city": "Grafton",
+"county": "Taylor",
+"state": "WV"
+},
+{
+"id": "WV0025",
+"name": "Terra Alta Public Library",
+"city": "Terra Alta",
+"county": "Preston",
+"state": "WV"
+},
+{
+"id": "WV0026",
+"name": "Upshur County Public Library",
+"city": "Buckhannon",
+"county": "Upshur",
+"state": "WV"
+},
+{
+"id": "WV0022",
+"name": "Vienna Public Library",
+"city": "Vienna",
+"county": "Wood",
+"state": "WV"
+},
+{
+"id": "WV0008",
+"name": "Wayne County Public Library",
+"city": "Kenova",
+"county": "Wayne",
+"state": "WV"
+},
+{
+"id": "WV0079",
+"name": "Wyoming County Public Library",
+"city": "Pineville",
+"county": "Wyoming",
+"state": "WV"
+},
+{
+"id": "WY0001",
+"name": "Albany County Public Library",
+"city": "Laramie",
+"county": "Albany",
+"state": "WY"
+},
+{
+"id": "WY0010",
+"name": "Big Horn County Library",
+"city": "Basin",
+"county": "Big Horn",
+"state": "WY"
+},
+{
+"id": "WY0002",
+"name": "Campbell County Public Library System",
+"city": "Gillette",
+"county": "Campbell",
+"state": "WY"
+},
+{
+"id": "WY0011",
+"name": "Carbon County Library System",
+"city": "Rawlins",
+"county": "Carbon",
+"state": "WY"
+},
+{
+"id": "WY0012",
+"name": "Converse County Library System",
+"city": "Douglas",
+"county": "Converse",
+"state": "WY"
+},
+{
+"id": "WY0003",
+"name": "Fremont County Library System",
+"city": "Lander",
+"county": "Fremont",
+"state": "WY"
+},
+{
+"id": "WY0014",
+"name": "Goshen County Library",
+"city": "Torrington",
+"county": "Goshen",
+"state": "WY"
+},
+{
+"id": "WY0004",
+"name": "Laramie County Library System",
+"city": "Cheyenne",
+"county": "Laramie",
+"state": "WY"
+},
+{
+"id": "WY0017",
+"name": "Lincoln County Library System",
+"city": "Kemmerer",
+"county": "Lincoln",
+"state": "WY"
+},
+{
+"id": "WY0009",
+"name": "Natrona County Library System",
+"city": "Casper",
+"county": "Natrona",
+"state": "WY"
+},
+{
+"id": "WY0005",
+"name": "Park County Library System",
+"city": "Cody",
+"county": "Park",
+"state": "WY"
+},
+{
+"id": "WY0007",
+"name": "Sheridan County Library System",
+"city": "Sheridan",
+"county": "Sheridan",
+"state": "WY"
+},
+{
+"id": "WY0008",
+"name": "Sweetwater County Library System",
+"city": "Green River",
+"county": "Sweetwater",
+"state": "WY"
+},
+{
+"id": "WY0020",
+"name": "Teton County Library",
+"city": "Jackson",
+"county": "Teton",
+"state": "WY"
+},
+{
+"id": "WY0021",
+"name": "Uinta County Library System",
+"city": "Evanston",
+"county": "Uinta",
+"state": "WY"
+}
+]

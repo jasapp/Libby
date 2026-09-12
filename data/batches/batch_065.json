@@ -1,0 +1,352 @@
+[
+{
+"id": "TN8060",
+"name": "The Sumner County Library System",
+"city": "Gallatin",
+"county": "Sumner",
+"state": "TN"
+},
+{
+"id": "TN0038",
+"name": "Tipton County Public Library",
+"city": "Covington",
+"county": "Tipton",
+"state": "TN"
+},
+{
+"id": "TN0128",
+"name": "Unicoi County Public Library",
+"city": "Erwin",
+"county": "Unicoi",
+"state": "TN"
+},
+{
+"id": "TN0086",
+"name": "W. G. Rhea Public Library",
+"city": "Paris",
+"county": "Henry",
+"state": "TN"
+},
+{
+"id": "TN0025",
+"name": "Wartburg Public Library",
+"city": "Wartburg",
+"county": "Morgan",
+"state": "TN"
+},
+{
+"id": "TN0124",
+"name": "Washington County Public Library",
+"city": "Jonesborough",
+"county": "Washington",
+"state": "TN"
+},
+{
+"id": "TN0007",
+"name": "Wayne County Public Library",
+"city": "Waynesboro (S)",
+"county": "Wayne",
+"state": "TN"
+},
+{
+"id": "TN8034",
+"name": "West Polk Public Library",
+"city": "Benton",
+"county": "Polk",
+"state": "TN"
+},
+{
+"id": "TN0016",
+"name": "White County Public Library",
+"city": "Sparta",
+"county": "White",
+"state": "TN"
+},
+{
+"id": "TN0117",
+"name": "White House Public Library",
+"city": "White House",
+"county": "Robertson",
+"state": "TN"
+},
+{
+"id": "TN0196",
+"name": "White Pine Public Library",
+"city": "White Pine",
+"county": "Jefferson",
+"state": "TN"
+},
+{
+"id": "TN0008",
+"name": "Williamson County Public Library",
+"city": "Franklin",
+"county": "Williamson",
+"state": "TN"
+},
+{
+"id": "TX0110",
+"name": "Abilene Public Library",
+"city": "Abilene",
+"county": "Taylor",
+"state": "TX"
+},
+{
+"id": "TX0180",
+"name": "Ah Meadows Library",
+"city": "Midlothian",
+"county": "Ellis",
+"state": "TX"
+},
+{
+"id": "TX0406",
+"name": "Alicia Salinas Public Library",
+"city": "Alice",
+"county": "Jim Wells",
+"state": "TX"
+},
+{
+"id": "TX0552",
+"name": "Allan Shivers Library & Museum",
+"city": "Woodville",
+"county": "Tyler",
+"state": "TX"
+},
+{
+"id": "TX0416",
+"name": "Allen Public Library",
+"city": "Allen",
+"county": "Collin",
+"state": "TX"
+},
+{
+"id": "TX0447",
+"name": "Amarillo Public Library",
+"city": "Amarillo",
+"county": "Potter",
+"state": "TX"
+},
+{
+"id": "TX0013",
+"name": "Andrews County Library",
+"city": "Andrews",
+"county": "Andrews",
+"state": "TX"
+},
+{
+"id": "TX0255",
+"name": "Aransas County Public Library",
+"city": "Rockport",
+"county": "Aransas",
+"state": "TX"
+},
+{
+"id": "TX0068",
+"name": "Arlington Public Library System",
+"city": "Arlington",
+"county": "Tarrant",
+"state": "TX"
+},
+{
+"id": "TX0387",
+"name": "Aubrey Area Library",
+"city": "Aubrey",
+"county": "Denton",
+"state": "TX"
+},
+{
+"id": "TX0320",
+"name": "Austin County Library System",
+"city": "Wallis",
+"county": "Austin",
+"state": "TX"
+},
+{
+"id": "TX0111",
+"name": "Austin Public Library",
+"city": "Austin",
+"county": "Travis",
+"state": "TX"
+},
+{
+"id": "TX0121",
+"name": "Azle Memorial Library",
+"city": "Azle",
+"county": "Parker",
+"state": "TX"
+},
+{
+"id": "TX0342",
+"name": "Balch Springs Library - Learning Center",
+"city": "Balch Springs",
+"county": "Dallas",
+"state": "TX"
+},
+{
+"id": "TX0184",
+"name": "Bastrop Public Library",
+"city": "Bastrop",
+"county": "Bastrop",
+"state": "TX"
+},
+{
+"id": "TX0195",
+"name": "Bay City Public Library",
+"city": "Bay City",
+"county": "Matagorda",
+"state": "TX"
+},
+{
+"id": "TX0216",
+"name": "Beaumont Public Library System",
+"city": "Beaumont",
+"county": "Jefferson",
+"state": "TX"
+},
+{
+"id": "TX0226",
+"name": "Bedford Public Library",
+"city": "Bedford",
+"county": "Tarrant",
+"state": "TX"
+},
+{
+"id": "TX0235",
+"name": "Bell/Whittington Public Library",
+"city": "Portland",
+"county": "San Patricio",
+"state": "TX"
+},
+{
+"id": "TX0248",
+"name": "Bellaire City Library",
+"city": "Bellaire",
+"county": "Harris",
+"state": "TX"
+},
+{
+"id": "TX0660",
+"name": "Benbrook Public Library",
+"city": "Benbrook",
+"county": "Tarrant",
+"state": "TX"
+},
+{
+"id": "TX0744",
+"name": "Bibliotech",
+"city": "San Antonio",
+"county": "Bexar",
+"state": "TX"
+},
+{
+"id": "TX0319",
+"name": "Bonham Public Library",
+"city": "Bonham",
+"county": "Fannin",
+"state": "TX"
+},
+{
+"id": "TX0339",
+"name": "Bowie Public Library",
+"city": "Bowie",
+"county": "Montague",
+"state": "TX"
+},
+{
+"id": "TX0181",
+"name": "Boyce Ditto Public Library",
+"city": "Mineral Wells",
+"county": "Palo Pinto",
+"state": "TX"
+},
+{
+"id": "TX0024",
+"name": "Brazoria County Library System",
+"city": "Angleton",
+"county": "Brazoria",
+"state": "TX"
+},
+{
+"id": "TX0385",
+"name": "Bridgeport Public Library",
+"city": "Bridgeport",
+"county": "Wise",
+"state": "TX"
+},
+{
+"id": "TX0402",
+"name": "Brownsville Public Library",
+"city": "Brownsville",
+"county": "Cameron",
+"state": "TX"
+},
+{
+"id": "TX0407",
+"name": "Brownwood Community Library",
+"city": "Brownwood",
+"county": "Brown",
+"state": "TX"
+},
+{
+"id": "TX0408",
+"name": "Bryan+College Station Public Library System",
+"city": "Bryan",
+"county": "Brazos",
+"state": "TX"
+},
+{
+"id": "TX0343",
+"name": "Buda Public Library",
+"city": "Buda",
+"county": "Hays",
+"state": "TX"
+},
+{
+"id": "TX0410",
+"name": "Burkburnett Library",
+"city": "Burkburnett",
+"county": "Wichita",
+"state": "TX"
+},
+{
+"id": "TX0411",
+"name": "Burleson Public Library",
+"city": "Burleson",
+"county": "Johnson",
+"state": "TX"
+},
+{
+"id": "TX0412",
+"name": "Burnet County Library System",
+"city": "Burnet",
+"county": "Burnet",
+"state": "TX"
+},
+{
+"id": "TX0125",
+"name": "Butt-Holdsworth Memorial Library",
+"city": "Kerrville",
+"county": "Kerr",
+"state": "TX"
+},
+{
+"id": "TX0233",
+"name": "Calhoun County Public Library",
+"city": "Port Lavaca",
+"county": "Calhoun",
+"state": "TX"
+},
+{
+"id": "TX0418",
+"name": "Canyon Area Library",
+"city": "Canyon",
+"county": "Randall",
+"state": "TX"
+},
+{
+"id": "TX0314",
+"name": "Carnegie City-County Library",
+"city": "Vernon",
+"county": "Wilbarger",
+"state": "TX"
+}
+]

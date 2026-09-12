@@ -1,0 +1,352 @@
+[
+{
+"id": "NM0019",
+"name": "Hobbs Public Library",
+"city": "Hobbs",
+"county": "Lea",
+"state": "NM"
+},
+{
+"id": "NM0025",
+"name": "Los Alamos County Library System",
+"city": "Los Alamos",
+"county": "Los Alamos",
+"state": "NM"
+},
+{
+"id": "NM0026",
+"name": "Los Lunas Public Library",
+"city": "Los Lunas",
+"county": "Valencia",
+"state": "NM"
+},
+{
+"id": "NM0027",
+"name": "Lovington Public Library",
+"city": "Lovington",
+"county": "Lea",
+"state": "NM"
+},
+{
+"id": "NM0011",
+"name": "Marshall Memorial Library",
+"city": "Deming",
+"county": "Luna",
+"state": "NM"
+},
+{
+"id": "NM0016",
+"name": "Octavia Fellin Public Library",
+"city": "Gallup",
+"county": "Mckinley",
+"state": "NM"
+},
+{
+"id": "NM0028",
+"name": "Portales Public Library",
+"city": "Portales",
+"county": "Roosevelt",
+"state": "NM"
+},
+{
+"id": "NM0030",
+"name": "Rio Rancho Public Library",
+"city": "Rio Rancho",
+"county": "Sandoval",
+"state": "NM"
+},
+{
+"id": "NM0031",
+"name": "Roswell Public Library",
+"city": "Roswell",
+"county": "Chaves",
+"state": "NM"
+},
+{
+"id": "NM0033",
+"name": "Santa Fe Public Library",
+"city": "Santa Fe",
+"county": "Santa Fe",
+"state": "NM"
+},
+{
+"id": "NM0035",
+"name": "Silver City Public Library",
+"city": "Silver City",
+"county": "Grant",
+"state": "NM"
+},
+{
+"id": "NM0116",
+"name": "Sunland Park Community Library",
+"city": "Sunland Park",
+"county": "Dona Ana",
+"state": "NM"
+},
+{
+"id": "NM0022",
+"name": "Thomas Branigan Memorial Library",
+"city": "Las Cruces",
+"county": "Dona Ana",
+"state": "NM"
+},
+{
+"id": "NV0003",
+"name": "Boulder City Library District",
+"city": "Boulder City",
+"county": "Clark",
+"state": "NV"
+},
+{
+"id": "NV0019",
+"name": "Carson City Library",
+"city": "Carson City",
+"county": "Carson City",
+"state": "NV"
+},
+{
+"id": "NV0004",
+"name": "Churchill County Library",
+"city": "Fallon",
+"county": "Churchill",
+"state": "NV"
+},
+{
+"id": "NV0006",
+"name": "Douglas County Public Library",
+"city": "Minden",
+"county": "Douglas",
+"state": "NV"
+},
+{
+"id": "NV0007",
+"name": "Elko-Lander-Eureka County Library System",
+"city": "Elko",
+"county": "Elko",
+"state": "NV"
+},
+{
+"id": "NV0012",
+"name": "Henderson District Public Libraries",
+"city": "Henderson",
+"county": "Clark",
+"state": "NV"
+},
+{
+"id": "NV0013",
+"name": "Humboldt County Library",
+"city": "Winnemucca",
+"county": "Humboldt",
+"state": "NV"
+},
+{
+"id": "NV0008",
+"name": "Las Vegas-Clark County Library District",
+"city": "Las Vegas",
+"county": "Clark",
+"state": "NV"
+},
+{
+"id": "NV0015",
+"name": "Lyon County Library System",
+"city": "Yerington",
+"county": "Lyon",
+"state": "NV"
+},
+{
+"id": "NV0018",
+"name": "North Las Vegas Library District",
+"city": "North Las Vegas",
+"county": "Clark",
+"state": "NV"
+},
+{
+"id": "NV0005",
+"name": "Pahrump Community Library",
+"city": "Pahrump",
+"county": "Nye",
+"state": "NV"
+},
+{
+"id": "NV0025",
+"name": "Washoe County Library System",
+"city": "Reno",
+"county": "Washoe",
+"state": "NV"
+},
+{
+"id": "NV0026",
+"name": "White Pine County Library",
+"city": "Ely",
+"county": "White Pine",
+"state": "NV"
+},
+{
+"id": "NY0697",
+"name": "Albany Public Library",
+"city": "Albany",
+"county": "Albany",
+"state": "NY"
+},
+{
+"id": "NY0580",
+"name": "Albert Wisner Public Library",
+"city": "Warwick",
+"county": "Orange",
+"state": "NY"
+},
+{
+"id": "NY0027",
+"name": "Amherst Public Library",
+"city": "Amherst",
+"county": "Erie",
+"state": "NY"
+},
+{
+"id": "NY0643",
+"name": "Amityville Public Library",
+"city": "Amityville",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0321",
+"name": "Amsterdam Free Library",
+"city": "Amsterdam",
+"county": "Montgomery",
+"state": "NY"
+},
+{
+"id": "NY0013",
+"name": "Aurora Town Public Library",
+"city": "East Aurora",
+"county": "Erie",
+"state": "NY"
+},
+{
+"id": "NY0644",
+"name": "Babylon School District Public Library",
+"city": "Babylon",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0334",
+"name": "Baldwin Public Library",
+"city": "Baldwin",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0477",
+"name": "Baldwinsville Public Library",
+"city": "Baldwinsville",
+"county": "Onondaga",
+"state": "NY"
+},
+{
+"id": "NY0615",
+"name": "Ballston Community Public Library",
+"city": "Burnt Hills",
+"county": "Saratoga",
+"state": "NY"
+},
+{
+"id": "NY0650",
+"name": "Bay Shore-Brightwaters Public Library",
+"city": "Brightwaters",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0646",
+"name": "Bayport-Blue Point Public Library",
+"city": "Blue Point",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0232",
+"name": "Beekman Library",
+"city": "Hopewell Junction",
+"county": "Dutchess",
+"state": "NY"
+},
+{
+"id": "NY0336",
+"name": "Bellmore Memorial Library",
+"city": "Bellmore",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0702",
+"name": "Bethlehem Public Library",
+"city": "Delmar",
+"county": "Albany",
+"state": "NY"
+},
+{
+"id": "NY0337",
+"name": "Bethpage Public Library",
+"city": "Bethpage",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0223",
+"name": "Blodgett Memorial Library District Of Fishkill",
+"city": "Fishkill",
+"county": "Dutchess",
+"state": "NY"
+},
+{
+"id": "NY0009",
+"name": "Boston Free Library",
+"city": "Boston",
+"county": "Erie",
+"state": "NY"
+},
+{
+"id": "NY0648",
+"name": "Brentwood Public Library",
+"city": "Brentwood",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0248",
+"name": "Brewster Public Library",
+"city": "Brewster",
+"county": "Putnam",
+"state": "NY"
+},
+{
+"id": "NY0507",
+"name": "Brighton Memorial Library",
+"city": "Rochester",
+"county": "Monroe",
+"state": "NY"
+},
+{
+"id": "NY0651",
+"name": "Brookhaven Free Library",
+"city": "Brookhaven",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0004",
+"name": "Brooklyn Public Library",
+"city": "Brooklyn",
+"county": "Kings",
+"state": "NY"
+},
+{
+"id": "NY0164",
+"name": "Broome County Public Library",
+"city": "Binghamton",
+"county": "Broome",
+"state": "NY"
+}
+]

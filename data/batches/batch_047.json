@@ -1,0 +1,352 @@
+[
+{
+"id": "NY0448",
+"name": "Fulton Public Library",
+"city": "Fulton",
+"county": "Oswego",
+"state": "NY"
+},
+{
+"id": "NY0346",
+"name": "Garden City Public Library",
+"city": "Garden City",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0513",
+"name": "Gates Public Library",
+"city": "Rochester",
+"county": "Monroe",
+"state": "NY"
+},
+{
+"id": "NY0532",
+"name": "Geneva Public Library",
+"city": "Geneva",
+"county": "Ontario",
+"state": "NY"
+},
+{
+"id": "NY0166",
+"name": "George F. Johnson Memorial Library",
+"city": "Endicott",
+"county": "Broome",
+"state": "NY"
+},
+{
+"id": "NY0347",
+"name": "Glen Cove Public Library",
+"city": "Glen Cove",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0318",
+"name": "Gloversville Public Library",
+"city": "Gloversville",
+"county": "Fulton",
+"state": "NY"
+},
+{
+"id": "NY0792",
+"name": "Gold Coast Public Library District",
+"city": "Glen Head",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0568",
+"name": "Goshen Public Library And Historical Society",
+"city": "Goshen",
+"county": "Orange",
+"state": "NY"
+},
+{
+"id": "NY0017",
+"name": "Grand Island Memorial Library",
+"city": "Grand Island",
+"county": "Erie",
+"state": "NY"
+},
+{
+"id": "NY0348",
+"name": "Great Neck Library",
+"city": "Great Neck",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0230",
+"name": "Greater Poughkeepsie Library District",
+"city": "Poughkeepsie",
+"county": "Dutchess",
+"state": "NY"
+},
+{
+"id": "NY0514",
+"name": "Greece Public Library",
+"city": "Greece",
+"county": "Monroe",
+"state": "NY"
+},
+{
+"id": "NY0735",
+"name": "Greenburgh Public Library",
+"city": "Elmsford",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0239",
+"name": "Grinnell Public Library District",
+"city": "Wappingers Falls",
+"county": "Dutchess",
+"state": "NY"
+},
+{
+"id": "NY0177",
+"name": "Guernsey Memorial Library Of Norwich",
+"city": "Norwich",
+"county": "Chenango",
+"state": "NY"
+},
+{
+"id": "NY0703",
+"name": "Guilderland Public Library",
+"city": "Guilderland",
+"county": "Albany",
+"state": "NY"
+},
+{
+"id": "NY0661",
+"name": "Half Hollow Hills Community Public Library",
+"city": "Dix Hills",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0018",
+"name": "Hamburg Public Library",
+"city": "Hamburg",
+"county": "Erie",
+"state": "NY"
+},
+{
+"id": "NY0667",
+"name": "Hampton Bays Public Library",
+"city": "Hampton Bays",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0665",
+"name": "Harborfields Public Library",
+"city": "Greenlawn",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0736",
+"name": "Harrison Public Library",
+"city": "Harrison",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY9016",
+"name": "Hauppauge Public Library",
+"city": "Hauppauge",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0583",
+"name": "Haverstraw Kings Daughters Public Library",
+"city": "Garnerville",
+"county": "Rockland",
+"state": "NY"
+},
+{
+"id": "NY0349",
+"name": "Hempstead Public Library",
+"city": "Hempstead",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0742",
+"name": "Hendrick Hudson Free Library",
+"city": "Montrose",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0515",
+"name": "Henrietta Public Library",
+"city": "Rochester",
+"county": "Monroe",
+"state": "NY"
+},
+{
+"id": "NY0382",
+"name": "Henry Waldinger Memorial Library",
+"city": "Valley Stream",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0350",
+"name": "Hewlett-Woodmere Public Library",
+"city": "Hewlett",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0351",
+"name": "Hicksville Free Public Library",
+"city": "Hicksville",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0256",
+"name": "Highland Public Library",
+"city": "Highland",
+"county": "Ulster",
+"state": "NY"
+},
+{
+"id": "NY0367",
+"name": "Hillside Public Library Of New Hyde Park",
+"city": "New Hyde Park",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0407",
+"name": "Hoag Library Of The Swan Library Association",
+"city": "Albion",
+"county": "Orleans",
+"state": "NY"
+},
+{
+"id": "NY0220",
+"name": "Howland Public Library",
+"city": "Beacon",
+"county": "Dutchess",
+"state": "NY"
+},
+{
+"id": "NY0212",
+"name": "Hudson Area Association Library",
+"city": "Hudson",
+"county": "Columbia",
+"state": "NY"
+},
+{
+"id": "NY0638",
+"name": "Hudson Falls Free Library Association",
+"city": "Hudson Falls",
+"county": "Washington",
+"state": "NY"
+},
+{
+"id": "NY0201",
+"name": "Huntington Memorial Library",
+"city": "Oneonta",
+"county": "Otsego",
+"state": "NY"
+},
+{
+"id": "NY0669",
+"name": "Huntington Public Library",
+"city": "Huntington",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0224",
+"name": "Hyde Park Library District",
+"city": "Hyde Park",
+"county": "Dutchess",
+"state": "NY"
+},
+{
+"id": "NY0518",
+"name": "Irondequoit Public Library",
+"city": "Rochester",
+"county": "Monroe",
+"state": "NY"
+},
+{
+"id": "NY0353",
+"name": "Island Trees Public Library",
+"city": "Levittown",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0671",
+"name": "Islip Public Library",
+"city": "Islip",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0054",
+"name": "James Prendergast Library Association",
+"city": "Jamestown",
+"county": "Chautauqua",
+"state": "NY"
+},
+{
+"id": "NY0354",
+"name": "Jericho Public Library",
+"city": "Jericho",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0762",
+"name": "John C. Hart Memorial Library",
+"city": "Shrub Oak",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0319",
+"name": "Johnstown Public Library",
+"city": "Johnstown",
+"county": "Fulton",
+"state": "NY"
+},
+{
+"id": "NY0252",
+"name": "Kent Public Library",
+"city": "Kent Lakes",
+"county": "Putnam",
+"state": "NY"
+},
+{
+"id": "NY0258",
+"name": "Kingston Library",
+"city": "Kingston",
+"county": "Ulster",
+"state": "NY"
+},
+{
+"id": "NY0301",
+"name": "Kirkland Town Library",
+"city": "Clinton",
+"county": "Oneida",
+"state": "NY"
+},
+{
+"id": "NY0020",
+"name": "Lackawanna Public Library",
+"city": "Lackawanna",
+"county": "Erie",
+"state": "NY"
+}
+]

@@ -1,0 +1,352 @@
+[
+{
+"id": "IL0318",
+"name": "Marion Carnegie Library",
+"city": "Marion",
+"county": "Williamson",
+"state": "IL"
+},
+{
+"id": "IL0320",
+"name": "Markham Public Library",
+"city": "Markham",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0693",
+"name": "Maryville Community Library District",
+"city": "Maryville",
+"county": "Madison",
+"state": "IL"
+},
+{
+"id": "IL0329",
+"name": "Matteson Area Public Library District",
+"city": "Matteson",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0330",
+"name": "Mattoon Public Library",
+"city": "Mattoon",
+"county": "Coles",
+"state": "IL"
+},
+{
+"id": "IL0331",
+"name": "Maywood Public Library District",
+"city": "Maywood",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0301",
+"name": "Mchenry Public Library District",
+"city": "Mchenry",
+"county": "Mchenry",
+"state": "IL"
+},
+{
+"id": "IL0609",
+"name": "Melrose Park Public Library",
+"city": "Melrose Park",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0384",
+"name": "Messenger Public Library Of North Aurora",
+"city": "North Aurora",
+"county": "Kane",
+"state": "IL"
+},
+{
+"id": "IL0337",
+"name": "Midlothian Public Library",
+"city": "Midlothian",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0114",
+"name": "Mississippi Valley Library District",
+"city": "Collinsville",
+"county": "Madison",
+"state": "IL"
+},
+{
+"id": "IL0344",
+"name": "Mokena Community Public Library District",
+"city": "Mokena",
+"county": "Will",
+"state": "IL"
+},
+{
+"id": "IL0345",
+"name": "Moline Public Library",
+"city": "Moline",
+"county": "Rock Island",
+"state": "IL"
+},
+{
+"id": "IL0349",
+"name": "Morris Area Public Library District",
+"city": "Morris",
+"county": "Grundy",
+"state": "IL"
+},
+{
+"id": "IL0560",
+"name": "Morrison-Talbott Library",
+"city": "Waterloo",
+"county": "Monroe",
+"state": "IL"
+},
+{
+"id": "IL0353",
+"name": "Morton Grove Public Library",
+"city": "Morton Grove",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0352",
+"name": "Morton Public Library District",
+"city": "Morton",
+"county": "Tazewell",
+"state": "IL"
+},
+{
+"id": "IL0360",
+"name": "Mount Prospect Public Library",
+"city": "Mount Prospect",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0364",
+"name": "Mount Zion District Library",
+"city": "Mount Zion",
+"county": "Macon",
+"state": "IL"
+},
+{
+"id": "IL0368",
+"name": "Naperville Public Library",
+"city": "Naperville",
+"county": "Dupage",
+"state": "IL"
+},
+{
+"id": "IL0375",
+"name": "New Lenox Public Library District",
+"city": "New Lenox",
+"county": "Will",
+"state": "IL"
+},
+{
+"id": "IL0379",
+"name": "Niles-Maine District Library",
+"city": "Niles",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0380",
+"name": "Nippersink Public Library District",
+"city": "Richmond",
+"county": "Mchenry",
+"state": "IL"
+},
+{
+"id": "IL0382",
+"name": "Normal Public Library",
+"city": "Normal",
+"county": "Mclean",
+"state": "IL"
+},
+{
+"id": "IL0385",
+"name": "North Chicago Public Library",
+"city": "North Chicago",
+"county": "Lake",
+"state": "IL"
+},
+{
+"id": "IL0387",
+"name": "North Suburban Public Library District",
+"city": "Loves Park",
+"county": "Winnebago",
+"state": "IL"
+},
+{
+"id": "IL0388",
+"name": "Northbrook Public Library",
+"city": "Northbrook",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0389",
+"name": "Northlake Public Library District",
+"city": "Northlake",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0395",
+"name": "O'Fallon Public Library",
+"city": "O'Fallon",
+"county": "St. Clair",
+"state": "IL"
+},
+{
+"id": "IL0391",
+"name": "Oak Lawn Public Library",
+"city": "Oak Lawn",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0392",
+"name": "Oak Park Public Library",
+"city": "Oak Park",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0405",
+"name": "Orland Park Public Library",
+"city": "Orland Park",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0406",
+"name": "Oswego Public Library District",
+"city": "Oswego",
+"county": "Kendall",
+"state": "IL"
+},
+{
+"id": "IL0408",
+"name": "Palatine Public Library District",
+"city": "Palatine",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0410",
+"name": "Palos Heights Public Library",
+"city": "Palos Heights",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0414",
+"name": "Park Forest Public Library",
+"city": "Park Forest",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0415",
+"name": "Park Ridge Public Library",
+"city": "Park Ridge",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0073",
+"name": "Parlin-Ingersoll Public Library",
+"city": "Canton",
+"county": "Fulton",
+"state": "IL"
+},
+{
+"id": "IL0422",
+"name": "Pekin Public Library",
+"city": "Pekin",
+"county": "Tazewell",
+"state": "IL"
+},
+{
+"id": "IL0423",
+"name": "Peoria Public Library",
+"city": "Peoria",
+"county": "Peoria",
+"state": "IL"
+},
+{
+"id": "IL0425",
+"name": "Peotone Public Library District",
+"city": "Peotone",
+"county": "Will",
+"state": "IL"
+},
+{
+"id": "IL0432",
+"name": "Plainfield Public Library District",
+"city": "Plainfield",
+"county": "Will",
+"state": "IL"
+},
+{
+"id": "IL0434",
+"name": "Plano Community Library District",
+"city": "Plano",
+"county": "Kendall",
+"state": "IL"
+},
+{
+"id": "IL0436",
+"name": "Pontiac Public Library",
+"city": "Pontiac",
+"county": "Livingston",
+"state": "IL"
+},
+{
+"id": "IL0437",
+"name": "Poplar Creek Public Library District",
+"city": "Streamwood",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0439",
+"name": "Prairie Trails Public Library District",
+"city": "Burbank",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0443",
+"name": "Prospect Heights Public Library District",
+"city": "Prospect Heights",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0445",
+"name": "Quincy Public Library",
+"city": "Quincy",
+"county": "Adams",
+"state": "IL"
+},
+{
+"id": "IL0446",
+"name": "Rantoul Public Library",
+"city": "Rantoul",
+"county": "Champaign",
+"state": "IL"
+},
+{
+"id": "IL0407",
+"name": "Reddick Public Library District",
+"city": "Ottawa",
+"county": "La Salle",
+"state": "IL"
+}
+]

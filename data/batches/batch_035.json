@@ -1,0 +1,352 @@
+[
+{
+"id": "MN0113",
+"name": "Fergus Falls Public Library",
+"city": "Fergus Falls",
+"county": "Otter Tail",
+"state": "MN"
+},
+{
+"id": "MN0018",
+"name": "Grand Rapids Area Library",
+"city": "Grand Rapids",
+"county": "Itasca",
+"state": "MN"
+},
+{
+"id": "MN0032",
+"name": "Great River Regional Library",
+"city": "St Cloud",
+"county": "Stearns",
+"state": "MN"
+},
+{
+"id": "MN0041",
+"name": "Hennepin County Library",
+"city": "Minnetonka",
+"county": "Hennepin",
+"state": "MN"
+},
+{
+"id": "MN0019",
+"name": "Hibbing Public Library",
+"city": "Hibbing",
+"county": "St. Louis",
+"state": "MN"
+},
+{
+"id": "MN0078",
+"name": "Kasson Public Library",
+"city": "Kasson",
+"county": "Dodge",
+"state": "MN"
+},
+{
+"id": "MN0145",
+"name": "Kitchigami Regional Library",
+"city": "Pine River",
+"county": "Cass",
+"state": "MN"
+},
+{
+"id": "MN0034",
+"name": "Lake Agassiz Regional Library",
+"city": "Moorhead",
+"county": "Clay",
+"state": "MN"
+},
+{
+"id": "MN0081",
+"name": "Lake City Public Library",
+"city": "Lake City",
+"county": "Wabasha",
+"state": "MN"
+},
+{
+"id": "MN0155",
+"name": "Lonsdale Public Library",
+"city": "Lonsdale",
+"county": "Rice",
+"state": "MN"
+},
+{
+"id": "MN0057",
+"name": "Marshall-Lyon County Library",
+"city": "Marshall",
+"county": "Lyon",
+"state": "MN"
+},
+{
+"id": "MN0105",
+"name": "Martin County Library",
+"city": "Fairmont",
+"county": "Martin",
+"state": "MN"
+},
+{
+"id": "MN0101",
+"name": "New Ulm Public Library",
+"city": "New Ulm",
+"county": "Brown",
+"state": "MN"
+},
+{
+"id": "MN0060",
+"name": "Nobles County Library",
+"city": "Worthington",
+"county": "Nobles",
+"state": "MN"
+},
+{
+"id": "MN9027",
+"name": "North Mankato Taylor Library",
+"city": "North Mankato",
+"county": "Nicollet",
+"state": "MN"
+},
+{
+"id": "MN0084",
+"name": "Northfield Public Library",
+"city": "Northfield",
+"county": "Rice",
+"state": "MN"
+},
+{
+"id": "MN0050",
+"name": "Northwest Regional Library",
+"city": "Thief River Falls",
+"county": "Pennington",
+"state": "MN"
+},
+{
+"id": "MN0085",
+"name": "Owatonna-Steele County Library",
+"city": "Owatonna",
+"county": "Steele",
+"state": "MN"
+},
+{
+"id": "MN0086",
+"name": "Pine Island: Van Horn Public Library",
+"city": "Pine Island",
+"county": "Goodhue",
+"state": "MN"
+},
+{
+"id": "MN0051",
+"name": "Pioneerland Library System",
+"city": "Willmar",
+"county": "Kandiyohi",
+"state": "MN"
+},
+{
+"id": "MN0043",
+"name": "Ramsey County Library",
+"city": "Shoreview",
+"county": "Ramsey",
+"state": "MN"
+},
+{
+"id": "MN0089",
+"name": "Red Wing Public Library",
+"city": "Red Wing",
+"county": "Goodhue",
+"state": "MN"
+},
+{
+"id": "MN0090",
+"name": "Rochester Public Library",
+"city": "Rochester",
+"county": "Olmsted",
+"state": "MN"
+},
+{
+"id": "MN0044",
+"name": "Saint Paul Public Library",
+"city": "Saint Paul",
+"county": "Ramsey",
+"state": "MN"
+},
+{
+"id": "MN0045",
+"name": "Scott County Library",
+"city": "Shakopee",
+"county": "Scott",
+"state": "MN"
+},
+{
+"id": "MN9030",
+"name": "Sibley County Library",
+"city": "Gaylord",
+"county": "Sibley",
+"state": "MN"
+},
+{
+"id": "MN0040",
+"name": "South Saint Paul Public Library",
+"city": "South St Paul",
+"county": "Dakota",
+"state": "MN"
+},
+{
+"id": "MN9028",
+"name": "St. Peter Public Library",
+"city": "Saint Peter",
+"county": "Nicollet",
+"state": "MN"
+},
+{
+"id": "MN0094",
+"name": "Stewartville Public Library",
+"city": "Stewartville",
+"county": "Olmsted",
+"state": "MN"
+},
+{
+"id": "MN0049",
+"name": "Stillwater Public Library",
+"city": "Stillwater",
+"county": "Washington",
+"state": "MN"
+},
+{
+"id": "MN0109",
+"name": "Viking Library System",
+"city": "Fergus Falls",
+"county": "Otter Tail",
+"state": "MN"
+},
+{
+"id": "MN0107",
+"name": "Waseca-Le Sueur Regional Library",
+"city": "Waseca",
+"county": "Waseca",
+"state": "MN"
+},
+{
+"id": "MN0046",
+"name": "Washington County Library",
+"city": "Woodbury",
+"county": "Washington",
+"state": "MN"
+},
+{
+"id": "MN0108",
+"name": "Watonwan County Library",
+"city": "St James",
+"county": "Watonwan",
+"state": "MN"
+},
+{
+"id": "MN0097",
+"name": "Winona Public Library",
+"city": "Winona",
+"county": "Winona",
+"state": "MN"
+},
+{
+"id": "MN0098",
+"name": "Zumbrota Public Library",
+"city": "Zumbrota",
+"county": "Goodhue",
+"state": "MN"
+},
+{
+"id": "MO0015",
+"name": "Adair County Public Library",
+"city": "Kirksville",
+"county": "Adair",
+"state": "MO"
+},
+{
+"id": "MO0038",
+"name": "Barry-Lawrence Regional Library",
+"city": "Monett",
+"county": "Barry",
+"state": "MO"
+},
+{
+"id": "MO0173",
+"name": "Barton County Library",
+"city": "Lamar",
+"county": "Barton",
+"state": "MO"
+},
+{
+"id": "MO0122",
+"name": "Bollinger County Library",
+"city": "Marble Hill",
+"county": "Bollinger",
+"state": "MO"
+},
+{
+"id": "MO0039",
+"name": "Boonslick Regional Library",
+"city": "Sedalia",
+"county": "Pettis",
+"state": "MO"
+},
+{
+"id": "MO0095",
+"name": "Camden County Library",
+"city": "Camdenton",
+"county": "Camden",
+"state": "MO"
+},
+{
+"id": "MO0121",
+"name": "Carthage Public Library",
+"city": "Carthage",
+"county": "Jasper",
+"state": "MO"
+},
+{
+"id": "MO0040",
+"name": "Cass County Public Library",
+"city": "Harrisonville",
+"county": "Cass",
+"state": "MO"
+},
+{
+"id": "MO0178",
+"name": "Cedar County Library District",
+"city": "Stockton",
+"county": "Cedar",
+"state": "MO"
+},
+{
+"id": "MO0110",
+"name": "Christian County Library",
+"city": "Nixa",
+"county": "Christian",
+"state": "MO"
+},
+{
+"id": "MO0030",
+"name": "City Of St. Louis Municipal Library District",
+"city": "St. Louis",
+"county": "St. Louis City",
+"state": "MO"
+},
+{
+"id": "MO0234",
+"name": "Crawford County Library",
+"city": "Steelville",
+"county": "Crawford",
+"state": "MO"
+},
+{
+"id": "MO0087",
+"name": "Dallas County Library",
+"city": "Buffalo",
+"county": "Dallas",
+"state": "MO"
+},
+{
+"id": "MO0034",
+"name": "Daniel Boone Regional Library",
+"city": "Columbia",
+"county": "Boone",
+"state": "MO"
+}
+]

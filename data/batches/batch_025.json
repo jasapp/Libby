@@ -1,0 +1,352 @@
+[
+{
+"id": "KY0115",
+"name": "Woodford County Library District",
+"city": "Versailles",
+"county": "Woodford",
+"state": "KY"
+},
+{
+"id": "LA0039",
+"name": "Acadia Parish Library",
+"city": "Crowley",
+"county": "Acadia",
+"state": "LA"
+},
+{
+"id": "LA0009",
+"name": "Allen Parish Libraries",
+"city": "Oberlin",
+"county": "Allen",
+"state": "LA"
+},
+{
+"id": "LA0037",
+"name": "Ascension Parish Library",
+"city": "Donaldsonville",
+"county": "Ascension",
+"state": "LA"
+},
+{
+"id": "LA0011",
+"name": "Assumption Parish Library",
+"city": "Napoleonville",
+"county": "Assumption",
+"state": "LA"
+},
+{
+"id": "LA0031",
+"name": "Audubon Regional Library",
+"city": "Clinton",
+"county": "East Feliciana",
+"state": "LA"
+},
+{
+"id": "LA0032",
+"name": "Avoyelles Parish Library",
+"city": "Marksville",
+"county": "Avoyelles",
+"state": "LA"
+},
+{
+"id": "LA0020",
+"name": "Beauregard Parish Library",
+"city": "Deridder",
+"county": "Beauregard",
+"state": "LA"
+},
+{
+"id": "LA0064",
+"name": "Bienville Parish Library",
+"city": "Arcadia",
+"county": "Bienville",
+"state": "LA"
+},
+{
+"id": "LA0046",
+"name": "Bossier Parish Library",
+"city": "Bossier City",
+"county": "Bossier",
+"state": "LA"
+},
+{
+"id": "LA0053",
+"name": "Calcasieu Parish Public Library",
+"city": "Lake Charles",
+"county": "Calcasieu",
+"state": "LA"
+},
+{
+"id": "LA0004",
+"name": "Claiborne Parish Library",
+"city": "Homer",
+"county": "Claiborne",
+"state": "LA"
+},
+{
+"id": "LA0014",
+"name": "Concordia Parish Library",
+"city": "Ferriday",
+"county": "Concordia",
+"state": "LA"
+},
+{
+"id": "LA0018",
+"name": "Desoto Parish Library",
+"city": "Mansfield",
+"county": "Desoto",
+"state": "LA"
+},
+{
+"id": "LA0055",
+"name": "East Baton Rouge Parish Library",
+"city": "Baton Rouge",
+"county": "East Baton Rouge",
+"state": "LA"
+},
+{
+"id": "LA0025",
+"name": "Evangeline Parish Library",
+"city": "Ville Platte",
+"county": "Evangeline",
+"state": "LA"
+},
+{
+"id": "LA0016",
+"name": "Franklin Parish Library",
+"city": "Winnsboro",
+"county": "Franklin",
+"state": "LA"
+},
+{
+"id": "LA0002",
+"name": "Grant Parish Library",
+"city": "Colfax",
+"county": "Grant",
+"state": "LA"
+},
+{
+"id": "LA0041",
+"name": "Iberia Parish Library",
+"city": "New Iberia",
+"county": "Iberia",
+"state": "LA"
+},
+{
+"id": "LA0022",
+"name": "Iberville Parish Library",
+"city": "Plaquemine",
+"county": "Iberville",
+"state": "LA"
+},
+{
+"id": "LA0006",
+"name": "Jackson Parish Library",
+"city": "Jonesboro",
+"county": "Jackson",
+"state": "LA"
+},
+{
+"id": "LA0024",
+"name": "Jefferson Davis Parish Library",
+"city": "Jennings",
+"county": "Jefferson Davis",
+"state": "LA"
+},
+{
+"id": "LA0057",
+"name": "Jefferson Parish Library",
+"city": "Metairie",
+"county": "Jefferson",
+"state": "LA"
+},
+{
+"id": "LA0052",
+"name": "Lafayette Public Library",
+"city": "Lafayette",
+"county": "Lafayette",
+"state": "LA"
+},
+{
+"id": "LA0047",
+"name": "Lafourche Parish Public Library",
+"city": "Thibodaux",
+"county": "Lafourche",
+"state": "LA"
+},
+{
+"id": "LA0003",
+"name": "Lasalle Parish Library",
+"city": "Jena",
+"county": "Lasalle",
+"state": "LA"
+},
+{
+"id": "LA0028",
+"name": "Lincoln Parish Library",
+"city": "Ruston",
+"county": "Lincoln",
+"state": "LA"
+},
+{
+"id": "LA0040",
+"name": "Livingston Parish Library",
+"city": "Livingston",
+"county": "Livingston",
+"state": "LA"
+},
+{
+"id": "LA0026",
+"name": "Morehouse Parish Library",
+"city": "Bastrop",
+"county": "Morehouse",
+"state": "LA"
+},
+{
+"id": "LA0060",
+"name": "Morgan City Public Library",
+"city": "Morgan City",
+"county": "St. Mary",
+"state": "LA"
+},
+{
+"id": "LA0029",
+"name": "Natchitoches Parish Library",
+"city": "Natchitoches",
+"county": "Natchitoches",
+"state": "LA"
+},
+{
+"id": "LA0058",
+"name": "New Orleans Public Library",
+"city": "New Orleans",
+"county": "Orleans",
+"state": "LA"
+},
+{
+"id": "LA0061",
+"name": "Opelousas Public Library",
+"city": "Opelousas",
+"county": "St. Landry",
+"state": "LA"
+},
+{
+"id": "LA0051",
+"name": "Ouachita Parish Public Library",
+"city": "Monroe",
+"county": "Ouachita",
+"state": "LA"
+},
+{
+"id": "LA0019",
+"name": "Plaquemines Parish Library",
+"city": "Belle Chasse",
+"county": "Plaquemines",
+"state": "LA"
+},
+{
+"id": "LA0015",
+"name": "Pointe Coupee Parish Library",
+"city": "New Roads",
+"county": "Pointe Coupee",
+"state": "LA"
+},
+{
+"id": "LA0050",
+"name": "Rapides Parish Library",
+"city": "Alexandria",
+"county": "Rapides",
+"state": "LA"
+},
+{
+"id": "LA0013",
+"name": "Richland Parish Library",
+"city": "Rayville",
+"county": "Richland",
+"state": "LA"
+},
+{
+"id": "LA0017",
+"name": "Sabine Parish Library",
+"city": "Many",
+"county": "Sabine",
+"state": "LA"
+},
+{
+"id": "LA0054",
+"name": "Shreve Memorial Library",
+"city": "Shreveport",
+"county": "Caddo",
+"state": "LA"
+},
+{
+"id": "LA0042",
+"name": "St. Bernard Parish Library",
+"city": "Chalmette",
+"county": "St. Bernard",
+"state": "LA"
+},
+{
+"id": "LA0027",
+"name": "St. Charles Parish Library",
+"city": "Destrehan",
+"county": "St. Charles",
+"state": "LA"
+},
+{
+"id": "LA0010",
+"name": "St. James Parish Library",
+"city": "Lutcher",
+"county": "St. James",
+"state": "LA"
+},
+{
+"id": "LA0021",
+"name": "St. John The Baptist Parish Library",
+"city": "Laplace",
+"county": "St. John The Baptist",
+"state": "LA"
+},
+{
+"id": "LA0030",
+"name": "St. Martin Parish Library",
+"city": "St. Martinville",
+"county": "St. Martin",
+"state": "LA"
+},
+{
+"id": "LA0043",
+"name": "St. Mary Parish Library",
+"city": "Franklin",
+"county": "St. Mary",
+"state": "LA"
+},
+{
+"id": "LA0049",
+"name": "St. Tammany Parish Library",
+"city": "Covington",
+"county": "St. Tammany",
+"state": "LA"
+},
+{
+"id": "LA0044",
+"name": "Tangipahoa Parish Library",
+"city": "Amite",
+"county": "Tangipahoa",
+"state": "LA"
+},
+{
+"id": "LA0048",
+"name": "Terrebonne Parish Library",
+"city": "Houma",
+"county": "Terrebonne",
+"state": "LA"
+},
+{
+"id": "LA0008",
+"name": "Union Parish Library",
+"city": "Farmerville",
+"county": "Union",
+"state": "LA"
+}
+]

@@ -1,0 +1,352 @@
+[
+{
+"id": "NJ0024",
+"name": "Fort Lee Free Public Library",
+"city": "Fort Lee",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0025",
+"name": "Franklin Lakes Free Public Library",
+"city": "Franklin Lakes",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0133",
+"name": "Franklin Twp Public Library/Gloucester",
+"city": "Franklinville",
+"county": "Gloucester",
+"state": "NJ"
+},
+{
+"id": "NJ0280",
+"name": "Franklin Twp Public Library/Somerset",
+"city": "Somerset",
+"county": "Somerset",
+"state": "NJ"
+},
+{
+"id": "NJ0205",
+"name": "Freehold Public Library",
+"city": "Freehold",
+"county": "Monmouth",
+"state": "NJ"
+},
+{
+"id": "NJ0026",
+"name": "Garfield Free Public Library",
+"city": "Garfield",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0027",
+"name": "Glen Rock Public Library",
+"city": "Glen Rock",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0091",
+"name": "Gloucester City Library",
+"city": "Gloucester City",
+"county": "Camden",
+"state": "NJ"
+},
+{
+"id": "NJ0130",
+"name": "Gloucester County Library",
+"city": "Mullica Hill",
+"county": "Gloucester",
+"state": "NJ"
+},
+{
+"id": "NJ0310",
+"name": "Hackettstown Free Public Library",
+"city": "Hackettstown",
+"county": "Warren",
+"state": "NJ"
+},
+{
+"id": "NJ0092",
+"name": "Haddonfield Public Library",
+"city": "Haddonfield",
+"county": "Camden",
+"state": "NJ"
+},
+{
+"id": "NJ0166",
+"name": "Hamilton Township Free Public Library",
+"city": "Hamilton",
+"county": "Mercer",
+"state": "NJ"
+},
+{
+"id": "NJ0147",
+"name": "Harrison Public Library",
+"city": "Harrison",
+"county": "Hudson",
+"state": "NJ"
+},
+{
+"id": "NJ0030",
+"name": "Hasbrouck Heights Free Public Library",
+"city": "Hasbrouck Heights",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0176",
+"name": "Highland Park Public Library",
+"city": "Highland Park",
+"county": "Middlesex",
+"state": "NJ"
+},
+{
+"id": "NJ0032",
+"name": "Hillsdale Free Public Library",
+"city": "Hillsdale",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0292",
+"name": "Hillside Free Public Library",
+"city": "Hillside",
+"county": "Union",
+"state": "NJ"
+},
+{
+"id": "NJ0148",
+"name": "Hoboken Public Library",
+"city": "Hoboken",
+"county": "Hudson",
+"state": "NJ"
+},
+{
+"id": "NJ0156",
+"name": "Hunterdon County Library",
+"city": "Flemington",
+"county": "Hunterdon",
+"state": "NJ"
+},
+{
+"id": "NJ0117",
+"name": "Irvington Public Library",
+"city": "Irvington",
+"county": "Essex",
+"state": "NJ"
+},
+{
+"id": "NJ0131",
+"name": "James H. Johnson Memorial Library",
+"city": "Deptford",
+"county": "Gloucester",
+"state": "NJ"
+},
+{
+"id": "NJ0231",
+"name": "Jefferson Township Public Library",
+"city": "Oak Ridge",
+"county": "Morris",
+"state": "NJ"
+},
+{
+"id": "NJ0149",
+"name": "Jersey City Free Public Library",
+"city": "Jersey City",
+"county": "Hudson",
+"state": "NJ"
+},
+{
+"id": "NJ0065",
+"name": "John F. Kennedy Memorial Library",
+"city": "Wallington",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0028",
+"name": "Johnson Free Public Library",
+"city": "Hackensack",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0150",
+"name": "Kearny Public Library",
+"city": "Kearny",
+"county": "Hudson",
+"state": "NJ"
+},
+{
+"id": "NJ0233",
+"name": "Lincoln Park Public Library",
+"city": "Lincoln Park",
+"county": "Morris",
+"state": "NJ"
+},
+{
+"id": "NJ0294",
+"name": "Linden Free Public Library",
+"city": "Linden",
+"county": "Union",
+"state": "NJ"
+},
+{
+"id": "NJ0259",
+"name": "Little Falls Public Library",
+"city": "Little Falls",
+"county": "Passaic",
+"state": "NJ"
+},
+{
+"id": "NJ0035",
+"name": "Little Ferry Free Public Library",
+"city": "Little Ferry",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0036",
+"name": "Lodi Memorial Library",
+"city": "Lodi",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0209",
+"name": "Long Branch Free Public Library",
+"city": "Long Branch",
+"county": "Monmouth",
+"state": "NJ"
+},
+{
+"id": "NJ0258",
+"name": "Louis Bay 2Nd Library",
+"city": "Hawthorne",
+"county": "Passaic",
+"state": "NJ"
+},
+{
+"id": "NJ0037",
+"name": "Lyndhurst Free Public Library",
+"city": "Lyndhurst",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0234",
+"name": "Madison Public Library",
+"city": "Madison",
+"county": "Morris",
+"state": "NJ"
+},
+{
+"id": "NJ0038",
+"name": "Mahwah Free Public Library",
+"city": "Mahwah Township",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0119",
+"name": "Maplewood Memorial Library",
+"city": "Maplewood",
+"county": "Essex",
+"state": "NJ"
+},
+{
+"id": "NJ0141",
+"name": "Margaret E. Heggan Free Public Library",
+"city": "Sewell",
+"county": "Gloucester",
+"state": "NJ"
+},
+{
+"id": "NJ0196",
+"name": "Matawan-Aberdeen Public Library",
+"city": "Matawan",
+"county": "Monmouth",
+"state": "NJ"
+},
+{
+"id": "NJ0022",
+"name": "Maurice M. Pine Free Public Library",
+"city": "Fair Lawn",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0039",
+"name": "Maywood Public Library",
+"city": "Maywood",
+"county": "Bergen",
+"state": "NJ"
+},
+{
+"id": "NJ0165",
+"name": "Mercer County Library",
+"city": "Lawrenceville",
+"county": "Mercer",
+"state": "NJ"
+},
+{
+"id": "NJ0178",
+"name": "Metuchen Public Library",
+"city": "Metuchen",
+"county": "Middlesex",
+"state": "NJ"
+},
+{
+"id": "NJ0179",
+"name": "Middlesex Public Library",
+"city": "Middlesex",
+"county": "Middlesex",
+"state": "NJ"
+},
+{
+"id": "NJ0211",
+"name": "Middletown Township Public Library",
+"city": "Middletown",
+"county": "Monmouth",
+"state": "NJ"
+},
+{
+"id": "NJ0120",
+"name": "Millburn Free Public Library",
+"city": "Millburn",
+"county": "Essex",
+"state": "NJ"
+},
+{
+"id": "NJ0108",
+"name": "Millville Public Library",
+"city": "Millville",
+"county": "Cumberland",
+"state": "NJ"
+},
+{
+"id": "NJ0195",
+"name": "Monmouth County Library",
+"city": "Manalapan",
+"county": "Monmouth",
+"state": "NJ"
+},
+{
+"id": "NJ0136",
+"name": "Monroe Twp Public Library/Gloucester",
+"city": "Williamstown",
+"county": "Gloucester",
+"state": "NJ"
+},
+{
+"id": "NJ0181",
+"name": "Monroe Twp Public Library/Middlesex",
+"city": "Monroe Township",
+"county": "Middlesex",
+"state": "NJ"
+}
+]

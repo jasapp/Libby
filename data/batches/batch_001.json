@@ -1,0 +1,352 @@
+[
+{
+"id": "AL0097",
+"name": "Homewood Public Library",
+"city": "Homewood",
+"county": "Jefferson",
+"state": "AL"
+},
+{
+"id": "AL0098",
+"name": "Hoover Public Library",
+"city": "Hoover",
+"county": "Jefferson",
+"state": "AL"
+},
+{
+"id": "AL0048",
+"name": "Horseshoe Bend Regional Library",
+"city": "Dadeville",
+"county": "Tallapoosa",
+"state": "AL"
+},
+{
+"id": "AL0099",
+"name": "Hueytown Public Library",
+"city": "Hueytown",
+"county": "Jefferson",
+"state": "AL"
+},
+{
+"id": "AL0166",
+"name": "Huntsville - Madison County Public Library",
+"city": "Huntsville",
+"county": "Madison",
+"state": "AL"
+},
+{
+"id": "AL0100",
+"name": "Irondale Public Library",
+"city": "Irondale",
+"county": "Jefferson",
+"state": "AL"
+},
+{
+"id": "AL0155",
+"name": "Jacksonville Public Library",
+"city": "Jacksonville",
+"county": "Calhoun",
+"state": "AL"
+},
+{
+"id": "AL0007",
+"name": "Jasper Public Library",
+"city": "Jasper",
+"county": "Walker",
+"state": "AL"
+},
+{
+"id": "AL0079",
+"name": "Lawrence County Public Library",
+"city": "Moulton",
+"county": "Lawrence",
+"state": "AL"
+},
+{
+"id": "AL0101",
+"name": "Leeds - Jane Culbreth Library",
+"city": "Leeds",
+"county": "Jefferson",
+"state": "AL"
+},
+{
+"id": "AL0044",
+"name": "Luverne Public Library",
+"city": "Luverne",
+"county": "Crenshaw",
+"state": "AL"
+},
+{
+"id": "AL0178",
+"name": "Macon County - Tuskegee Public Library",
+"city": "Tuskegee",
+"county": "Macon",
+"state": "AL"
+},
+{
+"id": "AL0123",
+"name": "Marshall County Cooperative Library",
+"city": "Guntersville",
+"county": "Marshall",
+"state": "AL"
+},
+{
+"id": "AL0054",
+"name": "Millbrook Public Library",
+"city": "Millbrook",
+"county": "Elmore",
+"state": "AL"
+},
+{
+"id": "AL0186",
+"name": "Mobile Public Library",
+"city": "Mobile",
+"county": "Mobile",
+"state": "AL"
+},
+{
+"id": "AL0198",
+"name": "Monroe County Public Library",
+"city": "Monroeville",
+"county": "Monroe",
+"state": "AL"
+},
+{
+"id": "AL0187",
+"name": "Montgomery City-County Public Library",
+"city": "Montgomery",
+"county": "Montgomery",
+"state": "AL"
+},
+{
+"id": "AL0146",
+"name": "Moody - Doris Stanley Memorial Library",
+"city": "Moody",
+"county": "St. Clair",
+"state": "AL"
+},
+{
+"id": "AL0092",
+"name": "Mountain Brook - Emmet O`Neal Library",
+"city": "Mountain Brook",
+"county": "Jefferson",
+"state": "AL"
+},
+{
+"id": "AL0062",
+"name": "Muscle Shoals Public Library",
+"city": "Muscle Shoals",
+"county": "Colbert",
+"state": "AL"
+},
+{
+"id": "AL0137",
+"name": "North Shelby Library",
+"city": "Birmingham",
+"county": "Shelby",
+"state": "AL"
+},
+{
+"id": "AL0147",
+"name": "Odenville Public Library",
+"city": "Odenville",
+"county": "St. Clair",
+"state": "AL"
+},
+{
+"id": "AL0176",
+"name": "Oneonta Public Library",
+"city": "Oneonta",
+"county": "Blount",
+"state": "AL"
+},
+{
+"id": "AL0053",
+"name": "Opelika Public Library",
+"city": "Opelika",
+"county": "Lee",
+"state": "AL"
+},
+{
+"id": "AL0045",
+"name": "Opp Public Library",
+"city": "Opp",
+"county": "Covington",
+"state": "AL"
+},
+{
+"id": "AL0019",
+"name": "Oxford Public Library",
+"city": "Oxford",
+"county": "Calhoun",
+"state": "AL"
+},
+{
+"id": "AL0026",
+"name": "Ozark - Dale County Public Library",
+"city": "Ozark",
+"county": "Dale",
+"state": "AL"
+},
+{
+"id": "AL0135",
+"name": "Pelham Public Library",
+"city": "Pelham",
+"county": "Shelby",
+"state": "AL"
+},
+{
+"id": "AL0148",
+"name": "Pell City Public Library",
+"city": "Pell City",
+"county": "St. Clair",
+"state": "AL"
+},
+{
+"id": "AL0194",
+"name": "Phenix City - Russell County Public Library",
+"city": "Phenix City",
+"county": "Russell",
+"state": "AL"
+},
+{
+"id": "AL0256",
+"name": "Pickens County Cooperative Library",
+"city": "Carrollton",
+"county": "Pickens",
+"state": "AL"
+},
+{
+"id": "AL0181",
+"name": "Prichard Public Library",
+"city": "Prichard",
+"county": "Mobile",
+"state": "AL"
+},
+{
+"id": "AL0070",
+"name": "Russellville Public Library",
+"city": "Russellville",
+"county": "Franklin",
+"state": "AL"
+},
+{
+"id": "AL0175",
+"name": "Scottsboro Public Library",
+"city": "Scottsboro",
+"county": "Jackson",
+"state": "AL"
+},
+{
+"id": "AL0195",
+"name": "Selma - Dallas County Public Library",
+"city": "Selma",
+"county": "Dallas",
+"state": "AL"
+},
+{
+"id": "AL0064",
+"name": "Sheffield Public Library",
+"city": "Sheffield",
+"county": "Colbert",
+"state": "AL"
+},
+{
+"id": "AL0226",
+"name": "Springville Public Library",
+"city": "Springville",
+"county": "St. Clair",
+"state": "AL"
+},
+{
+"id": "AL0013",
+"name": "Sylacauga - B. B. Comer Memorial Library",
+"city": "Sylacauga",
+"county": "Talladega",
+"state": "AL"
+},
+{
+"id": "AL0020",
+"name": "Talladega - Armstrong-Osborne Public Library",
+"city": "Talladega",
+"county": "Talladega",
+"state": "AL"
+},
+{
+"id": "AL0034",
+"name": "Troy Public Library",
+"city": "Troy",
+"county": "Pike",
+"state": "AL"
+},
+{
+"id": "AL0105",
+"name": "Trussville Public Library",
+"city": "Trussville",
+"county": "Jefferson",
+"state": "AL"
+},
+{
+"id": "AL0196",
+"name": "Tuscaloosa Public Library",
+"city": "Tuscaloosa",
+"county": "Tuscaloosa",
+"state": "AL"
+},
+{
+"id": "AL0060",
+"name": "Tuscumbia - Helen Keller Public Library",
+"city": "Tuscumbia",
+"county": "Colbert",
+"state": "AL"
+},
+{
+"id": "AL0200",
+"name": "Valley - H. Grady Bradshaw / Chambers County Library",
+"city": "Valley",
+"county": "Chambers",
+"state": "AL"
+},
+{
+"id": "AL0106",
+"name": "Vestavia Hills Library In The Forest",
+"city": "Vestavia Hills",
+"county": "Jefferson",
+"state": "AL"
+},
+{
+"id": "AL0182",
+"name": "Washington County Public Library",
+"city": "Chatom",
+"county": "Washington",
+"state": "AL"
+},
+{
+"id": "AL0197",
+"name": "Wilcox County Library",
+"city": "Camden",
+"county": "Wilcox",
+"state": "AL"
+},
+{
+"id": "AR0042",
+"name": "Arkansas County Library",
+"city": "Stuttgart",
+"county": "Arkansas",
+"state": "AR"
+},
+{
+"id": "AR0012",
+"name": "Arkansas River Valley Regional Library",
+"city": "Dardanelle",
+"county": "Yell",
+"state": "AR"
+},
+{
+"id": "AR0026",
+"name": "Ashley County Library",
+"city": "Hamburg",
+"county": "Ashley",
+"state": "AR"
+}
+]

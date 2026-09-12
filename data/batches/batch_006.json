@@ -1,0 +1,352 @@
+[
+{
+"id": "CA0098",
+"name": "Pomona Public Library",
+"city": "Pomona",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0099",
+"name": "Porterville Public Library",
+"city": "Porterville",
+"county": "Tulare",
+"state": "CA"
+},
+{
+"id": "CA0194",
+"name": "Rancho Cucamonga Public Library",
+"city": "Rancho Cucamonga",
+"county": "San Bernardino",
+"state": "CA"
+},
+{
+"id": "CA0196",
+"name": "Rancho Mirage Public Library",
+"city": "Rancho Mirage",
+"county": "Riverside",
+"state": "CA"
+},
+{
+"id": "CA0100",
+"name": "Redondo Beach Public Library",
+"city": "Redondo Beach",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0101",
+"name": "Redwood City Public Library",
+"city": "Redwood City",
+"county": "San Mateo",
+"state": "CA"
+},
+{
+"id": "CA0102",
+"name": "Richmond Public Library",
+"city": "Richmond",
+"county": "Contra Costa",
+"state": "CA"
+},
+{
+"id": "CA0199",
+"name": "Riverside County Library System",
+"city": "Jurupa Valley",
+"county": "Riverside",
+"state": "CA"
+},
+{
+"id": "CA0103",
+"name": "Riverside Public Library",
+"city": "Riverside",
+"county": "Riverside",
+"state": "CA"
+},
+{
+"id": "CA0104",
+"name": "Roseville Public Library",
+"city": "Roseville",
+"county": "Placer",
+"state": "CA"
+},
+{
+"id": "CA0105",
+"name": "Sacramento Public Library",
+"city": "Sacramento",
+"county": "Sacramento",
+"state": "CA"
+},
+{
+"id": "CA0106",
+"name": "Salinas Public Library",
+"city": "Salinas",
+"county": "Monterey",
+"state": "CA"
+},
+{
+"id": "CA0107",
+"name": "San Anselmo Public Library",
+"city": "San Anselmo",
+"county": "Marin",
+"state": "CA"
+},
+{
+"id": "CA0108",
+"name": "San Benito County Free Library",
+"city": "Hollister",
+"county": "San Benito",
+"state": "CA"
+},
+{
+"id": "CA0109",
+"name": "San Bernardino County Library",
+"city": "San Bernardino",
+"county": "San Bernardino",
+"state": "CA"
+},
+{
+"id": "CA0110",
+"name": "San Bernardino Public Library",
+"city": "San Bernardino",
+"county": "San Bernardino",
+"state": "CA"
+},
+{
+"id": "CA0111",
+"name": "San Bruno Public Library",
+"city": "San Bruno",
+"county": "San Mateo",
+"state": "CA"
+},
+{
+"id": "CA0112",
+"name": "San Diego County Library",
+"city": "San Diego",
+"county": "San Diego",
+"state": "CA"
+},
+{
+"id": "CA0113",
+"name": "San Diego Public Library",
+"city": "San Diego",
+"county": "San Diego",
+"state": "CA"
+},
+{
+"id": "CA0114",
+"name": "San Francisco Public Library",
+"city": "San Francisco",
+"county": "San Francisco",
+"state": "CA"
+},
+{
+"id": "CA0115",
+"name": "San Jose Public Library",
+"city": "San Jose",
+"county": "Santa Clara",
+"state": "CA"
+},
+{
+"id": "CA0117",
+"name": "San Leandro Public Library",
+"city": "San Leandro",
+"county": "Alameda",
+"state": "CA"
+},
+{
+"id": "CA0118",
+"name": "San Luis Obispo City-County Library",
+"city": "San Luis Obispo",
+"county": "San Luis Obispo",
+"state": "CA"
+},
+{
+"id": "CA0120",
+"name": "San Mateo County Libraries",
+"city": "San Mateo",
+"county": "San Mateo",
+"state": "CA"
+},
+{
+"id": "CA0121",
+"name": "San Mateo Public Library",
+"city": "San Mateo",
+"county": "San Mateo",
+"state": "CA"
+},
+{
+"id": "CA0122",
+"name": "San Rafael Public Library",
+"city": "San Rafael",
+"county": "Marin",
+"state": "CA"
+},
+{
+"id": "CA0123",
+"name": "Santa Ana Public Library",
+"city": "Santa Ana",
+"county": "Orange",
+"state": "CA"
+},
+{
+"id": "CA0124",
+"name": "Santa Barbara Public Library",
+"city": "Santa Barbara",
+"county": "Santa Barbara",
+"state": "CA"
+},
+{
+"id": "CA0125",
+"name": "Santa Clara City Library",
+"city": "Santa Clara",
+"county": "Santa Clara",
+"state": "CA"
+},
+{
+"id": "CA0126",
+"name": "Santa Clara County Library",
+"city": "Campbell",
+"county": "Santa Clara",
+"state": "CA"
+},
+{
+"id": "CA0210",
+"name": "Santa Clarita Public Library",
+"city": "Santa Clarita",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0127",
+"name": "Santa Cruz Public Libraries",
+"city": "Santa Cruz",
+"county": "Santa Cruz",
+"state": "CA"
+},
+{
+"id": "CA0128",
+"name": "Santa Fe Springs City Library",
+"city": "Santa Fe Springs",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0129",
+"name": "Santa Maria Public Library",
+"city": "Santa Maria",
+"county": "Santa Barbara",
+"state": "CA"
+},
+{
+"id": "CA0130",
+"name": "Santa Monica Public Library",
+"city": "Santa Monica",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0272",
+"name": "Shafter Library",
+"city": "Shafter",
+"county": "Kern",
+"state": "CA"
+},
+{
+"id": "CA0133",
+"name": "Shasta Public Libraries",
+"city": "Redding",
+"county": "Shasta",
+"state": "CA"
+},
+{
+"id": "CA0134",
+"name": "Sierra Madre Public Library",
+"city": "Sierra Madre",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0166",
+"name": "Signal Hill Public Library",
+"city": "Signal Hill",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0211",
+"name": "Simi Valley Public Library",
+"city": "Simi Valley",
+"county": "Ventura",
+"state": "CA"
+},
+{
+"id": "CA0135",
+"name": "Siskiyou County Free Library",
+"city": "Yreka",
+"county": "Siskiyou",
+"state": "CA"
+},
+{
+"id": "CA0136",
+"name": "Solano County Library",
+"city": "Fairfield",
+"county": "Solano",
+"state": "CA"
+},
+{
+"id": "CA0137",
+"name": "Sonoma County Library",
+"city": "Rohnert Park",
+"county": "Sonoma",
+"state": "CA"
+},
+{
+"id": "CA0138",
+"name": "South Pasadena Public Library",
+"city": "South Pasadena",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0139",
+"name": "South San Francisco Public Library",
+"city": "South San Francisco",
+"county": "San Mateo",
+"state": "CA"
+},
+{
+"id": "CA0140",
+"name": "Stanislaus County Free Library",
+"city": "Modesto",
+"county": "Stanislaus",
+"state": "CA"
+},
+{
+"id": "CA0142",
+"name": "Stockton-San Joaquin County Public Library",
+"city": "Stockton",
+"county": "San Joaquin",
+"state": "CA"
+},
+{
+"id": "CA0143",
+"name": "Sunnyvale Public Library",
+"city": "Sunnyvale",
+"county": "Santa Clara",
+"state": "CA"
+},
+{
+"id": "CA0144",
+"name": "Sutter County Library",
+"city": "Yuba City",
+"county": "Sutter",
+"state": "CA"
+},
+{
+"id": "CA0145",
+"name": "Tehama County Library",
+"city": "Red Bluff",
+"county": "Tehama",
+"state": "CA"
+}
+]

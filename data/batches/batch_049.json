@@ -1,0 +1,352 @@
+[
+{
+"id": "NY0586",
+"name": "Nyack Library",
+"city": "Nyack",
+"county": "Rockland",
+"state": "NY"
+},
+{
+"id": "NY0370",
+"name": "Oceanside Library",
+"city": "Oceanside",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0524",
+"name": "Ogden Farmers` Library",
+"city": "Spencerport",
+"county": "Monroe",
+"state": "NY"
+},
+{
+"id": "NY0471",
+"name": "Ogdensburg Public Library",
+"city": "Ogdensburg",
+"county": "St. Lawrence",
+"state": "NY"
+},
+{
+"id": "NY0037",
+"name": "Olean Public Library",
+"city": "Olean",
+"county": "Cattaraugus",
+"state": "NY"
+},
+{
+"id": "NY0295",
+"name": "Oneida Public Library",
+"city": "Oneida",
+"county": "Madison",
+"state": "NY"
+},
+{
+"id": "NY0476",
+"name": "Onondaga County Public Library",
+"city": "Syracuse",
+"county": "Onondaga",
+"state": "NY"
+},
+{
+"id": "NY0494",
+"name": "Onondaga Free Library",
+"city": "Syracuse",
+"county": "Onondaga",
+"state": "NY"
+},
+{
+"id": "NY0544",
+"name": "Ontario Public Library",
+"city": "Ontario",
+"county": "Wayne",
+"state": "NY"
+},
+{
+"id": "NY0024",
+"name": "Orchard Park Public Library",
+"city": "Orchard Park",
+"county": "Erie",
+"state": "NY"
+},
+{
+"id": "NY0747",
+"name": "Ossining Public Library",
+"city": "Ossining",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0452",
+"name": "Oswego School District Public Library",
+"city": "Oswego",
+"county": "Oswego",
+"state": "NY"
+},
+{
+"id": "NY0371",
+"name": "Oyster Bay-East Norwich Public Library",
+"city": "Oyster Bay",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0516",
+"name": "Parma Public Library",
+"city": "Hilton",
+"county": "Monroe",
+"state": "NY"
+},
+{
+"id": "NY0678",
+"name": "Patchogue-Medford Library",
+"city": "Patchogue",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0254",
+"name": "Patterson Library",
+"city": "Patterson",
+"county": "Putnam",
+"state": "NY"
+},
+{
+"id": "NY0589",
+"name": "Pearl River Public Library",
+"city": "Pearl River",
+"county": "Rockland",
+"state": "NY"
+},
+{
+"id": "NY0519",
+"name": "Penfield Public Library",
+"city": "Penfield",
+"county": "Monroe",
+"state": "NY"
+},
+{
+"id": "NY0356",
+"name": "Peninsula Public Library",
+"city": "Lawrence",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0099",
+"name": "Penn Yan Public Library",
+"city": "Penn Yan",
+"county": "Yates",
+"state": "NY"
+},
+{
+"id": "NY0144",
+"name": "Phillips Free Library",
+"city": "Homer",
+"county": "Cortland",
+"state": "NY"
+},
+{
+"id": "NY0576",
+"name": "Pine Bush Area Public Library District",
+"city": "Pine Bush",
+"county": "Orange",
+"state": "NY"
+},
+{
+"id": "NY0520",
+"name": "Pittsford Community Library",
+"city": "Pittsford",
+"county": "Monroe",
+"state": "NY"
+},
+{
+"id": "NY0372",
+"name": "Plainedge Public Library",
+"city": "North Massapequa",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0373",
+"name": "Plainview-Old Bethpage Public Library",
+"city": "Plainview",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0109",
+"name": "Plattsburgh Public Library",
+"city": "Plattsburgh",
+"county": "Clinton",
+"state": "NY"
+},
+{
+"id": "NY0751",
+"name": "Port Chester-Rye Brook Public Library",
+"city": "Port Chester",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0577",
+"name": "Port Jervis Free Library",
+"city": "Port Jervis",
+"county": "Orange",
+"state": "NY"
+},
+{
+"id": "NY0374",
+"name": "Port Washington Public Library",
+"city": "Port Washington",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0472",
+"name": "Potsdam Public Library",
+"city": "Potsdam",
+"county": "St. Lawrence",
+"state": "NY"
+},
+{
+"id": "NY0255",
+"name": "Putnam Valley Free Library",
+"city": "Putnam Valley",
+"county": "Putnam",
+"state": "NY"
+},
+{
+"id": "NY0562",
+"name": "Queens Borough Public Library",
+"city": "Jamaica",
+"county": "Queens",
+"state": "NY"
+},
+{
+"id": "NY0705",
+"name": "Rcs Community Library",
+"city": "Ravena",
+"county": "Albany",
+"state": "NY"
+},
+{
+"id": "NY0390",
+"name": "Richmond Memorial Library",
+"city": "Batavia",
+"county": "Genesee",
+"state": "NY"
+},
+{
+"id": "NY0682",
+"name": "Riverhead Free Library",
+"city": "Riverhead",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0521",
+"name": "Rochester Public Library",
+"city": "Rochester",
+"county": "Monroe",
+"state": "NY"
+},
+{
+"id": "NY0375",
+"name": "Rockville Centre Public Library",
+"city": "Rockville Centre",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0690",
+"name": "Rogers Memorial Library",
+"city": "Southampton",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0376",
+"name": "Roosevelt Public Library",
+"city": "Roosevelt",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0593",
+"name": "Rose Memorial Library Association",
+"city": "Stony Point",
+"county": "Rockland",
+"state": "NY"
+},
+{
+"id": "NY0436",
+"name": "Roswell P. Flower Memorial Library",
+"city": "Watertown",
+"county": "Jefferson",
+"state": "NY"
+},
+{
+"id": "NY0754",
+"name": "Rye Free Reading Room",
+"city": "Rye",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0668",
+"name": "Sachem Public Library",
+"city": "Holbrook",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0491",
+"name": "Salina Free Library",
+"city": "Mattydale",
+"county": "Onondaga",
+"state": "NY"
+},
+{
+"id": "NY0131",
+"name": "Saranac Lake Free Library",
+"city": "Saranac Lake",
+"county": "Franklin",
+"state": "NY"
+},
+{
+"id": "NY0620",
+"name": "Saratoga Springs Public Library",
+"city": "Saratoga Springs",
+"county": "Saratoga",
+"state": "NY"
+},
+{
+"id": "NY0268",
+"name": "Saugerties Public Library",
+"city": "Saugerties",
+"county": "Ulster",
+"state": "NY"
+},
+{
+"id": "NY0684",
+"name": "Sayville Library",
+"city": "Sayville",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0755",
+"name": "Scarsdale Public Library",
+"city": "Scarsdale",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0327",
+"name": "Schenectady County Public Library",
+"city": "Schenectady",
+"county": "Schenectady",
+"state": "NY"
+}
+]

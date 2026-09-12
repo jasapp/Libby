@@ -1,0 +1,352 @@
+[
+{
+"id": "PA0204",
+"name": "Hamburg Public Library",
+"city": "Hamburg",
+"county": "Berks",
+"state": "PA"
+},
+{
+"id": "PA0482",
+"name": "Hampton Community Library",
+"city": "Allison Park",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA0367",
+"name": "Haverford Township Free Library Association",
+"city": "Havertown",
+"county": "Delaware",
+"state": "PA"
+},
+{
+"id": "PA0262",
+"name": "Hazleton Area Public Library",
+"city": "Hazleton",
+"county": "Luzerne",
+"state": "PA"
+},
+{
+"id": "PA0372",
+"name": "Helen Kate Furness Fr Library",
+"city": "Wallingford",
+"county": "Delaware",
+"state": "PA"
+},
+{
+"id": "PA0486",
+"name": "Hellertown Area Library",
+"city": "Hellertown",
+"county": "Northampton",
+"state": "PA"
+},
+{
+"id": "PA0221",
+"name": "Hershey Public Library",
+"city": "Hershey",
+"county": "Dauphin",
+"state": "PA"
+},
+{
+"id": "PA0141",
+"name": "Highland Community Library",
+"city": "Johnstown",
+"county": "Cambria",
+"state": "PA"
+},
+{
+"id": "PA0433",
+"name": "Hollidaysburg Area Public Library",
+"city": "Hollidaysburg",
+"county": "Blair",
+"state": "PA"
+},
+{
+"id": "PA0348",
+"name": "Honey Brook Community Library",
+"city": "Honey Brook",
+"county": "Chester",
+"state": "PA"
+},
+{
+"id": "PA0530",
+"name": "Horsham Township Library",
+"city": "Horsham",
+"county": "Montgomery",
+"state": "PA"
+},
+{
+"id": "PA0263",
+"name": "Hoyt Library",
+"city": "Kingston",
+"county": "Luzerne",
+"state": "PA"
+},
+{
+"id": "PA0172",
+"name": "Huntingdon County Library",
+"city": "Huntingdon",
+"county": "Huntingdon",
+"state": "PA"
+},
+{
+"id": "PA0332",
+"name": "Huntingdon Valley Library",
+"city": "Huntingdon Valley",
+"county": "Montgomery",
+"state": "PA"
+},
+{
+"id": "PA0339",
+"name": "Indian Valley Public Library",
+"city": "Telford",
+"county": "Montgomery",
+"state": "PA"
+},
+{
+"id": "PA0397",
+"name": "Indiana Free Library Inc",
+"city": "Indiana",
+"county": "Indiana",
+"state": "PA"
+},
+{
+"id": "PA0525",
+"name": "Intercourse Library",
+"city": "Intercourse",
+"county": "Lancaster",
+"state": "PA"
+},
+{
+"id": "PA0360",
+"name": "J. Lewis Crozer Library",
+"city": "Chester",
+"county": "Delaware",
+"state": "PA"
+},
+{
+"id": "PA0251",
+"name": "James V Brown Library",
+"city": "Williamsport",
+"county": "Lycoming",
+"state": "PA"
+},
+{
+"id": "PA0107",
+"name": "Jeannette Public Library",
+"city": "Jeannette",
+"county": "Westmoreland",
+"state": "PA"
+},
+{
+"id": "PA0033",
+"name": "Jefferson Hills Public Library",
+"city": "Jefferson Hills",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA0219",
+"name": "John Graham Public Library",
+"city": "Newville",
+"county": "Cumberland",
+"state": "PA"
+},
+{
+"id": "PA0011",
+"name": "John K Tener Library",
+"city": "Charleroi",
+"county": "Washington",
+"state": "PA"
+},
+{
+"id": "PA0167",
+"name": "Joseph & Elizabeth Shaw Public Library",
+"city": "Clearfield",
+"county": "Clearfield",
+"state": "PA"
+},
+{
+"id": "PA0216",
+"name": "Joseph T. Simpson Public Library",
+"city": "Mechanicsburg",
+"county": "Cumberland",
+"state": "PA"
+},
+{
+"id": "PA0173",
+"name": "Juniata County Library",
+"city": "Mifflintown",
+"county": "Juniata",
+"state": "PA"
+},
+{
+"id": "PA0183",
+"name": "Kaltreider-Benfer Library",
+"city": "Red Lion",
+"county": "York",
+"state": "PA"
+},
+{
+"id": "PA0349",
+"name": "Kennett Library",
+"city": "Kennett Square",
+"county": "Chester",
+"state": "PA"
+},
+{
+"id": "PA0440",
+"name": "Kutztown Community Library",
+"city": "Kutztown",
+"county": "Berks",
+"state": "PA"
+},
+{
+"id": "PA0192",
+"name": "Lancaster Public Library",
+"city": "Lancaster",
+"county": "Lancaster",
+"state": "PA"
+},
+{
+"id": "PA0368",
+"name": "Lansdowne Public Library",
+"city": "Lansdowne",
+"county": "Delaware",
+"state": "PA"
+},
+{
+"id": "PA0454",
+"name": "Laughlin Memorial Free Library",
+"city": "Ambridge",
+"county": "Beaver",
+"state": "PA"
+},
+{
+"id": "PA0502",
+"name": "Lebanon Community Library",
+"city": "Lebanon",
+"county": "Lebanon",
+"state": "PA"
+},
+{
+"id": "PA0299",
+"name": "Lehighton Area Memorial Library",
+"city": "Lehighton",
+"county": "Carbon",
+"state": "PA"
+},
+{
+"id": "PA0109",
+"name": "Ligonier Valley Library",
+"city": "Ligonier",
+"county": "Westmoreland",
+"state": "PA"
+},
+{
+"id": "PA0193",
+"name": "Lititz Public Library",
+"city": "Lititz",
+"county": "Lancaster",
+"state": "PA"
+},
+{
+"id": "PA9040",
+"name": "Lower Macungie Library",
+"city": "Macungie",
+"county": "Lehigh",
+"state": "PA"
+},
+{
+"id": "PA0448",
+"name": "Lower Merion Library System",
+"city": "Ardmore",
+"county": "Montgomery",
+"state": "PA"
+},
+{
+"id": "PA0334",
+"name": "Lower Providence Com Library",
+"city": "Eagleville",
+"county": "Montgomery",
+"state": "PA"
+},
+{
+"id": "PA0402",
+"name": "Mahanoy City Public Library",
+"city": "Mahanoy City",
+"county": "Schuylkill",
+"state": "PA"
+},
+{
+"id": "PA0350",
+"name": "Malvern Public Library",
+"city": "Malvern",
+"county": "Chester",
+"state": "PA"
+},
+{
+"id": "PA0526",
+"name": "Manheim Community Library",
+"city": "Manheim",
+"county": "Lancaster",
+"state": "PA"
+},
+{
+"id": "PA0535",
+"name": "Manheim Township Public Library",
+"city": "Lancaster",
+"county": "Lancaster",
+"state": "PA"
+},
+{
+"id": "PA0264",
+"name": "Marian Sutherland Kirby Lib",
+"city": "Mountaintop",
+"county": "Luzerne",
+"state": "PA"
+},
+{
+"id": "PA0452",
+"name": "Marple Public Library",
+"city": "Broomall",
+"county": "Delaware",
+"state": "PA"
+},
+{
+"id": "PA0058",
+"name": "Mars Area Public Library",
+"city": "Mars",
+"county": "Butler",
+"state": "PA"
+},
+{
+"id": "PA0295",
+"name": "Mary Meuser Memorial Library",
+"city": "Easton",
+"county": "Northampton",
+"state": "PA"
+},
+{
+"id": "PA0186",
+"name": "Mason Dixon Public Library",
+"city": "Stewartstown",
+"county": "York",
+"state": "PA"
+},
+{
+"id": "PA0520",
+"name": "Matthews Public Library",
+"city": "Fredericksburg",
+"county": "Lebanon",
+"state": "PA"
+},
+{
+"id": "PA0225",
+"name": "Mcbride Memorial Library",
+"city": "Berwick",
+"county": "Columbia",
+"state": "PA"
+}
+]

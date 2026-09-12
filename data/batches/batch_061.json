@@ -1,0 +1,352 @@
+[
+{
+"id": "PA0473",
+"name": "Western Allegheny Community Library",
+"city": "Oakdale",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA0286",
+"name": "Western Pocono Community Library",
+"city": "Brodheadsville",
+"county": "Monroe",
+"state": "PA"
+},
+{
+"id": "PA0417",
+"name": "Whitehall Public Library",
+"city": "Pittsburgh",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA0308",
+"name": "Whitehall Township Pub Library",
+"city": "Whitehall",
+"county": "Lehigh",
+"state": "PA"
+},
+{
+"id": "PA0050",
+"name": "Wilkinsburg Public Library",
+"city": "Wilkinsburg",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA0451",
+"name": "William Jeanes Mem Library",
+"city": "Lafayette Hill",
+"county": "Montgomery",
+"state": "PA"
+},
+{
+"id": "PA0148",
+"name": "Windber Public Library",
+"city": "Windber",
+"county": "Somerset",
+"state": "PA"
+},
+{
+"id": "PA0319",
+"name": "Wissahickon Valley Pub Library",
+"city": "Blue Bell",
+"county": "Montgomery",
+"state": "PA"
+},
+{
+"id": "PA0213",
+"name": "Wyomissing Public Library",
+"city": "Wyomissing",
+"county": "Berks",
+"state": "PA"
+},
+{
+"id": "PA0384",
+"name": "Yeadon Public Library",
+"city": "Yeadon",
+"county": "Delaware",
+"state": "PA"
+},
+{
+"id": "PA0188",
+"name": "York Sys Admin Unit",
+"city": "York",
+"county": "York",
+"state": "PA"
+},
+{
+"id": "PA0060",
+"name": "Zelienople Public Library",
+"city": "Zelienople",
+"county": "Butler",
+"state": "PA"
+},
+{
+"id": "RI0005",
+"name": "Adams Public Library",
+"city": "Central Falls",
+"county": "Providence",
+"state": "RI"
+},
+{
+"id": "RI0001",
+"name": "Barrington Public Library",
+"city": "Barrington",
+"county": "Bristol",
+"state": "RI"
+},
+{
+"id": "RI0007",
+"name": "Coventry Public Library",
+"city": "Coventry",
+"county": "Kent",
+"state": "RI"
+},
+{
+"id": "RI0010",
+"name": "Cranston Public Library",
+"city": "Cranston",
+"county": "Providence",
+"state": "RI"
+},
+{
+"id": "RI0011",
+"name": "Cumberland Public Library",
+"city": "Cumberland",
+"county": "Providence",
+"state": "RI"
+},
+{
+"id": "RI0012",
+"name": "East Greenwich Free Library",
+"city": "East Greenwich",
+"county": "Kent",
+"state": "RI"
+},
+{
+"id": "RI0013",
+"name": "East Providence Public Library",
+"city": "East Providence",
+"county": "Providence",
+"state": "RI"
+},
+{
+"id": "RI0045",
+"name": "George Hail Free Library",
+"city": "Warren",
+"county": "Bristol",
+"state": "RI"
+},
+{
+"id": "RI0042",
+"name": "Greenville Public Library",
+"city": "Smithfield",
+"county": "Providence",
+"state": "RI"
+},
+{
+"id": "RI0003",
+"name": "Jesse M. Smith Memorial Library",
+"city": "Burrillville",
+"county": "Providence",
+"state": "RI"
+},
+{
+"id": "RI0023",
+"name": "Lincoln Public Library",
+"city": "Lincoln",
+"county": "Providence",
+"state": "RI"
+},
+{
+"id": "RI0022",
+"name": "Marian J. Mohr Memorial Library",
+"city": "Johnston",
+"county": "Providence",
+"state": "RI"
+},
+{
+"id": "RI0026",
+"name": "Maury Loontjens Memorial Library (Narragansett)",
+"city": "Narragansett",
+"county": "Washington",
+"state": "RI"
+},
+{
+"id": "RI0032",
+"name": "Mayor Salvatore Mancini Union Free Library",
+"city": "North Providence",
+"county": "Providence",
+"state": "RI"
+},
+{
+"id": "RI0025",
+"name": "Middletown Public Library",
+"city": "Middletown",
+"county": "Newport",
+"state": "RI"
+},
+{
+"id": "RI0028",
+"name": "Newport Public Library",
+"city": "Newport",
+"county": "Newport",
+"state": "RI"
+},
+{
+"id": "RI0029",
+"name": "North Kingstown Free Library",
+"city": "North Kingstown",
+"county": "Washington",
+"state": "RI"
+},
+{
+"id": "RI0033",
+"name": "North Smithfield Public Library",
+"city": "North Smithfield",
+"county": "Providence",
+"state": "RI"
+},
+{
+"id": "RI0034",
+"name": "Pawtucket Public Library",
+"city": "Pawtucket",
+"county": "Providence",
+"state": "RI"
+},
+{
+"id": "RI0035",
+"name": "Portsmouth Free Public Library",
+"city": "Portsmouth",
+"county": "Newport",
+"state": "RI"
+},
+{
+"id": "RI0053",
+"name": "Providence Community Library",
+"city": "Providence",
+"county": "Providence",
+"state": "RI"
+},
+{
+"id": "RI0036",
+"name": "Providence Public Library",
+"city": "Providence",
+"county": "Providence",
+"state": "RI"
+},
+{
+"id": "RI0002",
+"name": "Rogers Free Library",
+"city": "Bristol",
+"county": "Bristol",
+"state": "RI"
+},
+{
+"id": "RI0043",
+"name": "South Kingstown Public Library",
+"city": "South Kingstown",
+"county": "Washington",
+"state": "RI"
+},
+{
+"id": "RI0044",
+"name": "Tiverton Public Library",
+"city": "Tiverton",
+"county": "Newport",
+"state": "RI"
+},
+{
+"id": "RI0046",
+"name": "Warwick Public Library",
+"city": "Warwick",
+"county": "Kent",
+"state": "RI"
+},
+{
+"id": "RI0049",
+"name": "West Warwick Public Library",
+"city": "West Warwick",
+"county": "Kent",
+"state": "RI"
+},
+{
+"id": "RI0050",
+"name": "Westerly Public Library",
+"city": "Westerly",
+"county": "Washington",
+"state": "RI"
+},
+{
+"id": "RI0051",
+"name": "Woonsocket Harris Public Library",
+"city": "Woonsocket",
+"county": "Providence",
+"state": "RI"
+},
+{
+"id": "SC0002",
+"name": "Abbe Regional Library System",
+"city": "Aiken",
+"county": "Aiken",
+"state": "SC"
+},
+{
+"id": "SC8003",
+"name": "Abbeville County Library System",
+"city": "Abbeville",
+"county": "Abbeville",
+"state": "SC"
+},
+{
+"id": "SC0003",
+"name": "Allendale Hampton Jasper Regional Library",
+"city": "Allendale",
+"county": "Allendale",
+"state": "SC"
+},
+{
+"id": "SC0004",
+"name": "Anderson County Library",
+"city": "Anderson",
+"county": "Anderson",
+"state": "SC"
+},
+{
+"id": "SC0005",
+"name": "Beaufort County Library",
+"city": "Beaufort",
+"county": "Beaufort",
+"state": "SC"
+},
+{
+"id": "SC0006",
+"name": "Berkeley County Library System",
+"city": "Moncks Corner",
+"county": "Berkeley",
+"state": "SC"
+},
+{
+"id": "SC0007",
+"name": "Calhoun County Library System",
+"city": "St. Matthews",
+"county": "Calhoun",
+"state": "SC"
+},
+{
+"id": "SC0008",
+"name": "Chapin Memorial Library",
+"city": "Myrtle Beach",
+"county": "Horry",
+"state": "SC"
+},
+{
+"id": "SC0009",
+"name": "Charleston County Public Library System",
+"city": "Charleston",
+"county": "Charleston",
+"state": "SC"
+}
+]

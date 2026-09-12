@@ -1,0 +1,352 @@
+[
+{
+"id": "IL0584",
+"name": "Wilmette Public Library District",
+"city": "Wilmette",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0590",
+"name": "Winnetka-Northfield Public Library District",
+"city": "Winnetka",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0592",
+"name": "Wood Dale Public Library District",
+"city": "Wood Dale",
+"county": "Dupage",
+"state": "IL"
+},
+{
+"id": "IL0593",
+"name": "Wood River Public Library",
+"city": "Wood River",
+"county": "Madison",
+"state": "IL"
+},
+{
+"id": "IL0594",
+"name": "Woodridge Public Library",
+"city": "Woodridge",
+"county": "Dupage",
+"state": "IL"
+},
+{
+"id": "IL0595",
+"name": "Woodstock Public Library",
+"city": "Woodstock",
+"county": "Mchenry",
+"state": "IL"
+},
+{
+"id": "IL0597",
+"name": "Worth Public Library District",
+"city": "Worth",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0600",
+"name": "Yorkville Public Library",
+"city": "Yorkville",
+"county": "Kendall",
+"state": "IL"
+},
+{
+"id": "IL0602",
+"name": "Zion-Benton Public Library District",
+"city": "Zion",
+"county": "Lake",
+"state": "IL"
+},
+{
+"id": "IN0248",
+"name": "Adams Public Library System",
+"city": "Decatur",
+"county": "Adams",
+"state": "IN"
+},
+{
+"id": "IN0018",
+"name": "Alexandrian Public Library",
+"city": "Mount Vernon",
+"county": "Posey",
+"state": "IN"
+},
+{
+"id": "IN0073",
+"name": "Allen County Public Library",
+"city": "Fort Wayne",
+"county": "Allen",
+"state": "IN"
+},
+{
+"id": "IN0158",
+"name": "Anderson Public Library",
+"city": "Anderson",
+"county": "Madison",
+"state": "IN"
+},
+{
+"id": "IN0221",
+"name": "Aurora Public Library District",
+"city": "Aurora",
+"county": "Dearborn",
+"state": "IN"
+},
+{
+"id": "IN0204",
+"name": "Avon-Washington Township Public Library",
+"city": "Avon",
+"county": "Hendricks",
+"state": "IN"
+},
+{
+"id": "IN0215",
+"name": "Bartholomew County Public Library",
+"city": "Columbus",
+"county": "Bartholomew",
+"state": "IN"
+},
+{
+"id": "IN0233",
+"name": "Batesville Memorial Public Library",
+"city": "Batesville",
+"county": "Ripley",
+"state": "IN"
+},
+{
+"id": "IN0178",
+"name": "Bedford Public Library",
+"city": "Bedford",
+"county": "Lawrence",
+"state": "IN"
+},
+{
+"id": "IN0177",
+"name": "Bloomfield-Eastern Greene County Public Library",
+"city": "Bloomfield",
+"county": "Greene",
+"state": "IN"
+},
+{
+"id": "IN0023",
+"name": "Boonville-Warrick County Public Library",
+"city": "Boonville",
+"county": "Warrick",
+"state": "IN"
+},
+{
+"id": "IN0216",
+"name": "Brown County Public Library",
+"city": "Nashville",
+"county": "Brown",
+"state": "IN"
+},
+{
+"id": "IN0201",
+"name": "Brownsburg Public Library",
+"city": "Brownsburg",
+"county": "Hendricks",
+"state": "IN"
+},
+{
+"id": "IN0195",
+"name": "Carmel Clay Public Library",
+"city": "Carmel",
+"county": "Hamilton",
+"state": "IN"
+},
+{
+"id": "IN0088",
+"name": "Carnegie Public Library Of Steuben County",
+"city": "Angola",
+"county": "Steuben",
+"state": "IN"
+},
+{
+"id": "IN0217",
+"name": "Charlestown-Clark County Public Library",
+"city": "Charlestown",
+"county": "Clark",
+"state": "IN"
+},
+{
+"id": "IN0219",
+"name": "Crawford County Public Library",
+"city": "English",
+"county": "Crawford",
+"state": "IN"
+},
+{
+"id": "IN0109",
+"name": "Crawfordsville District Public Library",
+"city": "Crawforsdsville",
+"county": "Montgomery",
+"state": "IN"
+},
+{
+"id": "IN0031",
+"name": "Crown Point Community Public Library",
+"city": "Crown Point",
+"county": "Lake",
+"state": "IN"
+},
+{
+"id": "IN0202",
+"name": "Danville-Center Township Public Library",
+"city": "Danville",
+"county": "Hendricks",
+"state": "IN"
+},
+{
+"id": "IN0027",
+"name": "East Chicago Public Library",
+"city": "East Chicago",
+"county": "Lake",
+"state": "IN"
+},
+{
+"id": "IN0075",
+"name": "Eckhart Public Library",
+"city": "Auburn",
+"county": "Dekalb",
+"state": "IN"
+},
+{
+"id": "IN0050",
+"name": "Elkhart Public Library",
+"city": "Elkhart",
+"county": "Elkhart",
+"state": "IN"
+},
+{
+"id": "IN0020",
+"name": "Evansville-Vanderburgh Public Library",
+"city": "Evansville",
+"county": "Vanderburgh",
+"state": "IN"
+},
+{
+"id": "IN0139",
+"name": "Fayette County Public Library",
+"city": "Connersville",
+"county": "Fayette",
+"state": "IN"
+},
+{
+"id": "IN0198",
+"name": "Fortville-Vernon Township Public Library",
+"city": "Fortville",
+"county": "Hancock",
+"state": "IN"
+},
+{
+"id": "IN0104",
+"name": "Frankfort Community Public Library-Clinton County Contractua",
+"city": "Frankfort",
+"county": "Clinton",
+"state": "IN"
+},
+{
+"id": "IN0140",
+"name": "Franklin County Public Library District",
+"city": "Brookville",
+"county": "Franklin",
+"state": "IN"
+},
+{
+"id": "IN0126",
+"name": "Fulton County Public Library",
+"city": "Rochester",
+"county": "Fulton",
+"state": "IN"
+},
+{
+"id": "IN0028",
+"name": "Gary Public Library",
+"city": "Gary",
+"county": "Lake",
+"state": "IN"
+},
+{
+"id": "IN0054",
+"name": "Goshen Public Library",
+"city": "Goshen",
+"county": "Elkhart",
+"state": "IN"
+},
+{
+"id": "IN0244",
+"name": "Greensburg-Decatur County Contractual Public Library",
+"city": "Greensburg",
+"county": "Decatur",
+"state": "IN"
+},
+{
+"id": "IN0206",
+"name": "Greenwood Public Library",
+"city": "Greenwood",
+"county": "Johnson",
+"state": "IN"
+},
+{
+"id": "IN0197",
+"name": "Hamilton East Public Library",
+"city": "Noblesville",
+"county": "Hamilton",
+"state": "IN"
+},
+{
+"id": "IN0196",
+"name": "Hamilton North Public Library",
+"city": "Cicero",
+"county": "Hamilton",
+"state": "IN"
+},
+{
+"id": "IN0029",
+"name": "Hammond Public Library",
+"city": "Hammond",
+"county": "Lake",
+"state": "IN"
+},
+{
+"id": "IN0199",
+"name": "Hancock County Public Library",
+"city": "Greenfield",
+"county": "Hancock",
+"state": "IN"
+},
+{
+"id": "IN0224",
+"name": "Harrison County Public Library",
+"city": "Corydon",
+"county": "Harrison",
+"state": "IN"
+},
+{
+"id": "IN0080",
+"name": "Huntington City-Township Public Library",
+"city": "Huntington",
+"county": "Huntington",
+"state": "IN"
+},
+{
+"id": "IN0243",
+"name": "Hussey-Mayfield Memorial Public Library",
+"city": "Zionsville",
+"county": "Boone",
+"state": "IN"
+},
+{
+"id": "IN0210",
+"name": "Indianapolis Public Library",
+"city": "Indianapolis",
+"county": "Marion",
+"state": "IN"
+}
+]

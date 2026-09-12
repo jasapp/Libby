@@ -1,0 +1,352 @@
+[
+{
+"id": "KY0058",
+"name": "Knox County Public Library",
+"city": "Barbourville",
+"county": "Knox",
+"state": "KY"
+},
+{
+"id": "KY0059",
+"name": "Larue County Public Library",
+"city": "Hodgenville",
+"county": "Larue",
+"state": "KY"
+},
+{
+"id": "KY0060",
+"name": "Laurel County Public Library",
+"city": "London",
+"county": "Laurel",
+"state": "KY"
+},
+{
+"id": "KY0061",
+"name": "Lawrence County Public Library",
+"city": "Louisa",
+"county": "Lawrence",
+"state": "KY"
+},
+{
+"id": "KY0064",
+"name": "Letcher County Public Library District",
+"city": "Whitesburg",
+"county": "Letcher",
+"state": "KY"
+},
+{
+"id": "KY0065",
+"name": "Lewis County Public Library",
+"city": "Vanceburg",
+"county": "Lewis",
+"state": "KY"
+},
+{
+"id": "KY0031",
+"name": "Lexington Public Library",
+"city": "Lexington",
+"county": "Fayette",
+"state": "KY"
+},
+{
+"id": "KY0066",
+"name": "Lincoln County Public Library",
+"city": "Stanford",
+"county": "Lincoln",
+"state": "KY"
+},
+{
+"id": "KY0067",
+"name": "Logan County Public Library",
+"city": "Russellville",
+"county": "Logan",
+"state": "KY"
+},
+{
+"id": "KY0053",
+"name": "Louisville Free Public Library",
+"city": "Louisville",
+"county": "Jefferson",
+"state": "KY"
+},
+{
+"id": "KY0069",
+"name": "Madison County Public Library",
+"city": "Richmond",
+"county": "Madison",
+"state": "KY"
+},
+{
+"id": "KY0070",
+"name": "Magoffin County Public Library",
+"city": "Salyersville",
+"county": "Magoffin",
+"state": "KY"
+},
+{
+"id": "KY0071",
+"name": "Marion County Public Library",
+"city": "Lebanon",
+"county": "Marion",
+"state": "KY"
+},
+{
+"id": "KY0072",
+"name": "Marshall County Public Library",
+"city": "Benton",
+"county": "Marshall",
+"state": "KY"
+},
+{
+"id": "KY0073",
+"name": "Martin County Public Library System",
+"city": "Inez",
+"county": "Martin",
+"state": "KY"
+},
+{
+"id": "KY0005",
+"name": "Mary Wood Weldon Memorial Public Library",
+"city": "Glasgow",
+"county": "Barren",
+"state": "KY"
+},
+{
+"id": "KY0074",
+"name": "Mason County Public Library",
+"city": "Maysville",
+"county": "Mason",
+"state": "KY"
+},
+{
+"id": "KY0075",
+"name": "Mccracken County Public Library",
+"city": "Paducah",
+"county": "Mccracken",
+"state": "KY"
+},
+{
+"id": "KY0120",
+"name": "Mccreary County Public Library",
+"city": "Whitley City",
+"county": "Mccreary",
+"state": "KY"
+},
+{
+"id": "KY0077",
+"name": "Meade County Public Library",
+"city": "Brandenburg",
+"county": "Meade",
+"state": "KY"
+},
+{
+"id": "KY0079",
+"name": "Mercer County Public Library",
+"city": "Harrodsburg",
+"county": "Mercer",
+"state": "KY"
+},
+{
+"id": "KY0080",
+"name": "Metcalfe County Public Library",
+"city": "Edmonton",
+"county": "Metcalfe",
+"state": "KY"
+},
+{
+"id": "KY0083",
+"name": "Morgan County Public Library",
+"city": "West Liberty",
+"county": "Morgan",
+"state": "KY"
+},
+{
+"id": "KY0082",
+"name": "Mt. Sterling-Montgomery County Library",
+"city": "Mount Sterling",
+"county": "Montgomery",
+"state": "KY"
+},
+{
+"id": "KY0119",
+"name": "Muhlenberg County Public Libraries",
+"city": "Greenville",
+"county": "Muhlenberg",
+"state": "KY"
+},
+{
+"id": "KY0085",
+"name": "Nelson County Public Library",
+"city": "Bardstown",
+"county": "Nelson",
+"state": "KY"
+},
+{
+"id": "KY0087",
+"name": "Ohio County Public Library",
+"city": "Hartford",
+"county": "Ohio",
+"state": "KY"
+},
+{
+"id": "KY0088",
+"name": "Oldham County Public Library",
+"city": "Lagrange",
+"county": "Oldham",
+"state": "KY"
+},
+{
+"id": "KY0089",
+"name": "Owen County Public Library",
+"city": "Owenton",
+"county": "Owen",
+"state": "KY"
+},
+{
+"id": "KY0009",
+"name": "Paris-Bourbon County Library",
+"city": "Paris",
+"county": "Bourbon",
+"state": "KY"
+},
+{
+"id": "KY0091",
+"name": "Pendleton County Public Library",
+"city": "Falmouth",
+"county": "Pendleton",
+"state": "KY"
+},
+{
+"id": "KY0092",
+"name": "Perry County Public Library",
+"city": "Hazard",
+"county": "Perry",
+"state": "KY"
+},
+{
+"id": "KY0093",
+"name": "Pike County Public Library District",
+"city": "Pikeville",
+"county": "Pike",
+"state": "KY"
+},
+{
+"id": "KY0094",
+"name": "Powell County Public Library",
+"city": "Stanton",
+"county": "Powell",
+"state": "KY"
+},
+{
+"id": "KY0095",
+"name": "Pulaski County Public Library",
+"city": "Somerset",
+"county": "Pulaski",
+"state": "KY"
+},
+{
+"id": "KY0097",
+"name": "Rockcastle County Public Library",
+"city": "Mount Vernon",
+"county": "Rockcastle",
+"state": "KY"
+},
+{
+"id": "KY0098",
+"name": "Rowan County Public Library",
+"city": "Morehead",
+"county": "Rowan",
+"state": "KY"
+},
+{
+"id": "KY0099",
+"name": "Russell County Public Library",
+"city": "Jamestown",
+"county": "Russell",
+"state": "KY"
+},
+{
+"id": "KY0100",
+"name": "Scott County Public Library",
+"city": "Georgetown",
+"county": "Scott",
+"state": "KY"
+},
+{
+"id": "KY0101",
+"name": "Shelby County Library District",
+"city": "Shelbyville",
+"county": "Shelby",
+"state": "KY"
+},
+{
+"id": "KY0103",
+"name": "Spencer County Public Library",
+"city": "Taylorsville",
+"county": "Spencer",
+"state": "KY"
+},
+{
+"id": "KY0104",
+"name": "Taylor County Public Library",
+"city": "Campbellsville",
+"county": "Taylor",
+"state": "KY"
+},
+{
+"id": "KY0105",
+"name": "Todd County Public Library",
+"city": "Elkton",
+"county": "Todd",
+"state": "KY"
+},
+{
+"id": "KY0108",
+"name": "Union County Public Library District",
+"city": "Morganfield",
+"county": "Union",
+"state": "KY"
+},
+{
+"id": "KY0109",
+"name": "Warren County Public Library",
+"city": "Bowling Green",
+"county": "Warren",
+"state": "KY"
+},
+{
+"id": "KY0110",
+"name": "Washington County Public Library",
+"city": "Springfield",
+"county": "Washington",
+"state": "KY"
+},
+{
+"id": "KY0111",
+"name": "Wayne County Public Library",
+"city": "Monticello",
+"county": "Wayne",
+"state": "KY"
+},
+{
+"id": "KY0112",
+"name": "Webster County Public Library",
+"city": "Dixon",
+"county": "Webster",
+"state": "KY"
+},
+{
+"id": "KY0113",
+"name": "Whitley County Public Library",
+"city": "Williamsburg",
+"county": "Whitley",
+"state": "KY"
+},
+{
+"id": "KY0081",
+"name": "William B. Harlan Memorial Library",
+"city": "Tompkinsville",
+"county": "Monroe",
+"state": "KY"
+}
+]

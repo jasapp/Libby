@@ -1,0 +1,352 @@
+[
+{
+"id": "AK0002",
+"name": "Anchorage Public Library",
+"city": "Anchorage",
+"county": "Anchorage",
+"state": "AK"
+},
+{
+"id": "AK0007",
+"name": "Big Lake Public Library",
+"city": "Wasilla",
+"county": "Matanuska-Susitna",
+"state": "AK"
+},
+{
+"id": "AK0023",
+"name": "Fairbanks North Star Borough Public Libraries",
+"city": "Fairbanks",
+"county": "Fairbanks North Star",
+"state": "AK"
+},
+{
+"id": "AK0039",
+"name": "Ketchikan Public Library",
+"city": "Ketchikan",
+"county": "Ketchikan Gateway",
+"state": "AK"
+},
+{
+"id": "AK0040",
+"name": "Kodiak Public Library",
+"city": "Kodiak",
+"county": "Kodiak Island",
+"state": "AK"
+},
+{
+"id": "AK0055",
+"name": "Palmer Public Library",
+"city": "Palmer",
+"county": "Matanuska-Susitna",
+"state": "AK"
+},
+{
+"id": "AK0094",
+"name": "Tuzzy Consortium Library",
+"city": "Utqiagvik",
+"county": "North Slope",
+"state": "AK"
+},
+{
+"id": "AK0078",
+"name": "Wasilla Public Library",
+"city": "Wasilla",
+"county": "Matanuska-Susitna",
+"state": "AK"
+},
+{
+"id": "AL0129",
+"name": "Alabaster - Albert L. Scott Library",
+"city": "Alabaster",
+"county": "Shelby",
+"state": "AL"
+},
+{
+"id": "AL0127",
+"name": "Albertville Public Library",
+"city": "Albertville",
+"county": "Marshall",
+"state": "AL"
+},
+{
+"id": "AL0049",
+"name": "Alexander City - Adelia Mcconnell Russell Library",
+"city": "Alexander City",
+"county": "Tallapoosa",
+"state": "AL"
+},
+{
+"id": "AL0037",
+"name": "Andalusia Public Library",
+"city": "Andalusia",
+"county": "Covington",
+"state": "AL"
+},
+{
+"id": "AL0154",
+"name": "Anniston - Calhoun County Public Library",
+"city": "Anniston",
+"county": "Calhoun",
+"state": "AL"
+},
+{
+"id": "AL0076",
+"name": "Athens - Limestone Public Library",
+"city": "Athens",
+"county": "Limestone",
+"state": "AL"
+},
+{
+"id": "AL0052",
+"name": "Auburn Public Library",
+"city": "Auburn",
+"county": "Lee",
+"state": "AL"
+},
+{
+"id": "AL0192",
+"name": "Autauga - Prattville Public Library",
+"city": "Prattville",
+"county": "Autauga",
+"state": "AL"
+},
+{
+"id": "AL0080",
+"name": "Baldwin County Library Cooperative",
+"city": "Robertsdale",
+"county": "Baldwin",
+"state": "AL"
+},
+{
+"id": "AL0091",
+"name": "Bessemer Public Library",
+"city": "Bessemer",
+"county": "Jefferson",
+"state": "AL"
+},
+{
+"id": "AL0108",
+"name": "Birmingham Public Library",
+"city": "Birmingham",
+"county": "Jefferson",
+"state": "AL"
+},
+{
+"id": "AL0159",
+"name": "Blountsville Public Library",
+"city": "Blountsville",
+"county": "Blount",
+"state": "AL"
+},
+{
+"id": "AL0161",
+"name": "Brent - Centreville Public Library",
+"city": "Centreville",
+"county": "Bibb",
+"state": "AL"
+},
+{
+"id": "AL0130",
+"name": "Calera Public Library",
+"city": "Calera",
+"county": "Shelby",
+"state": "AL"
+},
+{
+"id": "AL8013",
+"name": "Center Point Public Library",
+"city": "Center Point",
+"county": "Jefferson",
+"state": "AL"
+},
+{
+"id": "AL0010",
+"name": "Cheaha Regional Library",
+"city": "Heflin",
+"county": "Cleburne",
+"state": "AL"
+},
+{
+"id": "AL0240",
+"name": "Chelsea Public Library",
+"city": "Chelsea",
+"county": "Shelby",
+"state": "AL"
+},
+{
+"id": "AL0162",
+"name": "Chilton - Clanton Public Library",
+"city": "Clanton",
+"county": "Chilton",
+"state": "AL"
+},
+{
+"id": "AL0163",
+"name": "Choctaw County Public Library",
+"city": "Butler",
+"county": "Choctaw",
+"state": "AL"
+},
+{
+"id": "AL0244",
+"name": "Clay Public Library",
+"city": "Pinson",
+"county": "Jefferson",
+"state": "AL"
+},
+{
+"id": "AL0199",
+"name": "Cullman County Public Library",
+"city": "Cullman",
+"county": "Cullman",
+"state": "AL"
+},
+{
+"id": "AL0081",
+"name": "Daphne Public Library",
+"city": "Daphne",
+"county": "Baldwin",
+"state": "AL"
+},
+{
+"id": "AL0077",
+"name": "Decatur Public Library",
+"city": "Decatur",
+"county": "Morgan",
+"state": "AL"
+},
+{
+"id": "AL0121",
+"name": "Demopolis Public Library",
+"city": "Demopolis",
+"county": "Marengo",
+"state": "AL"
+},
+{
+"id": "AL0158",
+"name": "Dothan Houston County Library System",
+"city": "Dothan",
+"county": "Houston",
+"state": "AL"
+},
+{
+"id": "AL0039",
+"name": "Elba Public Library",
+"city": "Elba",
+"county": "Coffee",
+"state": "AL"
+},
+{
+"id": "AL0041",
+"name": "Enterprise Public Library",
+"city": "Enterprise",
+"county": "Coffee",
+"state": "AL"
+},
+{
+"id": "AL0209",
+"name": "Eufaula Carnegie Library",
+"city": "Eufaula",
+"county": "Barbour",
+"state": "AL"
+},
+{
+"id": "AL0184",
+"name": "Evergreen Public Library",
+"city": "Evergreen",
+"county": "Conecuh",
+"state": "AL"
+},
+{
+"id": "AL0093",
+"name": "Fairfield - Walter J. Hanna Memorial Library",
+"city": "Fairfield",
+"county": "Jefferson",
+"state": "AL"
+},
+{
+"id": "AL0082",
+"name": "Fairhope Public Library",
+"city": "Fairhope",
+"county": "Baldwin",
+"state": "AL"
+},
+{
+"id": "AL0193",
+"name": "Fayette County Memorial Library",
+"city": "Fayette",
+"county": "Fayette",
+"state": "AL"
+},
+{
+"id": "AL0059",
+"name": "Florence - Lauderdale Public Library",
+"city": "Florence",
+"county": "Lauderdale",
+"state": "AL"
+},
+{
+"id": "AL0083",
+"name": "Foley Public Library",
+"city": "Foley",
+"county": "Baldwin",
+"state": "AL"
+},
+{
+"id": "AL0109",
+"name": "Fort Payne - Dekalb County Public Library",
+"city": "Fort Payne",
+"county": "Dekalb",
+"state": "AL"
+},
+{
+"id": "AL0117",
+"name": "Gadsden - Etowah County Public Library",
+"city": "Gadsden",
+"county": "Etowah",
+"state": "AL"
+},
+{
+"id": "AL0095",
+"name": "Gardendale - Martha Moore Public Library",
+"city": "Gardendale",
+"county": "Jefferson",
+"state": "AL"
+},
+{
+"id": "AL0168",
+"name": "Greenville - Butler County Public Library",
+"city": "Greenville",
+"county": "Butler",
+"state": "AL"
+},
+{
+"id": "AL0088",
+"name": "Gulf Shores - Thomas B. Norton Public Library",
+"city": "Gulf Shores",
+"county": "Baldwin",
+"state": "AL"
+},
+{
+"id": "AL0128",
+"name": "Harrison Regional Library System",
+"city": "Columbiana",
+"county": "Shelby",
+"state": "AL"
+},
+{
+"id": "AL0078",
+"name": "Hartselle - William Bradford Huie Library Of Hartselle",
+"city": "Hartselle",
+"county": "Morgan",
+"state": "AL"
+},
+{
+"id": "AL0132",
+"name": "Helena - Jane B. Holmes Public Library",
+"city": "Helena",
+"county": "Shelby",
+"state": "AL"
+}
+]

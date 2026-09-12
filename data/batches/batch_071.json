@@ -1,0 +1,352 @@
+[
+{
+"id": "UT0054",
+"name": "Tooele City Public Library",
+"city": "Tooele",
+"county": "Tooele",
+"state": "UT"
+},
+{
+"id": "UT0008",
+"name": "Tremonton City Library",
+"city": "Tremonton",
+"county": "Box Elder",
+"state": "UT"
+},
+{
+"id": "UT0055",
+"name": "Uintah County Library",
+"city": "Vernal",
+"county": "Uintah",
+"state": "UT"
+},
+{
+"id": "UT0056",
+"name": "Utah County Bookmobile Library",
+"city": "Mapleton",
+"county": "Utah",
+"state": "UT"
+},
+{
+"id": "UT0067",
+"name": "Wasatch County Library",
+"city": "Heber City",
+"county": "Wasatch",
+"state": "UT"
+},
+{
+"id": "UT0066",
+"name": "Washington County Library System",
+"city": "St. George",
+"county": "Washington",
+"state": "UT"
+},
+{
+"id": "UT0069",
+"name": "Weber County Library System",
+"city": "Roy",
+"county": "Weber",
+"state": "UT"
+},
+{
+"id": "VA0001",
+"name": "Alexandria Library",
+"city": "Alexandria",
+"county": "Alexandria",
+"state": "VA"
+},
+{
+"id": "VA0015",
+"name": "Alleghany Highlands Regional Library",
+"city": "Covington",
+"county": "Covington",
+"state": "VA"
+},
+{
+"id": "VA0002",
+"name": "Amherst County Public Library",
+"city": "Amherst",
+"county": "Amherst",
+"state": "VA"
+},
+{
+"id": "VA0004",
+"name": "Appomattox Regional Library System",
+"city": "Hopewell",
+"county": "Hopewell",
+"state": "VA"
+},
+{
+"id": "VA0005",
+"name": "Arlington Dept. Of Libraries",
+"city": "Arlington",
+"county": "Arlington",
+"state": "VA"
+},
+{
+"id": "VA0006",
+"name": "Augusta County Library",
+"city": "Fishersville",
+"county": "Augusta",
+"state": "VA"
+},
+{
+"id": "VA0007",
+"name": "Bedford Public Library System",
+"city": "Bedford",
+"county": "Bedford",
+"state": "VA"
+},
+{
+"id": "VA0083",
+"name": "Blackwater Regional Library",
+"city": "Courtland",
+"county": "Southampton",
+"state": "VA"
+},
+{
+"id": "VA0008",
+"name": "Blue Ridge Regional Library",
+"city": "Martinsville",
+"county": "Martinsville",
+"state": "VA"
+},
+{
+"id": "VA0009",
+"name": "Botetourt County Library",
+"city": "Roanoke",
+"county": "Botetourt",
+"state": "VA"
+},
+{
+"id": "VA0010",
+"name": "Bristol Public Library",
+"city": "Bristol",
+"county": "Bristol",
+"state": "VA"
+},
+{
+"id": "VA0011",
+"name": "Buchanan County Public Library",
+"city": "Grundy",
+"county": "Buchanan",
+"state": "VA"
+},
+{
+"id": "VA0012",
+"name": "Campbell County Public Library",
+"city": "Rustburg",
+"county": "Campbell",
+"state": "VA"
+},
+{
+"id": "VA0013",
+"name": "Caroline County Library",
+"city": "Milford",
+"county": "Caroline",
+"state": "VA"
+},
+{
+"id": "VA0014",
+"name": "Central Rappahannock Regional Library",
+"city": "Fredericksburg",
+"county": "Spotsylvania",
+"state": "VA"
+},
+{
+"id": "VA0091",
+"name": "Central Virginia Regional Library",
+"city": "Farmville",
+"county": "Prince Edward",
+"state": "VA"
+},
+{
+"id": "VA0016",
+"name": "Charlotte County Library",
+"city": "Charlotte Court Hous",
+"county": "Charlotte",
+"state": "VA"
+},
+{
+"id": "VA0017",
+"name": "Chesapeake Public Library",
+"city": "Chesapeake",
+"county": "Chesapeake",
+"state": "VA"
+},
+{
+"id": "VA0018",
+"name": "Chesterfield County Public Library",
+"city": "Chesterfield",
+"county": "Chesterfield",
+"state": "VA"
+},
+{
+"id": "VA0020",
+"name": "Colonial Heights Public Library",
+"city": "Colonial Heights",
+"county": "Colonial Heights",
+"state": "VA"
+},
+{
+"id": "VA0021",
+"name": "Culpeper County Library",
+"city": "Culpeper",
+"county": "Culpeper",
+"state": "VA"
+},
+{
+"id": "VA0023",
+"name": "Danville Public Library",
+"city": "Danville",
+"county": "Danville",
+"state": "VA"
+},
+{
+"id": "VA0024",
+"name": "Eastern Shore Public Library",
+"city": "Accomac",
+"county": "Accomack",
+"state": "VA"
+},
+{
+"id": "VA0025",
+"name": "Essex Public Library",
+"city": "Tappahannock",
+"county": "Essex",
+"state": "VA"
+},
+{
+"id": "VA0026",
+"name": "Fairfax County Public Library",
+"city": "Fairfax",
+"county": "Fairfax",
+"state": "VA"
+},
+{
+"id": "VA0028",
+"name": "Fauquier County Public Library",
+"city": "Warrenton",
+"county": "Fauquier",
+"state": "VA"
+},
+{
+"id": "VA0029",
+"name": "Fluvanna County Public Library",
+"city": "Palmyra",
+"county": "Fluvanna",
+"state": "VA"
+},
+{
+"id": "VA0030",
+"name": "Franklin County Public Library",
+"city": "Rocky Mount",
+"county": "Franklin",
+"state": "VA"
+},
+{
+"id": "VA0031",
+"name": "Galax-Carroll Regional Library",
+"city": "Galax",
+"county": "Carroll",
+"state": "VA"
+},
+{
+"id": "VA0032",
+"name": "Gloucester County Public Library",
+"city": "Gloucester",
+"county": "Gloucester",
+"state": "VA"
+},
+{
+"id": "VA0033",
+"name": "Halifax County-South Boston Library System",
+"city": "Halifax",
+"county": "Halifax",
+"state": "VA"
+},
+{
+"id": "VA0034",
+"name": "Hampton Public Library",
+"city": "Hampton",
+"county": "Hampton",
+"state": "VA"
+},
+{
+"id": "VA0035",
+"name": "Handley Regional Library",
+"city": "Winchester",
+"county": "Winchester",
+"state": "VA"
+},
+{
+"id": "VA0036",
+"name": "Henrico County Public Library",
+"city": "Henrico",
+"county": "Henrico",
+"state": "VA"
+},
+{
+"id": "VA0037",
+"name": "Heritage Public Library",
+"city": "New Kent",
+"county": "New Kent",
+"state": "VA"
+},
+{
+"id": "VA0003",
+"name": "J. Robert Jamerson Memorial Library",
+"city": "Appomattox",
+"county": "Appomattox",
+"state": "VA"
+},
+{
+"id": "VA0039",
+"name": "James L. Hamner Public Library",
+"city": "Amelia",
+"county": "Amelia",
+"state": "VA"
+},
+{
+"id": "VA0040",
+"name": "Jefferson-Madison Regional Library",
+"city": "Charlottesville",
+"county": "Charlottesville",
+"state": "VA"
+},
+{
+"id": "VA0041",
+"name": "Lancaster Community Library",
+"city": "Kilmarnock",
+"county": "Lancaster",
+"state": "VA"
+},
+{
+"id": "VA0042",
+"name": "Lewis Egerton Smoot Memorial Library",
+"city": "King George",
+"county": "King George",
+"state": "VA"
+},
+{
+"id": "VA0043",
+"name": "Lonesome Pine Regional Library",
+"city": "Wise",
+"county": "Wise",
+"state": "VA"
+},
+{
+"id": "VA0044",
+"name": "Loudoun County Public Library",
+"city": "Leesburg",
+"county": "Loudoun",
+"state": "VA"
+},
+{
+"id": "VA8001",
+"name": "Lunenburg County Public Library System, Inc",
+"city": "Kenbridge",
+"county": "Lunenburg",
+"state": "VA"
+}
+]

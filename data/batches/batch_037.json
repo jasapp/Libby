@@ -1,0 +1,352 @@
+[
+{
+"id": "MO0114",
+"name": "Webb City Public Library",
+"city": "Webb City",
+"county": "Jasper",
+"state": "MO"
+},
+{
+"id": "MO0190",
+"name": "Webster County Library",
+"city": "Marshfield",
+"county": "Webster",
+"state": "MO"
+},
+{
+"id": "MO0084",
+"name": "Webster Groves Public Library",
+"city": "Webster Groves",
+"county": "St. Louis",
+"state": "MO"
+},
+{
+"id": "MO0108",
+"name": "West Plains Public Library",
+"city": "West Plains",
+"county": "Howell",
+"state": "MO"
+},
+{
+"id": "MO0011",
+"name": "Wright County Library",
+"city": "Hartville",
+"county": "Wright",
+"state": "MO"
+},
+{
+"id": "MS0003",
+"name": "Bolivar County Library",
+"city": "Cleveland",
+"county": "Bolivar",
+"state": "MS"
+},
+{
+"id": "MS0005",
+"name": "Carnegie Public Library",
+"city": "Clarksdale",
+"county": "Coahoma",
+"state": "MS"
+},
+{
+"id": "MS0006",
+"name": "Central Mississippi Regional Library",
+"city": "Brandon",
+"county": "Rankin",
+"state": "MS"
+},
+{
+"id": "MS0028",
+"name": "Columbus-Lowndes Public Library",
+"city": "Columbus",
+"county": "Lowndes",
+"state": "MS"
+},
+{
+"id": "MS0008",
+"name": "Copiah-Jefferson Regional Library",
+"city": "Hazlehurst",
+"county": "Copiah",
+"state": "MS"
+},
+{
+"id": "MS0051",
+"name": "Covington County Library System",
+"city": "Collins",
+"county": "Covington",
+"state": "MS"
+},
+{
+"id": "MS0009",
+"name": "Dixie Regional Library System",
+"city": "Pontotoc",
+"county": "Pontotoc",
+"state": "MS"
+},
+{
+"id": "MS0010",
+"name": "East Mississippi Regional Library",
+"city": "Quitman",
+"county": "Clarke",
+"state": "MS"
+},
+{
+"id": "MS0011",
+"name": "Elizabeth Jones Library",
+"city": "Grenada",
+"county": "Grenada",
+"state": "MS"
+},
+{
+"id": "MS0013",
+"name": "First Regional Library",
+"city": "Hernando",
+"county": "Desoto",
+"state": "MS"
+},
+{
+"id": "MS0012",
+"name": "Greenwood-Leflore Public Library",
+"city": "Greenwood",
+"county": "Leflore",
+"state": "MS"
+},
+{
+"id": "MS0014",
+"name": "Hancock County Library",
+"city": "Bay Saint Louis",
+"county": "Hancock",
+"state": "MS"
+},
+{
+"id": "MS0016",
+"name": "Harrison County Library System",
+"city": "Gulfport",
+"county": "Harrison",
+"state": "MS"
+},
+{
+"id": "MS0020",
+"name": "Jackson-George Regional Library System",
+"city": "Pascagoula",
+"county": "Jackson",
+"state": "MS"
+},
+{
+"id": "MS0021",
+"name": "Jackson/Hinds Library System",
+"city": "Jackson",
+"county": "Hinds",
+"state": "MS"
+},
+{
+"id": "MS0018",
+"name": "Judge Armstrong Library",
+"city": "Natchez",
+"county": "Adams",
+"state": "MS"
+},
+{
+"id": "MS0023",
+"name": "Kemper-Newton Regional Library",
+"city": "Union",
+"county": "Newton",
+"state": "MS"
+},
+{
+"id": "MS8001",
+"name": "Lamar County Library System",
+"city": "Purvis",
+"county": "Lamar",
+"state": "MS"
+},
+{
+"id": "MS0024",
+"name": "Laurel-Jones County Library System, Inc.",
+"city": "Laurel",
+"county": "Jones",
+"state": "MS"
+},
+{
+"id": "MS0025",
+"name": "Lee-Itawamba Library System",
+"city": "Tupelo",
+"county": "Lee",
+"state": "MS"
+},
+{
+"id": "MS0026",
+"name": "Lincoln-Lawrence-Franklin Regional Library",
+"city": "Brookhaven",
+"county": "Lincoln",
+"state": "MS"
+},
+{
+"id": "MS0027",
+"name": "Long Beach Public Library",
+"city": "Long Beach",
+"county": "Harrison",
+"state": "MS"
+},
+{
+"id": "MS0029",
+"name": "Madison County Library System",
+"city": "Canton",
+"county": "Madison",
+"state": "MS"
+},
+{
+"id": "MS0031",
+"name": "Marshall County Library",
+"city": "Holly Springs",
+"county": "Marshall",
+"state": "MS"
+},
+{
+"id": "MS0032",
+"name": "Meridian-Lauderdale County Public Library",
+"city": "Meridian",
+"county": "Lauderdale",
+"state": "MS"
+},
+{
+"id": "MS0033",
+"name": "Mid-Mississippi Regional Library",
+"city": "Kosciusko",
+"county": "Attala",
+"state": "MS"
+},
+{
+"id": "MS0034",
+"name": "Neshoba County Public Library",
+"city": "Philadelphia",
+"county": "Neshoba",
+"state": "MS"
+},
+{
+"id": "MS0035",
+"name": "Northeast Regional Library",
+"city": "Corinth",
+"county": "Alcorn",
+"state": "MS"
+},
+{
+"id": "MS0036",
+"name": "Noxubee County Library",
+"city": "Macon",
+"county": "Noxubee",
+"state": "MS"
+},
+{
+"id": "MS0039",
+"name": "Pearl River County Library System",
+"city": "Picayune",
+"county": "Pearl River",
+"state": "MS"
+},
+{
+"id": "MS0040",
+"name": "Pike-Amite-Walthall Library System",
+"city": "Mccomb",
+"county": "Pike",
+"state": "MS"
+},
+{
+"id": "MS0041",
+"name": "Pine Forest Regional Library",
+"city": "Richton",
+"county": "Perry",
+"state": "MS"
+},
+{
+"id": "MS0043",
+"name": "South Mississippi Regional Library",
+"city": "Columbia",
+"county": "Marion",
+"state": "MS"
+},
+{
+"id": "MS0038",
+"name": "Starkville-Oktibbeha County Public Library System",
+"city": "Starkville",
+"county": "Oktibbeha",
+"state": "MS"
+},
+{
+"id": "MS0044",
+"name": "Sunflower County Library",
+"city": "Indianola",
+"county": "Sunflower",
+"state": "MS"
+},
+{
+"id": "MS0045",
+"name": "Tallahatchie County Library",
+"city": "Charleston",
+"county": "Tallahatchie",
+"state": "MS"
+},
+{
+"id": "MS0017",
+"name": "The Library Of Hattiesburg, Petal & Forrest C",
+"city": "Hattiesburg",
+"county": "Forrest",
+"state": "MS"
+},
+{
+"id": "MS0046",
+"name": "Tombigbee Regional Library",
+"city": "West Point",
+"county": "Clay",
+"state": "MS"
+},
+{
+"id": "MS0022",
+"name": "Union County Library System",
+"city": "New Albany",
+"county": "Union",
+"state": "MS"
+},
+{
+"id": "MS0047",
+"name": "Warren County-Vicksburg Public Library",
+"city": "Vicksburg",
+"county": "Warren",
+"state": "MS"
+},
+{
+"id": "MS0048",
+"name": "Washington County Library",
+"city": "Greenville",
+"county": "Washington",
+"state": "MS"
+},
+{
+"id": "MS8002",
+"name": "Waynesboro-Wayne County Library System",
+"city": "Waynesboro",
+"county": "Wayne",
+"state": "MS"
+},
+{
+"id": "MS0002",
+"name": "Yalobusha County Library",
+"city": "Coffeeville",
+"county": "Yalobusha",
+"state": "MS"
+},
+{
+"id": "MS0042",
+"name": "Yazoo Library Association",
+"city": "Yazoo City",
+"county": "Yazoo",
+"state": "MS"
+},
+{
+"id": "MT0004",
+"name": "Belgrade Community Library",
+"city": "Belgrade",
+"county": "Gallatin",
+"state": "MT"
+}
+]

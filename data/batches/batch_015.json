@@ -1,0 +1,352 @@
+[
+{
+"id": "ID0026",
+"name": "Eagle Public",
+"city": "Eagle",
+"county": "Ada",
+"state": "ID"
+},
+{
+"id": "ID0098",
+"name": "East Bonner County District",
+"city": "Sandpoint",
+"county": "Bonner",
+"state": "ID"
+},
+{
+"id": "ID0123",
+"name": "Fremont County District",
+"city": "Ashton",
+"county": "Fremont",
+"state": "ID"
+},
+{
+"id": "ID0033",
+"name": "Garden City Public",
+"city": "Garden City",
+"county": "Ada",
+"state": "ID"
+},
+{
+"id": "ID0046",
+"name": "Idaho Falls Public",
+"city": "Idaho Falls",
+"county": "Bonneville",
+"state": "ID"
+},
+{
+"id": "ID0048",
+"name": "Jerome Public",
+"city": "Jerome",
+"county": "Jerome",
+"state": "ID"
+},
+{
+"id": "ID0050",
+"name": "Kuna District",
+"city": "Kuna",
+"county": "Ada",
+"state": "ID"
+},
+{
+"id": "ID0085",
+"name": "Larsen-Sant/Franklin District",
+"city": "Preston",
+"county": "Franklin",
+"state": "ID"
+},
+{
+"id": "ID0060",
+"name": "Latah County District",
+"city": "Moscow",
+"county": "Latah",
+"state": "ID"
+},
+{
+"id": "ID0051",
+"name": "Lewiston City Public",
+"city": "Lewiston",
+"county": "Nez Perce",
+"state": "ID"
+},
+{
+"id": "ID0086",
+"name": "Madison Library District",
+"city": "Rexburg",
+"county": "Madison",
+"state": "ID"
+},
+{
+"id": "ID0080",
+"name": "Marshall Public",
+"city": "Pocatello",
+"county": "Bannock",
+"state": "ID"
+},
+{
+"id": "ID0061",
+"name": "Meridian District",
+"city": "Meridian",
+"county": "Ada",
+"state": "ID"
+},
+{
+"id": "ID0065",
+"name": "Middleton Public",
+"city": "Middleton",
+"county": "Canyon",
+"state": "ID"
+},
+{
+"id": "ID0063",
+"name": "Mountain Home Public",
+"city": "Mountain Home",
+"county": "Elmore",
+"state": "ID"
+},
+{
+"id": "ID0069",
+"name": "Nampa Public",
+"city": "Nampa",
+"county": "Canyon",
+"state": "ID"
+},
+{
+"id": "ID0094",
+"name": "North Bingham County District",
+"city": "Shelley",
+"county": "Bingham",
+"state": "ID"
+},
+{
+"id": "ID0019",
+"name": "Portneuf District",
+"city": "Chubbuck",
+"county": "Bannock",
+"state": "ID"
+},
+{
+"id": "ID0055",
+"name": "Prairie-River District",
+"city": "Lapwai",
+"county": "Nez Perce",
+"state": "ID"
+},
+{
+"id": "ID0105",
+"name": "Twin Falls Public",
+"city": "Twin Falls",
+"county": "Twin Falls",
+"state": "ID"
+},
+{
+"id": "ID0106",
+"name": "Valley Of The Tetons District",
+"city": "Victor",
+"county": "Teton",
+"state": "ID"
+},
+{
+"id": "IL0002",
+"name": "Acorn Public Library District",
+"city": "Oak Forest",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0003",
+"name": "Addison Public Library",
+"city": "Addison",
+"county": "Dupage",
+"state": "IL"
+},
+{
+"id": "IL0006",
+"name": "Algonquin Area Public Library District",
+"city": "Algonquin",
+"county": "Mchenry",
+"state": "IL"
+},
+{
+"id": "IL0007",
+"name": "Alpha Park Public Library District",
+"city": "Bartonville",
+"county": "Peoria",
+"state": "IL"
+},
+{
+"id": "IL0008",
+"name": "Alsip-Merrionette Park Public Library District",
+"city": "Alsip",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0081",
+"name": "Anne West Lindsey District Library",
+"city": "Carterville",
+"county": "Williamson",
+"state": "IL"
+},
+{
+"id": "IL0015",
+"name": "Antioch Public Library District",
+"city": "Antioch",
+"county": "Lake",
+"state": "IL"
+},
+{
+"id": "IL0018",
+"name": "Arlington Heights Memorial Library",
+"city": "Arlington Heights",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0029",
+"name": "Aurora Public Library District",
+"city": "Aurora",
+"county": "Kane",
+"state": "IL"
+},
+{
+"id": "IL0032",
+"name": "Barrington Public Library District",
+"city": "Barrington",
+"county": "Lake",
+"state": "IL"
+},
+{
+"id": "IL0034",
+"name": "Bartlett Public Library District",
+"city": "Bartlett",
+"county": "Dupage",
+"state": "IL"
+},
+{
+"id": "IL0035",
+"name": "Batavia Public Library District",
+"city": "Batavia",
+"county": "Kane",
+"state": "IL"
+},
+{
+"id": "IL0038",
+"name": "Belleville Public Library",
+"city": "Belleville",
+"county": "St. Clair",
+"state": "IL"
+},
+{
+"id": "IL0039",
+"name": "Bellwood Public Library",
+"city": "Bellwood",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0042",
+"name": "Bensenville Community Public Library District",
+"city": "Bensenville",
+"county": "Dupage",
+"state": "IL"
+},
+{
+"id": "IL0043",
+"name": "Benton Public Library District",
+"city": "Benton",
+"county": "Franklin",
+"state": "IL"
+},
+{
+"id": "IL0046",
+"name": "Berwyn Public Library",
+"city": "Berwyn",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0047",
+"name": "Bethalto Public Library District",
+"city": "Bethalto",
+"county": "Madison",
+"state": "IL"
+},
+{
+"id": "IL0049",
+"name": "Bloomingdale Public Library",
+"city": "Bloomingdale",
+"county": "Dupage",
+"state": "IL"
+},
+{
+"id": "IL0050",
+"name": "Bloomington Public Library",
+"city": "Bloomington",
+"county": "Mclean",
+"state": "IL"
+},
+{
+"id": "IL0051",
+"name": "Blue Island Public Library",
+"city": "Blue Island",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0054",
+"name": "Bourbonnais Public Library District",
+"city": "Bourbonnais",
+"county": "Kankakee",
+"state": "IL"
+},
+{
+"id": "IL0056",
+"name": "Bradley Public Library District",
+"city": "Bradley",
+"county": "Kankakee",
+"state": "IL"
+},
+{
+"id": "IL0058",
+"name": "Bridgeview Public Library",
+"city": "Bridgeview",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0363",
+"name": "C.E. Brehm Memorial Public Library District",
+"city": "Mount Vernon",
+"county": "Jefferson",
+"state": "IL"
+},
+{
+"id": "IL0067",
+"name": "Cahokia Public Library District",
+"city": "Cahokia Heights",
+"county": "St. Clair",
+"state": "IL"
+},
+{
+"id": "IL0069",
+"name": "Calumet City Public Library",
+"city": "Calumet City",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0074",
+"name": "Carbondale Public Library",
+"city": "Carbondale",
+"county": "Jackson",
+"state": "IL"
+},
+{
+"id": "IL0078",
+"name": "Carol Stream Public Library",
+"city": "Carol Stream",
+"county": "Dupage",
+"state": "IL"
+}
+]

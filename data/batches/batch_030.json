@@ -1,0 +1,352 @@
+[
+{
+"id": "MD0011",
+"name": "Frederick County Public Libraries",
+"city": "Frederick",
+"county": "Frederick",
+"state": "MD"
+},
+{
+"id": "MD0013",
+"name": "Harford County Public Library",
+"city": "Belcamp",
+"county": "Harford",
+"state": "MD"
+},
+{
+"id": "MD0014",
+"name": "Howard County Library System",
+"city": "Ellicott City",
+"county": "Howard",
+"state": "MD"
+},
+{
+"id": "MD0015",
+"name": "Kent County Public Library",
+"city": "Chestertown",
+"county": "Kent",
+"state": "MD"
+},
+{
+"id": "MD0016",
+"name": "Montgomery County Public Libraries",
+"city": "Rockville",
+"county": "Montgomery",
+"state": "MD"
+},
+{
+"id": "MD0017",
+"name": "Prince George`S County Memorial Library Syste",
+"city": "Largo",
+"county": "Prince George`S",
+"state": "MD"
+},
+{
+"id": "MD0018",
+"name": "Queen Anne`S County Free Library",
+"city": "Centreville",
+"county": "Queen Anne`S",
+"state": "MD"
+},
+{
+"id": "MD0012",
+"name": "Ruth Enlow Library Of Garrett County",
+"city": "Oakland",
+"county": "Garrett",
+"state": "MD"
+},
+{
+"id": "MD0020",
+"name": "Somerset County Library",
+"city": "Princess Anne",
+"county": "Somerset",
+"state": "MD"
+},
+{
+"id": "MD0019",
+"name": "St. Mary`S County Library",
+"city": "Leonardtown",
+"county": "St. Mary`S",
+"state": "MD"
+},
+{
+"id": "MD9004",
+"name": "Takoma Park Maryland Library",
+"city": "Takoma Park",
+"county": "Montgomery",
+"state": "MD"
+},
+{
+"id": "MD0021",
+"name": "Talbot County Free Library",
+"city": "Easton",
+"county": "Talbot",
+"state": "MD"
+},
+{
+"id": "MD0022",
+"name": "Washington County Free Library",
+"city": "Hagerstown",
+"county": "Washington",
+"state": "MD"
+},
+{
+"id": "MD0023",
+"name": "Wicomico County Free Library",
+"city": "Salisbury",
+"county": "Wicomico",
+"state": "MD"
+},
+{
+"id": "MD0024",
+"name": "Worcester County Library",
+"city": "Snow Hill",
+"county": "Worcester",
+"state": "MD"
+},
+{
+"id": "ME0009",
+"name": "Auburn Public Library",
+"city": "Auburn",
+"county": "Androscoggin",
+"state": "ME"
+},
+{
+"id": "ME0013",
+"name": "Bangor Public Library",
+"city": "Bangor",
+"county": "Penobscot",
+"state": "ME"
+},
+{
+"id": "ME0088",
+"name": "Baxter Memorial Library",
+"city": "Gorham",
+"county": "Cumberland",
+"state": "ME"
+},
+{
+"id": "ME0104",
+"name": "Cary Library-Houlton",
+"city": "Houlton",
+"county": "Aroostook",
+"state": "ME"
+},
+{
+"id": "ME0033",
+"name": "Curtis Memorial Library",
+"city": "Brunswick",
+"county": "Cumberland",
+"state": "ME"
+},
+{
+"id": "ME0184",
+"name": "Dyer Library",
+"city": "Saco",
+"county": "York",
+"state": "ME"
+},
+{
+"id": "ME0071",
+"name": "Ellsworth Public Library",
+"city": "Ellsworth",
+"county": "Hancock",
+"state": "ME"
+},
+{
+"id": "ME0075",
+"name": "Falmouth Memorial Library",
+"city": "Falmouth",
+"county": "Cumberland",
+"state": "ME"
+},
+{
+"id": "ME0084",
+"name": "Gardiner Public Library",
+"city": "Gardiner",
+"county": "Kennebec",
+"state": "ME"
+},
+{
+"id": "ME0186",
+"name": "Goodall Memorial Library",
+"city": "Sanford",
+"county": "York",
+"state": "ME"
+},
+{
+"id": "ME0114",
+"name": "Kennebunk Free Library",
+"city": "Kennebunk",
+"county": "York",
+"state": "ME"
+},
+{
+"id": "ME0119",
+"name": "Lewiston Public Library",
+"city": "Lewiston",
+"county": "Androscoggin",
+"state": "ME"
+},
+{
+"id": "ME0010",
+"name": "Lithgow Public Library",
+"city": "Augusta",
+"county": "Kennebec",
+"state": "ME"
+},
+{
+"id": "ME0018",
+"name": "Mcarthur Public Library",
+"city": "Biddeford",
+"county": "York",
+"state": "ME"
+},
+{
+"id": "ME0247",
+"name": "North Gorham Public Library",
+"city": "Gorham",
+"county": "Cumberland",
+"state": "ME"
+},
+{
+"id": "ME0159",
+"name": "Old Town Public Library",
+"city": "Old Town",
+"county": "Penobscot",
+"state": "ME"
+},
+{
+"id": "ME0160",
+"name": "Orono Public Library",
+"city": "Orono",
+"county": "Penobscot",
+"state": "ME"
+},
+{
+"id": "ME0015",
+"name": "Patten Free Library",
+"city": "Bath",
+"county": "Sagadahoc",
+"state": "ME"
+},
+{
+"id": "ME0174",
+"name": "Portland Public Library",
+"city": "Portland",
+"county": "Cumberland",
+"state": "ME"
+},
+{
+"id": "ME0058",
+"name": "Prince Memorial Library",
+"city": "Cumberland",
+"county": "Cumberland",
+"state": "ME"
+},
+{
+"id": "ME0189",
+"name": "Scarborough Public Library",
+"city": "Scarborough",
+"county": "Cumberland",
+"state": "ME"
+},
+{
+"id": "ME0199",
+"name": "South Portland Public Library",
+"city": "South Portland",
+"county": "Cumberland",
+"state": "ME"
+},
+{
+"id": "ME0187",
+"name": "Springvale Public Library",
+"city": "Springvale",
+"county": "York",
+"state": "ME"
+},
+{
+"id": "ME0226",
+"name": "Walker Memorial Library",
+"city": "Westbrook",
+"county": "Cumberland",
+"state": "ME"
+},
+{
+"id": "ME0221",
+"name": "Waterville Public Library",
+"city": "Waterville",
+"county": "Kennebec",
+"state": "ME"
+},
+{
+"id": "ME0224",
+"name": "Wells Public Library",
+"city": "Wells",
+"county": "York",
+"state": "ME"
+},
+{
+"id": "ME0230",
+"name": "Windham Public Library",
+"city": "Windham",
+"county": "Cumberland",
+"state": "ME"
+},
+{
+"id": "ME0238",
+"name": "York Public Library",
+"city": "York",
+"county": "York",
+"state": "ME"
+},
+{
+"id": "MI0406",
+"name": "Adrian District Library",
+"city": "Adrian",
+"county": "Lenawee",
+"state": "MI"
+},
+{
+"id": "MI0407",
+"name": "Alanson Area Public Library",
+"city": "Alanson",
+"county": "Emmet",
+"state": "MI"
+},
+{
+"id": "MI0408",
+"name": "Albion District Library",
+"city": "Albion",
+"county": "Calhoun",
+"state": "MI"
+},
+{
+"id": "MI0410",
+"name": "Allegan District Library",
+"city": "Allegan",
+"county": "Allegan",
+"state": "MI"
+},
+{
+"id": "MI9017",
+"name": "Allen Park Public Library",
+"city": "Allen Park",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0411",
+"name": "Allendale Township Library",
+"city": "Allendale",
+"county": "Ottawa",
+"state": "MI"
+},
+{
+"id": "MI0412",
+"name": "Alma Public Library",
+"city": "Alma",
+"county": "Gratiot",
+"state": "MI"
+}
+]

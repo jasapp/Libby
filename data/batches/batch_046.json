@@ -1,0 +1,352 @@
+[
+{
+"id": "NY0775",
+"name": "Brunswick Community Library",
+"city": "Troy",
+"county": "Rensselaer",
+"state": "NY"
+},
+{
+"id": "NY0377",
+"name": "Bryant Library",
+"city": "Roslyn",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0005",
+"name": "Buffalo And Erie County Public Library",
+"city": "Buffalo",
+"county": "Erie",
+"state": "NY"
+},
+{
+"id": "NY0457",
+"name": "Canton Free Library",
+"city": "Canton",
+"county": "St. Lawrence",
+"state": "NY"
+},
+{
+"id": "NY0242",
+"name": "Catskill Public Library",
+"city": "Catskill",
+"county": "Greene",
+"state": "NY"
+},
+{
+"id": "NY0655",
+"name": "Central Islip Public Library",
+"city": "Central Islip",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0731",
+"name": "Chappaqua Central Sch Dist P L",
+"city": "Chappaqua",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0010",
+"name": "Cheektowaga Public Library",
+"city": "Cheektowaga",
+"county": "Erie",
+"state": "NY"
+},
+{
+"id": "NY0794",
+"name": "Chemung County Library District",
+"city": "Elmira",
+"county": "Chemung",
+"state": "NY"
+},
+{
+"id": "NY0565",
+"name": "Chester Public Library",
+"city": "Chester",
+"county": "Orange",
+"state": "NY"
+},
+{
+"id": "NY0509",
+"name": "Chili Public Library",
+"city": "Rochester",
+"county": "Monroe",
+"state": "NY"
+},
+{
+"id": "NY0026",
+"name": "City Of Tonawanda Public Library",
+"city": "Tonawanda",
+"county": "Erie",
+"state": "NY"
+},
+{
+"id": "NY0011",
+"name": "Clarence Public Library",
+"city": "Clarence",
+"county": "Erie",
+"state": "NY"
+},
+{
+"id": "NY0616",
+"name": "Clifton Park-Halfmoon Public Library",
+"city": "Clifton Park",
+"county": "Saratoga",
+"state": "NY"
+},
+{
+"id": "NY0700",
+"name": "Cohoes Public Library",
+"city": "Cohoes",
+"county": "Albany",
+"state": "NY"
+},
+{
+"id": "NY0657",
+"name": "Commack Public Library District",
+"city": "Commack",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0481",
+"name": "Community Library Of Dewitt & Jamesville",
+"city": "Jamesville",
+"county": "Onondaga",
+"state": "NY"
+},
+{
+"id": "NY0680",
+"name": "Comsewogue Public Library",
+"city": "Port Jefferson Stati",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0647",
+"name": "Connetquot Public Library",
+"city": "Bohemia",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0658",
+"name": "Copiague Memorial Public Library",
+"city": "Copiague",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0566",
+"name": "Cornwall Public Library",
+"city": "Cornwall",
+"county": "Orange",
+"state": "NY"
+},
+{
+"id": "NY0143",
+"name": "Cortland Free Library",
+"city": "Cortland",
+"county": "Cortland",
+"state": "NY"
+},
+{
+"id": "NY0626",
+"name": "Crandall Public Library",
+"city": "Glens Falls",
+"county": "Warren",
+"state": "NY"
+},
+{
+"id": "NY0660",
+"name": "Deer Park Public Library",
+"city": "Deer Park",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0733",
+"name": "Dobbs Ferry Public Library",
+"city": "Dobbs Ferry",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0086",
+"name": "Dormann Library",
+"city": "Bath",
+"county": "Steuben",
+"state": "NY"
+},
+{
+"id": "NY0315",
+"name": "Dunham Public Library",
+"city": "Whitesboro",
+"county": "Oneida",
+"state": "NY"
+},
+{
+"id": "NY0048",
+"name": "Dunkirk Public Library",
+"city": "Dunkirk",
+"county": "Chautauqua",
+"state": "NY"
+},
+{
+"id": "NY0222",
+"name": "East Fishkill Public Library District",
+"city": "Hopewell Junction",
+"county": "Dutchess",
+"state": "NY"
+},
+{
+"id": "NY0712",
+"name": "East Greenbush Community Library",
+"city": "East Greenbush",
+"county": "Rensselaer",
+"state": "NY"
+},
+{
+"id": "NY0662",
+"name": "East Hampton Library",
+"city": "East Hampton",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0663",
+"name": "East Islip Public Library",
+"city": "East Islip",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0338",
+"name": "East Meadow Public Library",
+"city": "East Meadow",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0339",
+"name": "East Rockaway Public Library",
+"city": "East Rockaway",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0734",
+"name": "Eastchester Public Library",
+"city": "Eastchester",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0609",
+"name": "Ellenville Public Library And Museum",
+"city": "Ellenville",
+"county": "Ulster",
+"state": "NY"
+},
+{
+"id": "NY0015",
+"name": "Elma Public Library",
+"city": "Elma",
+"county": "Erie",
+"state": "NY"
+},
+{
+"id": "NY0341",
+"name": "Elmont Public Library",
+"city": "Elmont",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0263",
+"name": "Elting Memorial Library",
+"city": "New Paltz",
+"county": "Ulster",
+"state": "NY"
+},
+{
+"id": "NY0791",
+"name": "Elwood Public Library",
+"city": "Elwood",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0685",
+"name": "Emma S. Clark Memorial Library",
+"city": "Setauket",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0606",
+"name": "Ethelbert B. Crawford Public Library",
+"city": "Monticello",
+"county": "Sullivan",
+"state": "NY"
+},
+{
+"id": "NY0512",
+"name": "Fairport Public Library",
+"city": "Fairport",
+"county": "Monroe",
+"state": "NY"
+},
+{
+"id": "NY9014",
+"name": "Fallsburg Library",
+"city": "South Fallsburg",
+"county": "Sullivan",
+"state": "NY"
+},
+{
+"id": "NY0342",
+"name": "Farmingdale Public Library",
+"city": "Farmingdale",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0485",
+"name": "Fayetteville Free Library",
+"city": "Fayetteville",
+"county": "Onondaga",
+"state": "NY"
+},
+{
+"id": "NY0592",
+"name": "Finkelstein Memorial Library",
+"city": "Spring Valley",
+"county": "Rockland",
+"state": "NY"
+},
+{
+"id": "NY0343",
+"name": "Floral Park Public Library",
+"city": "Floral Park",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0344",
+"name": "Franklin Square Public Library",
+"city": "Franklin Square",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0345",
+"name": "Freeport Memorial Library",
+"city": "Freeport",
+"county": "Nassau",
+"state": "NY"
+}
+]

@@ -1,0 +1,352 @@
+[
+{
+"id": "WI0314",
+"name": "Sun Prairie Public Library",
+"city": "Sun Prairie",
+"county": "Dane",
+"state": "WI"
+},
+{
+"id": "WI0315",
+"name": "Superior Public Library",
+"city": "Superior",
+"county": "Douglas",
+"state": "WI"
+},
+{
+"id": "WI0395",
+"name": "T.B. Scott Free Library",
+"city": "Merrill",
+"county": "Lincoln",
+"state": "WI"
+},
+{
+"id": "WI0321",
+"name": "Tomah Public Library",
+"city": "Tomah",
+"county": "Monroe",
+"state": "WI"
+},
+{
+"id": "WI0385",
+"name": "U.S.S. Liberty Memorial Public Library",
+"city": "Grafton",
+"county": "Ozaukee",
+"state": "WI"
+},
+{
+"id": "WI0014",
+"name": "Vaughn Public Library",
+"city": "Ashland",
+"county": "Ashland",
+"state": "WI"
+},
+{
+"id": "WI0327",
+"name": "Verona Public Library",
+"city": "Verona",
+"county": "Dane",
+"state": "WI"
+},
+{
+"id": "WI0258",
+"name": "W.J. Niederkorn Library",
+"city": "Port Washington",
+"county": "Ozaukee",
+"state": "WI"
+},
+{
+"id": "WI0088",
+"name": "Walter E. Olson Memorial Library",
+"city": "Eagle River",
+"county": "Vilas",
+"state": "WI"
+},
+{
+"id": "WI0334",
+"name": "Waterford Public Library",
+"city": "Waterford",
+"county": "Racine",
+"state": "WI"
+},
+{
+"id": "WI0336",
+"name": "Watertown Public Library",
+"city": "Watertown",
+"county": "Jefferson",
+"state": "WI"
+},
+{
+"id": "WI0337",
+"name": "Waukesha Public Library",
+"city": "Waukesha",
+"county": "Waukesha",
+"state": "WI"
+},
+{
+"id": "WI0338",
+"name": "Waunakee Public Library",
+"city": "Waunakee",
+"county": "Dane",
+"state": "WI"
+},
+{
+"id": "WI0339",
+"name": "Waupaca Area Public Library",
+"city": "Waupaca",
+"county": "Waupaca",
+"state": "WI"
+},
+{
+"id": "WI0340",
+"name": "Waupun Public Library",
+"city": "Waupun",
+"county": "Dodge",
+"state": "WI"
+},
+{
+"id": "WI0343",
+"name": "Wauwatosa Public Library",
+"city": "Wauwatosa",
+"county": "Milwaukee",
+"state": "WI"
+},
+{
+"id": "WI0344",
+"name": "West Allis Public Library",
+"city": "West Allis",
+"county": "Milwaukee",
+"state": "WI"
+},
+{
+"id": "WI0345",
+"name": "West Bend Community Memorial Library",
+"city": "West Bend",
+"county": "Washington",
+"state": "WI"
+},
+{
+"id": "WI0350",
+"name": "Whitefish Bay Public Library",
+"city": "Whitefish Bay",
+"county": "Milwaukee",
+"state": "WI"
+},
+{
+"id": "WV0054",
+"name": "Bolivar-Harpers Ferry Public Library",
+"city": "Harpers Ferry",
+"county": "Jefferson",
+"state": "WV"
+},
+{
+"id": "WV0077",
+"name": "Boone-Madison Public Library",
+"city": "Madison",
+"county": "Boone",
+"state": "WV"
+},
+{
+"id": "WV0080",
+"name": "Brooke County Public Library",
+"city": "Wellsburg",
+"county": "Brooke",
+"state": "WV"
+},
+{
+"id": "WV0090",
+"name": "Buffalo Creek Memorial Library",
+"city": "Man",
+"county": "Logan",
+"state": "WV"
+},
+{
+"id": "WV0004",
+"name": "Cabell County Public Library",
+"city": "Huntington",
+"county": "Cabell",
+"state": "WV"
+},
+{
+"id": "WV0089",
+"name": "Chapmanville Public Library",
+"city": "Chapmanville",
+"county": "Logan",
+"state": "WV"
+},
+{
+"id": "WV0040",
+"name": "Clarksburg-Harrison Public Library",
+"city": "Clarksburg",
+"county": "Harrison",
+"state": "WV"
+},
+{
+"id": "WV0002",
+"name": "Craft Memorial Library",
+"city": "Bluefield",
+"county": "Mercer",
+"state": "WV"
+},
+{
+"id": "WV0030",
+"name": "Elkins-Randolph Public Library",
+"city": "Elkins",
+"county": "Randolph",
+"state": "WV"
+},
+{
+"id": "WV0078",
+"name": "Fayette County Public Library",
+"city": "Oak Hill",
+"county": "Fayette",
+"state": "WV"
+},
+{
+"id": "WV0048",
+"name": "Grant County Public Library",
+"city": "Petersburg",
+"county": "Grant",
+"state": "WV"
+},
+{
+"id": "WV0088",
+"name": "Hamlin-Lincoln County Public Library",
+"city": "Hamlin",
+"county": "Lincoln",
+"state": "WV"
+},
+{
+"id": "WV0050",
+"name": "Hampshire County Public Library",
+"city": "Romney",
+"county": "Hampshire",
+"state": "WV"
+},
+{
+"id": "WV0051",
+"name": "Hardy County Public Library",
+"city": "Moorefield",
+"county": "Hardy",
+"state": "WV"
+},
+{
+"id": "WV0074",
+"name": "Jackson County Public Library",
+"city": "Ripley",
+"county": "Jackson",
+"state": "WV"
+},
+{
+"id": "WV0009",
+"name": "Kanawha County Public Library",
+"city": "Charleston",
+"county": "Kanawha",
+"state": "WV"
+},
+{
+"id": "WV0046",
+"name": "Keyser-Mineral County Public Library",
+"city": "Keyser",
+"county": "Mineral",
+"state": "WV"
+},
+{
+"id": "WV0024",
+"name": "Kingwood Public Library",
+"city": "Kingwood",
+"county": "Preston",
+"state": "WV"
+},
+{
+"id": "WV8006",
+"name": "Logan Area Public Library",
+"city": "Logan",
+"county": "Logan",
+"state": "WV"
+},
+{
+"id": "WV0076",
+"name": "Louis Bennett Public Library",
+"city": "Weston",
+"county": "Lewis",
+"state": "WV"
+},
+{
+"id": "WV0075",
+"name": "Marion County Public Library",
+"city": "Fairmont",
+"county": "Marion",
+"state": "WV"
+},
+{
+"id": "WV0053",
+"name": "Martinsburg-Berkeley Co. Public Library",
+"city": "Martinsburg",
+"county": "Berkeley",
+"state": "WV"
+},
+{
+"id": "WV0068",
+"name": "Mary H. Weir Public Library",
+"city": "Weirton",
+"county": "Hancock",
+"state": "WV"
+},
+{
+"id": "WV0073",
+"name": "Mason County Public Library",
+"city": "Point Pleasant",
+"county": "Mason",
+"state": "WV"
+},
+{
+"id": "WV0071",
+"name": "Mcdowell Public Library",
+"city": "Welch",
+"county": "Mcdowell",
+"state": "WV"
+},
+{
+"id": "WV0005",
+"name": "Mingo County Public Library",
+"city": "Delbarton",
+"county": "Mingo",
+"state": "WV"
+},
+{
+"id": "WV0058",
+"name": "Morgan County Public Library",
+"city": "Berkeley Springs",
+"county": "Morgan",
+"state": "WV"
+},
+{
+"id": "WV0023",
+"name": "Morgantown Public Library",
+"city": "Morgantown",
+"county": "Monongalia",
+"state": "WV"
+},
+{
+"id": "WV0061",
+"name": "Moundsville-Marshall County Public Library",
+"city": "Moundsville",
+"county": "Marshall",
+"state": "WV"
+},
+{
+"id": "WV0060",
+"name": "Ohio County Public Library",
+"city": "Wheeling",
+"county": "Ohio",
+"state": "WV"
+},
+{
+"id": "WV0020",
+"name": "Parkersburg/Wood Co. Public Library",
+"city": "Parkersburg",
+"county": "Wood",
+"state": "WV"
+}
+]

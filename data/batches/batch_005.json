@@ -1,0 +1,352 @@
+[
+{
+"id": "CA0054",
+"name": "Lake County Library",
+"city": "Lakeport",
+"county": "Lake",
+"state": "CA"
+},
+{
+"id": "CA0055",
+"name": "Larkspur Public Library",
+"city": "Larkspur",
+"county": "Marin",
+"state": "CA"
+},
+{
+"id": "CA0195",
+"name": "Lassen Library District",
+"city": "Susanville",
+"county": "Lassen",
+"state": "CA"
+},
+{
+"id": "CA0057",
+"name": "Lincoln Public Library",
+"city": "Lincoln",
+"county": "Placer",
+"state": "CA"
+},
+{
+"id": "CA0058",
+"name": "Livermore Public Library",
+"city": "Livermore",
+"county": "Alameda",
+"state": "CA"
+},
+{
+"id": "CA0059",
+"name": "Lodi Public Library",
+"city": "Lodi",
+"county": "San Joaquin",
+"state": "CA"
+},
+{
+"id": "CA0060",
+"name": "Lompoc Public Library",
+"city": "Lompoc",
+"county": "Santa Barbara",
+"state": "CA"
+},
+{
+"id": "CA0061",
+"name": "Long Beach Public Library",
+"city": "Long Beach",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0063",
+"name": "Los Angeles Public Library",
+"city": "Los Angeles",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0164",
+"name": "Los Gatos Library",
+"city": "Los Gatos",
+"county": "Santa Clara",
+"state": "CA"
+},
+{
+"id": "CA0064",
+"name": "Madera County Library",
+"city": "Madera",
+"county": "Madera",
+"state": "CA"
+},
+{
+"id": "CA0065",
+"name": "Marin County Free Library",
+"city": "San Rafael",
+"county": "Marin",
+"state": "CA"
+},
+{
+"id": "CA0192",
+"name": "Mariposa County Library",
+"city": "Mariposa",
+"county": "Mariposa",
+"state": "CA"
+},
+{
+"id": "CA0066",
+"name": "Mendocino County Library",
+"city": "Ukiah",
+"county": "Mendocino",
+"state": "CA"
+},
+{
+"id": "CA0067",
+"name": "Menlo Park Public Library",
+"city": "Menlo Park",
+"county": "San Mateo",
+"state": "CA"
+},
+{
+"id": "CA0068",
+"name": "Merced County Library",
+"city": "Merced",
+"county": "Merced",
+"state": "CA"
+},
+{
+"id": "CA0069",
+"name": "Mill Valley Public Library",
+"city": "Mill Valley",
+"county": "Marin",
+"state": "CA"
+},
+{
+"id": "CA0198",
+"name": "Mission Viejo Library",
+"city": "Mission Viejo",
+"county": "Orange",
+"state": "CA"
+},
+{
+"id": "CA0071",
+"name": "Mono County Free Library",
+"city": "Mammoth Lakes",
+"county": "Mono",
+"state": "CA"
+},
+{
+"id": "CA0072",
+"name": "Monrovia Public Library",
+"city": "Monrovia",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0073",
+"name": "Monterey County Free Libraries",
+"city": "Marina",
+"county": "Monterey",
+"state": "CA"
+},
+{
+"id": "CA0075",
+"name": "Monterey Park Bruggemeyer Library",
+"city": "Monterey Park",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0074",
+"name": "Monterey Public Library",
+"city": "Monterey",
+"county": "Monterey",
+"state": "CA"
+},
+{
+"id": "CA0208",
+"name": "Moorpark City Library",
+"city": "Moorpark",
+"county": "Ventura",
+"state": "CA"
+},
+{
+"id": "CA0200",
+"name": "Moreno Valley Public Library",
+"city": "Moreno Valley",
+"county": "Riverside",
+"state": "CA"
+},
+{
+"id": "CA0076",
+"name": "Mountain View Public Library",
+"city": "Mountain View",
+"county": "Santa Clara",
+"state": "CA"
+},
+{
+"id": "CA0202",
+"name": "Murrieta Public Library",
+"city": "Murrieta",
+"county": "Riverside",
+"state": "CA"
+},
+{
+"id": "CA0077",
+"name": "Napa County Library",
+"city": "Napa",
+"county": "Napa",
+"state": "CA"
+},
+{
+"id": "CA0078",
+"name": "National City Public Library",
+"city": "National City",
+"county": "San Diego",
+"state": "CA"
+},
+{
+"id": "CA0079",
+"name": "Nevada County Library",
+"city": "Nevada City",
+"county": "Nevada",
+"state": "CA"
+},
+{
+"id": "CA0080",
+"name": "Newport Beach Public Library",
+"city": "Newport Beach",
+"county": "Orange",
+"state": "CA"
+},
+{
+"id": "CA0081",
+"name": "Oakland Public Library",
+"city": "Oakland",
+"county": "Alameda",
+"state": "CA"
+},
+{
+"id": "CA0082",
+"name": "Oceanside Public Library",
+"city": "Oceanside",
+"county": "San Diego",
+"state": "CA"
+},
+{
+"id": "CA0083",
+"name": "Ontario City Library",
+"city": "Ontario",
+"county": "San Bernardino",
+"state": "CA"
+},
+{
+"id": "CA0084",
+"name": "Orange County Public Libraries",
+"city": "Santa Ana",
+"county": "Orange",
+"state": "CA"
+},
+{
+"id": "CA0085",
+"name": "Orange Public Library",
+"city": "Orange",
+"county": "Orange",
+"state": "CA"
+},
+{
+"id": "CA0086",
+"name": "Orland Free Library",
+"city": "Orland",
+"county": "Glenn",
+"state": "CA"
+},
+{
+"id": "CA0087",
+"name": "Oxnard Public Library",
+"city": "Oxnard",
+"county": "Ventura",
+"state": "CA"
+},
+{
+"id": "CA0088",
+"name": "Pacific Grove Public Library",
+"city": "Pacific Grove",
+"county": "Monterey",
+"state": "CA"
+},
+{
+"id": "CA0090",
+"name": "Palm Springs Public Library",
+"city": "Palm Springs",
+"county": "Riverside",
+"state": "CA"
+},
+{
+"id": "CA0089",
+"name": "Palmdale City Library",
+"city": "Palmdale",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0091",
+"name": "Palo Alto City Library",
+"city": "Palo Alto",
+"county": "Santa Clara",
+"state": "CA"
+},
+{
+"id": "CA0093",
+"name": "Palo Verde Valley Library District",
+"city": "Blythe",
+"county": "Riverside",
+"state": "CA"
+},
+{
+"id": "CA0092",
+"name": "Palos Verdes Library District",
+"city": "Rolling Hills Estate",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0094",
+"name": "Pasadena Public Library",
+"city": "Pasadena",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0095",
+"name": "Paso Robles City Library",
+"city": "Paso Robles",
+"county": "San Luis Obispo",
+"state": "CA"
+},
+{
+"id": "CA0096",
+"name": "Placentia Library District",
+"city": "Placentia",
+"county": "Orange",
+"state": "CA"
+},
+{
+"id": "CA0009",
+"name": "Placer County Library",
+"city": "Auburn",
+"county": "Placer",
+"state": "CA"
+},
+{
+"id": "CA0206",
+"name": "Pleasanton Public Library",
+"city": "Pleasanton",
+"county": "Alameda",
+"state": "CA"
+},
+{
+"id": "CA0097",
+"name": "Plumas County Library",
+"city": "Quincy",
+"county": "Plumas",
+"state": "CA"
+}
+]

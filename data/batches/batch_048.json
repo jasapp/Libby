@@ -1,0 +1,352 @@
+[
+{
+"id": "NY0231",
+"name": "Lagrange Association Library",
+"city": "Lagrangeville",
+"county": "Dutchess",
+"state": "NY"
+},
+{
+"id": "NY0021",
+"name": "Lancaster Public Library",
+"city": "Lancaster",
+"county": "Erie",
+"state": "NY"
+},
+{
+"id": "NY0740",
+"name": "Larchmont Public Library",
+"city": "Larchmont",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0410",
+"name": "Lee-Whedon Memorial Library",
+"city": "Medina",
+"county": "Orleans",
+"state": "NY"
+},
+{
+"id": "NY0357",
+"name": "Levittown Public Library",
+"city": "Levittown",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0757",
+"name": "Lewisboro Library",
+"city": "South Salem",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0397",
+"name": "Lewiston Public Library",
+"city": "Lewiston",
+"county": "Niagara",
+"state": "NY"
+},
+{
+"id": "NY0604",
+"name": "Liberty Public Library",
+"city": "Liberty",
+"county": "Sullivan",
+"state": "NY"
+},
+{
+"id": "NY0672",
+"name": "Lindenhurst Memorial Library",
+"city": "Lindenhurst",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0488",
+"name": "Liverpool Public Library",
+"city": "Liverpool",
+"county": "Onondaga",
+"state": "NY"
+},
+{
+"id": "NY0398",
+"name": "Lockport Public Library",
+"city": "Lockport",
+"county": "Niagara",
+"state": "NY"
+},
+{
+"id": "NY0359",
+"name": "Long Beach Public Library",
+"city": "Long Beach",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0674",
+"name": "Longwood Public Library",
+"city": "Middle Island",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0360",
+"name": "Lynbrook Public Library",
+"city": "Lynbrook",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0781",
+"name": "Mahopac Public Library",
+"city": "Mahopac",
+"county": "Putnam",
+"state": "NY"
+},
+{
+"id": "NY0599",
+"name": "Mamakating Library",
+"city": "Wurtsboro",
+"county": "Sullivan",
+"state": "NY"
+},
+{
+"id": "NY0741",
+"name": "Mamaroneck Public Library District",
+"city": "Mamaroneck",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0362",
+"name": "Manhasset Public Library",
+"city": "Manhasset",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0489",
+"name": "Manlius Library",
+"city": "Manlius",
+"county": "Onondaga",
+"state": "NY"
+},
+{
+"id": "NY0260",
+"name": "Marlboro Free Library",
+"city": "Marlboro",
+"county": "Ulster",
+"state": "NY"
+},
+{
+"id": "NY0363",
+"name": "Massapequa Public Library",
+"city": "Massapequa Park",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0467",
+"name": "Massena Public Library",
+"city": "Massena",
+"county": "St. Lawrence",
+"state": "NY"
+},
+{
+"id": "NY0687",
+"name": "Mastics-Moriches-Shirley Community Lib",
+"city": "Shirley",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0479",
+"name": "Maxwell Memorial Library",
+"city": "Camillus",
+"county": "Onondaga",
+"state": "NY"
+},
+{
+"id": "NY0618",
+"name": "Mechanicville District Public Library",
+"city": "Mechanicville",
+"county": "Saratoga",
+"state": "NY"
+},
+{
+"id": "NY0364",
+"name": "Merrick Library",
+"city": "Merrick",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0654",
+"name": "Middle Country Public Library",
+"city": "Centereach",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0365",
+"name": "Mineola Memorial Library",
+"city": "Mineola",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0581",
+"name": "Moffat Library Of Washingtonville",
+"city": "Washingtonville",
+"county": "Orange",
+"state": "NY"
+},
+{
+"id": "NY0573",
+"name": "Monroe Free Library",
+"city": "Monroe",
+"county": "Orange",
+"state": "NY"
+},
+{
+"id": "NY0743",
+"name": "Mount Kisco Public Library",
+"city": "Mount Kisco",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0750",
+"name": "Mount Pleasant Public Library",
+"city": "Pleasantville",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0584",
+"name": "Nanuet Public Library",
+"city": "Nanuet",
+"county": "Rockland",
+"state": "NY"
+},
+{
+"id": "NY0585",
+"name": "New City Free Library",
+"city": "New City",
+"county": "Rockland",
+"state": "NY"
+},
+{
+"id": "NY0303",
+"name": "New Hartford Public Library",
+"city": "New Hartford",
+"county": "Oneida",
+"state": "NY"
+},
+{
+"id": "NY0745",
+"name": "New Rochelle Public Library",
+"city": "New Rochelle",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0778",
+"name": "New York Public Library, The Branch Libraries",
+"city": "New York",
+"county": "New York",
+"state": "NY"
+},
+{
+"id": "NY0543",
+"name": "Newark Public Library",
+"city": "Newark",
+"county": "Wayne",
+"state": "NY"
+},
+{
+"id": "NY0575",
+"name": "Newburgh Free Library",
+"city": "Newburgh",
+"county": "Orange",
+"state": "NY"
+},
+{
+"id": "NY0400",
+"name": "Newfane Public Library",
+"city": "Newfane",
+"county": "Niagara",
+"state": "NY"
+},
+{
+"id": "NY0401",
+"name": "Niagara Falls Public Library",
+"city": "Niagara Falls",
+"county": "Niagara",
+"state": "NY"
+},
+{
+"id": "NY0676",
+"name": "North Babylon Public Library",
+"city": "North Babylon",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0368",
+"name": "North Bellmore Public Library",
+"city": "North Bellmore",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0726",
+"name": "North Castle Public Library",
+"city": "Armonk",
+"county": "Westchester",
+"state": "NY"
+},
+{
+"id": "NY0723",
+"name": "North Greenbush Public Library",
+"city": "Wynantskill",
+"county": "Rensselaer",
+"state": "NY"
+},
+{
+"id": "NY0369",
+"name": "North Merrick Public Library",
+"city": "North Merrick",
+"county": "Nassau",
+"state": "NY"
+},
+{
+"id": "NY0688",
+"name": "North Shore Public Library District",
+"city": "Shoreham",
+"county": "Suffolk",
+"state": "NY"
+},
+{
+"id": "NY0402",
+"name": "North Tonawanda Public Library",
+"city": "North Tonawanda",
+"county": "Niagara",
+"state": "NY"
+},
+{
+"id": "NY0784",
+"name": "Northern Onondaga Public Library",
+"city": "Cicero",
+"county": "Onondaga",
+"state": "NY"
+},
+{
+"id": "NY0677",
+"name": "Northport Public Library",
+"city": "Northport",
+"county": "Suffolk",
+"state": "NY"
+}
+]

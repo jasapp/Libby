@@ -1,0 +1,352 @@
+[
+{
+"id": "OR0119",
+"name": "Corvallis-Benton County Public Library",
+"city": "Corvallis",
+"county": "Benton",
+"state": "OR"
+},
+{
+"id": "OR0120",
+"name": "Cottage Grove Public Library",
+"city": "Cottage Grove",
+"county": "Lane",
+"state": "OR"
+},
+{
+"id": "OR0065",
+"name": "Crook County Library",
+"city": "Prineville",
+"county": "Crook",
+"state": "OR"
+},
+{
+"id": "OR0121",
+"name": "Dallas Public Library",
+"city": "Dallas",
+"county": "Polk",
+"state": "OR"
+},
+{
+"id": "OR0091",
+"name": "Deschutes Public Library District",
+"city": "Bend",
+"county": "Deschutes",
+"state": "OR"
+},
+{
+"id": "OR0034",
+"name": "Driftwood Public Library",
+"city": "Lincoln City",
+"county": "Lincoln",
+"state": "OR"
+},
+{
+"id": "OR0004",
+"name": "Estacada Public Library",
+"city": "Estacada",
+"county": "Clackamas",
+"state": "OR"
+},
+{
+"id": "OR0005",
+"name": "Eugene Public Library",
+"city": "Eugene",
+"county": "Lane",
+"state": "OR"
+},
+{
+"id": "OR0028",
+"name": "F. Maxine And Thomas W. Cook Memorial Library",
+"city": "La Grande",
+"county": "Union",
+"state": "OR"
+},
+{
+"id": "OR0095",
+"name": "Fern Ridge Library District",
+"city": "Veneta",
+"county": "Lane",
+"state": "OR"
+},
+{
+"id": "OR0009",
+"name": "Forest Grove City Library",
+"city": "Forest Grove",
+"county": "Washington",
+"state": "OR"
+},
+{
+"id": "OR0011",
+"name": "Gladstone Public Library",
+"city": "Gladstone",
+"county": "Clackamas",
+"state": "OR"
+},
+{
+"id": "OR9008",
+"name": "Happy Valley Public Library",
+"city": "Happy Valley",
+"county": "Clackamas",
+"state": "OR"
+},
+{
+"id": "OR0018",
+"name": "Hermiston Public Library",
+"city": "Hermiston",
+"county": "Umatilla",
+"state": "OR"
+},
+{
+"id": "OR0019",
+"name": "Hillsboro Public Library",
+"city": "Hillsboro",
+"county": "Washington",
+"state": "OR"
+},
+{
+"id": "OR0144",
+"name": "Hood River County Library District",
+"city": "Hood River",
+"county": "Hood River",
+"state": "OR"
+},
+{
+"id": "OR0021",
+"name": "Independence Public Library",
+"city": "Independence",
+"county": "Polk",
+"state": "OR"
+},
+{
+"id": "OR0041",
+"name": "Jackson County Library Services",
+"city": "Medford",
+"county": "Jackson",
+"state": "OR"
+},
+{
+"id": "OR0037",
+"name": "Jefferson County Library District",
+"city": "Madras",
+"county": "Jefferson",
+"state": "OR"
+},
+{
+"id": "OR0014",
+"name": "Josephine Community Library District",
+"city": "Grants Pass",
+"county": "Josephine",
+"state": "OR"
+},
+{
+"id": "OR0027",
+"name": "Klamath County Library Service District",
+"city": "Klamath Falls",
+"county": "Klamath",
+"state": "OR"
+},
+{
+"id": "OR0029",
+"name": "Lake Oswego Public Library",
+"city": "Lake Oswego",
+"county": "Clackamas",
+"state": "OR"
+},
+{
+"id": "OR0140",
+"name": "Lane Library District",
+"city": "Creswell",
+"county": "Lane",
+"state": "OR"
+},
+{
+"id": "OR0033",
+"name": "Lebanon Public Library",
+"city": "Lebanon",
+"county": "Linn",
+"state": "OR"
+},
+{
+"id": "OR0043",
+"name": "Ledding Library",
+"city": "Milwaukie",
+"county": "Clackamas",
+"state": "OR"
+},
+{
+"id": "OR0039",
+"name": "Mcminnville Public Library",
+"city": "Mcminnville",
+"county": "Yamhill",
+"state": "OR"
+},
+{
+"id": "OR0044",
+"name": "Molalla Public Library",
+"city": "Molalla",
+"county": "Clackamas",
+"state": "OR"
+},
+{
+"id": "OR0045",
+"name": "Monmouth Public Library",
+"city": "Monmouth",
+"county": "Polk",
+"state": "OR"
+},
+{
+"id": "OR0063",
+"name": "Multnomah County Library",
+"city": "Portland",
+"county": "Multnomah",
+"state": "OR"
+},
+{
+"id": "OR0050",
+"name": "Newberg Public Library",
+"city": "Newberg",
+"county": "Yamhill",
+"state": "OR"
+},
+{
+"id": "OR0051",
+"name": "Newport Public Library",
+"city": "Newport",
+"county": "Lincoln",
+"state": "OR"
+},
+{
+"id": "OR0052",
+"name": "North Bend Public Library",
+"city": "North Bend",
+"county": "Coos",
+"state": "OR"
+},
+{
+"id": "OR0055",
+"name": "Ontario Library District",
+"city": "Ontario",
+"county": "Malheur",
+"state": "OR"
+},
+{
+"id": "OR0056",
+"name": "Oregon City Public Library",
+"city": "Oregon City",
+"county": "Clackamas",
+"state": "OR"
+},
+{
+"id": "OR0135",
+"name": "Oregon Trail Library District",
+"city": "Boardman",
+"county": "Morrow",
+"state": "OR"
+},
+{
+"id": "OR0059",
+"name": "Pendleton Public Library",
+"city": "Pendleton",
+"county": "Umatilla",
+"state": "OR"
+},
+{
+"id": "OR9014",
+"name": "Roseburg Public Library",
+"city": "Roseburg",
+"county": "Douglas",
+"state": "OR"
+},
+{
+"id": "OR0069",
+"name": "Salem Public Library",
+"city": "Salem",
+"county": "Marion",
+"state": "OR"
+},
+{
+"id": "OR0071",
+"name": "Sandy Public Library",
+"city": "Sandy",
+"county": "Clackamas",
+"state": "OR"
+},
+{
+"id": "OR0072",
+"name": "Scappoose Public Library District",
+"city": "Scappoose",
+"county": "Columbia",
+"state": "OR"
+},
+{
+"id": "OR0133",
+"name": "Sherwood Public Library",
+"city": "Sherwood",
+"county": "Washington",
+"state": "OR"
+},
+{
+"id": "OR0078",
+"name": "Silver Falls Library District",
+"city": "Silverton",
+"county": "Marion",
+"state": "OR"
+},
+{
+"id": "OR0008",
+"name": "Siuslaw Public Library District",
+"city": "Florence",
+"county": "Lane",
+"state": "OR"
+},
+{
+"id": "OR0079",
+"name": "Springfield Public Library",
+"city": "Springfield",
+"county": "Lane",
+"state": "OR"
+},
+{
+"id": "OR0081",
+"name": "St. Helens Public Library",
+"city": "St. Helens",
+"county": "Columbia",
+"state": "OR"
+},
+{
+"id": "OR0085",
+"name": "The Dalles-Wasco County Library",
+"city": "The Dalles",
+"county": "Wasco",
+"state": "OR"
+},
+{
+"id": "OR0086",
+"name": "Tigard Public Library",
+"city": "Tigard",
+"county": "Washington",
+"state": "OR"
+},
+{
+"id": "OR0087",
+"name": "Tillamook County Library",
+"city": "Tillamook",
+"county": "Tillamook",
+"state": "OR"
+},
+{
+"id": "OR0090",
+"name": "Tualatin Public Library",
+"city": "Tualatin",
+"county": "Washington",
+"state": "OR"
+},
+{
+"id": "OR0092",
+"name": "Umatilla Public Library",
+"city": "Umatilla",
+"county": "Umatilla",
+"state": "OR"
+}
+]

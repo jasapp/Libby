@@ -1,0 +1,352 @@
+[
+{
+"id": "MA0173",
+"name": "Maynard Public Library",
+"city": "Maynard",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0174",
+"name": "Medfield Memorial Library",
+"city": "Medfield",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0175",
+"name": "Medford Public Library",
+"city": "Medford",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0176",
+"name": "Medway Public Library",
+"city": "Medway",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0177",
+"name": "Melrose Public Library",
+"city": "Melrose",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0009",
+"name": "Memorial Hall Library",
+"city": "Andover",
+"county": "Essex",
+"state": "MA"
+},
+{
+"id": "MA0181",
+"name": "Middleborough Public Library",
+"city": "Middleborough",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0184",
+"name": "Milford Town Library",
+"city": "Milford",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0185",
+"name": "Millbury Public Library",
+"city": "Millbury",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0094",
+"name": "Millicent Library",
+"city": "Fairhaven",
+"county": "Bristol",
+"state": "MA"
+},
+{
+"id": "MA0188",
+"name": "Milton Public Library",
+"city": "Milton",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0217",
+"name": "Morrill Memorial Library",
+"city": "Norwood",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0196",
+"name": "Morse Institute Library",
+"city": "Natick",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0079",
+"name": "Moses Greeley Parker Memorial Lib.",
+"city": "Dracut",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0195",
+"name": "Nantucket Atheneum",
+"city": "Nantucket",
+"county": "Nantucket",
+"state": "MA"
+},
+{
+"id": "MA0197",
+"name": "Needham Free Public Library",
+"city": "Needham",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0180",
+"name": "Nevins Memorial Library",
+"city": "Methuen",
+"county": "Essex",
+"state": "MA"
+},
+{
+"id": "MA0198",
+"name": "New Bedford Free Public Library",
+"city": "New Bedford",
+"county": "Bristol",
+"state": "MA"
+},
+{
+"id": "MA0203",
+"name": "Newburyport Public Library",
+"city": "Newburyport",
+"county": "Essex",
+"state": "MA"
+},
+{
+"id": "MA0204",
+"name": "Newton Free Library",
+"city": "Newton",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0205",
+"name": "Norfolk Public Library",
+"city": "Norfolk",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0206",
+"name": "North Adams Public Library",
+"city": "North Adams",
+"county": "Berkshire",
+"state": "MA"
+},
+{
+"id": "MA0212",
+"name": "Northborough Free Library",
+"city": "Northborough",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0215",
+"name": "Norton Public Library",
+"city": "Norton",
+"county": "Bristol",
+"state": "MA"
+},
+{
+"id": "MA0216",
+"name": "Norwell Public Library",
+"city": "Norwell",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0223",
+"name": "Oxford Free Public Library",
+"city": "Oxford",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0224",
+"name": "Palmer Public Library",
+"city": "Palmer",
+"county": "Hampden",
+"state": "MA"
+},
+{
+"id": "MA0071",
+"name": "Peabody Institute Library",
+"city": "Danvers",
+"county": "Essex",
+"state": "MA"
+},
+{
+"id": "MA0226",
+"name": "Peabody Institute Library",
+"city": "Peabody",
+"county": "Essex",
+"state": "MA"
+},
+{
+"id": "MA0080",
+"name": "Pearle L. Crawford Memorial Library",
+"city": "Dudley",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0228",
+"name": "Pembroke Public Library",
+"city": "Pembroke",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0236",
+"name": "Plymouth Public Library",
+"city": "Plymouth",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0242",
+"name": "Raynham Public Library",
+"city": "Raynham",
+"county": "Bristol",
+"state": "MA"
+},
+{
+"id": "MA0243",
+"name": "Reading Public Library",
+"city": "Reading",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0157",
+"name": "Reuben Hoar Library",
+"city": "Littleton",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0245",
+"name": "Revere Public Library",
+"city": "Revere",
+"county": "Suffolk",
+"state": "MA"
+},
+{
+"id": "MA0158",
+"name": "Richard Salter Storrs Library",
+"city": "Longmeadow",
+"county": "Hampden",
+"state": "MA"
+},
+{
+"id": "MA0277",
+"name": "Richard Sugden Public Library",
+"city": "Spencer",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0208",
+"name": "Richards Memorial Library",
+"city": "North Attleborough",
+"county": "Bristol",
+"state": "MA"
+},
+{
+"id": "MA0010",
+"name": "Robbins Library",
+"city": "Arlington",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0248",
+"name": "Rockland Memorial Library",
+"city": "Rockland",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0255",
+"name": "Salem Public Library",
+"city": "Salem",
+"county": "Essex",
+"state": "MA"
+},
+{
+"id": "MA0159",
+"name": "Samuel S. Pollard Memorial Library",
+"city": "Lowell",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0258",
+"name": "Sandwich Free Public Library",
+"city": "Sandwich",
+"county": "Barnstable",
+"state": "MA"
+},
+{
+"id": "MA0259",
+"name": "Saugus Public Library",
+"city": "Saugus",
+"county": "Essex",
+"state": "MA"
+},
+{
+"id": "MA0261",
+"name": "Scituate Town Library",
+"city": "Scituate",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0262",
+"name": "Seekonk Public Library",
+"city": "Seekonk",
+"county": "Bristol",
+"state": "MA"
+},
+{
+"id": "MA0263",
+"name": "Sharon Public Library",
+"city": "Sharon",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0268",
+"name": "Shrewsbury Free Public Library",
+"city": "Shrewsbury",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0270",
+"name": "Somerset Public Library",
+"city": "Somerset",
+"county": "Bristol",
+"state": "MA"
+}
+]

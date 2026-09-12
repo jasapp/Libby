@@ -1,0 +1,352 @@
+[
+{
+"id": "IA0438",
+"name": "Glenwood Public Library",
+"city": "Glenwood",
+"county": "Mills",
+"state": "IA"
+},
+{
+"id": "IA0155",
+"name": "Grimes Public Library",
+"city": "Grimes",
+"county": "Polk",
+"state": "IA"
+},
+{
+"id": "IA0498",
+"name": "Harlan Community Library",
+"city": "Harlan",
+"county": "Shelby",
+"state": "IA"
+},
+{
+"id": "IA0458",
+"name": "Hiawatha Public Library",
+"city": "Hiawatha",
+"county": "Linn",
+"state": "IA"
+},
+{
+"id": "IA0340",
+"name": "Independence Public Library",
+"city": "Independence",
+"county": "Buchanan",
+"state": "IA"
+},
+{
+"id": "IA0378",
+"name": "Indianola Public Library",
+"city": "Indianola",
+"county": "Warren",
+"state": "IA"
+},
+{
+"id": "IA0052",
+"name": "Iowa City Public Library",
+"city": "Iowa City",
+"county": "Johnson",
+"state": "IA"
+},
+{
+"id": "IA0547",
+"name": "Johnston Public Library",
+"city": "Johnston",
+"county": "Polk",
+"state": "IA"
+},
+{
+"id": "IA0091",
+"name": "Kendall Young Library",
+"city": "Webster City",
+"county": "Hamilton",
+"state": "IA"
+},
+{
+"id": "IA0202",
+"name": "Keokuk Public Library",
+"city": "Keokuk",
+"county": "Lee",
+"state": "IA"
+},
+{
+"id": "IA0166",
+"name": "Knoxville Public Library",
+"city": "Knoxville",
+"county": "Marion",
+"state": "IA"
+},
+{
+"id": "IA0126",
+"name": "Le Mars Public Library",
+"city": "Le Mars",
+"county": "Plymouth",
+"state": "IA"
+},
+{
+"id": "IA0146",
+"name": "Manchester Public Library",
+"city": "Manchester",
+"county": "Delaware",
+"state": "IA"
+},
+{
+"id": "IA0359",
+"name": "Maquoketa Public Library",
+"city": "Maquoketa",
+"county": "Jackson",
+"state": "IA"
+},
+{
+"id": "IA0460",
+"name": "Marion Public Library",
+"city": "Marion",
+"county": "Linn",
+"state": "IA"
+},
+{
+"id": "IA0160",
+"name": "Marshalltown Public Library",
+"city": "Marshalltown",
+"county": "Marshall",
+"state": "IA"
+},
+{
+"id": "IA0076",
+"name": "Mason City Public Library",
+"city": "Mason City",
+"county": "Cerro Gordo",
+"state": "IA"
+},
+{
+"id": "IA0010",
+"name": "Matilda J. Gibson Memorial Library",
+"city": "Creston",
+"county": "Union",
+"state": "IA"
+},
+{
+"id": "IA0221",
+"name": "Mount Pleasant Public Library",
+"city": "Mount Pleasant",
+"county": "Henry",
+"state": "IA"
+},
+{
+"id": "IA0071",
+"name": "Musser Public Library",
+"city": "Muscatine",
+"county": "Muscatine",
+"state": "IA"
+},
+{
+"id": "IA0165",
+"name": "Newton Public Library",
+"city": "Newton",
+"county": "Jasper",
+"state": "IA"
+},
+{
+"id": "IA0481",
+"name": "Norelius Community Library",
+"city": "Denison",
+"county": "Crawford",
+"state": "IA"
+},
+{
+"id": "IA0075",
+"name": "North Liberty Community Library",
+"city": "North Liberty",
+"county": "Johnson",
+"state": "IA"
+},
+{
+"id": "IA0380",
+"name": "Norwalk Easter Public Library",
+"city": "Norwalk",
+"county": "Warren",
+"state": "IA"
+},
+{
+"id": "IA0024",
+"name": "Oskaloosa Public Library",
+"city": "Oskaloosa",
+"county": "Mahaska",
+"state": "IA"
+},
+{
+"id": "IA0002",
+"name": "Ottumwa Public Library",
+"city": "Ottumwa",
+"county": "Wapello",
+"state": "IA"
+},
+{
+"id": "IA0167",
+"name": "Pella Public Library",
+"city": "Pella",
+"county": "Marion",
+"state": "IA"
+},
+{
+"id": "IA0158",
+"name": "Pleasant Hill Public Library",
+"city": "Pleasant Hill",
+"county": "Polk",
+"state": "IA"
+},
+{
+"id": "IA0356",
+"name": "Scott County Library System",
+"city": "Eldridge",
+"county": "Scott",
+"state": "IA"
+},
+{
+"id": "IA0184",
+"name": "Sioux Center Public Library",
+"city": "Sioux Center",
+"county": "Sioux",
+"state": "IA"
+},
+{
+"id": "IA0225",
+"name": "Sioux City Public Library",
+"city": "Sioux City",
+"county": "Woodbury",
+"state": "IA"
+},
+{
+"id": "IA0423",
+"name": "Spencer Public Library",
+"city": "Spencer",
+"county": "Clay",
+"state": "IA"
+},
+{
+"id": "IA0428",
+"name": "Spirit Lake Public Library",
+"city": "Spirit Lake",
+"county": "Dickinson",
+"state": "IA"
+},
+{
+"id": "IA0414",
+"name": "Storm Lake Public Library",
+"city": "Storm Lake",
+"county": "Buena Vista",
+"state": "IA"
+},
+{
+"id": "IA0152",
+"name": "Urbandale Public Library",
+"city": "Urbandale",
+"county": "Polk",
+"state": "IA"
+},
+{
+"id": "IA0065",
+"name": "Washington Free Public Library",
+"city": "Washington",
+"county": "Washington",
+"state": "IA"
+},
+{
+"id": "IA0331",
+"name": "Waterloo Public Library",
+"city": "Waterloo",
+"county": "Black Hawk",
+"state": "IA"
+},
+{
+"id": "IA0036",
+"name": "Waukee Public Library",
+"city": "Waukee",
+"county": "Dallas",
+"state": "IA"
+},
+{
+"id": "IA0338",
+"name": "Waverly Public Library",
+"city": "Waverly",
+"county": "Bremer",
+"state": "IA"
+},
+{
+"id": "IA0153",
+"name": "West Des Moines Public Library",
+"city": "West Des Moines",
+"county": "Polk",
+"state": "IA"
+},
+{
+"id": "IA0040",
+"name": "Winterset Public Library",
+"city": "Winterset",
+"county": "Madison",
+"state": "IA"
+},
+{
+"id": "IA0229",
+"name": "Woodbury County Library",
+"city": "Moville",
+"county": "Woodbury",
+"state": "IA"
+},
+{
+"id": "ID0006",
+"name": "Ada County District",
+"city": "Boise",
+"county": "Ada",
+"state": "ID"
+},
+{
+"id": "ID0008",
+"name": "Blackfoot Public",
+"city": "Blackfoot",
+"county": "Bingham",
+"state": "ID"
+},
+{
+"id": "ID0005",
+"name": "Boise Public",
+"city": "Boise",
+"county": "Ada",
+"state": "ID"
+},
+{
+"id": "ID0010",
+"name": "Boundary County District",
+"city": "Bonners Ferry",
+"county": "Boundary",
+"state": "ID"
+},
+{
+"id": "ID0013",
+"name": "Burley Public",
+"city": "Burley",
+"county": "Cassia",
+"state": "ID"
+},
+{
+"id": "ID0015",
+"name": "Caldwell Public",
+"city": "Caldwell",
+"county": "Canyon",
+"state": "ID"
+},
+{
+"id": "ID0014",
+"name": "Coeur D`Alene Public",
+"city": "Coeur D`Alene",
+"county": "Kootenai",
+"state": "ID"
+},
+{
+"id": "ID0120",
+"name": "Community Library Network",
+"city": "Post Falls",
+"county": "Kootenai",
+"state": "ID"
+}
+]

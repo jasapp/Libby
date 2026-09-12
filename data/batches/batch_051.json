@@ -1,0 +1,352 @@
+[
+{
+"id": "OH0012",
+"name": "Ashtabula County District Library",
+"city": "Ashtabula",
+"county": "Ashtabula",
+"state": "OH"
+},
+{
+"id": "OH0156",
+"name": "Athens County Public Libraries",
+"city": "Nelsonville",
+"county": "Athens",
+"state": "OH"
+},
+{
+"id": "OH0225",
+"name": "Auglaize County Public District Library",
+"city": "Wapakoneta",
+"county": "Auglaize",
+"state": "OH"
+},
+{
+"id": "OH0015",
+"name": "Avon Lake Public Library",
+"city": "Avon Lake",
+"county": "Lorain",
+"state": "OH"
+},
+{
+"id": "OH0016",
+"name": "Barberton Public Library",
+"city": "Barberton",
+"county": "Summit",
+"state": "OH"
+},
+{
+"id": "OH0020",
+"name": "Belle Center Free Public Library",
+"city": "Belle Center",
+"county": "Logan",
+"state": "OH"
+},
+{
+"id": "OH0022",
+"name": "Bellevue Public Library",
+"city": "Bellevue",
+"county": "Huron",
+"state": "OH"
+},
+{
+"id": "OH0133",
+"name": "Belmont County District Library",
+"city": "Martins Ferry",
+"county": "Belmont",
+"state": "OH"
+},
+{
+"id": "OH0024",
+"name": "Bexley Public Library",
+"city": "Bexley",
+"county": "Franklin",
+"state": "OH"
+},
+{
+"id": "OH0086",
+"name": "Birchard Public Library Of Sandusky County",
+"city": "Fremont",
+"county": "Sandusky",
+"state": "OH"
+},
+{
+"id": "OH0107",
+"name": "Briggs Lawrence County Public Library",
+"city": "Ironton",
+"county": "Lawrence",
+"state": "OH"
+},
+{
+"id": "OH0090",
+"name": "Brown County Public Library",
+"city": "Georgetown",
+"county": "Brown",
+"state": "OH"
+},
+{
+"id": "OH0221",
+"name": "Brumback Library",
+"city": "Van Wert",
+"county": "Van Wert",
+"state": "OH"
+},
+{
+"id": "OH0033",
+"name": "Bucyrus Public Library",
+"city": "Bucyrus",
+"county": "Crawford",
+"state": "OH"
+},
+{
+"id": "OH0038",
+"name": "Canal Fulton Public Library",
+"city": "Canal Fulton",
+"county": "Stark",
+"state": "OH"
+},
+{
+"id": "OH0227",
+"name": "Carnegie Public Library",
+"city": "Washington Ch",
+"county": "Fayette",
+"state": "OH"
+},
+{
+"id": "OH0042",
+"name": "Carroll County District Library",
+"city": "Carrollton",
+"county": "Carroll",
+"state": "OH"
+},
+{
+"id": "OH0220",
+"name": "Champaign County Library",
+"city": "Urbana",
+"county": "Champaign",
+"state": "OH"
+},
+{
+"id": "OH0048",
+"name": "Chillicothe And Ross County Public Library",
+"city": "Chillicothe",
+"county": "Ross",
+"state": "OH"
+},
+{
+"id": "OH0049",
+"name": "Cincinnati And Hamilton County Public Library",
+"city": "Cincinnati",
+"county": "Hamilton",
+"state": "OH"
+},
+{
+"id": "OH0204",
+"name": "Clark County Public Library",
+"city": "Springfield",
+"county": "Clark",
+"state": "OH"
+},
+{
+"id": "OH0068",
+"name": "Claymont School District Public Library",
+"city": "Uhrichsville",
+"county": "Tuscarawas",
+"state": "OH"
+},
+{
+"id": "OH0018",
+"name": "Clermont County Public Library",
+"city": "Milford",
+"county": "Clermont",
+"state": "OH"
+},
+{
+"id": "OH0053",
+"name": "Cleveland Heights-University Heights Pl",
+"city": "Cleveland Hts.",
+"county": "Cuyahoga",
+"state": "OH"
+},
+{
+"id": "OH0051",
+"name": "Cleveland Public Library",
+"city": "Cleveland",
+"county": "Cuyahoga",
+"state": "OH"
+},
+{
+"id": "OH0054",
+"name": "Clyde Public Library",
+"city": "Clyde",
+"county": "Sandusky",
+"state": "OH"
+},
+{
+"id": "OH0057",
+"name": "Columbus Metropolitan Library",
+"city": "Columbus",
+"county": "Franklin",
+"state": "OH"
+},
+{
+"id": "OH0210",
+"name": "Community Library",
+"city": "Sunbury",
+"county": "Delaware",
+"state": "OH"
+},
+{
+"id": "OH0058",
+"name": "Conneaut Public Library",
+"city": "Conneaut",
+"county": "Ashtabula",
+"state": "OH"
+},
+{
+"id": "OH0059",
+"name": "Coshocton County District Library",
+"city": "Coshocton",
+"county": "Coshocton",
+"state": "OH"
+},
+{
+"id": "OH0052",
+"name": "Cuyahoga County Public Library",
+"city": "Parma",
+"county": "Cuyahoga",
+"state": "OH"
+},
+{
+"id": "OH0062",
+"name": "Cuyahoga Falls Library",
+"city": "Cuyahoga Falls",
+"county": "Summit",
+"state": "OH"
+},
+{
+"id": "OH0063",
+"name": "Dayton Metro Library",
+"city": "Dayton",
+"county": "Montgomery",
+"state": "OH"
+},
+{
+"id": "OH0064",
+"name": "Defiance Public Library",
+"city": "Defiance",
+"county": "Defiance",
+"state": "OH"
+},
+{
+"id": "OH0065",
+"name": "Delaware County District Library",
+"city": "Delaware",
+"county": "Delaware",
+"state": "OH"
+},
+{
+"id": "OH0070",
+"name": "Dover Public Library",
+"city": "Dover",
+"county": "Tuscarawas",
+"state": "OH"
+},
+{
+"id": "OH0088",
+"name": "Dr. Samuel L. Bossard Memorial Library",
+"city": "Gallipolis",
+"county": "Gallia",
+"state": "OH"
+},
+{
+"id": "OH0072",
+"name": "East Cleveland Public Library",
+"city": "East Cleveland",
+"county": "Cuyahoga",
+"state": "OH"
+},
+{
+"id": "OH0224",
+"name": "Ella M. Everhard Public Library",
+"city": "Wadsworth",
+"county": "Medina",
+"state": "OH"
+},
+{
+"id": "OH0077",
+"name": "Elyria Public Library",
+"city": "Elyria",
+"county": "Lorain",
+"state": "OH"
+},
+{
+"id": "OH0078",
+"name": "Euclid Public Library",
+"city": "Euclid",
+"county": "Cuyahoga",
+"state": "OH"
+},
+{
+"id": "OH0116",
+"name": "Fairfield County District Library",
+"city": "Lancaster",
+"county": "Fairfield",
+"state": "OH"
+},
+{
+"id": "OH0081",
+"name": "Findlay Hancock Cnty Dist Public Library",
+"city": "Findlay",
+"county": "Hancock",
+"state": "OH"
+},
+{
+"id": "OH0085",
+"name": "Franklin Public Library",
+"city": "Franklin",
+"county": "Warren",
+"state": "OH"
+},
+{
+"id": "OH0087",
+"name": "Galion Public Library Association",
+"city": "Galion",
+"county": "Crawford",
+"state": "OH"
+},
+{
+"id": "OH0229",
+"name": "Garnet A. Wilson Pl Of Pike Co",
+"city": "Waverly",
+"county": "Pike",
+"state": "OH"
+},
+{
+"id": "OH0046",
+"name": "Geauga County Public Library",
+"city": "Chardon",
+"county": "Geauga",
+"state": "OH"
+},
+{
+"id": "OH0091",
+"name": "Germantown Public Library",
+"city": "Germantown",
+"county": "Montgomery",
+"state": "OH"
+},
+{
+"id": "OH0092",
+"name": "Girard Free Library",
+"city": "Girard",
+"county": "Trumbull",
+"state": "OH"
+},
+{
+"id": "OH0094",
+"name": "Grafton/Midview Public Library",
+"city": "Grafton",
+"county": "Lorain",
+"state": "OH"
+}
+]

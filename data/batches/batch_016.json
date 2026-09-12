@@ -1,0 +1,352 @@
+[
+{
+"id": "IL0083",
+"name": "Cary Area Public Library District",
+"city": "Cary",
+"county": "Mchenry",
+"state": "IL"
+},
+{
+"id": "IL0088",
+"name": "Centralia Regional Library District",
+"city": "Centralia",
+"county": "Marion",
+"state": "IL"
+},
+{
+"id": "IL0091",
+"name": "Champaign Public Library",
+"city": "Champaign",
+"county": "Champaign",
+"state": "IL"
+},
+{
+"id": "IL0092",
+"name": "Charleston Carnegie Public Library",
+"city": "Charleston",
+"county": "Coles",
+"state": "IL"
+},
+{
+"id": "IL0093",
+"name": "Chatham Area Public Library District",
+"city": "Chatham",
+"county": "Sangamon",
+"state": "IL"
+},
+{
+"id": "IL0096",
+"name": "Cherry Valley Public Library District",
+"city": "Cherry Valley",
+"county": "Winnebago",
+"state": "IL"
+},
+{
+"id": "IL0099",
+"name": "Chicago Heights Public Library",
+"city": "Chicago Heights",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0098",
+"name": "Chicago Public Library",
+"city": "Chicago",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0100",
+"name": "Chicago Ridge Public Library",
+"city": "Chicago Ridge",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0102",
+"name": "Chillicothe Public Library District",
+"city": "Chillicothe",
+"county": "Peoria",
+"state": "IL"
+},
+{
+"id": "IL0105",
+"name": "Cicero Public Library",
+"city": "Cicero",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0111",
+"name": "Coal City Public Library District",
+"city": "Coal City",
+"county": "Grundy",
+"state": "IL"
+},
+{
+"id": "IL0115",
+"name": "Columbia Public Library",
+"city": "Columbia",
+"county": "Monroe",
+"state": "IL"
+},
+{
+"id": "IL0116",
+"name": "Cook Memorial Public Library District",
+"city": "Libertyville",
+"county": "Lake",
+"state": "IL"
+},
+{
+"id": "IL0123",
+"name": "Crete Public Library District",
+"city": "Crete",
+"county": "Will",
+"state": "IL"
+},
+{
+"id": "IL0125",
+"name": "Crystal Lake Public Library",
+"city": "Crystal Lake",
+"county": "Mchenry",
+"state": "IL"
+},
+{
+"id": "IL0129",
+"name": "Danville Public Library",
+"city": "Danville",
+"county": "Vermilion",
+"state": "IL"
+},
+{
+"id": "IL0132",
+"name": "Decatur Public Library",
+"city": "Decatur",
+"county": "Macon",
+"state": "IL"
+},
+{
+"id": "IL0134",
+"name": "Deerfield Public Library",
+"city": "Deerfield",
+"county": "Lake",
+"state": "IL"
+},
+{
+"id": "IL0135",
+"name": "Dekalb Public Library",
+"city": "Dekalb",
+"county": "Dekalb",
+"state": "IL"
+},
+{
+"id": "IL0138",
+"name": "Des Plaines Public Library",
+"city": "Des Plaines",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0141",
+"name": "Dixon Public Library",
+"city": "Dixon",
+"county": "Lee",
+"state": "IL"
+},
+{
+"id": "IL0143",
+"name": "Dolton Public Library District",
+"city": "Dolton",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0145",
+"name": "Downers Grove Public Library",
+"city": "Downers Grove",
+"county": "Dupage",
+"state": "IL"
+},
+{
+"id": "IL0153",
+"name": "East Moline Public Library",
+"city": "East Moline",
+"county": "Rock Island",
+"state": "IL"
+},
+{
+"id": "IL0154",
+"name": "East Saint Louis Public Library",
+"city": "East Saint Louis",
+"county": "St. Clair",
+"state": "IL"
+},
+{
+"id": "IL0155",
+"name": "Edwardsville Public Library",
+"city": "Edwardsville",
+"county": "Madison",
+"state": "IL"
+},
+{
+"id": "IL0156",
+"name": "Effingham Public Library",
+"city": "Effingham",
+"county": "Effingham",
+"state": "IL"
+},
+{
+"id": "IL0157",
+"name": "Eisenhower Public Library District",
+"city": "Harwood Heights",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0158",
+"name": "Ela Area Public Library District",
+"city": "Lake Zurich",
+"county": "Lake",
+"state": "IL"
+},
+{
+"id": "IL0162",
+"name": "Elk Grove Village Public Library",
+"city": "Elk Grove Village",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0165",
+"name": "Ella Johnson Memorial Public Library District",
+"city": "Hampshire",
+"county": "Kane",
+"state": "IL"
+},
+{
+"id": "IL0166",
+"name": "Elmhurst Public Library",
+"city": "Elmhurst",
+"county": "Dupage",
+"state": "IL"
+},
+{
+"id": "IL0168",
+"name": "Elmwood Park Public Library",
+"city": "Elmwood Park",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0542",
+"name": "Evans Public Library District",
+"city": "Vandalia",
+"county": "Fayette",
+"state": "IL"
+},
+{
+"id": "IL0172",
+"name": "Evanston Public Library",
+"city": "Evanston",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0174",
+"name": "Evergreen Park Public Library",
+"city": "Evergreen Park",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0178",
+"name": "Fairview Heights Public Library",
+"city": "Fairview Heights",
+"county": "St. Clair",
+"state": "IL"
+},
+{
+"id": "IL0458",
+"name": "Flagg-Rochelle Public Library District",
+"city": "Rochelle",
+"county": "Ogle",
+"state": "IL"
+},
+{
+"id": "IL0183",
+"name": "Fondulac Public Library District",
+"city": "East Peoria",
+"county": "Tazewell",
+"state": "IL"
+},
+{
+"id": "IL0184",
+"name": "Forest Park Public Library",
+"city": "Forest Park",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0188",
+"name": "Fossil Ridge Public Library District",
+"city": "Braidwood",
+"county": "Will",
+"state": "IL"
+},
+{
+"id": "IL0189",
+"name": "Fountaindale Public Library District",
+"city": "Bolingbrook",
+"county": "Will",
+"state": "IL"
+},
+{
+"id": "IL0190",
+"name": "Fox Lake Public Library District",
+"city": "Fox Lake",
+"county": "Lake",
+"state": "IL"
+},
+{
+"id": "IL0146",
+"name": "Fox River Valley Public Library District",
+"city": "East Dundee",
+"county": "Kane",
+"state": "IL"
+},
+{
+"id": "IL0192",
+"name": "Frankfort Public Library District",
+"city": "Frankfort",
+"county": "Will",
+"state": "IL"
+},
+{
+"id": "IL0194",
+"name": "Franklin Park Public Library District",
+"city": "Franklin Park",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0195",
+"name": "Freeport Public Library",
+"city": "Freeport",
+"county": "Stephenson",
+"state": "IL"
+},
+{
+"id": "IL0196",
+"name": "Fremont Public Library District",
+"city": "Mundelein",
+"county": "Lake",
+"state": "IL"
+},
+{
+"id": "IL0197",
+"name": "Gail Borden Public Library District",
+"city": "Elgin",
+"county": "Kane",
+"state": "IL"
+}
+]

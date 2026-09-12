@@ -1,0 +1,352 @@
+[
+{
+"id": "FL0091",
+"name": "St. Johns County Public Library System",
+"city": "St. Augustine",
+"county": "St. Johns",
+"state": "FL"
+},
+{
+"id": "FL0092",
+"name": "St. Lucie County Library System",
+"city": "Fort Pierce",
+"county": "St. Lucie",
+"state": "FL"
+},
+{
+"id": "FL0146",
+"name": "Sumter County Library System",
+"city": "Wildwood",
+"county": "Sumter",
+"state": "FL"
+},
+{
+"id": "FL0007",
+"name": "Suwannee River Regional Library System",
+"city": "Live Oak",
+"county": "Suwannee",
+"state": "FL"
+},
+{
+"id": "FL0147",
+"name": "Three Rivers Regional Library System",
+"city": "Mayo",
+"county": "Lafayette",
+"state": "FL"
+},
+{
+"id": "FL0099",
+"name": "Volusia County Public Library",
+"city": "Daytona Beach",
+"county": "Volusia",
+"state": "FL"
+},
+{
+"id": "FL0101",
+"name": "Walton County Public Library System",
+"city": "Defuniak Springs",
+"county": "Walton",
+"state": "FL"
+},
+{
+"id": "FL8009",
+"name": "Washington County Public Library",
+"city": "Chipley",
+"county": "Washington",
+"state": "FL"
+},
+{
+"id": "FL0008",
+"name": "West Florida Public Libraries",
+"city": "Pensacola",
+"county": "Escambia",
+"state": "FL"
+},
+{
+"id": "FL0135",
+"name": "Wilderness Coast Public Libraries",
+"city": "Monticello",
+"county": "Jefferson",
+"state": "FL"
+},
+{
+"id": "FL0054",
+"name": "Winter Park Public Library",
+"city": "Winter Park",
+"county": "Orange",
+"state": "FL"
+},
+{
+"id": "GA0011",
+"name": "Athens Regional Library System",
+"city": "Athens",
+"county": "Clarke",
+"state": "GA"
+},
+{
+"id": "GA0039",
+"name": "Augusta-Richmond County Public Library System",
+"city": "Augusta",
+"county": "Richmond",
+"state": "GA"
+},
+{
+"id": "GA0035",
+"name": "Azalea Regional Library System",
+"city": "Madison",
+"county": "Morgan",
+"state": "GA"
+},
+{
+"id": "GA0002",
+"name": "Bartow County Library System",
+"city": "Cartersville",
+"county": "Bartow",
+"state": "GA"
+},
+{
+"id": "GA0051",
+"name": "Bartram Trail Regional Library System",
+"city": "Washington",
+"county": "Wilkes",
+"state": "GA"
+},
+{
+"id": "GA0005",
+"name": "Brooks County Public Library",
+"city": "Quitman",
+"county": "Brooks",
+"state": "GA"
+},
+{
+"id": "GA0064",
+"name": "Catoosa County Library",
+"city": "Ringgold",
+"county": "Catoosa",
+"state": "GA"
+},
+{
+"id": "GA0036",
+"name": "Chattahoochee Valley Libraries",
+"city": "Columbus",
+"county": "Muscogee",
+"state": "GA"
+},
+{
+"id": "GA0049",
+"name": "Cherokee Regional Library System",
+"city": "Lafayette",
+"county": "Walker",
+"state": "GA"
+},
+{
+"id": "GA0027",
+"name": "Chestatee Regional Library System",
+"city": "Dahlonega",
+"county": "Lumpkin",
+"state": "GA"
+},
+{
+"id": "GA0012",
+"name": "Clayton County Library System",
+"city": "Jonesboro",
+"county": "Clayton",
+"state": "GA"
+},
+{
+"id": "GA0046",
+"name": "Coastal Plain Regional Library",
+"city": "Tifton",
+"county": "Tift",
+"state": "GA"
+},
+{
+"id": "GA0013",
+"name": "Cobb County Public Library System",
+"city": "Marietta",
+"county": "Cobb",
+"state": "GA"
+},
+{
+"id": "GA0040",
+"name": "Conyers-Rockdale Library System",
+"city": "Conyers",
+"county": "Rockdale",
+"state": "GA"
+},
+{
+"id": "GA0063",
+"name": "Coweta County Public Library System",
+"city": "Newnan",
+"county": "Coweta",
+"state": "GA"
+},
+{
+"id": "GA0034",
+"name": "De Soto Trail Regional Library System",
+"city": "Camilla",
+"county": "Mitchell",
+"state": "GA"
+},
+{
+"id": "GA0017",
+"name": "Dekalb County Public Library",
+"city": "Decatur",
+"county": "Dekalb",
+"state": "GA"
+},
+{
+"id": "GA0019",
+"name": "Dougherty County Public Library",
+"city": "Albany",
+"county": "Dougherty",
+"state": "GA"
+},
+{
+"id": "GA0020",
+"name": "Elbert County Public Library System",
+"city": "Elberton",
+"county": "Elbert",
+"state": "GA"
+},
+{
+"id": "GA0042",
+"name": "Flint River Regional Library System",
+"city": "Griffin",
+"county": "Spalding",
+"state": "GA"
+},
+{
+"id": "GA0058",
+"name": "Forsyth County Public Library",
+"city": "Cumming",
+"county": "Forsyth",
+"state": "GA"
+},
+{
+"id": "GA0022",
+"name": "Fulton County Library System",
+"city": "Atlanta",
+"county": "Fulton",
+"state": "GA"
+},
+{
+"id": "GA0066",
+"name": "Greater Clarks Hill Regional Library",
+"city": "Evans",
+"county": "Columbia",
+"state": "GA"
+},
+{
+"id": "GA0025",
+"name": "Gwinnett County Public Library System",
+"city": "Lawrenceville",
+"county": "Gwinnett",
+"state": "GA"
+},
+{
+"id": "GA0060",
+"name": "Hall County Library System",
+"city": "Gainesville",
+"county": "Hall",
+"state": "GA"
+},
+{
+"id": "GA0028",
+"name": "Hart County Library System",
+"city": "Hartwell",
+"county": "Hart",
+"state": "GA"
+},
+{
+"id": "GA0054",
+"name": "Henry County Library System",
+"city": "Mcdonough",
+"county": "Henry",
+"state": "GA"
+},
+{
+"id": "GA0029",
+"name": "Houston County Public Library",
+"city": "Perry",
+"county": "Houston",
+"state": "GA"
+},
+{
+"id": "GA0030",
+"name": "Jefferson County Library System",
+"city": "Louisville",
+"county": "Jefferson",
+"state": "GA"
+},
+{
+"id": "GA0044",
+"name": "Kinchafoonee Regional Library System",
+"city": "Dawson",
+"county": "Terrell",
+"state": "GA"
+},
+{
+"id": "GA0043",
+"name": "Lake Blackshear Regional Library System",
+"city": "Americus",
+"county": "Sumter",
+"state": "GA"
+},
+{
+"id": "GA0056",
+"name": "Lee County Public Library",
+"city": "Leesburg",
+"county": "Lee",
+"state": "GA"
+},
+{
+"id": "GA0008",
+"name": "Live Oak Public Libraries",
+"city": "Savannah",
+"county": "Chatham",
+"state": "GA"
+},
+{
+"id": "GA0067",
+"name": "Marshes Of Glynn Libraries",
+"city": "Brunswick",
+"county": "Glynn",
+"state": "GA"
+},
+{
+"id": "GA0004",
+"name": "Middle Georgia Regional Library System",
+"city": "Macon",
+"county": "Bibb",
+"state": "GA"
+},
+{
+"id": "GA0015",
+"name": "Moultrie-Colquitt County Library System",
+"city": "Moultrie",
+"county": "Colquitt",
+"state": "GA"
+},
+{
+"id": "GA0047",
+"name": "Mountain Regional Library System",
+"city": "Young Harris",
+"county": "Towns",
+"state": "GA"
+},
+{
+"id": "GA0037",
+"name": "Newton County Library System",
+"city": "Covington",
+"county": "Newton",
+"state": "GA"
+},
+{
+"id": "GA0026",
+"name": "Northeast Georgia Regional Library System",
+"city": "Clarkesville",
+"county": "Habersham",
+"state": "GA"
+}
+]

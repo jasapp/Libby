@@ -1,0 +1,352 @@
+[
+{
+"id": "MI0414",
+"name": "Alpena County Library",
+"city": "Alpena",
+"county": "Alpena",
+"state": "MI"
+},
+{
+"id": "MI0010",
+"name": "Alvah N. Belding Memorial Library",
+"city": "Belding",
+"county": "Ionia",
+"state": "MI"
+},
+{
+"id": "MI0012",
+"name": "Ann Arbor District Library",
+"city": "Ann Arbor",
+"county": "Washtenaw",
+"state": "MI"
+},
+{
+"id": "MI0015",
+"name": "Auburn Hills Public Library",
+"city": "Auburn Hills",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0017",
+"name": "Bacon Memorial District Library",
+"city": "Wyandotte",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0019",
+"name": "Baldwin Public Library",
+"city": "Birmingham",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI9026",
+"name": "Bath Township Public Library",
+"city": "Bath",
+"county": "Clinton",
+"state": "MI"
+},
+{
+"id": "MI0021",
+"name": "Bay County Library System",
+"city": "Bay City",
+"county": "Bay",
+"state": "MI"
+},
+{
+"id": "MI0430",
+"name": "Belleville Area District Library",
+"city": "Belleville",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0027",
+"name": "Benton Harbor Public Library",
+"city": "Benton Harbor",
+"county": "Berrien",
+"state": "MI"
+},
+{
+"id": "MI0030",
+"name": "Berkley Public Library",
+"city": "Berkley",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0035",
+"name": "Big Rapids Community Library",
+"city": "Big Rapids",
+"county": "Mecosta",
+"state": "MI"
+},
+{
+"id": "MI0036",
+"name": "Blair Memorial Library",
+"city": "Clawson",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0037",
+"name": "Bloomfield Township Public Library",
+"city": "Bloomfield Township",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0039",
+"name": "Branch District Library",
+"city": "Coldwater",
+"county": "Branch",
+"state": "MI"
+},
+{
+"id": "MI0040",
+"name": "Brandon Township Public Library",
+"city": "Ortonville",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0041",
+"name": "Bridgeport Public Library",
+"city": "Saginaw",
+"county": "Saginaw",
+"state": "MI"
+},
+{
+"id": "MI0026",
+"name": "Briggs District Library",
+"city": "Saint Johns",
+"county": "Clinton",
+"state": "MI"
+},
+{
+"id": "MI0043",
+"name": "Brighton District Library",
+"city": "Brighton",
+"county": "Livingston",
+"state": "MI"
+},
+{
+"id": "MI0045",
+"name": "Buchanan District Library",
+"city": "Buchanan",
+"county": "Berrien",
+"state": "MI"
+},
+{
+"id": "MI0049",
+"name": "Cadillac Wexford Public Library",
+"city": "Cadillac",
+"county": "Wexford",
+"state": "MI"
+},
+{
+"id": "MI0052",
+"name": "Canton Public Library",
+"city": "Canton",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0424",
+"name": "Capital Area District Library",
+"city": "Lansing",
+"county": "Ingham",
+"state": "MI"
+},
+{
+"id": "MI0168",
+"name": "Caro Area District Library",
+"city": "Caro",
+"county": "Tuscola",
+"state": "MI"
+},
+{
+"id": "MI0054",
+"name": "Carson City Public Library",
+"city": "Carson City",
+"county": "Montcalm",
+"state": "MI"
+},
+{
+"id": "MI0055",
+"name": "Cass District Library",
+"city": "Cassopolis",
+"county": "Cass",
+"state": "MI"
+},
+{
+"id": "MI0056",
+"name": "Cedar Springs Public Library",
+"city": "Cedar Springs",
+"county": "Kent",
+"state": "MI"
+},
+{
+"id": "MI0059",
+"name": "Charles A. Ransom District Library",
+"city": "Plainwell",
+"county": "Allegan",
+"state": "MI"
+},
+{
+"id": "MI0061",
+"name": "Charlotte Community Library",
+"city": "Charlotte",
+"county": "Eaton",
+"state": "MI"
+},
+{
+"id": "MI0063",
+"name": "Cheboygan Area Public Library",
+"city": "Cheboygan",
+"county": "Cheboygan",
+"state": "MI"
+},
+{
+"id": "MI0223",
+"name": "Chelsea District Library",
+"city": "Chelsea",
+"county": "Washtenaw",
+"state": "MI"
+},
+{
+"id": "MI0416",
+"name": "Chesterfield Township Library",
+"city": "Chesterfield",
+"county": "Macomb",
+"state": "MI"
+},
+{
+"id": "MI0348",
+"name": "Chippewa River District Library System",
+"city": "Mount Pleasant",
+"county": "Isabella",
+"state": "MI"
+},
+{
+"id": "MI0166",
+"name": "Clarkston Independence District Library",
+"city": "Clarkston",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0397",
+"name": "Clinton-Macomb Public Library",
+"city": "Clinton Township",
+"county": "Macomb",
+"state": "MI"
+},
+{
+"id": "MI0067",
+"name": "Coloma Public Library",
+"city": "Coloma",
+"county": "Berrien",
+"state": "MI"
+},
+{
+"id": "MI0426",
+"name": "Commerce Township Community Library",
+"city": "Commerce Township",
+"county": "Oakland",
+"state": "MI"
+},
+{
+"id": "MI0310",
+"name": "Community District Library",
+"city": "Corunna",
+"county": "Shiawassee",
+"state": "MI"
+},
+{
+"id": "MI0070",
+"name": "Comstock Township Library",
+"city": "Comstock",
+"county": "Kalamazoo",
+"state": "MI"
+},
+{
+"id": "MI0072",
+"name": "Coopersville Area District Library",
+"city": "Coopersville",
+"county": "Ottawa",
+"state": "MI"
+},
+{
+"id": "MI0074",
+"name": "Crawford County Library",
+"city": "Grayling",
+"county": "Crawford",
+"state": "MI"
+},
+{
+"id": "MI0075",
+"name": "Cromaine District Library",
+"city": "Hartland",
+"county": "Livingston",
+"state": "MI"
+},
+{
+"id": "MI0425",
+"name": "Dearborn Heights City Libraries",
+"city": "Dearborn Heights",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0078",
+"name": "Dearborn Public Library",
+"city": "Dearborn",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI9009",
+"name": "Delta Township District Library",
+"city": "Lansing",
+"county": "Eaton",
+"state": "MI"
+},
+{
+"id": "MI0083",
+"name": "Detroit Public Library",
+"city": "Detroit",
+"county": "Wayne",
+"state": "MI"
+},
+{
+"id": "MI0106",
+"name": "Dewitt District Library",
+"city": "Dewitt",
+"county": "Clinton",
+"state": "MI"
+},
+{
+"id": "MI0084",
+"name": "Dexter District Library",
+"city": "Dexter",
+"county": "Washtenaw",
+"state": "MI"
+},
+{
+"id": "MI0085",
+"name": "Dickinson County Library",
+"city": "Iron Mountain",
+"county": "Dickinson",
+"state": "MI"
+},
+{
+"id": "MI0087",
+"name": "Dowagiac District Library",
+"city": "Dowagiac",
+"county": "Cass",
+"state": "MI"
+}
+]

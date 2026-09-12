@@ -1,0 +1,352 @@
+[
+{
+"id": "MA0271",
+"name": "Somerville Public Library",
+"city": "Somerville",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0272",
+"name": "South Hadley Public Library",
+"city": "South Hadley",
+"county": "Hampshire",
+"state": "MA"
+},
+{
+"id": "MA0274",
+"name": "Southborough Public Library",
+"city": "Southborough",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0278",
+"name": "Springfield City Library",
+"city": "Springfield",
+"county": "Hampden",
+"state": "MA"
+},
+{
+"id": "MA0207",
+"name": "Stevens Memorial Library",
+"city": "North Andover",
+"county": "Essex",
+"state": "MA"
+},
+{
+"id": "MA0281",
+"name": "Stoneham Public Library",
+"city": "Stoneham",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0282",
+"name": "Stoughton Public Library",
+"city": "Stoughton",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0288",
+"name": "Swampscott Public Library",
+"city": "Swampscott",
+"county": "Essex",
+"state": "MA"
+},
+{
+"id": "MA0289",
+"name": "Swansea Free Public Library",
+"city": "Swansea",
+"county": "Bristol",
+"state": "MA"
+},
+{
+"id": "MA0290",
+"name": "Taunton Public Library",
+"city": "Taunton",
+"county": "Bristol",
+"state": "MA"
+},
+{
+"id": "MA0292",
+"name": "Tewksbury Public Library",
+"city": "Tewksbury",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0040",
+"name": "Thayer Public Library",
+"city": "Braintree",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0240",
+"name": "Thomas Crane Public Library",
+"city": "Quincy",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0241",
+"name": "Turner Free Library",
+"city": "Randolph",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0298",
+"name": "Tyngsborough Public Library",
+"city": "Tyngsborough",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0301",
+"name": "Uxbridge Free Public Library",
+"city": "Uxbridge",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0170",
+"name": "Ventress Memorial Library",
+"city": "Marshfield",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0304",
+"name": "Walpole Public Library",
+"city": "Walpole",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0305",
+"name": "Waltham Public Library",
+"city": "Waltham",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0307",
+"name": "Wareham Free Library",
+"city": "Wareham",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0310",
+"name": "Watertown Free Public Library",
+"city": "Watertown",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0311",
+"name": "Wayland Free Public Library",
+"city": "Wayland",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0313",
+"name": "Wellesley Free Library",
+"city": "Wellesley",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0321",
+"name": "West Springfield Public Library",
+"city": "West Springfield",
+"county": "Hampden",
+"state": "MA"
+},
+{
+"id": "MA0324",
+"name": "Westborough Public Library",
+"city": "Westborough",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0325",
+"name": "Westfield Athenaeum",
+"city": "Westfield",
+"county": "Hampden",
+"state": "MA"
+},
+{
+"id": "MA0329",
+"name": "Weston Public Library",
+"city": "Weston",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0330",
+"name": "Westport Free Public Library",
+"city": "Westport",
+"county": "Bristol",
+"state": "MA"
+},
+{
+"id": "MA0331",
+"name": "Westwood Public Library",
+"city": "Westwood",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0332",
+"name": "Weymouth Public Libraries",
+"city": "Weymouth",
+"county": "Norfolk",
+"state": "MA"
+},
+{
+"id": "MA0213",
+"name": "Whitinsville Social Library",
+"city": "Whitinsville",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0334",
+"name": "Whitman Public Library",
+"city": "Whitman",
+"county": "Plymouth",
+"state": "MA"
+},
+{
+"id": "MA0335",
+"name": "Wilbraham Public Library",
+"city": "Wilbraham",
+"county": "Hampden",
+"state": "MA"
+},
+{
+"id": "MA0338",
+"name": "Wilmington Memorial Library",
+"city": "Wilmington",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0340",
+"name": "Winchester Public Library",
+"city": "Winchester",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0342",
+"name": "Winthrop Public Library & Museum",
+"city": "Winthrop",
+"county": "Suffolk",
+"state": "MA"
+},
+{
+"id": "MA0343",
+"name": "Woburn Public Library",
+"city": "Woburn",
+"county": "Middlesex",
+"state": "MA"
+},
+{
+"id": "MA0344",
+"name": "Worcester Public Library",
+"city": "Worcester",
+"county": "Worcester",
+"state": "MA"
+},
+{
+"id": "MA0377",
+"name": "Yarmouth Town Libraries",
+"city": "South Yarmouth",
+"county": "Barnstable",
+"state": "MA"
+},
+{
+"id": "MA0306",
+"name": "Young Men'S Library Association",
+"city": "Ware",
+"county": "Hampshire",
+"state": "MA"
+},
+{
+"id": "MD0001",
+"name": "Allegany County Library System",
+"city": "Cumberland",
+"county": "Allegany",
+"state": "MD"
+},
+{
+"id": "MD0002",
+"name": "Anne Arundel County Public Library",
+"city": "Annapolis",
+"county": "Anne Arundel Coun",
+"state": "MD"
+},
+{
+"id": "MD0004",
+"name": "Baltimore County Public Library",
+"city": "Towson",
+"county": "Baltimore",
+"state": "MD"
+},
+{
+"id": "MD0005",
+"name": "Calvert Library",
+"city": "Prince Frederick",
+"county": "Calvert",
+"state": "MD"
+},
+{
+"id": "MD0006",
+"name": "Caroline County Public Library",
+"city": "Denton",
+"county": "Caroline",
+"state": "MD"
+},
+{
+"id": "MD0007",
+"name": "Carroll County Public Library",
+"city": "New Windsor",
+"county": "Carroll",
+"state": "MD"
+},
+{
+"id": "MD0008",
+"name": "Cecil County Public Library",
+"city": "North East",
+"county": "Cecil",
+"state": "MD"
+},
+{
+"id": "MD0009",
+"name": "Charles County Public Library",
+"city": "La Plata",
+"county": "Charles",
+"state": "MD"
+},
+{
+"id": "MD0010",
+"name": "Dorchester County Public Library",
+"city": "Cambridge",
+"county": "Dorchester",
+"state": "MD"
+},
+{
+"id": "MD0003",
+"name": "Enoch Pratt Free Library",
+"city": "Baltimore",
+"county": "Baltimore City",
+"state": "MD"
+}
+]

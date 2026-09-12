@@ -1,0 +1,352 @@
+[
+{
+"id": "IL0199",
+"name": "Galesburg Public Library",
+"city": "Galesburg",
+"county": "Knox",
+"state": "IL"
+},
+{
+"id": "IL0201",
+"name": "Geneseo Public Library District",
+"city": "Geneseo",
+"county": "Henry",
+"state": "IL"
+},
+{
+"id": "IL0202",
+"name": "Geneva Public Library District",
+"city": "Geneva",
+"county": "Kane",
+"state": "IL"
+},
+{
+"id": "IL0638",
+"name": "Glen Carbon Centennial Library District",
+"city": "Glen Carbon",
+"county": "Madison",
+"state": "IL"
+},
+{
+"id": "IL0209",
+"name": "Glen Ellyn Public Library",
+"city": "Glen Ellyn",
+"county": "Dupage",
+"state": "IL"
+},
+{
+"id": "IL0211",
+"name": "Glenside Public Library District",
+"city": "Glendale Heights",
+"county": "Dupage",
+"state": "IL"
+},
+{
+"id": "IL0212",
+"name": "Glenview Public Library",
+"city": "Glenview",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0213",
+"name": "Glenwood-Lynwood Public Library District",
+"city": "Lynwood",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0216",
+"name": "Grande Prairie Public Library District",
+"city": "Hazel Crest",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0219",
+"name": "Grayslake Area Public Library District",
+"city": "Grayslake",
+"county": "Lake",
+"state": "IL"
+},
+{
+"id": "IL0221",
+"name": "Green Hills Public Library District",
+"city": "Palos Hills",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0229",
+"name": "Harrisburg Public Library District",
+"city": "Harrisburg",
+"county": "Saline",
+"state": "IL"
+},
+{
+"id": "IL0232",
+"name": "Harvey Public Library District",
+"city": "Harvey",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0234",
+"name": "Hayner Public Library District",
+"city": "Alton",
+"county": "Madison",
+"state": "IL"
+},
+{
+"id": "IL0295",
+"name": "Helen M. Plum Memorial Public Library District",
+"city": "Lombard",
+"county": "Dupage",
+"state": "IL"
+},
+{
+"id": "IL0239",
+"name": "Herrin City Library",
+"city": "Herrin",
+"county": "Williamson",
+"state": "IL"
+},
+{
+"id": "IL0242",
+"name": "Highland Park Public Library",
+"city": "Highland Park",
+"county": "Lake",
+"state": "IL"
+},
+{
+"id": "IL0244",
+"name": "Hillsboro Area Public Library District",
+"city": "Hillsboro",
+"county": "Montgomery",
+"state": "IL"
+},
+{
+"id": "IL0246",
+"name": "Hinsdale Public Library",
+"city": "Hinsdale",
+"county": "Dupage",
+"state": "IL"
+},
+{
+"id": "IL0249",
+"name": "Homer Township Public Library District",
+"city": "Homer Glen",
+"county": "Will",
+"state": "IL"
+},
+{
+"id": "IL0251",
+"name": "Homewood Public Library District",
+"city": "Homewood",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0636",
+"name": "Huntley Area Public Library District",
+"city": "Huntley",
+"county": "Mchenry",
+"state": "IL"
+},
+{
+"id": "IL0040",
+"name": "Ida Public Library",
+"city": "Belvidere",
+"county": "Boone",
+"state": "IL"
+},
+{
+"id": "IL0253",
+"name": "Illinois Prairie District Public Library",
+"city": "Metamora",
+"county": "Woodford",
+"state": "IL"
+},
+{
+"id": "IL0130",
+"name": "Indian Prairie Public Library District",
+"city": "Darien",
+"county": "Dupage",
+"state": "IL"
+},
+{
+"id": "IL0255",
+"name": "Indian Trails Public Library District",
+"city": "Wheeling",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0257",
+"name": "Jacksonville Public Library",
+"city": "Jacksonville",
+"county": "Morgan",
+"state": "IL"
+},
+{
+"id": "IL0259",
+"name": "Johnsburg Public Library District",
+"city": "Johnsburg",
+"county": "Mchenry",
+"state": "IL"
+},
+{
+"id": "IL0261",
+"name": "Joliet Public Library",
+"city": "Joliet",
+"county": "Will",
+"state": "IL"
+},
+{
+"id": "IL0263",
+"name": "Justice Public Library District",
+"city": "Justice",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0265",
+"name": "Kankakee Public Library",
+"city": "Kankakee",
+"county": "Kankakee",
+"state": "IL"
+},
+{
+"id": "IL0267",
+"name": "Kewanee Public Library District",
+"city": "Kewanee",
+"county": "Henry",
+"state": "IL"
+},
+{
+"id": "IL0274",
+"name": "Lagrange Park Public Library District",
+"city": "La Grange Park",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0273",
+"name": "Lagrange Public Library",
+"city": "La Grange",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0277",
+"name": "Lake Forest Library",
+"city": "Lake Forest",
+"county": "Lake",
+"state": "IL"
+},
+{
+"id": "IL0278",
+"name": "Lake Villa Public Library District",
+"city": "Lindenhurst",
+"county": "Lake",
+"state": "IL"
+},
+{
+"id": "IL0282",
+"name": "Lansing Public Library",
+"city": "Lansing",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0284",
+"name": "Lawrence Public Library District",
+"city": "Lawrenceville",
+"county": "Lawrence",
+"state": "IL"
+},
+{
+"id": "IL0286",
+"name": "Lemont Public Library District",
+"city": "Lemont",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0504",
+"name": "Lincoln Library",
+"city": "Springfield",
+"county": "Sangamon",
+"state": "IL"
+},
+{
+"id": "IL0290",
+"name": "Lincoln Public Library District",
+"city": "Lincoln",
+"county": "Logan",
+"state": "IL"
+},
+{
+"id": "IL0608",
+"name": "Lincolnwood Public Library District",
+"city": "Lincolnwood",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0061",
+"name": "Linda Sokol Francis Brookfield Library",
+"city": "Brookfield",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0292",
+"name": "Lisle Library District",
+"city": "Lisle",
+"county": "Dupage",
+"state": "IL"
+},
+{
+"id": "IL0298",
+"name": "Lyons Public Library",
+"city": "Lyons",
+"county": "Cook",
+"state": "IL"
+},
+{
+"id": "IL0306",
+"name": "Macomb Public Library District",
+"city": "Macomb",
+"county": "Mcdonough",
+"state": "IL"
+},
+{
+"id": "IL0309",
+"name": "Mahomet Public Library District",
+"city": "Mahomet",
+"county": "Champaign",
+"state": "IL"
+},
+{
+"id": "IL0311",
+"name": "Manhattan-Elwood Public Library District",
+"city": "Manhattan",
+"county": "Will",
+"state": "IL"
+},
+{
+"id": "IL0314",
+"name": "Manteno Public Library District",
+"city": "Manteno",
+"county": "Kankakee",
+"state": "IL"
+},
+{
+"id": "IL0317",
+"name": "Marengo-Union Public Library District",
+"city": "Marengo",
+"county": "Mchenry",
+"state": "IL"
+}
+]

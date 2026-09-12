@@ -1,0 +1,352 @@
+[
+{
+"id": "WI0176",
+"name": "Madison Public Library",
+"city": "Madison",
+"county": "Dane",
+"state": "WI"
+},
+{
+"id": "WI0179",
+"name": "Manitowoc Public Library",
+"city": "Manitowoc",
+"county": "Manitowoc",
+"state": "WI"
+},
+{
+"id": "WI0341",
+"name": "Marathon County Public Library",
+"city": "Wausau",
+"county": "Marathon",
+"state": "WI"
+},
+{
+"id": "WI0394",
+"name": "Marinette County Consolidated Public Library Service",
+"city": "Marinette",
+"county": "Marinette",
+"state": "WI"
+},
+{
+"id": "WI0093",
+"name": "Matheson Memorial Library",
+"city": "Elkhorn",
+"county": "Walworth",
+"state": "WI"
+},
+{
+"id": "WI0330",
+"name": "Mcintosh Memorial Library",
+"city": "Viroqua",
+"county": "Vernon",
+"state": "WI"
+},
+{
+"id": "WI0360",
+"name": "Mcmillan Memorial Library",
+"city": "Wisconsin Rapids",
+"county": "Wood",
+"state": "WI"
+},
+{
+"id": "WI0292",
+"name": "Mead Public Library",
+"city": "Sheboygan",
+"county": "Sheboygan",
+"state": "WI"
+},
+{
+"id": "WI0191",
+"name": "Menomonee Falls Public Library",
+"city": "Menomonee Falls",
+"county": "Waukesha",
+"state": "WI"
+},
+{
+"id": "WI0192",
+"name": "Menomonie Public Library",
+"city": "Menomonie",
+"county": "Dunn",
+"state": "WI"
+},
+{
+"id": "WI0196",
+"name": "Middleton Public Library",
+"city": "Middleton",
+"county": "Dane",
+"state": "WI"
+},
+{
+"id": "WI0198",
+"name": "Milton Public Library",
+"city": "Milton",
+"county": "Rock",
+"state": "WI"
+},
+{
+"id": "WI0199",
+"name": "Milwaukee Public Library",
+"city": "Milwaukee",
+"county": "Milwaukee",
+"state": "WI"
+},
+{
+"id": "WI0201",
+"name": "Minocqua Public Library",
+"city": "Minocqua",
+"county": "Oneida",
+"state": "WI"
+},
+{
+"id": "WI0203",
+"name": "Monona Public Library",
+"city": "Monona",
+"county": "Dane",
+"state": "WI"
+},
+{
+"id": "WI0204",
+"name": "Monroe Public Library",
+"city": "Monroe",
+"county": "Green",
+"state": "WI"
+},
+{
+"id": "WI0209",
+"name": "Mount Horeb Public Library",
+"city": "Mount Horeb",
+"county": "Dane",
+"state": "WI"
+},
+{
+"id": "WI0396",
+"name": "Mukwonago Community Library",
+"city": "Mukwonago",
+"county": "Waukesha",
+"state": "WI"
+},
+{
+"id": "WI0212",
+"name": "Muskego Public Library",
+"city": "Muskego",
+"county": "Waukesha",
+"state": "WI"
+},
+{
+"id": "WI0214",
+"name": "Neenah Public Library",
+"city": "Neenah",
+"county": "Winnebago",
+"state": "WI"
+},
+{
+"id": "WI0218",
+"name": "New Berlin Public Library",
+"city": "New Berlin",
+"county": "Waukesha",
+"state": "WI"
+},
+{
+"id": "WI0222",
+"name": "New London Public Library",
+"city": "New London",
+"county": "Waupaca",
+"state": "WI"
+},
+{
+"id": "WI0116",
+"name": "North Shore Library",
+"city": "Glendale",
+"county": "Milwaukee",
+"state": "WI"
+},
+{
+"id": "WI0227",
+"name": "Oak Creek Public Library",
+"city": "Oak Creek",
+"county": "Milwaukee",
+"state": "WI"
+},
+{
+"id": "WI0229",
+"name": "Oconomowoc Public Library",
+"city": "Oconomowoc",
+"county": "Waukesha",
+"state": "WI"
+},
+{
+"id": "WI0236",
+"name": "Oregon Public Library",
+"city": "Oregon",
+"county": "Dane",
+"state": "WI"
+},
+{
+"id": "WI0239",
+"name": "Oshkosh Public Library",
+"city": "Oshkosh",
+"county": "Winnebago",
+"state": "WI"
+},
+{
+"id": "WI0408",
+"name": "Pauline Haass Public Library",
+"city": "Sussex",
+"county": "Waukesha",
+"state": "WI"
+},
+{
+"id": "WI0421",
+"name": "Pewaukee Public Library",
+"city": "Pewaukee",
+"county": "Waukesha",
+"state": "WI"
+},
+{
+"id": "WI0255",
+"name": "Platteville Public Library",
+"city": "Platteville",
+"county": "Grant",
+"state": "WI"
+},
+{
+"id": "WI0257",
+"name": "Plymouth Public Library",
+"city": "Plymouth",
+"county": "Sheboygan",
+"state": "WI"
+},
+{
+"id": "WI0309",
+"name": "Portage County Public Library",
+"city": "Stevens Point",
+"county": "Portage",
+"state": "WI"
+},
+{
+"id": "WI0259",
+"name": "Portage Public Library",
+"city": "Portage",
+"county": "Columbia",
+"state": "WI"
+},
+{
+"id": "WI0262",
+"name": "Prairie Du Chien Memorial Library",
+"city": "Prairie Du Chien",
+"county": "Crawford",
+"state": "WI"
+},
+{
+"id": "WI0268",
+"name": "Racine Public Library",
+"city": "Racine",
+"county": "Racine",
+"state": "WI"
+},
+{
+"id": "WI0272",
+"name": "Reedsburg Public Library",
+"city": "Reedsburg",
+"county": "Sauk",
+"state": "WI"
+},
+{
+"id": "WI0273",
+"name": "Rhinelander District Library",
+"city": "Rhinelander",
+"county": "Oneida",
+"state": "WI"
+},
+{
+"id": "WI0275",
+"name": "Rice Lake Public Library",
+"city": "Rice Lake",
+"county": "Barron",
+"state": "WI"
+},
+{
+"id": "WI0278",
+"name": "Ripon Public Library",
+"city": "Ripon",
+"county": "Fond Du Lac",
+"state": "WI"
+},
+{
+"id": "WI0279",
+"name": "River Falls Public Library",
+"city": "River Falls",
+"county": "Pierce",
+"state": "WI"
+},
+{
+"id": "WI0160",
+"name": "Rusk County Community Library",
+"city": "Ladysmith",
+"county": "Rusk",
+"state": "WI"
+},
+{
+"id": "WI0291",
+"name": "Shawano County Library",
+"city": "Shawano",
+"county": "Shawano",
+"state": "WI"
+},
+{
+"id": "WI0293",
+"name": "Sheboygan Falls Memorial Library",
+"city": "Sheboygan Falls",
+"county": "Sheboygan",
+"state": "WI"
+},
+{
+"id": "WI0132",
+"name": "Sherman & Ruth Weiss Community Library",
+"city": "Hayward",
+"county": "Sawyer",
+"state": "WI"
+},
+{
+"id": "WI0296",
+"name": "Shorewood Public Library",
+"city": "Shorewood",
+"county": "Milwaukee",
+"state": "WI"
+},
+{
+"id": "WI0298",
+"name": "Slinger Community Library",
+"city": "Slinger",
+"county": "Washington",
+"state": "WI"
+},
+{
+"id": "WI0301",
+"name": "South Milwaukee Public Library",
+"city": "South Milwaukee",
+"county": "Milwaukee",
+"state": "WI"
+},
+{
+"id": "WI0302",
+"name": "Sparta Free Library",
+"city": "Sparta",
+"county": "Monroe",
+"state": "WI"
+},
+{
+"id": "WI0303",
+"name": "Spooner Memorial Library",
+"city": "Spooner",
+"county": "Washburn",
+"state": "WI"
+},
+{
+"id": "WI0310",
+"name": "Stoughton Public Library",
+"city": "Stoughton",
+"county": "Dane",
+"state": "WI"
+}
+]

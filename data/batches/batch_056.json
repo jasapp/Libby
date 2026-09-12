@@ -1,0 +1,352 @@
+[
+{
+"id": "OR0099",
+"name": "West Linn Public Library",
+"city": "West Linn",
+"county": "Clackamas",
+"state": "OR"
+},
+{
+"id": "OR9018",
+"name": "West Slope Community Library",
+"city": "Portland",
+"county": "Washington",
+"state": "OR"
+},
+{
+"id": "OR0103",
+"name": "Wilsonville Public Library",
+"city": "Wilsonville",
+"county": "Clackamas",
+"state": "OR"
+},
+{
+"id": "OR0104",
+"name": "Woodburn Public Library",
+"city": "Woodburn",
+"county": "Marion",
+"state": "OR"
+},
+{
+"id": "PA0272",
+"name": "Abington Community Library",
+"city": "Clarks Summit",
+"county": "Lackawanna",
+"state": "PA"
+},
+{
+"id": "PA0318",
+"name": "Abington Twp Public Library",
+"city": "Abington",
+"county": "Montgomery",
+"state": "PA"
+},
+{
+"id": "PA0108",
+"name": "Adams Memorial Library",
+"city": "Latrobe",
+"county": "Westmoreland",
+"state": "PA"
+},
+{
+"id": "PA0176",
+"name": "Adams Sys Admin Unit",
+"city": "Gettysburg",
+"county": "Adams",
+"state": "PA"
+},
+{
+"id": "PA0524",
+"name": "Adamstown Area Library",
+"city": "Adamstown",
+"county": "Lancaster",
+"state": "PA"
+},
+{
+"id": "PA0178",
+"name": "Alexander Hamilton Memorial Free Library",
+"city": "Waynesboro",
+"county": "Franklin",
+"state": "PA"
+},
+{
+"id": "PA0301",
+"name": "Allentown Public Library",
+"city": "Allentown",
+"county": "Lehigh",
+"state": "PA"
+},
+{
+"id": "PA0518",
+"name": "Altoona Area Public Library",
+"city": "Altoona",
+"county": "Blair",
+"state": "PA"
+},
+{
+"id": "PA0217",
+"name": "Amelia S Givin Library",
+"city": "Mt Holly Springs",
+"county": "Cumberland",
+"state": "PA"
+},
+{
+"id": "PA0169",
+"name": "Annie Halenbake Ross Library",
+"city": "Lock Haven",
+"county": "Clinton",
+"state": "PA"
+},
+{
+"id": "PA0196",
+"name": "Annville Free Library",
+"city": "Annville",
+"county": "Lebanon",
+"state": "PA"
+},
+{
+"id": "PA0359",
+"name": "Aston Public Library",
+"city": "Aston",
+"county": "Delaware",
+"state": "PA"
+},
+{
+"id": "PA0357",
+"name": "Avon Grove Library",
+"city": "West Grove",
+"county": "Chester",
+"state": "PA"
+},
+{
+"id": "PA0453",
+"name": "B F Jones Memorial Library",
+"city": "Aliquippa",
+"county": "Beaver",
+"state": "PA"
+},
+{
+"id": "PA0261",
+"name": "Back Mountain Memorial Library",
+"city": "Dallas",
+"county": "Luzerne",
+"state": "PA"
+},
+{
+"id": "PA0022",
+"name": "Baldwin Borough Public Library",
+"city": "Pittsburgh",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA0290",
+"name": "Bangor Public Library",
+"city": "Bangor",
+"county": "Northampton",
+"state": "PA"
+},
+{
+"id": "PA0387",
+"name": "Beaver Area Memorial Library",
+"city": "Beaver",
+"county": "Beaver",
+"state": "PA"
+},
+{
+"id": "PA9005",
+"name": "Beaver Sys Admin Unit",
+"city": "Aliqiuipa",
+"county": "Beaver",
+"state": "PA"
+},
+{
+"id": "PA0120",
+"name": "Bedford Sys Admin Unit",
+"city": "Bedford",
+"county": "Bedford",
+"state": "PA"
+},
+{
+"id": "PA0074",
+"name": "Benson Memorial Library, Inc.",
+"city": "Titusville",
+"county": "Crawford",
+"state": "PA"
+},
+{
+"id": "PA0024",
+"name": "Bethel Park Public Library",
+"city": "Bethel Park",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA0291",
+"name": "Bethlehem Area Public Library",
+"city": "Bethlehem",
+"county": "Northampton",
+"state": "PA"
+},
+{
+"id": "PA0226",
+"name": "Bloomsburg Public Library",
+"city": "Bloomsburg",
+"county": "Columbia",
+"state": "PA"
+},
+{
+"id": "PA0202",
+"name": "Boone Area Library",
+"city": "Birdsboro",
+"county": "Berks",
+"state": "PA"
+},
+{
+"id": "PA0215",
+"name": "Bosler Free Library",
+"city": "Carlisle",
+"county": "Cumberland",
+"state": "PA"
+},
+{
+"id": "PA0474",
+"name": "Boyertown Community Library",
+"city": "Boyertown",
+"county": "Berks",
+"state": "PA"
+},
+{
+"id": "PA0471",
+"name": "Braddock Carnegie Library",
+"city": "Braddock",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA0153",
+"name": "Bradford Area Public Library",
+"city": "Bradford",
+"county": "Mckean",
+"state": "PA"
+},
+{
+"id": "PA0246",
+"name": "Bradford County Library",
+"city": "Troy",
+"county": "Bradford",
+"state": "PA"
+},
+{
+"id": "PA0476",
+"name": "Brandywine Community Library",
+"city": "Topton",
+"county": "Berks",
+"state": "PA"
+},
+{
+"id": "PA0415",
+"name": "Brentwood Library",
+"city": "Pittsburgh",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA0001",
+"name": "Brownsville Free Public Library",
+"city": "Brownsville",
+"county": "Fayette",
+"state": "PA"
+},
+{
+"id": "PA0309",
+"name": "Bucks County Free Library",
+"city": "Doylestown",
+"county": "Bucks",
+"state": "PA"
+},
+{
+"id": "PA0055",
+"name": "Butler Area Public Library",
+"city": "Butler",
+"county": "Butler",
+"state": "PA"
+},
+{
+"id": "PA0529",
+"name": "Butler Sys Admin Unit",
+"city": "Butler",
+"county": "Butler",
+"state": "PA"
+},
+{
+"id": "PA0031",
+"name": "C.C. Mellor Memorial Library",
+"city": "Pittsburgh",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA0136",
+"name": "Cambria Sys Admin Unit",
+"city": "Johnstown",
+"county": "Cambria",
+"state": "PA"
+},
+{
+"id": "PA0271",
+"name": "Carbondale Public Library",
+"city": "Carbondale",
+"county": "Lackawanna",
+"state": "PA"
+},
+{
+"id": "PA0002",
+"name": "Carnegie Free Library",
+"city": "Connellsville",
+"county": "Fayette",
+"state": "PA"
+},
+{
+"id": "PA0455",
+"name": "Carnegie Free Library - Beaver Falls",
+"city": "Beaver Falls",
+"county": "Beaver",
+"state": "PA"
+},
+{
+"id": "PA0048",
+"name": "Carnegie Free Library Of Swissvale",
+"city": "Swissvale",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA0472",
+"name": "Carnegie Library Of Homestead",
+"city": "Munhall",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA0034",
+"name": "Carnegie Library Of Mckeesport",
+"city": "Mckeesport",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA0042",
+"name": "Carnegie Library Of Pittsburgh",
+"city": "Pittsburgh",
+"county": "Allegheny",
+"state": "PA"
+},
+{
+"id": "PA0164",
+"name": "Centre Co Lib & Hist Museum",
+"city": "Bellefonte",
+"county": "Centre",
+"state": "PA"
+}
+]

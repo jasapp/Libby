@@ -1,0 +1,352 @@
+[
+{
+"id": "KS0220",
+"name": "Winfield Public Library",
+"city": "Winfield",
+"county": "Cowley",
+"state": "KS"
+},
+{
+"id": "KY0001",
+"name": "Adair County Public Library",
+"city": "Columbia",
+"county": "Adair",
+"state": "KY"
+},
+{
+"id": "KY0002",
+"name": "Allen County Public Library",
+"city": "Scottsville",
+"county": "Allen",
+"state": "KY"
+},
+{
+"id": "KY0003",
+"name": "Anderson County Public Library",
+"city": "Lawrenceburg",
+"county": "Anderson",
+"state": "KY"
+},
+{
+"id": "KY0117",
+"name": "Ballard/Carlisle Public Library",
+"city": "Wickliffe",
+"county": "Ballard",
+"state": "KY"
+},
+{
+"id": "KY0006",
+"name": "Bath County Memorial Library",
+"city": "Owingsville",
+"county": "Bath",
+"state": "KY"
+},
+{
+"id": "KY0007",
+"name": "Bell County Public Library System",
+"city": "Middlesboro",
+"county": "Bell",
+"state": "KY"
+},
+{
+"id": "KY0008",
+"name": "Boone County Public Library District",
+"city": "Burlington",
+"county": "Boone",
+"state": "KY"
+},
+{
+"id": "KY0010",
+"name": "Boyd County Public Library",
+"city": "Ashland",
+"county": "Boyd",
+"state": "KY"
+},
+{
+"id": "KY0011",
+"name": "Boyle County Public Library",
+"city": "Danville",
+"county": "Boyle",
+"state": "KY"
+},
+{
+"id": "KY0012",
+"name": "Breathitt County Public Library",
+"city": "Jackson",
+"county": "Breathitt",
+"state": "KY"
+},
+{
+"id": "KY0013",
+"name": "Breckinridge County Public Library",
+"city": "Hardinsburg",
+"county": "Breckinridge",
+"state": "KY"
+},
+{
+"id": "KY0014",
+"name": "Bullitt County Library District",
+"city": "Shepherdsville",
+"county": "Bullitt",
+"state": "KY"
+},
+{
+"id": "KY0015",
+"name": "Butler County Public Library",
+"city": "Morgantown",
+"county": "Butler",
+"state": "KY"
+},
+{
+"id": "KY0017",
+"name": "Calloway County Public Library",
+"city": "Murray",
+"county": "Calloway",
+"state": "KY"
+},
+{
+"id": "KY0018",
+"name": "Campbell County Public Library District",
+"city": "Cold Spring",
+"county": "Campbell",
+"state": "KY"
+},
+{
+"id": "KY0019",
+"name": "Carroll County Public Library District",
+"city": "Carrollton",
+"county": "Carroll",
+"state": "KY"
+},
+{
+"id": "KY0803",
+"name": "Carter County Public Library",
+"city": "Olive Hill",
+"county": "Carter",
+"state": "KY"
+},
+{
+"id": "KY0020",
+"name": "Casey County Public Library",
+"city": "Liberty",
+"county": "Casey",
+"state": "KY"
+},
+{
+"id": "KY0022",
+"name": "Clark County Public Library",
+"city": "Winchester",
+"county": "Clark",
+"state": "KY"
+},
+{
+"id": "KY0023",
+"name": "Clay County Public Library",
+"city": "Manchester",
+"county": "Clay",
+"state": "KY"
+},
+{
+"id": "KY0024",
+"name": "Clinton County Public Library",
+"city": "Albany",
+"county": "Clinton",
+"state": "KY"
+},
+{
+"id": "KY0046",
+"name": "Cynthiana-Harrison County Public Library",
+"city": "Cynthiana",
+"county": "Harrison",
+"state": "KY"
+},
+{
+"id": "KY0027",
+"name": "Daviess County Public Library District",
+"city": "Owensboro",
+"county": "Daviess",
+"state": "KY"
+},
+{
+"id": "KY0028",
+"name": "Edmonson County Public Library",
+"city": "Brownsville",
+"county": "Edmonson",
+"state": "KY"
+},
+{
+"id": "KY0030",
+"name": "Estill County Public Library",
+"city": "Irvine",
+"county": "Estill",
+"state": "KY"
+},
+{
+"id": "KY0032",
+"name": "Fleming County Public Library",
+"city": "Flemingsburg",
+"county": "Fleming",
+"state": "KY"
+},
+{
+"id": "KY0033",
+"name": "Floyd County Library",
+"city": "Prestonsburg",
+"county": "Floyd",
+"state": "KY"
+},
+{
+"id": "KY0034",
+"name": "Franklin County District Public Library",
+"city": "Frankfort",
+"county": "Franklin",
+"state": "KY"
+},
+{
+"id": "KY0037",
+"name": "Garrard County Public Library",
+"city": "Lancaster",
+"county": "Garrard",
+"state": "KY"
+},
+{
+"id": "KY0016",
+"name": "George Coon Public Library",
+"city": "Princeton",
+"county": "Caldwell",
+"state": "KY"
+},
+{
+"id": "KY0102",
+"name": "Goodnight Memorial Library",
+"city": "Franklin",
+"county": "Simpson",
+"state": "KY"
+},
+{
+"id": "KY0038",
+"name": "Grant County Public Library District",
+"city": "Williamstown",
+"county": "Grant",
+"state": "KY"
+},
+{
+"id": "KY0039",
+"name": "Graves County Public Library",
+"city": "Mayfield",
+"county": "Graves",
+"state": "KY"
+},
+{
+"id": "KY0040",
+"name": "Grayson County Public Library",
+"city": "Leitchfield",
+"county": "Grayson",
+"state": "KY"
+},
+{
+"id": "KY0041",
+"name": "Green County Public Library",
+"city": "Greensburg",
+"county": "Green",
+"state": "KY"
+},
+{
+"id": "KY0042",
+"name": "Greenup County Public Library",
+"city": "Greenup",
+"county": "Greenup",
+"state": "KY"
+},
+{
+"id": "KY0044",
+"name": "Hardin County Public Library",
+"city": "Elizabethtown",
+"county": "Hardin",
+"state": "KY"
+},
+{
+"id": "KY0045",
+"name": "Harlan County Public Library",
+"city": "Harlan",
+"county": "Harlan",
+"state": "KY"
+},
+{
+"id": "KY0047",
+"name": "Hart County Public Library",
+"city": "Munfordville",
+"county": "Hart",
+"state": "KY"
+},
+{
+"id": "KY0048",
+"name": "Henderson County Public Library",
+"city": "Henderson",
+"county": "Henderson",
+"state": "KY"
+},
+{
+"id": "KY0049",
+"name": "Henry County Public Library",
+"city": "Eminence",
+"county": "Henry",
+"state": "KY"
+},
+{
+"id": "KY0051",
+"name": "Hopkins County-Madisonville Public Library",
+"city": "Madisonville",
+"county": "Hopkins",
+"state": "KY"
+},
+{
+"id": "KY0021",
+"name": "Hopkinsville-Christian County Public Library",
+"city": "Hopkinsville",
+"county": "Christian",
+"state": "KY"
+},
+{
+"id": "KY0052",
+"name": "Jackson County Public Library",
+"city": "Mckee",
+"county": "Jackson",
+"state": "KY"
+},
+{
+"id": "KY0054",
+"name": "Jessamine County Public Library",
+"city": "Nicholasville",
+"county": "Jessamine",
+"state": "KY"
+},
+{
+"id": "KY0106",
+"name": "John L. Street Public Library",
+"city": "Cadiz",
+"county": "Trigg",
+"state": "KY"
+},
+{
+"id": "KY0055",
+"name": "Johnson County Public Library",
+"city": "Paintsville",
+"county": "Johnson",
+"state": "KY"
+},
+{
+"id": "KY0056",
+"name": "Kenton County Public Library",
+"city": "Erlanger",
+"county": "Kenton",
+"state": "KY"
+},
+{
+"id": "KY0057",
+"name": "Knott County Public Library",
+"city": "Hindman",
+"county": "Knott",
+"state": "KY"
+}
+]

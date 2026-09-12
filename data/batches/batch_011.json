@@ -1,0 +1,352 @@
+[
+{
+"id": "FL0248",
+"name": "Delray Beach Library",
+"city": "Delray Beach",
+"county": "Palm Beach",
+"state": "FL"
+},
+{
+"id": "FL0013",
+"name": "Doreen Gauthier Lighthouse Point Library",
+"city": "Lighthouse Point",
+"county": "Broward",
+"state": "FL"
+},
+{
+"id": "FL0014",
+"name": "Ethel M. Gordon Oakland Park Library",
+"city": "Oakland Park",
+"county": "Broward",
+"state": "FL"
+},
+{
+"id": "FL0029",
+"name": "Flagler County Public Library",
+"city": "Palm Coast",
+"county": "Flagler",
+"state": "FL"
+},
+{
+"id": "FL0041",
+"name": "Fort Myers Beach Public Library",
+"city": "Fort Myers Beach",
+"county": "Lee",
+"state": "FL"
+},
+{
+"id": "FL0030",
+"name": "Gadsden County Public Library",
+"city": "Quincy",
+"county": "Gadsden",
+"state": "FL"
+},
+{
+"id": "FL0150",
+"name": "Heartland Library Cooperative",
+"city": "Sebring",
+"county": "Highlands",
+"state": "FL"
+},
+{
+"id": "FL0257",
+"name": "Helen B. Hoffman Plantation Library",
+"city": "Plantation",
+"county": "Broward",
+"state": "FL"
+},
+{
+"id": "FL0032",
+"name": "Hendry County Library System",
+"city": "Clewiston",
+"county": "Hendry",
+"state": "FL"
+},
+{
+"id": "FL0106",
+"name": "Hernando County Public Library System",
+"city": "Brooksville",
+"county": "Hernando",
+"state": "FL"
+},
+{
+"id": "FL0023",
+"name": "Hialeah Public Libraries",
+"city": "Hialeah",
+"county": "Miami-Dade",
+"state": "FL"
+},
+{
+"id": "FL0035",
+"name": "Hillsborough County Public Library Cooperative",
+"city": "Tampa",
+"county": "Hillsborough",
+"state": "FL"
+},
+{
+"id": "FL8010",
+"name": "Homestead Cybrarium",
+"city": "Homestead",
+"county": "Miami-Dade",
+"state": "FL"
+},
+{
+"id": "FL0036",
+"name": "Indian River County Library",
+"city": "Vero Beach",
+"county": "Indian River",
+"state": "FL"
+},
+{
+"id": "FL0003",
+"name": "Jacksonville Public Library",
+"city": "Jacksonville",
+"county": "Duval",
+"state": "FL"
+},
+{
+"id": "FL0039",
+"name": "Lake County Library System",
+"city": "Tavares",
+"county": "Lake",
+"state": "FL"
+},
+{
+"id": "FL0250",
+"name": "Lake Worth Beach Public Library",
+"city": "Lake Worth",
+"county": "Palm Beach",
+"state": "FL"
+},
+{
+"id": "FL0251",
+"name": "Lantana Public Library",
+"city": "Lantana",
+"county": "Palm Beach",
+"state": "FL"
+},
+{
+"id": "FL0042",
+"name": "Lee County Library System",
+"city": "Fort Myers",
+"county": "Lee",
+"state": "FL"
+},
+{
+"id": "FL0044",
+"name": "Leroy Collins Leon County Public Library Syst",
+"city": "Tallahassee",
+"county": "Leon",
+"state": "FL"
+},
+{
+"id": "FL0053",
+"name": "Maitland Public Library",
+"city": "Maitland",
+"county": "Orange",
+"state": "FL"
+},
+{
+"id": "FL0046",
+"name": "Manatee County Public Library System",
+"city": "Bradenton",
+"county": "Manatee",
+"state": "FL"
+},
+{
+"id": "FL0254",
+"name": "Mandel Public Library Of West Palm Beach",
+"city": "West Palm Beach",
+"county": "Palm Beach",
+"state": "FL"
+},
+{
+"id": "FL0001",
+"name": "Marion County Public Library System",
+"city": "Ocala",
+"county": "Marion",
+"state": "FL"
+},
+{
+"id": "FL0047",
+"name": "Martin County Library System",
+"city": "Stuart",
+"county": "Martin",
+"state": "FL"
+},
+{
+"id": "FL0025",
+"name": "Miami-Dade Public Library System",
+"city": "Miami",
+"county": "Miami-Dade",
+"state": "FL"
+},
+{
+"id": "FL0048",
+"name": "Monroe County Public Library System",
+"city": "Key West",
+"county": "Monroe",
+"state": "FL"
+},
+{
+"id": "FL8005",
+"name": "Nassau County Public Library System",
+"city": "Fernandina Beach",
+"county": "Nassau",
+"state": "FL"
+},
+{
+"id": "FL0064",
+"name": "New Port Richey Public Library",
+"city": "New Port Richey",
+"county": "Pasco",
+"state": "FL"
+},
+{
+"id": "FL0149",
+"name": "New River Public Library Cooperative",
+"city": "Lake Butler",
+"county": "Union",
+"state": "FL"
+},
+{
+"id": "FL0024",
+"name": "North Miami Beach Public Library",
+"city": "North Miami Beach",
+"county": "Miami-Dade",
+"state": "FL"
+},
+{
+"id": "FL0103",
+"name": "North Miami Public Library",
+"city": "North Miami",
+"county": "Miami-Dade",
+"state": "FL"
+},
+{
+"id": "FL0058",
+"name": "North Palm Beach Public Library",
+"city": "North Palm Beach",
+"county": "Palm Beach",
+"state": "FL"
+},
+{
+"id": "FL0004",
+"name": "Northwest Regional Library System",
+"city": "Panama City",
+"county": "Bay",
+"state": "FL"
+},
+{
+"id": "FL8003",
+"name": "Okaloosa County Public Library Cooperative",
+"city": "Niceville",
+"county": "Okaloosa",
+"state": "FL"
+},
+{
+"id": "FL0005",
+"name": "Orange County Library District",
+"city": "Orlando",
+"county": "Orange",
+"state": "FL"
+},
+{
+"id": "FL0109",
+"name": "Osceola Library System",
+"city": "Kissimmee",
+"county": "Osceola",
+"state": "FL"
+},
+{
+"id": "FL0259",
+"name": "Pal Public Library Cooperative",
+"city": "Bronson",
+"county": "Levy",
+"state": "FL"
+},
+{
+"id": "FL0246",
+"name": "Palm Beach County Library System",
+"city": "West Palm Beach",
+"county": "Palm Beach",
+"state": "FL"
+},
+{
+"id": "FL0252",
+"name": "Palm Springs Public Library",
+"city": "Palm Springs",
+"county": "Palm Beach",
+"state": "FL"
+},
+{
+"id": "FL0136",
+"name": "Panhandle Public Library Cooperative System",
+"city": "Marianna",
+"county": "Jackson",
+"state": "FL"
+},
+{
+"id": "FL0240",
+"name": "Parkland Library",
+"city": "Parkland",
+"county": "Broward",
+"state": "FL"
+},
+{
+"id": "FL0065",
+"name": "Pasco County Public Library Cooperative",
+"city": "Hudson",
+"county": "Pasco",
+"state": "FL"
+},
+{
+"id": "FL0127",
+"name": "Pinellas Public Library Cooperative",
+"city": "Clearwater",
+"county": "Pinellas",
+"state": "FL"
+},
+{
+"id": "FL8001",
+"name": "Polk County Library Cooperative",
+"city": "Bartow",
+"county": "Polk",
+"state": "FL"
+},
+{
+"id": "FL0016",
+"name": "Richard C. Sullivan Public Library Of Wilton Manors",
+"city": "Wilton Manors",
+"county": "Broward",
+"state": "FL"
+},
+{
+"id": "FL0253",
+"name": "Riviera Beach Public Library",
+"city": "Riviera Beach",
+"county": "Palm Beach",
+"state": "FL"
+},
+{
+"id": "FL0255",
+"name": "Santa Rosa County Library System",
+"city": "Milton",
+"county": "Santa Rosa",
+"state": "FL"
+},
+{
+"id": "FL0093",
+"name": "Sarasota County Public Libraries",
+"city": "Sarasota",
+"county": "Sarasota",
+"state": "FL"
+},
+{
+"id": "FL0095",
+"name": "Seminole County Public Library System",
+"city": "Casselberry",
+"county": "Seminole",
+"state": "FL"
+}
+]

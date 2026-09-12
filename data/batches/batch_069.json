@@ -1,0 +1,352 @@
+[
+{
+"id": "TX0231",
+"name": "Port Arthur Public Library",
+"city": "Port Arthur",
+"county": "Jefferson",
+"state": "TX"
+},
+{
+"id": "TX0687",
+"name": "Prosper Community Library",
+"city": "Prosper",
+"county": "Collin",
+"state": "TX"
+},
+{
+"id": "TX0240",
+"name": "Quemado Public Library",
+"city": "Quemado",
+"county": "Maverick",
+"state": "TX"
+},
+{
+"id": "TX0034",
+"name": "Rains County Public Library",
+"city": "Emory",
+"county": "Rains",
+"state": "TX"
+},
+{
+"id": "TX0711",
+"name": "Red Oak Public Library",
+"city": "Red Oak",
+"county": "Ellis",
+"state": "TX"
+},
+{
+"id": "TX0432",
+"name": "Red River County Public Library",
+"city": "Clarksville",
+"county": "Red River",
+"state": "TX"
+},
+{
+"id": "TX0623",
+"name": "Reeves County Library",
+"city": "Pecos",
+"county": "Reeves",
+"state": "TX"
+},
+{
+"id": "TX0245",
+"name": "Richardson Public Library",
+"city": "Richardson",
+"county": "Dallas",
+"state": "TX"
+},
+{
+"id": "TX0485",
+"name": "Rio Grande City Public Library",
+"city": "Rio Grande City",
+"county": "Starr",
+"state": "TX"
+},
+{
+"id": "TX0337",
+"name": "Rita & Truett Smith Public Library",
+"city": "Wylie",
+"county": "Collin",
+"state": "TX"
+},
+{
+"id": "TX0303",
+"name": "Riter C Hulsey Public Library",
+"city": "Terrell",
+"county": "Kaufman",
+"state": "TX"
+},
+{
+"id": "TX0128",
+"name": "Robert J Kleberg Public Library",
+"city": "Kingsville",
+"county": "Kleberg",
+"state": "TX"
+},
+{
+"id": "TX0256",
+"name": "Rockwall County Library",
+"city": "Rockwall",
+"county": "Rockwall",
+"state": "TX"
+},
+{
+"id": "TX0056",
+"name": "Rosenberg Library",
+"city": "Galveston",
+"county": "Galveston",
+"state": "TX"
+},
+{
+"id": "TX0259",
+"name": "Round Rock Public Library System",
+"city": "Round Rock",
+"county": "Williamson",
+"state": "TX"
+},
+{
+"id": "TX0360",
+"name": "Rowlett Public Library",
+"city": "Rowlett",
+"county": "Dallas",
+"state": "TX"
+},
+{
+"id": "TX0091",
+"name": "Rusk County Library System",
+"city": "Henderson",
+"county": "Rusk",
+"state": "TX"
+},
+{
+"id": "TX0361",
+"name": "Sachse Public Library",
+"city": "Sachse",
+"county": "Dallas",
+"state": "TX"
+},
+{
+"id": "TX0422",
+"name": "Sammy Brown Library",
+"city": "Carthage",
+"county": "Panola",
+"state": "TX"
+},
+{
+"id": "TX0263",
+"name": "San Antonio Public Library",
+"city": "San Antonio",
+"county": "Bexar",
+"state": "TX"
+},
+{
+"id": "TX0265",
+"name": "San Benito Public Library",
+"city": "San Benito",
+"county": "Cameron",
+"state": "TX"
+},
+{
+"id": "TX0620",
+"name": "San Juan Memorial Library",
+"city": "San Juan",
+"county": "Hidalgo",
+"state": "TX"
+},
+{
+"id": "TX0266",
+"name": "San Marcos Public Library",
+"city": "San Marcos",
+"county": "Hays",
+"state": "TX"
+},
+{
+"id": "TX0382",
+"name": "Sanger Public Library",
+"city": "Sanger",
+"county": "Denton",
+"state": "TX"
+},
+{
+"id": "TX0272",
+"name": "Schertz Public Library",
+"city": "Schertz",
+"county": "Guadalupe",
+"state": "TX"
+},
+{
+"id": "TX0286",
+"name": "Scurry County Library",
+"city": "Snyder",
+"county": "Scurry",
+"state": "TX"
+},
+{
+"id": "TX0362",
+"name": "Seagoville Public Library",
+"city": "Seagoville",
+"county": "Dallas",
+"state": "TX"
+},
+{
+"id": "TX0274",
+"name": "Seguin Public Library",
+"city": "Seguin",
+"county": "Guadalupe",
+"state": "TX"
+},
+{
+"id": "TX0215",
+"name": "Sergeant Fernando De La Rosa Memorial Library",
+"city": "Alamo",
+"county": "Hidalgo",
+"state": "TX"
+},
+{
+"id": "TX0281",
+"name": "Sherman Public Library",
+"city": "Sherman",
+"county": "Grayson",
+"state": "TX"
+},
+{
+"id": "TX0282",
+"name": "Silsbee Public Library",
+"city": "Silsbee",
+"county": "Hardin",
+"state": "TX"
+},
+{
+"id": "TX0518",
+"name": "Smith-Welch Memorial Library",
+"city": "Hearne",
+"county": "Robertson",
+"state": "TX"
+},
+{
+"id": "TX0285",
+"name": "Smithville Public Library",
+"city": "Smithville",
+"county": "Bastrop",
+"state": "TX"
+},
+{
+"id": "TX0682",
+"name": "Southlake Public Library",
+"city": "Southlake",
+"county": "Tarrant",
+"state": "TX"
+},
+{
+"id": "TX0182",
+"name": "Speer Memorial Library",
+"city": "Mission",
+"county": "Hidalgo",
+"state": "TX"
+},
+{
+"id": "TX0365",
+"name": "Springtown Public Library",
+"city": "Springtown",
+"county": "Parker",
+"state": "TX"
+},
+{
+"id": "TX0294",
+"name": "Stephenville Public Library",
+"city": "Stephenville",
+"county": "Erath",
+"state": "TX"
+},
+{
+"id": "TX0204",
+"name": "Sterling Municipal Library",
+"city": "Baytown",
+"county": "Harris",
+"state": "TX"
+},
+{
+"id": "TX0084",
+"name": "Stewart C Meyer Library",
+"city": "Harker Heights",
+"county": "Bell",
+"state": "TX"
+},
+{
+"id": "TX0712",
+"name": "Tarkington Community Library",
+"city": "Cleveland-Tarkington",
+"county": "Liberty",
+"state": "TX"
+},
+{
+"id": "TX0300",
+"name": "Taylor Public Library",
+"city": "Taylor",
+"county": "Williamson",
+"state": "TX"
+},
+{
+"id": "TX0301",
+"name": "Teague Public Library",
+"city": "Teague",
+"county": "Freestone",
+"state": "TX"
+},
+{
+"id": "TX0302",
+"name": "Temple Public Library",
+"city": "Temple",
+"county": "Bell",
+"state": "TX"
+},
+{
+"id": "TX0304",
+"name": "Texarkana Public Library",
+"city": "Texarkana",
+"county": "Bowie",
+"state": "TX"
+},
+{
+"id": "TX0306",
+"name": "The Colony Public Library",
+"city": "The Colony",
+"county": "Denton",
+"state": "TX"
+},
+{
+"id": "TX0262",
+"name": "Tom Green County Library System",
+"city": "San Angelo",
+"county": "Tom Green",
+"state": "TX"
+},
+{
+"id": "TX0419",
+"name": "Tye Preston Memorial Library",
+"city": "Canyon Lake",
+"county": "Comal",
+"state": "TX"
+},
+{
+"id": "TX0310",
+"name": "Tyler Public Library",
+"city": "Tyler",
+"county": "Smith",
+"state": "TX"
+},
+{
+"id": "TX0227",
+"name": "Unger Memorial Library",
+"city": "Plainview",
+"county": "Hale",
+"state": "TX"
+},
+{
+"id": "TX0376",
+"name": "Universal City Public Library",
+"city": "Universal City",
+"county": "Bexar",
+"state": "TX"
+}
+]

@@ -1,0 +1,352 @@
+[
+{
+"id": "MO0138",
+"name": "Doniphan-Ripley County Library District",
+"city": "Doniphan",
+"county": "Ripley",
+"state": "MO"
+},
+{
+"id": "MO0111",
+"name": "Douglas County Public Library",
+"city": "Ava",
+"county": "Douglas",
+"state": "MO"
+},
+{
+"id": "MO0126",
+"name": "Dunklin County Library",
+"city": "Kennett",
+"county": "Dunklin",
+"state": "MO"
+},
+{
+"id": "MO0075",
+"name": "Farmington Public Library",
+"city": "Farmington",
+"county": "St. Francois",
+"state": "MO"
+},
+{
+"id": "MO0073",
+"name": "Ferguson Municipal Public Library District",
+"city": "Ferguson",
+"county": "St. Louis",
+"state": "MO"
+},
+{
+"id": "MO0082",
+"name": "Festus Public Library",
+"city": "Festus",
+"county": "Jefferson",
+"state": "MO"
+},
+{
+"id": "MO0051",
+"name": "Hannibal Free Public Library",
+"city": "Hannibal",
+"county": "Marion",
+"state": "MO"
+},
+{
+"id": "MO0174",
+"name": "Heartland Regional Library System",
+"city": "Vienna",
+"county": "Maries",
+"state": "MO"
+},
+{
+"id": "MO0088",
+"name": "Henry County Library",
+"city": "Clinton",
+"county": "Henry",
+"state": "MO"
+},
+{
+"id": "MO0147",
+"name": "Jefferson County Library District",
+"city": "High Ridge",
+"county": "Jefferson",
+"state": "MO"
+},
+{
+"id": "MO0041",
+"name": "Joplin Public Library",
+"city": "Joplin",
+"county": "Jasper",
+"state": "MO"
+},
+{
+"id": "MO0014",
+"name": "Kansas City Public Library",
+"city": "Kansas City",
+"county": "Jackson",
+"state": "MO"
+},
+{
+"id": "MO0076",
+"name": "Kirkwood Public Library",
+"city": "Kirkwood",
+"county": "St. Louis",
+"state": "MO"
+},
+{
+"id": "MO0198",
+"name": "Lebanon-Laclede County Library",
+"city": "Lebanon",
+"county": "Laclede",
+"state": "MO"
+},
+{
+"id": "MO0053",
+"name": "Little Dixie Regional Libraries",
+"city": "Moberly",
+"county": "Randolph",
+"state": "MO"
+},
+{
+"id": "MO0054",
+"name": "Livingston County Library",
+"city": "Chillicothe",
+"county": "Livingston",
+"state": "MO"
+},
+{
+"id": "MO0140",
+"name": "Marshall Public Library",
+"city": "Marshall",
+"county": "Saline",
+"state": "MO"
+},
+{
+"id": "MO0055",
+"name": "Maryville Public Library",
+"city": "Maryville",
+"county": "Nodaway",
+"state": "MO"
+},
+{
+"id": "MO0106",
+"name": "Mcdonald County Library",
+"city": "Pineville",
+"county": "Mcdonald",
+"state": "MO"
+},
+{
+"id": "MO0091",
+"name": "Mexico-Audrain County Library District",
+"city": "Mexico",
+"county": "Audrain",
+"state": "MO"
+},
+{
+"id": "MO0004",
+"name": "Mid-Continent Public Library",
+"city": "Independence",
+"county": "Jackson",
+"state": "MO"
+},
+{
+"id": "MO0056",
+"name": "Mississippi County Library District",
+"city": "Charleston",
+"county": "Mississippi",
+"state": "MO"
+},
+{
+"id": "MO0175",
+"name": "Missouri River Regional Library",
+"city": "Jefferson City",
+"county": "Cole",
+"state": "MO"
+},
+{
+"id": "MO0172",
+"name": "Moniteau County Library",
+"city": "California",
+"county": "Moniteau",
+"state": "MO"
+},
+{
+"id": "MO0033",
+"name": "Morgan County Library",
+"city": "Versailles",
+"county": "Morgan",
+"state": "MO"
+},
+{
+"id": "MO0048",
+"name": "Municipal Library District Of The City Of Cape Girardeau",
+"city": "Cape Girardeau",
+"county": "Cape Girardeau",
+"state": "MO"
+},
+{
+"id": "MO0044",
+"name": "Neosho/Newton County Library",
+"city": "Neosho",
+"county": "Newton",
+"state": "MO"
+},
+{
+"id": "MO0132",
+"name": "New Madrid County Library",
+"city": "Portageville",
+"county": "New Madrid",
+"state": "MO"
+},
+{
+"id": "MO0059",
+"name": "Northeast Missouri Library Service",
+"city": "Kahoka",
+"county": "Clark",
+"state": "MO"
+},
+{
+"id": "MO0060",
+"name": "Ozark Regional Library",
+"city": "Ironton",
+"county": "Iron",
+"state": "MO"
+},
+{
+"id": "MO0181",
+"name": "Polk County Library",
+"city": "Bolivar",
+"county": "Polk",
+"state": "MO"
+},
+{
+"id": "MO0125",
+"name": "Poplar Bluff Municipal Library District",
+"city": "Poplar Bluff",
+"county": "Butler",
+"state": "MO"
+},
+{
+"id": "MO0199",
+"name": "Pulaski County Library",
+"city": "Waynesville",
+"county": "Pulaski",
+"state": "MO"
+},
+{
+"id": "MO0169",
+"name": "Ralls County Library",
+"city": "Center",
+"county": "Ralls",
+"state": "MO"
+},
+{
+"id": "MO0062",
+"name": "Ray County Library",
+"city": "Richmond",
+"county": "Ray",
+"state": "MO"
+},
+{
+"id": "MO0128",
+"name": "Riverside Regional Library",
+"city": "Jackson",
+"county": "Cape Girardeau",
+"state": "MO"
+},
+{
+"id": "MO0094",
+"name": "Rolla Public Library",
+"city": "Rolla",
+"county": "Phelps",
+"state": "MO"
+},
+{
+"id": "MO0206",
+"name": "Rolling Hills Consolidated",
+"city": "St. Joseph",
+"county": "Buchanan",
+"state": "MO"
+},
+{
+"id": "MO0035",
+"name": "Saint Charles City-County Library District",
+"city": "St. Peters",
+"county": "St. Charles",
+"state": "MO"
+},
+{
+"id": "MO0227",
+"name": "Saint Joseph Public Library",
+"city": "St. Joseph",
+"county": "Buchanan",
+"state": "MO"
+},
+{
+"id": "MO0036",
+"name": "Saint Louis County Library",
+"city": "St. Louis",
+"county": "St. Louis",
+"state": "MO"
+},
+{
+"id": "MO0065",
+"name": "Scenic Regional Library",
+"city": "Union",
+"county": "Franklin",
+"state": "MO"
+},
+{
+"id": "MO0090",
+"name": "Sedalia Public Library",
+"city": "Sedalia",
+"county": "Pettis",
+"state": "MO"
+},
+{
+"id": "MO0127",
+"name": "Sikeston Public Library",
+"city": "Sikeston",
+"county": "Scott",
+"state": "MO"
+},
+{
+"id": "MO0020",
+"name": "Springfield-Greene County Library District",
+"city": "Springfield",
+"county": "Greene",
+"state": "MO"
+},
+{
+"id": "MO0043",
+"name": "Stone County Library",
+"city": "Galena",
+"county": "Stone",
+"state": "MO"
+},
+{
+"id": "MO0116",
+"name": "Texas County Library",
+"city": "Houston",
+"county": "Texas",
+"state": "MO"
+},
+{
+"id": "MO0045",
+"name": "Trails Regional Library",
+"city": "Warrensburg",
+"county": "Johnson",
+"state": "MO"
+},
+{
+"id": "MO0037",
+"name": "University City Public Library",
+"city": "University City",
+"county": "St. Louis",
+"state": "MO"
+},
+{
+"id": "MO0068",
+"name": "Washington County Library",
+"city": "Potosi",
+"county": "Washington",
+"state": "MO"
+}
+]

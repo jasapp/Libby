@@ -1,0 +1,352 @@
+[
+{
+"id": "WI0031",
+"name": "Black River Falls Public Library",
+"city": "Black River Falls",
+"county": "Jackson",
+"state": "WI"
+},
+{
+"id": "WI0276",
+"name": "Brewer Public Library",
+"city": "Richland Center",
+"county": "Richland",
+"state": "WI"
+},
+{
+"id": "WI0040",
+"name": "Brillion Public Library",
+"city": "Brillion",
+"county": "Calumet",
+"state": "WI"
+},
+{
+"id": "WI0042",
+"name": "Brookfield Public Library",
+"city": "Brookfield",
+"county": "Waukesha",
+"state": "WI"
+},
+{
+"id": "WI0121",
+"name": "Brown County Library",
+"city": "Green Bay",
+"county": "Brown",
+"state": "WI"
+},
+{
+"id": "WI0043",
+"name": "Brown Deer Public Library",
+"city": "Brown Deer",
+"county": "Milwaukee",
+"state": "WI"
+},
+{
+"id": "WI0045",
+"name": "Burlington Public Library",
+"city": "Burlington",
+"county": "Racine",
+"state": "WI"
+},
+{
+"id": "WI0223",
+"name": "Carleton A. Friday Memorial Library",
+"city": "New Richmond",
+"county": "St. Croix",
+"state": "WI"
+},
+{
+"id": "WI0055",
+"name": "Cedarburg Public Library",
+"city": "Cedarburg",
+"county": "Ozaukee",
+"state": "WI"
+},
+{
+"id": "WI0058",
+"name": "Chilton Public Library",
+"city": "Chilton",
+"county": "Calumet",
+"state": "WI"
+},
+{
+"id": "WI0059",
+"name": "Chippewa Falls Public Library",
+"city": "Chippewa Falls",
+"county": "Chippewa",
+"state": "WI"
+},
+{
+"id": "WI0283",
+"name": "Community Library",
+"city": "Salem",
+"county": "Kenosha",
+"state": "WI"
+},
+{
+"id": "WI0071",
+"name": "Cudahy Family Library",
+"city": "Cudahy",
+"county": "Milwaukee",
+"state": "WI"
+},
+{
+"id": "WI0078",
+"name": "Deforest Area Public Library",
+"city": "Deforest",
+"county": "Dane",
+"state": "WI"
+},
+{
+"id": "WI0079",
+"name": "Delafield Public Library",
+"city": "Delafield",
+"county": "Waukesha",
+"state": "WI"
+},
+{
+"id": "WI0380",
+"name": "Dodgeville Public Library",
+"city": "Dodgeville",
+"county": "Iowa",
+"state": "WI"
+},
+{
+"id": "WI0312",
+"name": "Door County Library",
+"city": "Sturgeon Bay",
+"county": "Door",
+"state": "WI"
+},
+{
+"id": "WI0105",
+"name": "Dwight Foster Public Library",
+"city": "Fort Atkinson",
+"county": "Jefferson",
+"state": "WI"
+},
+{
+"id": "WI0420",
+"name": "E.D. Locke Public Library",
+"city": "Mcfarland",
+"county": "Dane",
+"state": "WI"
+},
+{
+"id": "WI0190",
+"name": "Elisha D. Smith Public Library",
+"city": "Menasha",
+"county": "Winnebago",
+"state": "WI"
+},
+{
+"id": "WI0184",
+"name": "Everett Roehl Marshfield Public Library",
+"city": "Marshfield",
+"county": "Wood",
+"state": "WI"
+},
+{
+"id": "WI0424",
+"name": "Fitchburg Public Library",
+"city": "Fitchburg",
+"county": "Dane",
+"state": "WI"
+},
+{
+"id": "WI0103",
+"name": "Fond Du Lac Public Library",
+"city": "Fond Du Lac",
+"county": "Fond Du Lac",
+"state": "WI"
+},
+{
+"id": "WI0188",
+"name": "Frances L. Simek Memorial Library Medford",
+"city": "Medford",
+"county": "Taylor",
+"state": "WI"
+},
+{
+"id": "WI0193",
+"name": "Frank L. Weyenberg Library",
+"city": "Mequon",
+"county": "Ozaukee",
+"state": "WI"
+},
+{
+"id": "WI0107",
+"name": "Franklin Public Library",
+"city": "Franklin",
+"county": "Milwaukee",
+"state": "WI"
+},
+{
+"id": "WI0113",
+"name": "Germantown Community Library",
+"city": "Germantown",
+"county": "Washington",
+"state": "WI"
+},
+{
+"id": "WI0326",
+"name": "Graham Public Library",
+"city": "Union Grove",
+"county": "Racine",
+"state": "WI"
+},
+{
+"id": "WI0123",
+"name": "Greendale Public Library",
+"city": "Greendale",
+"county": "Milwaukee",
+"state": "WI"
+},
+{
+"id": "WI0124",
+"name": "Greenfield Public Library",
+"city": "Greenfield",
+"county": "Milwaukee",
+"state": "WI"
+},
+{
+"id": "WI0130",
+"name": "Hartland Public Library",
+"city": "Hartland",
+"county": "Waukesha",
+"state": "WI"
+},
+{
+"id": "WI0185",
+"name": "Hatch Public Library",
+"city": "Mauston",
+"county": "Juneau",
+"state": "WI"
+},
+{
+"id": "WI0142",
+"name": "Hedberg Public Library",
+"city": "Janesville",
+"county": "Rock",
+"state": "WI"
+},
+{
+"id": "WI0136",
+"name": "Hortonville Public Library",
+"city": "Hortonville",
+"county": "Outagamie",
+"state": "WI"
+},
+{
+"id": "WI0137",
+"name": "Hudson Area Joint Library",
+"city": "Hudson",
+"county": "St. Croix",
+"state": "WI"
+},
+{
+"id": "WI0352",
+"name": "Irvin L. Young Memorial Library",
+"city": "Whitewater",
+"county": "Jefferson",
+"state": "WI"
+},
+{
+"id": "WI0129",
+"name": "Jack Russell Memorial Library",
+"city": "Hartford",
+"county": "Washington",
+"state": "WI"
+},
+{
+"id": "WI0143",
+"name": "Jefferson Public Library",
+"city": "Jefferson",
+"county": "Jefferson",
+"state": "WI"
+},
+{
+"id": "WI0146",
+"name": "Kaukauna Public Library",
+"city": "Kaukauna",
+"county": "Outagamie",
+"state": "WI"
+},
+{
+"id": "WI0148",
+"name": "Kenosha Public Library",
+"city": "Kenosha",
+"county": "Kenosha",
+"state": "WI"
+},
+{
+"id": "WI0151",
+"name": "Kewaunee Public Library",
+"city": "Kewaunee",
+"county": "Kewaunee",
+"state": "WI"
+},
+{
+"id": "WI0152",
+"name": "Kiel Public Library",
+"city": "Kiel",
+"county": "Manitowoc",
+"state": "WI"
+},
+{
+"id": "WI0153",
+"name": "Kimberly Public Library",
+"city": "Kimberly",
+"county": "Outagamie",
+"state": "WI"
+},
+{
+"id": "WI0163",
+"name": "L.D. Fargo Public Library",
+"city": "Lake Mills",
+"county": "Jefferson",
+"state": "WI"
+},
+{
+"id": "WI0090",
+"name": "L.E. Phillips Memorial Public Library",
+"city": "Eau Claire",
+"county": "Eau Claire",
+"state": "WI"
+},
+{
+"id": "WI0390",
+"name": "La Crosse County Library",
+"city": "Holmen",
+"county": "La Crosse",
+"state": "WI"
+},
+{
+"id": "WI0159",
+"name": "La Crosse Public Library",
+"city": "La Crosse",
+"county": "La Crosse",
+"state": "WI"
+},
+{
+"id": "WI0162",
+"name": "Lake Geneva Public Library",
+"city": "Lake Geneva",
+"county": "Walworth",
+"state": "WI"
+},
+{
+"id": "WI0325",
+"name": "Lester Public Library",
+"city": "Two Rivers",
+"county": "Manitowoc",
+"state": "WI"
+},
+{
+"id": "WI9026",
+"name": "Little Chute Public Library",
+"city": "Little Chute",
+"county": "Outagamie",
+"state": "WI"
+}
+]

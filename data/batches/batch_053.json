@@ -1,0 +1,352 @@
+[
+{
+"id": "OH0155",
+"name": "Napoleon Public Library",
+"city": "Napoleon",
+"county": "Henry",
+"state": "OH"
+},
+{
+"id": "OH0168",
+"name": "North Canton Public Library",
+"city": "North Canton",
+"county": "Stark",
+"state": "OH"
+},
+{
+"id": "OH0169",
+"name": "Norwalk Public Library",
+"city": "Norwalk",
+"county": "Huron",
+"state": "OH"
+},
+{
+"id": "OH0173",
+"name": "Oberlin Public Library",
+"city": "Oberlin",
+"county": "Lorain",
+"state": "OH"
+},
+{
+"id": "OH0174",
+"name": "Orrville Public Library",
+"city": "Orrville",
+"county": "Wayne",
+"state": "OH"
+},
+{
+"id": "OH0178",
+"name": "Pataskala Public Library",
+"city": "Pataskala",
+"county": "Licking",
+"state": "OH"
+},
+{
+"id": "OH0179",
+"name": "Paulding County Carnegie Library",
+"city": "Paulding",
+"county": "Paulding",
+"state": "OH"
+},
+{
+"id": "OH0158",
+"name": "Perry County District Library",
+"city": "New Lexington",
+"county": "Perry",
+"state": "OH"
+},
+{
+"id": "OH0050",
+"name": "Pickaway Cnty District Public Library",
+"city": "Circleville",
+"county": "Pickaway",
+"state": "OH"
+},
+{
+"id": "OH0184",
+"name": "Pickerington Public Library",
+"city": "Pickerington",
+"county": "Fairfield",
+"state": "OH"
+},
+{
+"id": "OH0185",
+"name": "Piqua Public Library",
+"city": "Piqua",
+"county": "Miami",
+"state": "OH"
+},
+{
+"id": "OH0186",
+"name": "Plain City Public Library",
+"city": "Plain City",
+"county": "Madison",
+"state": "OH"
+},
+{
+"id": "OH0089",
+"name": "Portage County District Library",
+"city": "Garrettsville",
+"county": "Portage",
+"state": "OH"
+},
+{
+"id": "OH0238",
+"name": "Porter Public Library",
+"city": "Westlake",
+"county": "Cuyahoga",
+"state": "OH"
+},
+{
+"id": "OH0189",
+"name": "Portsmouth Public Library",
+"city": "Portsmouth",
+"county": "Scioto",
+"state": "OH"
+},
+{
+"id": "OH0075",
+"name": "Preble County District Library",
+"city": "Eaton",
+"county": "Preble",
+"state": "OH"
+},
+{
+"id": "OH0035",
+"name": "Puskarich Public Library",
+"city": "Cadiz",
+"county": "Harrison",
+"state": "OH"
+},
+{
+"id": "OH0176",
+"name": "Putnam County District Library",
+"city": "Ottawa",
+"county": "Putnam",
+"state": "OH"
+},
+{
+"id": "OH0190",
+"name": "Reed Memorial Library",
+"city": "Ravenna",
+"county": "Portage",
+"state": "OH"
+},
+{
+"id": "OH0222",
+"name": "Ritter Public Library",
+"city": "Vermilion",
+"county": "Erie",
+"state": "OH"
+},
+{
+"id": "OH0195",
+"name": "Rocky River Public Library",
+"city": "Rocky River",
+"county": "Cuyahoga",
+"state": "OH"
+},
+{
+"id": "OH0005",
+"name": "Rodman Public Library",
+"city": "Alliance",
+"county": "Stark",
+"state": "OH"
+},
+{
+"id": "OH0196",
+"name": "Rossford Public Library",
+"city": "Rossford",
+"county": "Wood",
+"state": "OH"
+},
+{
+"id": "OH0198",
+"name": "Salem Public Library",
+"city": "Salem",
+"county": "Columbiana",
+"state": "OH"
+},
+{
+"id": "OH0150",
+"name": "Salem Township Public Library",
+"city": "Morrow",
+"county": "Warren",
+"state": "OH"
+},
+{
+"id": "OH0199",
+"name": "Sandusky Library",
+"city": "Sandusky",
+"county": "Erie",
+"state": "OH"
+},
+{
+"id": "OH0047",
+"name": "Selover Public Library",
+"city": "Chesterville",
+"county": "Morrow",
+"state": "OH"
+},
+{
+"id": "OH0200",
+"name": "Shaker Heights Public Library",
+"city": "Shaker Heights",
+"county": "Cuyahoga",
+"state": "OH"
+},
+{
+"id": "OH0203",
+"name": "Shelby County Libraries - Amos Memorial",
+"city": "Sidney",
+"county": "Shelby",
+"state": "OH"
+},
+{
+"id": "OH0099",
+"name": "Southwest Public Libraries",
+"city": "Grove City",
+"county": "Franklin",
+"state": "OH"
+},
+{
+"id": "OH0205",
+"name": "St. Clairsville Public Library",
+"city": "St. Clairsville",
+"county": "Belmont",
+"state": "OH"
+},
+{
+"id": "OH0206",
+"name": "St. Marys Community Public Library",
+"city": "St. Marys",
+"county": "Auglaize",
+"state": "OH"
+},
+{
+"id": "OH0039",
+"name": "Stark County District Library",
+"city": "Canton",
+"county": "Stark",
+"state": "OH"
+},
+{
+"id": "OH0208",
+"name": "Steubenville & Jefferson County, Pl Of",
+"city": "Steubenville",
+"county": "Jefferson",
+"state": "OH"
+},
+{
+"id": "OH0209",
+"name": "Stow-Munroe Falls Public Library",
+"city": "Stow",
+"county": "Summit",
+"state": "OH"
+},
+{
+"id": "OH0213",
+"name": "Tiffin-Seneca Public Library",
+"city": "Tiffin",
+"county": "Seneca",
+"state": "OH"
+},
+{
+"id": "OH0214",
+"name": "Tipp City Public Library",
+"city": "Tipp City",
+"county": "Miami",
+"state": "OH"
+},
+{
+"id": "OH0215",
+"name": "Toledo-Lucas County Public Library",
+"city": "Toledo",
+"county": "Lucas",
+"state": "OH"
+},
+{
+"id": "OH0216",
+"name": "Troy-Miami County Public Library",
+"city": "Troy",
+"county": "Miami",
+"state": "OH"
+},
+{
+"id": "OH0161",
+"name": "Tuscarawas County Public Library",
+"city": "New Philadelphia",
+"county": "Tuscarawas",
+"state": "OH"
+},
+{
+"id": "OH0217",
+"name": "Twinsburg Public Library",
+"city": "Twinsburg",
+"county": "Summit",
+"state": "OH"
+},
+{
+"id": "OH0192",
+"name": "Union Township Public Library",
+"city": "Ripley",
+"county": "Brown",
+"state": "OH"
+},
+{
+"id": "OH0218",
+"name": "Upper Arlington Public Library",
+"city": "Upper Arlington",
+"county": "Franklin",
+"state": "OH"
+},
+{
+"id": "OH0219",
+"name": "Upper Sandusky Community Library",
+"city": "Upper Sandusky",
+"county": "Wyandot",
+"state": "OH"
+},
+{
+"id": "OH0226",
+"name": "Warren-Trumbull County Public Library",
+"city": "Warren",
+"county": "Trumbull",
+"state": "OH"
+},
+{
+"id": "OH0131",
+"name": "Washington County Public Library",
+"city": "Marietta",
+"county": "Washington",
+"state": "OH"
+},
+{
+"id": "OH0045",
+"name": "Washington-Centerville Public Library",
+"city": "Centerville",
+"county": "Montgomery",
+"state": "OH"
+},
+{
+"id": "OH0228",
+"name": "Wauseon Public Library",
+"city": "Wauseon",
+"county": "Fulton",
+"state": "OH"
+},
+{
+"id": "OH0183",
+"name": "Way Public Library",
+"city": "Perrysburg",
+"county": "Wood",
+"state": "OH"
+},
+{
+"id": "OH0245",
+"name": "Wayne County Public Library",
+"city": "Wooster",
+"county": "Wayne",
+"state": "OH"
+}
+]

@@ -1,0 +1,352 @@
+[
+{
+"id": "CT0154",
+"name": "Stratford Library Association",
+"city": "Stratford",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0126",
+"name": "Terryville Public Library",
+"city": "Terryville",
+"county": "Litchfield",
+"state": "CT"
+},
+{
+"id": "CT0158",
+"name": "Tolland Public Library",
+"city": "Tolland",
+"county": "Tolland",
+"state": "CT"
+},
+{
+"id": "CT0159",
+"name": "Torrington Library",
+"city": "Torrington",
+"county": "Litchfield",
+"state": "CT"
+},
+{
+"id": "CT0160",
+"name": "Trumbull Library",
+"city": "Trumbull",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0164",
+"name": "Wallingford Public Library",
+"city": "Wallingford",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0168",
+"name": "Waterford Public Library",
+"city": "Waterford",
+"county": "New London",
+"state": "CT"
+},
+{
+"id": "CT0169",
+"name": "Watertown Library Association",
+"city": "Watertown",
+"county": "Litchfield",
+"state": "CT"
+},
+{
+"id": "CT0059",
+"name": "Welles-Turner Memorial Library",
+"city": "Glastonbury",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0171",
+"name": "West Hartford Public Library",
+"city": "West Hartford",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0172",
+"name": "West Haven Public Library",
+"city": "West Haven",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0173",
+"name": "Weston Public Library",
+"city": "Weston",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0174",
+"name": "Westport Library",
+"city": "Westport",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0175",
+"name": "Wethersfield Public Library",
+"city": "Wethersfield",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0180",
+"name": "Willimantic Public Library",
+"city": "Willimantic",
+"county": "Windham",
+"state": "CT"
+},
+{
+"id": "CT0015",
+"name": "Willoughby Wallace Memorial Library",
+"city": "Stony Creek",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0177",
+"name": "Wilton Library Association",
+"city": "Wilton",
+"county": "Fairfield",
+"state": "CT"
+},
+{
+"id": "CT0181",
+"name": "Windham Free Library",
+"city": "Windham",
+"county": "Windham",
+"state": "CT"
+},
+{
+"id": "CT0183",
+"name": "Windsor Locks Public Library",
+"city": "Windsor Locks",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0182",
+"name": "Windsor Public Library",
+"city": "Windsor",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "CT0184",
+"name": "Wolcott Public Library",
+"city": "Wolcott",
+"county": "New Haven",
+"state": "CT"
+},
+{
+"id": "CT0199",
+"name": "Wood Memorial Library And Museum",
+"city": "South Windsor",
+"county": "Hartford",
+"state": "CT"
+},
+{
+"id": "DC0001",
+"name": "District Of Columbia Public Library",
+"city": "Washington",
+"county": "Dist Of Columbia",
+"state": "DC"
+},
+{
+"id": "DE0026",
+"name": "Corbit-Calloway Memorial Library",
+"city": "Odessa",
+"county": "New Castle",
+"state": "DE"
+},
+{
+"id": "DE0046",
+"name": "Department Of Community Services",
+"city": "New Castle",
+"county": "New Castle",
+"state": "DE"
+},
+{
+"id": "DE0029",
+"name": "Dover Public Library",
+"city": "Dover",
+"county": "Kent",
+"state": "DE"
+},
+{
+"id": "DE0003",
+"name": "Georgetown Public Library",
+"city": "Georgetown",
+"county": "Sussex",
+"state": "DE"
+},
+{
+"id": "DE0005",
+"name": "Harrington Public Library",
+"city": "Harrington",
+"county": "Kent",
+"state": "DE"
+},
+{
+"id": "DE0032",
+"name": "Kent County Public Library",
+"city": "Dover",
+"county": "Kent",
+"state": "DE"
+},
+{
+"id": "DE0009",
+"name": "Laurel Public Library",
+"city": "Laurel",
+"county": "Sussex",
+"state": "DE"
+},
+{
+"id": "DE0010",
+"name": "Lewes Public Library",
+"city": "Lewes",
+"county": "Sussex",
+"state": "DE"
+},
+{
+"id": "DE0011",
+"name": "Milford Public Library",
+"city": "Milford",
+"county": "Sussex",
+"state": "DE"
+},
+{
+"id": "DE0013",
+"name": "Millsboro Public Library",
+"city": "Millsboro",
+"county": "Sussex",
+"state": "DE"
+},
+{
+"id": "DE0015",
+"name": "New Castle Public Library",
+"city": "New Castle",
+"county": "New Castle",
+"state": "DE"
+},
+{
+"id": "DE0017",
+"name": "Rehoboth Beach Public Library",
+"city": "Rehoboth Beach",
+"county": "Sussex",
+"state": "DE"
+},
+{
+"id": "DE0018",
+"name": "Seaford District Library",
+"city": "Seaford",
+"county": "Sussex",
+"state": "DE"
+},
+{
+"id": "DE0020",
+"name": "Smyrna Public Library",
+"city": "Smyrna",
+"county": "Kent",
+"state": "DE"
+},
+{
+"id": "DE0030",
+"name": "Sussex County Dept. Of Libraries",
+"city": "Georgetown",
+"county": "Sussex",
+"state": "DE"
+},
+{
+"id": "DE0022",
+"name": "Wilmington Institute Library",
+"city": "Wilmington",
+"county": "New Castle",
+"state": "DE"
+},
+{
+"id": "FL0094",
+"name": "Altamonte Springs City Library",
+"city": "Altamonte Springs",
+"county": "Seminole",
+"state": "FL"
+},
+{
+"id": "FL0056",
+"name": "Boca Raton Public Library",
+"city": "Boca Raton",
+"county": "Palm Beach",
+"state": "FL"
+},
+{
+"id": "FL0247",
+"name": "Boynton Beach City Library",
+"city": "Boynton Beach",
+"county": "Palm Beach",
+"state": "FL"
+},
+{
+"id": "FL0011",
+"name": "Brevard County Library System",
+"city": "Cocoa",
+"county": "Brevard",
+"state": "FL"
+},
+{
+"id": "FL0022",
+"name": "Brockway Memorial Library",
+"city": "Miami Shores",
+"county": "Miami-Dade",
+"state": "FL"
+},
+{
+"id": "FL0012",
+"name": "Broward County Libraries Division",
+"city": "Fort Lauderdale",
+"county": "Broward",
+"state": "FL"
+},
+{
+"id": "FL0258",
+"name": "Charlotte County Public Library",
+"city": "Port Charlotte",
+"county": "Charlotte",
+"state": "FL"
+},
+{
+"id": "FL0018",
+"name": "Citrus County Library System",
+"city": "Beverly Hills",
+"county": "Citrus",
+"state": "FL"
+},
+{
+"id": "FL0019",
+"name": "Clay County Public Library System",
+"city": "Fleming Island",
+"county": "Clay",
+"state": "FL"
+},
+{
+"id": "FL0020",
+"name": "Collier County Public Library",
+"city": "Naples",
+"county": "Collier",
+"state": "FL"
+},
+{
+"id": "FL0021",
+"name": "Columbia County Public Library",
+"city": "Lake City",
+"county": "Columbia",
+"state": "FL"
+}
+]

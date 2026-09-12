@@ -1,0 +1,352 @@
+[
+{
+"id": "AZ0031",
+"name": "Chandler Public Library",
+"city": "Chandler",
+"county": "Maricopa",
+"state": "AZ"
+},
+{
+"id": "AZ0146",
+"name": "Chino Valley Public Library",
+"city": "Chino Valley",
+"county": "Yavapai",
+"state": "AZ"
+},
+{
+"id": "AZ0009",
+"name": "Cochise County Library District",
+"city": "Bisbee",
+"county": "Cochise",
+"state": "AZ"
+},
+{
+"id": "AZ0133",
+"name": "Coolidge Public Library",
+"city": "Coolidge",
+"county": "Pinal",
+"state": "AZ"
+},
+{
+"id": "AZ0150",
+"name": "Cottonwood Public Library",
+"city": "Cottonwood",
+"county": "Yavapai",
+"state": "AZ"
+},
+{
+"id": "AZ0112",
+"name": "Douglas Public Library",
+"city": "Douglas",
+"county": "Cochise",
+"state": "AZ"
+},
+{
+"id": "AZ0179",
+"name": "Dr. Fernando Escalante Tribal Library",
+"city": "Tucson",
+"county": "Pima",
+"state": "AZ"
+},
+{
+"id": "AZ0134",
+"name": "Eloy Santa Cruz Library",
+"city": "Eloy",
+"county": "Pinal",
+"state": "AZ"
+},
+{
+"id": "AZ0169",
+"name": "Flagstaff City-Coconino County Public Library",
+"city": "Flagstaff",
+"county": "Coconino",
+"state": "AZ"
+},
+{
+"id": "AZ0135",
+"name": "Florence Community Library",
+"city": "Florence",
+"county": "Pinal",
+"state": "AZ"
+},
+{
+"id": "AZ0102",
+"name": "Gila County Library District",
+"city": "Globe",
+"county": "Gila",
+"state": "AZ"
+},
+{
+"id": "AZ0033",
+"name": "Glendale Public Library",
+"city": "Glendale",
+"county": "Maricopa",
+"state": "AZ"
+},
+{
+"id": "AZ0181",
+"name": "Hopi Public Library",
+"city": "Kykotsmovi",
+"county": "Navajo",
+"state": "AZ"
+},
+{
+"id": "AZ0176",
+"name": "Ira H. Hayes Memorial Library",
+"city": "Sacaton",
+"county": "Pinal",
+"state": "AZ"
+},
+{
+"id": "AZ0177",
+"name": "La Paz County Services",
+"city": "Salome",
+"county": "La Paz",
+"state": "AZ"
+},
+{
+"id": "AZ0028",
+"name": "Maricopa County Library District Office",
+"city": "Sun Lakes",
+"county": "Maricopa",
+"state": "AZ"
+},
+{
+"id": "AZ0138",
+"name": "Maricopa Library & Cultural Center",
+"city": "Maricopa",
+"county": "Pinal",
+"state": "AZ"
+},
+{
+"id": "AZ0034",
+"name": "Mesa Public Library",
+"city": "Mesa",
+"county": "Maricopa",
+"state": "AZ"
+},
+{
+"id": "AZ0042",
+"name": "Mohave County Library District",
+"city": "Kingman",
+"county": "Mohave",
+"state": "AZ"
+},
+{
+"id": "AZ0107",
+"name": "Navajo County Library District",
+"city": "Holbrook",
+"county": "Navajo",
+"state": "AZ"
+},
+{
+"id": "AZ0100",
+"name": "Navajo Nation Library",
+"city": "Window Rock",
+"county": "Apache",
+"state": "AZ"
+},
+{
+"id": "AZ0065",
+"name": "Nogales/Santa Cruz County Public Library",
+"city": "Nogales",
+"county": "Santa Cruz",
+"state": "AZ"
+},
+{
+"id": "AZ0127",
+"name": "Payson Public Library",
+"city": "Payson",
+"county": "Gila",
+"state": "AZ"
+},
+{
+"id": "AZ0088",
+"name": "Peoria Public Library System",
+"city": "Peoria",
+"county": "Maricopa",
+"state": "AZ"
+},
+{
+"id": "AZ0035",
+"name": "Phoenix Public Library",
+"city": "Phoenix",
+"county": "Maricopa",
+"state": "AZ"
+},
+{
+"id": "AZ0064",
+"name": "Pima County Public Library",
+"city": "Tucson",
+"county": "Pima",
+"state": "AZ"
+},
+{
+"id": "AZ0050",
+"name": "Pinal County Library District",
+"city": "Florence",
+"county": "Pinal",
+"state": "AZ"
+},
+{
+"id": "AZ0158",
+"name": "Prescott Public Library",
+"city": "Prescott",
+"county": "Yavapai",
+"state": "AZ"
+},
+{
+"id": "AZ0154",
+"name": "Prescott Valley Public Library",
+"city": "Prescott Valley",
+"county": "Yavapai",
+"state": "AZ"
+},
+{
+"id": "AZ0026",
+"name": "Safford City-Graham County Library",
+"city": "Safford",
+"county": "Graham",
+"state": "AZ"
+},
+{
+"id": "AZ0129",
+"name": "San Carlos Public Library",
+"city": "San Carlos",
+"county": "Gila",
+"state": "AZ"
+},
+{
+"id": "AZ0036",
+"name": "Scottsdale Public Library",
+"city": "Scottsdale",
+"county": "Maricopa",
+"state": "AZ"
+},
+{
+"id": "AZ0162",
+"name": "Show Low Public Library",
+"city": "Show Low",
+"county": "Navajo",
+"state": "AZ"
+},
+{
+"id": "AZ0114",
+"name": "Sierra Vista Public Library",
+"city": "Sierra Vista",
+"county": "Cochise",
+"state": "AZ"
+},
+{
+"id": "AZ0163",
+"name": "Snowflake-Taylor Public Library",
+"city": "Snowflake",
+"county": "Navajo",
+"state": "AZ"
+},
+{
+"id": "AZ0038",
+"name": "Tempe Public Library",
+"city": "Tempe",
+"county": "Maricopa",
+"state": "AZ"
+},
+{
+"id": "AZ0048",
+"name": "Whiteriver Public Library",
+"city": "Whiteriver",
+"county": "Navajo",
+"state": "AZ"
+},
+{
+"id": "AZ0067",
+"name": "Yavapai County Free Library District",
+"city": "Prescott",
+"county": "Yavapai",
+"state": "AZ"
+},
+{
+"id": "AZ0082",
+"name": "Yuma County Library District",
+"city": "Yuma",
+"county": "Yuma",
+"state": "AZ"
+},
+{
+"id": "CA0165",
+"name": "A. K. Smiley Public Library",
+"city": "Redlands",
+"county": "San Bernardino",
+"state": "CA"
+},
+{
+"id": "CA0001",
+"name": "Alameda County Library",
+"city": "Fremont",
+"county": "Alameda",
+"state": "CA"
+},
+{
+"id": "CA0002",
+"name": "Alameda Free Library",
+"city": "Alameda",
+"county": "Alameda",
+"state": "CA"
+},
+{
+"id": "CA0003",
+"name": "Alhambra Civic Center Library",
+"city": "Alhambra",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0005",
+"name": "Altadena Library District",
+"city": "Altadena",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0006",
+"name": "Amador County Library",
+"city": "Jackson",
+"county": "Amador",
+"state": "CA"
+},
+{
+"id": "CA0007",
+"name": "Anaheim Public Library",
+"city": "Anaheim",
+"county": "Orange",
+"state": "CA"
+},
+{
+"id": "CA0008",
+"name": "Arcadia Public Library",
+"city": "Arcadia",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0010",
+"name": "Azusa City Library",
+"city": "Azusa",
+"county": "Los Angeles",
+"state": "CA"
+},
+{
+"id": "CA0167",
+"name": "Banning Library District",
+"city": "Banning",
+"county": "Riverside",
+"state": "CA"
+},
+{
+"id": "CA0168",
+"name": "Beaumont Library District",
+"city": "Beaumont",
+"county": "Riverside",
+"state": "CA"
+}
+]
